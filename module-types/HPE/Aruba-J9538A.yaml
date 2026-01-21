@@ -1,0 +1,31 @@
+---
+manufacturer: HPE
+model: Aruba J9538A
+part_number: J9538A
+comments: HP J9538A 8p 10G-GbE SFP+ v2 zl Module
+interfaces: []
+module-bays:
+  -
+    name: '{module}1'
+    position: '1'
+  -
+    name: '{module}2'
+    position: '2'
+  -
+    name: '{module}3'
+    position: '3'
+  -
+    name: '{module}4'
+    position: '4'
+  -
+    name: '{module}5'
+    position: '5'
+  -
+    name: '{module}6'
+    position: '6'
+  -
+    name: '{module}7'
+    position: '7'
+  -
+    name: '{module}8'
+    position: '8'

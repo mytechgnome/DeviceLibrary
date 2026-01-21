@@ -1,0 +1,178 @@
+---
+manufacturer: Ciena
+model: 5171 Router
+slug: ciena-5171-router
+part_number: 170-5171-920
+u_height: 2
+weight: 8.6
+weight_unit: kg
+airflow: front-to-rear
+is_full_depth: false
+front_image: true
+console-ports:
+  -
+    name: CONSOLE
+    type: usb-c
+  -
+    name: USB
+    type: usb-c
+  -
+    name: 1PPS / 10MHZ
+    description: 1PPS / G.703 ToD port in or out (software selectable). SMB connector
+    type: other
+  -
+    name: ANT
+    type: other
+    description: Mini-COAX SMB GPS antenna port
+  -
+    name: SYNC
+    type: rj-45
+    description: RJ45 interface G.703 1PPS and ToD/10MHz input/output (software selectable)
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PS A
+    position: A
+    description: |
+      170-0310-900 5171, DC PLUGGABLE POWER SUPPLY, -48V
+      170-0311-900 5171, AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: PS B
+    position: B
+    description: |
+      170-0310-900 5171, DC PLUGGABLE POWER SUPPLY, -48V
+      170-0311-900 5171, AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: Module 1
+    position: '1'
+    description: |
+      170-0460-900 5171-ROUTER, MODULE, (1)200/100G/40G QSFPDD, (1)100/40G QSFP-DD 2xQSFP DD
+  -
+    name: Module 2
+    position: '2'
+    description: |
+      170-0460-900 5171-ROUTER, MODULE, (1)200/100G/40G QSFPDD, (1)100/40G QSFP-DD 2xQSFP DD
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'
+  -
+    name: '13'
+    position: '13'
+  -
+    name: '14'
+    position: '14'
+  -
+    name: '15'
+    position: '15'
+  -
+    name: '16'
+    position: '16'
+  -
+    name: '17'
+    position: '17'
+  -
+    name: '18'
+    position: '18'
+  -
+    name: '19'
+    position: '19'
+  -
+    name: '20'
+    position: '20'
+  -
+    name: '21'
+    position: '21'
+  -
+    name: '22'
+    position: '22'
+  -
+    name: '23'
+    position: '23'
+  -
+    name: '24'
+    position: '24'
+  -
+    name: '25'
+    position: '25'
+  -
+    name: '26'
+    position: '26'
+  -
+    name: '27'
+    position: '27'
+  -
+    name: '28'
+    position: '28'
+  -
+    name: '29'
+    position: '29'
+  -
+    name: '30'
+    position: '30'
+  -
+    name: '31'
+    position: '31'
+  -
+    name: '32'
+    position: '32'
+  -
+    name: '33'
+    position: '33'
+  -
+    name: '34'
+    position: '34'
+  -
+    name: '35'
+    position: '35'
+  -
+    name: '36'
+    position: '36'
+  -
+    name: '37'
+    position: '37'
+  -
+    name: '38'
+    position: '38'
+  -
+    name: '39'
+    position: '39'
+  -
+    name: '40'
+    position: '40'

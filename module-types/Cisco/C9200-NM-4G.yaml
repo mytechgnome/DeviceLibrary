@@ -1,0 +1,19 @@
+---
+manufacturer: Cisco
+model: C9200-NM-4G
+part_number: C9200-NM-4G
+comments: '[Cisco Catalyst 9200 Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html)'
+interfaces: []
+module-bays:
+  -
+    name: GigabitEthernet1/{module}/1
+    position: '1'
+  -
+    name: GigabitEthernet1/{module}/2
+    position: '2'
+  -
+    name: GigabitEthernet1/{module}/3
+    position: '3'
+  -
+    name: GigabitEthernet1/{module}/4
+    position: '4'

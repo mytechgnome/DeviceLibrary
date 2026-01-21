@@ -1,0 +1,207 @@
+---
+manufacturer: Nvidia
+model: QM9700
+slug: nvidia-qm9700
+u_height: 1
+is_full_depth: true
+airflow: rear-to-front
+weight: 14.8
+weight_unit: kg
+console-ports:
+  -
+    name: uart
+    type: rj-45
+module-bays:
+  -
+    name: PSU1
+    position: PSU1
+  -
+    name: PSU2
+    position: PSU2
+  -
+    name: P0.0
+    position: '0'
+  -
+    name: P0.1
+    position: '1'
+  -
+    name: P1.0
+    position: '0'
+  -
+    name: P1.1
+    position: '1'
+  -
+    name: P2.0
+    position: '0'
+  -
+    name: P2.1
+    position: '1'
+  -
+    name: P3.0
+    position: '0'
+  -
+    name: P3.1
+    position: '1'
+  -
+    name: P4.0
+    position: '0'
+  -
+    name: P4.1
+    position: '1'
+  -
+    name: P5.0
+    position: '0'
+  -
+    name: P5.1
+    position: '1'
+  -
+    name: P6.0
+    position: '0'
+  -
+    name: P6.1
+    position: '1'
+  -
+    name: P7.0
+    position: '0'
+  -
+    name: P7.1
+    position: '1'
+  -
+    name: P8.0
+    position: '0'
+  -
+    name: P8.1
+    position: '1'
+  -
+    name: P9.0
+    position: '0'
+  -
+    name: P9.1
+    position: '1'
+  -
+    name: P10.0
+    position: '0'
+  -
+    name: P10.1
+    position: '1'
+  -
+    name: P11.0
+    position: '0'
+  -
+    name: P11.1
+    position: '1'
+  -
+    name: P12.0
+    position: '0'
+  -
+    name: P12.1
+    position: '1'
+  -
+    name: P13.0
+    position: '0'
+  -
+    name: P13.1
+    position: '1'
+  -
+    name: P14.0
+    position: '0'
+  -
+    name: P14.1
+    position: '1'
+  -
+    name: P15.0
+    position: '0'
+  -
+    name: P15.1
+    position: '1'
+  -
+    name: P16.0
+    position: '0'
+  -
+    name: P16.1
+    position: '1'
+  -
+    name: P17.0
+    position: '0'
+  -
+    name: P17.1
+    position: '1'
+  -
+    name: P18.0
+    position: '0'
+  -
+    name: P18.1
+    position: '1'
+  -
+    name: P19.0
+    position: '0'
+  -
+    name: P19.1
+    position: '1'
+  -
+    name: P20.0
+    position: '0'
+  -
+    name: P20.1
+    position: '1'
+  -
+    name: P21.0
+    position: '0'
+  -
+    name: P21.1
+    position: '1'
+  -
+    name: P22.0
+    position: '0'
+  -
+    name: P23.1
+    position: '1'
+  -
+    name: P24.0
+    position: '0'
+  -
+    name: P24.1
+    position: '1'
+  -
+    name: P25.0
+    position: '0'
+  -
+    name: P25.1
+    position: '1'
+  -
+    name: P26.0
+    position: '0'
+  -
+    name: P26.1
+    position: '1'
+  -
+    name: P27.0
+    position: '0'
+  -
+    name: P27.1
+    position: '1'
+  -
+    name: P28.0
+    position: '0'
+  -
+    name: P28.1
+    position: '1'
+  -
+    name: P29.0
+    position: '0'
+  -
+    name: P29.1
+    position: '1'
+  -
+    name: P30.0
+    position: '0'
+  -
+    name: P30.1
+    position: '1'
+  -
+    name: P31.0
+    position: '0'
+  -
+    name: P31.1
+    position: '1'
+interfaces: []

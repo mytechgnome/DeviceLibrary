@@ -1,0 +1,18 @@
+---
+manufacturer: Juniper
+model: RE-QFX10000
+part_number: 750-068820
+console-ports:
+  -
+    name: '{module}'
+    type: rj-45
+interfaces:
+  -
+    name: '{module}-em0'
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+module-bays:
+  -
+    name: '{module}-em1'
+    position: '1'

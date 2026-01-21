@@ -1,0 +1,119 @@
+---
+manufacturer: Mellanox
+model: SN3700C
+slug: mellanox-sn3700c
+u_height: 1
+is_full_depth: true
+console-ports:
+  -
+    name: con0
+    type: rj-45
+power-ports:
+  -
+    name: psu0
+    type: iec-60320-c14
+  -
+    name: psu1
+    type: iec-60320-c14
+interfaces:
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: swp1
+    position: '1'
+  -
+    name: swp2
+    position: '2'
+  -
+    name: swp3
+    position: '3'
+  -
+    name: swp4
+    position: '4'
+  -
+    name: swp5
+    position: '5'
+  -
+    name: swp6
+    position: '6'
+  -
+    name: swp7
+    position: '7'
+  -
+    name: swp8
+    position: '8'
+  -
+    name: swp9
+    position: '9'
+  -
+    name: swp10
+    position: '10'
+  -
+    name: swp11
+    position: '11'
+  -
+    name: swp12
+    position: '12'
+  -
+    name: swp13
+    position: '13'
+  -
+    name: swp14
+    position: '14'
+  -
+    name: swp15
+    position: '15'
+  -
+    name: swp16
+    position: '16'
+  -
+    name: swp17
+    position: '17'
+  -
+    name: swp18
+    position: '18'
+  -
+    name: swp19
+    position: '19'
+  -
+    name: swp20
+    position: '20'
+  -
+    name: swp21
+    position: '21'
+  -
+    name: swp22
+    position: '22'
+  -
+    name: swp23
+    position: '23'
+  -
+    name: swp24
+    position: '24'
+  -
+    name: swp25
+    position: '25'
+  -
+    name: swp26
+    position: '26'
+  -
+    name: swp27
+    position: '27'
+  -
+    name: swp28
+    position: '28'
+  -
+    name: swp29
+    position: '29'
+  -
+    name: swp30
+    position: '30'
+  -
+    name: swp31
+    position: '31'
+  -
+    name: swp32
+    position: '32'

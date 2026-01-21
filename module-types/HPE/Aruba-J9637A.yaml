@@ -1,0 +1,79 @@
+---
+manufacturer: HPE
+model: Aruba J9637A
+part_number: J9637A
+comments: HP J9637A 12-port Gig-T PoE+/12-port SFP v2 zl Module
+interfaces:
+  -
+    name: '{module}1'
+    type: 1000base-t
+  -
+    name: '{module}2'
+    type: 1000base-t
+  -
+    name: '{module}3'
+    type: 1000base-t
+  -
+    name: '{module}4'
+    type: 1000base-t
+  -
+    name: '{module}5'
+    type: 1000base-t
+  -
+    name: '{module}6'
+    type: 1000base-t
+  -
+    name: '{module}7'
+    type: 1000base-t
+  -
+    name: '{module}8'
+    type: 1000base-t
+  -
+    name: '{module}9'
+    type: 1000base-t
+  -
+    name: '{module}10'
+    type: 1000base-t
+  -
+    name: '{module}11'
+    type: 1000base-t
+  -
+    name: '{module}12'
+    type: 1000base-t
+module-bays:
+  -
+    name: '{module}13'
+    position: '13'
+  -
+    name: '{module}14'
+    position: '14'
+  -
+    name: '{module}15'
+    position: '15'
+  -
+    name: '{module}16'
+    position: '16'
+  -
+    name: '{module}17'
+    position: '17'
+  -
+    name: '{module}18'
+    position: '18'
+  -
+    name: '{module}19'
+    position: '19'
+  -
+    name: '{module}20'
+    position: '20'
+  -
+    name: '{module}21'
+    position: '21'
+  -
+    name: '{module}22'
+    position: '22'
+  -
+    name: '{module}23'
+    position: '23'
+  -
+    name: '{module}24'
+    position: '24'

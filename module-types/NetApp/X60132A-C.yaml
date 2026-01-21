@@ -1,0 +1,15 @@
+---
+manufacturer: NetApp
+model: X60132A-C
+part_number: X60132A-C
+description: IO Module,4PT,10/25GbE
+interfaces: []
+module-bays:
+  -
+    name: e{module}a
+  -
+    name: e{module}b
+  -
+    name: e{module}c
+  -
+    name: e{module}d

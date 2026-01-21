@@ -1,0 +1,21 @@
+---
+manufacturer: Extreme Networks
+model: 5520-VIM-4YE-FabricEngine
+part_number: 5520-VIM-4YE
+comments: 4 x 10/25Gbase-X SFP28 ports (unpopulated)
+weight: 210
+weight_unit: g
+interfaces: []
+module-bays:
+  -
+    name: 2/1
+    position: '1'
+  -
+    name: 2/2
+    position: '2'
+  -
+    name: 2/3
+    position: '3'
+  -
+    name: 2/4
+    position: '4'

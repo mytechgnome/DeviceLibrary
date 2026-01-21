@@ -1,0 +1,18 @@
+---
+manufacturer: Meinberg
+model: IMS-CPU
+interfaces:
+  -
+    name: LAN0
+    type: 1000base-t
+console-ports:
+  -
+    name: Terminal
+    type: de-9
+  -
+    name: USB
+    type: usb-a
+module-bays:
+  -
+    name: LAN1
+    position: '1'

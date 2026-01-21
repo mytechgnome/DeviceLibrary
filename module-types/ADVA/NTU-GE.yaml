@@ -1,0 +1,18 @@
+---
+manufacturer: ADVA
+model: NTU-GE
+part_number: '1044441001'
+interfaces:
+  -
+    name: ACC-{module}/2
+    type: 1000base-t
+module-bays:
+  -
+    name: NET-{module}/1
+    position: '1'
+  -
+    name: NET-{module}/2
+    position: '2'
+  -
+    name: ACC-{module}/1
+    position: '1'

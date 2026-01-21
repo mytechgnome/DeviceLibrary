@@ -1,0 +1,13 @@
+---
+manufacturer: QNAP
+model: QXG-100G2SF-E810
+part_number: qxg-100g2sf-e810
+description: Dual-port 100 GbE PCIe 4.0 x16 network expansion card
+interfaces: []
+module-bays:
+  -
+    name: '{module}/Adapter 1'
+    position: '1'
+  -
+    name: '{module}/Adapter 2'
+    position: '2'

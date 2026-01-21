@@ -1,0 +1,170 @@
+---
+manufacturer: Alcatel-Lucent
+model: OS6900-X40
+slug: alcatel-lucent-os6900-x40
+part_number: 903168-90
+u_height: 1
+is_full_depth: true
+airflow: front-to-rear
+weight: 10.86
+weight_unit: kg
+console-ports:
+  -
+    name: Console
+    type: usb-a
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 450
+    allocated_draw: 242
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 450
+    allocated_draw: 242
+interfaces:
+  -
+    name: EMP-CHAS1
+    type: virtual
+    mgmt_only: true
+  -
+    name: EMP-VC
+    type: virtual
+    mgmt_only: true
+  -
+    name: EMP
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: Loopback0
+    type: virtual
+module-bays:
+  -
+    name: SLOT-2
+    label: Front
+    position: '2'
+  -
+    name: SLOT-3
+    label: Rear
+    position: '3'
+  -
+    name: 1/1/1
+    position: '1'
+  -
+    name: 1/1/2
+    position: '2'
+  -
+    name: 1/1/3
+    position: '3'
+  -
+    name: 1/1/4
+    position: '4'
+  -
+    name: 1/1/5
+    position: '5'
+  -
+    name: 1/1/6
+    position: '6'
+  -
+    name: 1/1/7
+    position: '7'
+  -
+    name: 1/1/8
+    position: '8'
+  -
+    name: 1/1/9
+    position: '9'
+  -
+    name: 1/1/10
+    position: '10'
+  -
+    name: 1/1/11
+    position: '11'
+  -
+    name: 1/1/12
+    position: '12'
+  -
+    name: 1/1/13
+    position: '13'
+  -
+    name: 1/1/14
+    position: '14'
+  -
+    name: 1/1/15
+    position: '15'
+  -
+    name: 1/1/16
+    position: '16'
+  -
+    name: 1/1/17
+    position: '17'
+  -
+    name: 1/1/18
+    position: '18'
+  -
+    name: 1/1/19
+    position: '19'
+  -
+    name: 1/1/20
+    position: '20'
+  -
+    name: 1/1/21
+    position: '21'
+  -
+    name: 1/1/22
+    position: '22'
+  -
+    name: 1/1/23
+    position: '23'
+  -
+    name: 1/1/24
+    position: '24'
+  -
+    name: 1/1/25
+    position: '25'
+  -
+    name: 1/1/26
+    position: '26'
+  -
+    name: 1/1/27
+    position: '27'
+  -
+    name: 1/1/28
+    position: '28'
+  -
+    name: 1/1/29
+    position: '29'
+  -
+    name: 1/1/30
+    position: '30'
+  -
+    name: 1/1/31
+    position: '31'
+  -
+    name: 1/1/32
+    position: '32'
+  -
+    name: 1/1/33
+    position: '33'
+  -
+    name: 1/1/34
+    position: '34'
+  -
+    name: 1/1/35
+    position: '35'
+  -
+    name: 1/1/36
+    position: '36'
+  -
+    name: 1/1/37
+    position: '37'
+  -
+    name: 1/1/38
+    position: '38'
+  -
+    name: 1/1/39
+    position: '39'
+  -
+    name: 1/1/40
+    position: '40'

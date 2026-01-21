@@ -1,0 +1,189 @@
+---
+manufacturer: Juniper
+model: EX4400-48F-DC
+part_number: EX4400-48F-DC
+slug: juniper-ex4400-48f-dc
+u_height: 1
+airflow: front-to-rear
+weight: 13.01
+weight_unit: lb
+is_full_depth: true
+comments: '[Juniper EX4400 Hardware Guide](https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html)'
+interfaces:
+  -
+    name: me0
+    type: 1000base-t
+    mgmt_only: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+  -
+    name: Front Console
+    type: usb-c
+module-bays:
+  -
+    name: Fan Module 0
+    position: '0'
+  -
+    name: Fan Module 1
+    position: '1'
+  -
+    name: Extension module
+    position: '2'
+  -
+    name: PSU0
+    position: '0'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: ge-0/0/0
+    position: '0'
+  -
+    name: ge-0/0/1
+    position: '1'
+  -
+    name: ge-0/0/2
+    position: '2'
+  -
+    name: ge-0/0/3
+    position: '3'
+  -
+    name: ge-0/0/4
+    position: '4'
+  -
+    name: ge-0/0/5
+    position: '5'
+  -
+    name: ge-0/0/6
+    position: '6'
+  -
+    name: ge-0/0/7
+    position: '7'
+  -
+    name: ge-0/0/8
+    position: '8'
+  -
+    name: ge-0/0/9
+    position: '9'
+  -
+    name: ge-0/0/10
+    position: '10'
+  -
+    name: ge-0/0/11
+    position: '11'
+  -
+    name: ge-0/0/12
+    position: '12'
+  -
+    name: ge-0/0/13
+    position: '13'
+  -
+    name: ge-0/0/14
+    position: '14'
+  -
+    name: ge-0/0/15
+    position: '15'
+  -
+    name: ge-0/0/16
+    position: '16'
+  -
+    name: ge-0/0/17
+    position: '17'
+  -
+    name: ge-0/0/18
+    position: '18'
+  -
+    name: ge-0/0/19
+    position: '19'
+  -
+    name: ge-0/0/20
+    position: '20'
+  -
+    name: ge-0/0/21
+    position: '21'
+  -
+    name: ge-0/0/22
+    position: '22'
+  -
+    name: ge-0/0/23
+    position: '23'
+  -
+    name: ge-0/0/24
+    position: '24'
+  -
+    name: ge-0/0/25
+    position: '25'
+  -
+    name: ge-0/0/26
+    position: '26'
+  -
+    name: ge-0/0/27
+    position: '27'
+  -
+    name: ge-0/0/28
+    position: '28'
+  -
+    name: ge-0/0/29
+    position: '29'
+  -
+    name: ge-0/0/30
+    position: '30'
+  -
+    name: ge-0/0/31
+    position: '31'
+  -
+    name: ge-0/0/32
+    position: '32'
+  -
+    name: ge-0/0/33
+    position: '33'
+  -
+    name: ge-0/0/34
+    position: '34'
+  -
+    name: ge-0/0/35
+    position: '35'
+  -
+    name: xe-0/0/36
+    position: '36'
+  -
+    name: xe-0/0/37
+    position: '37'
+  -
+    name: xe-0/0/38
+    position: '38'
+  -
+    name: xe-0/0/39
+    position: '39'
+  -
+    name: xe-0/0/40
+    position: '40'
+  -
+    name: xe-0/0/41
+    position: '41'
+  -
+    name: xe-0/0/42
+    position: '42'
+  -
+    name: xe-0/0/43
+    position: '43'
+  -
+    name: xe-0/0/44
+    position: '44'
+  -
+    name: xe-0/0/45
+    position: '45'
+  -
+    name: xe-0/0/46
+    position: '46'
+  -
+    name: xe-0/0/47
+    position: '47'
+  -
+    name: et-0/1/0
+    position: '0'
+  -
+    name: et-0/1/1
+    position: '1'

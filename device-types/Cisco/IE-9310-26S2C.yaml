@@ -1,0 +1,116 @@
+---
+manufacturer: Cisco
+model: IE-9310-26S2C
+slug: cisco-ie-9310-26s2c
+part_number: IE-9310-26S2C
+u_height: 1
+is_full_depth: false
+airflow: passive
+is_powered: true
+comments: '[Cisco Catalyst IE9300 Rugged Series Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie9300-rugged-series/catalyst-ie9300-rugged-series-ds.html)'
+description: Catalyst IE9300 w/ 24 Ports GE SFP Downlinks and 4 Ports GE SFP uplinks
+weight: 5.53
+weight_unit: kg
+console-ports:
+  -
+    name: con0
+    type: rj-45
+  -
+    name: usb0
+    type: usb-micro-b
+  -
+    name: ALARM
+    description: RJ45 Alarm port for 4 dry-contact alarm inputs and 1 dry-contact Form-C relay alarm output
+    type: rj-45
+interfaces: []
+module-bays:
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: PSU2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/1
+    position: '1'
+  -
+    name: GigabitEthernet1/0/2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/3
+    position: '3'
+  -
+    name: GigabitEthernet1/0/4
+    position: '4'
+  -
+    name: GigabitEthernet1/0/5
+    position: '5'
+  -
+    name: GigabitEthernet1/0/6
+    position: '6'
+  -
+    name: GigabitEthernet1/0/7
+    position: '7'
+  -
+    name: GigabitEthernet1/0/8
+    position: '8'
+  -
+    name: GigabitEthernet1/0/9
+    position: '9'
+  -
+    name: GigabitEthernet1/0/10
+    position: '10'
+  -
+    name: GigabitEthernet1/0/11
+    position: '11'
+  -
+    name: GigabitEthernet1/0/12
+    position: '12'
+  -
+    name: GigabitEthernet1/0/13
+    position: '13'
+  -
+    name: GigabitEthernet1/0/14
+    position: '14'
+  -
+    name: GigabitEthernet1/0/15
+    position: '15'
+  -
+    name: GigabitEthernet1/0/16
+    position: '16'
+  -
+    name: GigabitEthernet1/0/17
+    position: '17'
+  -
+    name: GigabitEthernet1/0/18
+    position: '18'
+  -
+    name: GigabitEthernet1/0/19
+    position: '19'
+  -
+    name: GigabitEthernet1/0/20
+    position: '20'
+  -
+    name: GigabitEthernet1/0/21
+    position: '21'
+  -
+    name: GigabitEthernet1/0/22
+    position: '22'
+  -
+    name: GigabitEthernet1/0/23
+    position: '23'
+  -
+    name: GigabitEthernet1/0/24
+    position: '24'
+  -
+    name: GigabitEthernet1/0/25
+    position: '25'
+  -
+    name: GigabitEthernet1/0/26
+    position: '26'
+  -
+    name: GigabitEthernet1/0/27
+    position: '27'
+  -
+    name: GigabitEthernet1/0/28
+    position: '28'

@@ -1,0 +1,117 @@
+---
+manufacturer: Juniper
+model: EX4400-24X
+part_number: EX4400-24X
+slug: juniper-ex4400-24x
+u_height: 1
+airflow: front-to-rear
+weight: 13.01
+weight_unit: lb
+is_full_depth: true
+comments: '[Juniper EX4400 Hardware Guide](https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html)'
+interfaces:
+  -
+    name: me0
+    type: 1000base-t
+    mgmt_only: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+  -
+    name: Front Console
+    type: usb-c
+module-bays:
+  -
+    name: Fan Module 0
+    position: '0'
+  -
+    name: Fan Module 1
+    position: '1'
+  -
+    name: Extension module
+    position: '2'
+  -
+    name: PSU0
+    position: '0'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: xe-0/0/0
+    position: '0'
+  -
+    name: xe-0/0/1
+    position: '1'
+  -
+    name: xe-0/0/2
+    position: '2'
+  -
+    name: xe-0/0/3
+    position: '3'
+  -
+    name: xe-0/0/4
+    position: '4'
+  -
+    name: xe-0/0/5
+    position: '5'
+  -
+    name: xe-0/0/6
+    position: '6'
+  -
+    name: xe-0/0/7
+    position: '7'
+  -
+    name: xe-0/0/8
+    position: '8'
+  -
+    name: xe-0/0/9
+    position: '9'
+  -
+    name: xe-0/0/10
+    position: '10'
+  -
+    name: xe-0/0/11
+    position: '11'
+  -
+    name: xe-0/0/12
+    position: '12'
+  -
+    name: xe-0/0/13
+    position: '13'
+  -
+    name: xe-0/0/14
+    position: '14'
+  -
+    name: xe-0/0/15
+    position: '15'
+  -
+    name: xe-0/0/16
+    position: '16'
+  -
+    name: xe-0/0/17
+    position: '17'
+  -
+    name: xe-0/0/18
+    position: '18'
+  -
+    name: xe-0/0/19
+    position: '19'
+  -
+    name: xe-0/0/20
+    position: '20'
+  -
+    name: xe-0/0/21
+    position: '21'
+  -
+    name: xe-0/0/22
+    position: '22'
+  -
+    name: xe-0/0/23
+    position: '23'
+  -
+    name: et-0/1/0
+    position: '0'
+  -
+    name: et-0/1/1
+    position: '1'

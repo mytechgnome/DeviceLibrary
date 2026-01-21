@@ -1,0 +1,95 @@
+---
+manufacturer: Cisco
+model: NCS 55A1-24H
+slug: cisco-ncs-55a1-24h
+part_number: NCS-55A1-24H
+is_full_depth: false
+u_height: 1
+interfaces:
+  -
+    name: MgmtEth0/RP0/CPU0/0
+    type: 1000base-t
+    mgmt_only: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PSU0
+    position: '0'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: HundredGigE0/0/0/0
+    position: '0'
+  -
+    name: HundredGigE0/0/0/1
+    position: '1'
+  -
+    name: HundredGigE0/0/0/2
+    position: '2'
+  -
+    name: HundredGigE0/0/0/3
+    position: '3'
+  -
+    name: HundredGigE0/0/0/4
+    position: '4'
+  -
+    name: HundredGigE0/0/0/5
+    position: '5'
+  -
+    name: HundredGigE0/0/0/6
+    position: '6'
+  -
+    name: HundredGigE0/0/0/7
+    position: '7'
+  -
+    name: HundredGigE0/0/0/8
+    position: '8'
+  -
+    name: HundredGigE0/0/0/9
+    position: '9'
+  -
+    name: HundredGigE0/0/0/10
+    position: '10'
+  -
+    name: HundredGigE0/0/0/11
+    position: '11'
+  -
+    name: HundredGigE0/0/0/12
+    position: '12'
+  -
+    name: HundredGigE0/0/0/13
+    position: '13'
+  -
+    name: HundredGigE0/0/0/14
+    position: '14'
+  -
+    name: HundredGigE0/0/0/15
+    position: '15'
+  -
+    name: HundredGigE0/0/0/16
+    position: '16'
+  -
+    name: HundredGigE0/0/0/17
+    position: '17'
+  -
+    name: HundredGigE0/0/0/18
+    position: '18'
+  -
+    name: HundredGigE0/0/0/19
+    position: '19'
+  -
+    name: HundredGigE0/0/0/20
+    position: '20'
+  -
+    name: HundredGigE0/0/0/21
+    position: '21'
+  -
+    name: HundredGigE0/0/0/22
+    position: '22'
+  -
+    name: HundredGigE0/0/0/23
+    position: '23'

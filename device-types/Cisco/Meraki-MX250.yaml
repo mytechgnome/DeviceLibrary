@@ -1,0 +1,107 @@
+---
+manufacturer: Cisco
+model: Meraki MX250
+slug: cisco-meraki-mx250
+part_number: MX250
+u_height: 1
+is_full_depth: true
+airflow: front-to-rear
+comments: '[Meraki MX250 Datasheet] (https://meraki.cisco.com/de-de/product/security-sd-wan/large-branch-campus-concentrator/mx250/)'
+power-ports:
+  -
+    name: Slot 1
+    type: iec-60320-c14
+    maximum_draw: 190
+    allocated_draw: 105
+  -
+    name: Slot 2
+    type: iec-60320-c14
+    maximum_draw: 190
+    allocated_draw: 105
+console-ports:
+  -
+    name: Management
+    type: rj-45
+interfaces:
+  -
+    name: USB
+    type: lte
+  -
+    name: Port 3
+    type: 1000base-t
+  -
+    name: Port 4
+    type: 1000base-t
+  -
+    name: Port 5
+    type: 1000base-t
+  -
+    name: Port 6
+    type: 1000base-t
+  -
+    name: Port 7
+    type: 1000base-t
+  -
+    name: Port 8
+    type: 1000base-t
+  -
+    name: Port 9
+    type: 1000base-t
+  -
+    name: Port 10
+    type: 1000base-t
+module-bays:
+  -
+    name: Internet 1
+    position: '1'
+  -
+    name: Internet 2
+    position: '2'
+  -
+    name: Port 11
+    position: '11'
+  -
+    name: Port 12
+    position: '12'
+  -
+    name: Port 13
+    position: '13'
+  -
+    name: Port 14
+    position: '14'
+  -
+    name: Port 15
+    position: '15'
+  -
+    name: Port 16
+    position: '16'
+  -
+    name: Port 17
+    position: '17'
+  -
+    name: Port 18
+    position: '18'
+  -
+    name: Port 19
+    position: '19'
+  -
+    name: Port 20
+    position: '20'
+  -
+    name: Port 21
+    position: '21'
+  -
+    name: Port 22
+    position: '22'
+  -
+    name: Port 23
+    position: '23'
+  -
+    name: Port 24
+    position: '24'
+  -
+    name: Port 25
+    position: '25'
+  -
+    name: Port 26
+    position: '26'

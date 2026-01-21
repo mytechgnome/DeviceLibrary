@@ -1,0 +1,62 @@
+---
+manufacturer: Cisco
+model: Catalyst 3850-12S
+slug: cisco-ws-c3850-12s
+part_number: WS-C3850-12S
+is_full_depth: false
+u_height: 1
+interfaces:
+  -
+    name: GigabitEthernet0/0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: Network Module
+    position: '1'
+  -
+    name: PS-A
+    position: A
+  -
+    name: PS-B
+    position: B
+  -
+    name: GigabitEthernet1/0/1
+    position: '1'
+  -
+    name: GigabitEthernet1/0/2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/3
+    position: '3'
+  -
+    name: GigabitEthernet1/0/4
+    position: '4'
+  -
+    name: GigabitEthernet1/0/5
+    position: '5'
+  -
+    name: GigabitEthernet1/0/6
+    position: '6'
+  -
+    name: GigabitEthernet1/0/7
+    position: '7'
+  -
+    name: GigabitEthernet1/0/8
+    position: '8'
+  -
+    name: GigabitEthernet1/0/9
+    position: '9'
+  -
+    name: GigabitEthernet1/0/10
+    position: '10'
+  -
+    name: GigabitEthernet1/0/11
+    position: '11'
+  -
+    name: GigabitEthernet1/0/12
+    position: '12'
+console-ports:
+  -
+    name: con0
+    type: rj-45

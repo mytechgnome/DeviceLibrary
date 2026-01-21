@@ -1,0 +1,46 @@
+---
+manufacturer: Rohde & Schwarz
+model: SITLine ETH40G
+slug: rohde-and-schwarz-sitline-eth40g
+part_number: 5414.6130.02
+u_height: 1
+is_full_depth: false
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 100
+    allocated_draw: 80
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 100
+    allocated_draw: 80
+interfaces: []
+module-bays:
+  -
+    name: A1
+    position: '1'
+  -
+    name: A2
+    position: '2'
+  -
+    name: A3
+    position: '3'
+  -
+    name: A4
+    position: '4'
+  -
+    name: X1
+    position: '1'
+  -
+    name: X2
+    position: '2'
+  -
+    name: X3
+    position: '3'
+  -
+    name: X4
+    position: '4'
+  -
+    name: SMS

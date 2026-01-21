@@ -1,0 +1,33 @@
+---
+manufacturer: Juniper
+model: PTX10K-LC1202-36MR
+part_number: PTX10K-LC1202-36MR
+interfaces: []
+module-bays:
+  -
+    name: et-{module}/0/[0-3]
+    position: '3'
+  -
+    name: et-{module}/0/4
+    position: '4'
+  -
+    name: et-{module}/0/[5-9]
+    position: '9'
+  -
+    name: et-{module}/0/10
+    position: '10'
+  -
+    name: et-{module}/0/[11-23]
+    position: '23'
+  -
+    name: et-{module}/0/24
+    position: '24'
+  -
+    name: et-{module}/0/[25-29]
+    position: '29'
+  -
+    name: et-{module}/0/30
+    position: '30'
+  -
+    name: et-{module}/0/[31-35]
+    position: '35'

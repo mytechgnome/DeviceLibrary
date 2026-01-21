@@ -1,0 +1,18 @@
+---
+manufacturer: Extreme Networks
+model: VIM4-40G4X
+part_number: '17122'
+interfaces: []
+module-bays:
+  -
+    name: '49'
+    position: '49'
+  -
+    name: '53'
+    position: '53'
+  -
+    name: '57'
+    position: '57'
+  -
+    name: '61'
+    position: '61'

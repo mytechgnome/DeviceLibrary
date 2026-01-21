@@ -1,0 +1,12 @@
+---
+manufacturer: Juniper
+model: EX4550-EM-2QSFP
+part_number: EX4550-EM-2QSFP
+interfaces: []
+module-bays:
+  -
+    name: et-0/1/0
+    position: '0'
+  -
+    name: et-0/1/1
+    position: '1'

@@ -1,0 +1,14 @@
+---
+manufacturer: HPE
+model: HPE Nimble Storage 2x10GbE 4-port FIO Adapter Kit
+part_number: Q8C17B
+interfaces: []
+module-bays:
+  -
+    name: eth{module}a
+  -
+    name: eth{module}b
+  -
+    name: eth{module}c
+  -
+    name: eth{module}d

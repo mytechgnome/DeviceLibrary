@@ -1,0 +1,9 @@
+---
+manufacturer: Juniper
+model: PTX10K-LC1201-36CD
+part_number: PTX10K-LC1201-36CD
+interfaces: []
+module-bays:
+  -
+    name: et-{module}/0/[0-35]
+    position: '35'

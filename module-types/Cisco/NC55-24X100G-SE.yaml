@@ -1,0 +1,79 @@
+---
+manufacturer: Cisco
+model: NC55-24X100G-SE
+part_number: NC55-24X100G-SE
+comments: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-737779.html
+interfaces: []
+module-bays:
+  -
+    name: Hu0/{module}/0/0
+    position: '0'
+  -
+    name: Hu0/{module}/0/1
+    position: '1'
+  -
+    name: Hu0/{module}/0/2
+    position: '2'
+  -
+    name: Hu0/{module}/0/3
+    position: '3'
+  -
+    name: Hu0/{module}/0/4
+    position: '4'
+  -
+    name: Hu0/{module}/0/5
+    position: '5'
+  -
+    name: Hu0/{module}/0/6
+    position: '6'
+  -
+    name: Hu0/{module}/0/7
+    position: '7'
+  -
+    name: Hu0/{module}/0/8
+    position: '8'
+  -
+    name: Hu0/{module}/0/9
+    position: '9'
+  -
+    name: Hu0/{module}/0/10
+    position: '10'
+  -
+    name: Hu0/{module}/0/11
+    position: '11'
+  -
+    name: Hu0/{module}/0/12
+    position: '12'
+  -
+    name: Hu0/{module}/0/13
+    position: '13'
+  -
+    name: Hu0/{module}/0/14
+    position: '14'
+  -
+    name: Hu0/{module}/0/15
+    position: '15'
+  -
+    name: Hu0/{module}/0/16
+    position: '16'
+  -
+    name: Hu0/{module}/0/17
+    position: '17'
+  -
+    name: Hu0/{module}/0/18
+    position: '18'
+  -
+    name: Hu0/{module}/0/19
+    position: '19'
+  -
+    name: Hu0/{module}/0/20
+    position: '20'
+  -
+    name: Hu0/{module}/0/21
+    position: '21'
+  -
+    name: Hu0/{module}/0/22
+    position: '22'
+  -
+    name: Hu0/{module}/0/23
+    position: '23'

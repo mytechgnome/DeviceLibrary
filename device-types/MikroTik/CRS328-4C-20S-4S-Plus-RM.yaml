@@ -1,0 +1,106 @@
+---
+manufacturer: MikroTik
+model: CRS328-4C-20S-4S+RM
+slug: mikrotik-crs328-4c-20s-4s-plus-rm
+is_full_depth: false
+u_height: 1
+interfaces: []
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+    label: CONSOLE
+power-ports:
+  -
+    name: power1
+    type: iec-60320-c14
+    maximum_draw: 43
+  -
+    name: power2
+    type: iec-60320-c14
+    maximum_draw: 43
+module-bays:
+  -
+    name: sfp1
+    position: '1'
+  -
+    name: sfp2
+    position: '2'
+  -
+    name: sfp3
+    position: '3'
+  -
+    name: sfp4
+    position: '4'
+  -
+    name: sfp5
+    position: '5'
+  -
+    name: sfp6
+    position: '6'
+  -
+    name: sfp7
+    position: '7'
+  -
+    name: sfp8
+    position: '8'
+  -
+    name: sfp9
+    position: '9'
+  -
+    name: sfp10
+    position: '10'
+  -
+    name: sfp11
+    position: '11'
+  -
+    name: sfp12
+    position: '12'
+  -
+    name: sfp13
+    position: '13'
+  -
+    name: sfp14
+    position: '14'
+  -
+    name: sfp15
+    position: '15'
+  -
+    name: sfp16
+    position: '16'
+  -
+    name: sfp17
+    position: '17'
+  -
+    name: sfp18
+    position: '18'
+  -
+    name: sfp19
+    position: '19'
+  -
+    name: sfp20
+    position: '20'
+  -
+    name: sfp-sfpplus1
+    position: '1'
+  -
+    name: sfp-sfpplus2
+    position: '2'
+  -
+    name: sfp-sfpplus3
+    position: '3'
+  -
+    name: sfp-sfpplus4
+    position: '4'
+  -
+    name: combo1
+    position: '1'
+  -
+    name: combo2
+    position: '2'
+  -
+    name: combo3
+    position: '3'
+  -
+    name: combo4
+    position: '4'

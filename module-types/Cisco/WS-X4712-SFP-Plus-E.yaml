@@ -1,0 +1,43 @@
+---
+manufacturer: Cisco
+part_number: WS-X4712-SFP+E
+model: WS-X4712-SFP+E
+comments: Cisco Catalyst 4500E Series 12-Port 10 Gigabit Ethernet (SFP+) / [Cisco Catalyst 4500 Series Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/catalyst-4500-series-line-cards/product_data_sheet0900aecd802109ea.html)
+interfaces: []
+module-bays:
+  -
+    name: 10GigabitEthernet{module}/1
+    position: '1'
+  -
+    name: 10GigabitEthernet{module}/2
+    position: '2'
+  -
+    name: 10GigabitEthernet{module}/3
+    position: '3'
+  -
+    name: 10GigabitEthernet{module}/4
+    position: '4'
+  -
+    name: 10GigabitEthernet{module}/5
+    position: '5'
+  -
+    name: 10GigabitEthernet{module}/6
+    position: '6'
+  -
+    name: 10GigabitEthernet{module}/7
+    position: '7'
+  -
+    name: 10GigabitEthernet{module}/8
+    position: '8'
+  -
+    name: 10GigabitEthernet{module}/9
+    position: '9'
+  -
+    name: 10GigabitEthernet{module}/10
+    position: '10'
+  -
+    name: 10GigabitEthernet{module}/11
+    position: '11'
+  -
+    name: 10GigabitEthernet{module}/12
+    position: '12'

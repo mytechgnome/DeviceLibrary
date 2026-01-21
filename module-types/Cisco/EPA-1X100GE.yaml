@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: EPA-1X100GE
+part_number: EPA-1X100GE
+interfaces: []
+module-bays:
+  -
+    name: HundredGigE{module}/0
+    position: '0'

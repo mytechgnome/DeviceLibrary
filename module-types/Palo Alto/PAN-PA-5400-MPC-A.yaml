@@ -1,0 +1,34 @@
+---
+manufacturer: Palo Alto
+model: PAN-PA-5400-MPC-A
+part_number: PAN-PA-5400-MPC-A
+interfaces: []
+module-bays:
+  -
+    name: HA1-A
+    label: HA1-A
+    position: '1'
+  -
+    name: HA1-B
+    label: HA1-B
+    position: '1'
+  -
+    name: HSCI-A
+    label: HSCI-A
+  -
+    name: HSCI-B
+    label: HSCI-B
+  -
+    name: LOG-1
+    label: LOG-1
+    position: '1'
+  -
+    name: LOG-2
+    label: LOG-2
+    position: '2'
+  -
+    name: MGT-A
+    label: MGT-A
+  -
+    name: MGT-B
+    label: MGT-B

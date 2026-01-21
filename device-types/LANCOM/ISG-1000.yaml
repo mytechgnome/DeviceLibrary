@@ -1,0 +1,48 @@
+---
+manufacturer: LANCOM
+model: ISG-1000
+slug: lancom-isg-1000
+part_number: '61073'
+u_height: 1
+is_full_depth: false
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 40
+interfaces:
+  -
+    name: ETH-1 RJ45
+    type: 1000base-t
+  -
+    name: ETH-2 RJ45
+    type: 1000base-t
+  -
+    name: ETH-3 RJ45
+    type: 1000base-t
+  -
+    name: ETH-4 RJ45
+    type: 1000base-t
+  -
+    name: ETH-5
+    type: 1000base-t
+console-ports:
+  -
+    name: com
+    type: rj-45
+  -
+    name: usb
+    type: usb-a
+module-bays:
+  -
+    name: ETH-1 SFP
+    position: '1'
+  -
+    name: ETH-2 SFP
+    position: '2'
+  -
+    name: ETH-3 SFP
+    position: '3'
+  -
+    name: ETH-4 SFP
+    position: '4'

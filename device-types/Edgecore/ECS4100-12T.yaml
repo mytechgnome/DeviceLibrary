@@ -1,0 +1,54 @@
+---
+manufacturer: Edgecore
+model: ECS4100-12T
+slug: edgecore-ecs4100-12t
+part_number: ECS4100-12T
+u_height: 1
+is_full_depth: false
+console-ports:
+  -
+    name: Console
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 25
+interfaces:
+  -
+    name: eth1
+    type: 1000base-t
+  -
+    name: eth2
+    type: 1000base-t
+  -
+    name: eth3
+    type: 1000base-t
+  -
+    name: eth4
+    type: 1000base-t
+  -
+    name: eth5
+    type: 1000base-t
+  -
+    name: eth6
+    type: 1000base-t
+  -
+    name: eth7
+    type: 1000base-t
+  -
+    name: eth8
+    type: 1000base-t
+module-bays:
+  -
+    name: eth9
+    position: '9'
+  -
+    name: eth10
+    position: '10'
+  -
+    name: eth11
+    position: '11'
+  -
+    name: eth12
+    position: '12'

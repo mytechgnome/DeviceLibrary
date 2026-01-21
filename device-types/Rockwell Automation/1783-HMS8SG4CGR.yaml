@@ -1,0 +1,66 @@
+---
+manufacturer: Rockwell Automation
+model: 1783-HMS8SG4CGR
+part_number: 1783-HMS8SG4CGR
+slug: rockwell-automation-1783-hms8sg4cgr
+u_height: 3
+is_full_depth: false
+interfaces:
+  -
+    name: SVI1
+    type: virtual
+console-ports:
+  -
+    name: usb
+    type: usb-mini-b
+  -
+    name: con 0
+    type: rj-45
+power-ports:
+  -
+    name: Pwr-A
+    type: dc-terminal
+    maximum_draw: 120
+    allocated_draw: 42
+  -
+    name: Pwr-B
+    type: dc-terminal
+    maximum_draw: 120
+    allocated_draw: 42
+module-bays:
+  -
+    name: GigabitEthernet1/1
+    position: '1'
+  -
+    name: GigabitEthernet1/2
+    position: '2'
+  -
+    name: GigabitEthernet1/3
+    position: '3'
+  -
+    name: GigabitEthernet1/4
+    position: '4'
+  -
+    name: GigabitEthernet1/5
+    position: '5'
+  -
+    name: GigabitEthernet1/6
+    position: '6'
+  -
+    name: GigabitEthernet1/7
+    position: '7'
+  -
+    name: GigabitEthernet1/8
+    position: '8'
+  -
+    name: GigabitEthernet1/9
+    position: '9'
+  -
+    name: GigabitEthernet1/10
+    position: '10'
+  -
+    name: GigabitEthernet1/11
+    position: '11'
+  -
+    name: GigabitEthernet1/12
+    position: '12'

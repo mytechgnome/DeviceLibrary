@@ -1,0 +1,106 @@
+---
+manufacturer: Cisco
+model: N9K-X9432PQ
+part_number: N9K-X9432PQ
+description: Cisco Nexus 9500 32p 40G QSFP aggregation line card
+comments: '[Cisco Nexus 9500 Classic Line Cards and Fabric Modules Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-741336.html)'
+weight: 4.92
+weight_unit: kg
+interfaces: []
+module-bays:
+  -
+    name: Ethernet{module}/1
+    position: '1'
+  -
+    name: Ethernet{module}/2
+    position: '2'
+  -
+    name: Ethernet{module}/3
+    position: '3'
+  -
+    name: Ethernet{module}/4
+    position: '4'
+  -
+    name: Ethernet{module}/5
+    position: '5'
+  -
+    name: Ethernet{module}/6
+    position: '6'
+  -
+    name: Ethernet{module}/7
+    position: '7'
+  -
+    name: Ethernet{module}/8
+    position: '8'
+  -
+    name: Ethernet{module}/9
+    position: '9'
+  -
+    name: Ethernet{module}/10
+    position: '10'
+  -
+    name: Ethernet{module}/11
+    position: '11'
+  -
+    name: Ethernet{module}/12
+    position: '12'
+  -
+    name: Ethernet{module}/13
+    position: '13'
+  -
+    name: Ethernet{module}/14
+    position: '14'
+  -
+    name: Ethernet{module}/15
+    position: '15'
+  -
+    name: Ethernet{module}/16
+    position: '16'
+  -
+    name: Ethernet{module}/17
+    position: '17'
+  -
+    name: Ethernet{module}/18
+    position: '18'
+  -
+    name: Ethernet{module}/19
+    position: '19'
+  -
+    name: Ethernet{module}/20
+    position: '20'
+  -
+    name: Ethernet{module}/21
+    position: '21'
+  -
+    name: Ethernet{module}/22
+    position: '22'
+  -
+    name: Ethernet{module}/23
+    position: '23'
+  -
+    name: Ethernet{module}/24
+    position: '24'
+  -
+    name: Ethernet{module}/25
+    position: '25'
+  -
+    name: Ethernet{module}/26
+    position: '26'
+  -
+    name: Ethernet{module}/27
+    position: '27'
+  -
+    name: Ethernet{module}/28
+    position: '28'
+  -
+    name: Ethernet{module}/29
+    position: '29'
+  -
+    name: Ethernet{module}/30
+    position: '30'
+  -
+    name: Ethernet{module}/31
+    position: '31'
+  -
+    name: Ethernet{module}/32
+    position: '32'

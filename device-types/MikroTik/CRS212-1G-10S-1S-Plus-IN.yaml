@@ -1,0 +1,52 @@
+---
+manufacturer: MikroTik
+model: CRS212-1G-10S-1S+IN
+slug: mikrotik-crs212-1g-10s-1s-plus-in
+is_full_depth: false
+u_height: 1
+interfaces:
+  -
+    name: ether1
+    type: 1000base-t
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+power-ports:
+  -
+    name: PSU0
+    type: dc-terminal
+module-bays:
+  -
+    name: sfp1
+    position: '1'
+  -
+    name: sfp2
+    position: '2'
+  -
+    name: sfp3
+    position: '3'
+  -
+    name: sfp4
+    position: '4'
+  -
+    name: sfp5
+    position: '5'
+  -
+    name: sfp6
+    position: '6'
+  -
+    name: sfp7
+    position: '7'
+  -
+    name: sfp8
+    position: '8'
+  -
+    name: sfp9
+    position: '9'
+  -
+    name: sfp10
+    position: '10'
+  -
+    name: sfp-sfpplus1
+    position: '1'

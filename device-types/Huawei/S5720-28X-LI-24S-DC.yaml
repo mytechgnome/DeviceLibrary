@@ -1,0 +1,129 @@
+---
+manufacturer: Huawei
+model: S5720-28X-LI-24S-DC
+slug: huawei-s5720-28x-li-24s-dc
+u_height: 1.0
+is_full_depth: true
+console-ports:
+  -
+    name: USB
+    type: usb-a
+  -
+    name: console0
+    type: rj-45
+power-ports:
+  -
+    name: PWR1
+    type: iec-60320-c14
+    maximum_draw: 350
+    allocated_draw: 90
+interfaces:
+  -
+    name: GigabitEthernet0/0/17-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/18-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/19-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/20-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/21-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/22-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/23-RJ45
+    type: 1000base-t
+  -
+    name: GigabitEthernet0/0/24-RJ45
+    type: 1000base-t
+module-bays:
+  -
+    name: GigabitEthernet0/0/1
+    position: '1'
+  -
+    name: GigabitEthernet0/0/2
+    position: '2'
+  -
+    name: GigabitEthernet0/0/3
+    position: '3'
+  -
+    name: GigabitEthernet0/0/4
+    position: '4'
+  -
+    name: GigabitEthernet0/0/5
+    position: '5'
+  -
+    name: GigabitEthernet0/0/6
+    position: '6'
+  -
+    name: GigabitEthernet0/0/7
+    position: '7'
+  -
+    name: GigabitEthernet0/0/8
+    position: '8'
+  -
+    name: GigabitEthernet0/0/9
+    position: '9'
+  -
+    name: GigabitEthernet0/0/10
+    position: '10'
+  -
+    name: GigabitEthernet0/0/11
+    position: '11'
+  -
+    name: GigabitEthernet0/0/12
+    position: '12'
+  -
+    name: GigabitEthernet0/0/13
+    position: '13'
+  -
+    name: GigabitEthernet0/0/14
+    position: '14'
+  -
+    name: GigabitEthernet0/0/15
+    position: '15'
+  -
+    name: GigabitEthernet0/0/16
+    position: '16'
+  -
+    name: GigabitEthernet0/0/17
+    position: '17'
+  -
+    name: GigabitEthernet0/0/18
+    position: '18'
+  -
+    name: GigabitEthernet0/0/19
+    position: '19'
+  -
+    name: GigabitEthernet0/0/20
+    position: '20'
+  -
+    name: GigabitEthernet0/0/21
+    position: '21'
+  -
+    name: GigabitEthernet0/0/22
+    position: '22'
+  -
+    name: GigabitEthernet0/0/23
+    position: '23'
+  -
+    name: GigabitEthernet0/0/24
+    position: '24'
+  -
+    name: XGigabitEthernet0/0/1
+    position: '1'
+  -
+    name: XGigabitEthernet0/0/2
+    position: '2'
+  -
+    name: XGigabitEthernet0/0/3
+    position: '3'
+  -
+    name: XGigabitEthernet0/0/4
+    position: '4'

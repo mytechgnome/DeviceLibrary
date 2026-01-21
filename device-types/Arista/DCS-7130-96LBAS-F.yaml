@@ -1,0 +1,322 @@
+---
+manufacturer: Arista
+model: DCS-7130-96LBAS-F
+slug: arista-dcs-7130-96lbas-f
+part_number: DCS-7130-96LBAS-F
+u_height: 2
+weight: 26
+weight_unit: lb
+airflow: front-to-rear
+is_full_depth: false
+comments: '[Arista 7130LS Data Sheet](https://www.arista.com/assets/data/pdf/Datasheets/7130LS-Series-Data-Sheet.pdf)'
+console-ports:
+  -
+    name: Console
+    type: rj-45
+  -
+    name: USB
+    type: usb-a
+module-bays:
+  -
+    name: PS1
+    position: '0'
+  -
+    name: PS2
+    position: '1'
+  -
+    name: Ethernet1
+    position: '1'
+  -
+    name: Ethernet2
+    position: '2'
+  -
+    name: Ethernet3
+    position: '3'
+  -
+    name: Ethernet4
+    position: '4'
+  -
+    name: Ethernet5
+    position: '5'
+  -
+    name: Ethernet6
+    position: '6'
+  -
+    name: Ethernet7
+    position: '7'
+  -
+    name: Ethernet8
+    position: '8'
+  -
+    name: Ethernet9
+    position: '9'
+  -
+    name: Ethernet10
+    position: '10'
+  -
+    name: Ethernet11
+    position: '11'
+  -
+    name: Ethernet12
+    position: '12'
+  -
+    name: Ethernet13
+    position: '13'
+  -
+    name: Ethernet14
+    position: '14'
+  -
+    name: Ethernet15
+    position: '15'
+  -
+    name: Ethernet16
+    position: '16'
+  -
+    name: Ethernet17
+    position: '17'
+  -
+    name: Ethernet18
+    position: '18'
+  -
+    name: Ethernet19
+    position: '19'
+  -
+    name: Ethernet20
+    position: '20'
+  -
+    name: Ethernet21
+    position: '21'
+  -
+    name: Ethernet22
+    position: '22'
+  -
+    name: Ethernet23
+    position: '23'
+  -
+    name: Ethernet24
+    position: '24'
+  -
+    name: Ethernet25
+    position: '25'
+  -
+    name: Ethernet26
+    position: '26'
+  -
+    name: Ethernet27
+    position: '27'
+  -
+    name: Ethernet28
+    position: '28'
+  -
+    name: Ethernet29
+    position: '29'
+  -
+    name: Ethernet30
+    position: '30'
+  -
+    name: Ethernet31
+    position: '31'
+  -
+    name: Ethernet32
+    position: '32'
+  -
+    name: Ethernet33
+    position: '33'
+  -
+    name: Ethernet34
+    position: '34'
+  -
+    name: Ethernet35
+    position: '35'
+  -
+    name: Ethernet36
+    position: '36'
+  -
+    name: Ethernet37
+    position: '37'
+  -
+    name: Ethernet38
+    position: '38'
+  -
+    name: Ethernet39
+    position: '39'
+  -
+    name: Ethernet40
+    position: '40'
+  -
+    name: Ethernet41
+    position: '41'
+  -
+    name: Ethernet42
+    position: '42'
+  -
+    name: Ethernet43
+    position: '43'
+  -
+    name: Ethernet44
+    position: '44'
+  -
+    name: Ethernet45
+    position: '45'
+  -
+    name: Ethernet46
+    position: '46'
+  -
+    name: Ethernet47
+    position: '47'
+  -
+    name: Ethernet48
+    position: '48'
+  -
+    name: Ethernet49
+    position: '49'
+  -
+    name: Ethernet50
+    position: '50'
+  -
+    name: Ethernet51
+    position: '51'
+  -
+    name: Ethernet52
+    position: '52'
+  -
+    name: Ethernet53
+    position: '53'
+  -
+    name: Ethernet54
+    position: '54'
+  -
+    name: Ethernet55
+    position: '55'
+  -
+    name: Ethernet56
+    position: '56'
+  -
+    name: Ethernet57
+    position: '57'
+  -
+    name: Ethernet58
+    position: '58'
+  -
+    name: Ethernet59
+    position: '59'
+  -
+    name: Ethernet60
+    position: '60'
+  -
+    name: Ethernet61
+    position: '61'
+  -
+    name: Ethernet62
+    position: '62'
+  -
+    name: Ethernet63
+    position: '63'
+  -
+    name: Ethernet64
+    position: '64'
+  -
+    name: Ethernet65
+    position: '65'
+  -
+    name: Ethernet66
+    position: '66'
+  -
+    name: Ethernet67
+    position: '67'
+  -
+    name: Ethernet68
+    position: '68'
+  -
+    name: Ethernet69
+    position: '69'
+  -
+    name: Ethernet70
+    position: '70'
+  -
+    name: Ethernet71
+    position: '71'
+  -
+    name: Ethernet72
+    position: '72'
+  -
+    name: Ethernet73
+    position: '73'
+  -
+    name: Ethernet74
+    position: '74'
+  -
+    name: Ethernet75
+    position: '75'
+  -
+    name: Ethernet76
+    position: '76'
+  -
+    name: Ethernet77
+    position: '77'
+  -
+    name: Ethernet78
+    position: '78'
+  -
+    name: Ethernet79
+    position: '79'
+  -
+    name: Ethernet80
+    position: '80'
+  -
+    name: Ethernet81
+    position: '81'
+  -
+    name: Ethernet82
+    position: '82'
+  -
+    name: Ethernet83
+    position: '83'
+  -
+    name: Ethernet84
+    position: '84'
+  -
+    name: Ethernet85
+    position: '85'
+  -
+    name: Ethernet86
+    position: '86'
+  -
+    name: Ethernet87
+    position: '87'
+  -
+    name: Ethernet88
+    position: '88'
+  -
+    name: Ethernet89
+    position: '89'
+  -
+    name: Ethernet90
+    position: '90'
+  -
+    name: Ethernet91
+    position: '91'
+  -
+    name: Ethernet92
+    position: '92'
+  -
+    name: Ethernet93
+    position: '93'
+  -
+    name: Ethernet94
+    position: '94'
+  -
+    name: Ethernet95
+    position: '95'
+  -
+    name: Ethernet96
+    position: '96'
+interfaces:
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: Management2
+    type: 1000base-t
+    mgmt_only: true

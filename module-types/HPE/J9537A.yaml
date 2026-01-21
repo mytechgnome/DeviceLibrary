@@ -1,0 +1,79 @@
+---
+manufacturer: HPE
+model: HP 24-port SFP v2 zl Module
+part_number: J9537A
+comments: HP J9537A 24-port SFP v2 zl Module
+interfaces: []
+module-bays:
+  -
+    name: '{module}1'
+    position: '1'
+  -
+    name: '{module}2'
+    position: '2'
+  -
+    name: '{module}3'
+    position: '3'
+  -
+    name: '{module}4'
+    position: '4'
+  -
+    name: '{module}5'
+    position: '5'
+  -
+    name: '{module}6'
+    position: '6'
+  -
+    name: '{module}7'
+    position: '7'
+  -
+    name: '{module}8'
+    position: '8'
+  -
+    name: '{module}9'
+    position: '9'
+  -
+    name: '{module}10'
+    position: '10'
+  -
+    name: '{module}11'
+    position: '11'
+  -
+    name: '{module}12'
+    position: '12'
+  -
+    name: '{module}13'
+    position: '13'
+  -
+    name: '{module}14'
+    position: '14'
+  -
+    name: '{module}15'
+    position: '15'
+  -
+    name: '{module}16'
+    position: '16'
+  -
+    name: '{module}17'
+    position: '17'
+  -
+    name: '{module}18'
+    position: '18'
+  -
+    name: '{module}19'
+    position: '19'
+  -
+    name: '{module}20'
+    position: '20'
+  -
+    name: '{module}21'
+    position: '21'
+  -
+    name: '{module}22'
+    position: '22'
+  -
+    name: '{module}23'
+    position: '23'
+  -
+    name: '{module}24'
+    position: '24'

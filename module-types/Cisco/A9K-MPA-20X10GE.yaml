@@ -1,0 +1,67 @@
+---
+manufacturer: Cisco
+model: A9K-MPA-20X10GE
+part_number: A9K-MPA-20X10GE
+description: ASR 9000 20-port 10GE Modular Port Adapter
+interfaces: []
+module-bays:
+  -
+    name: TenGigE0/{module}/{module}/0
+    position: '0'
+  -
+    name: TenGigE0/{module}/{module}/1
+    position: '1'
+  -
+    name: TenGigE0/{module}/{module}/2
+    position: '2'
+  -
+    name: TenGigE0/{module}/{module}/3
+    position: '3'
+  -
+    name: TenGigE0/{module}/{module}/4
+    position: '4'
+  -
+    name: TenGigE0/{module}/{module}/5
+    position: '5'
+  -
+    name: TenGigE0/{module}/{module}/6
+    position: '6'
+  -
+    name: TenGigE0/{module}/{module}/7
+    position: '7'
+  -
+    name: TenGigE0/{module}/{module}/8
+    position: '8'
+  -
+    name: TenGigE0/{module}/{module}/9
+    position: '9'
+  -
+    name: TenGigE0/{module}/{module}/10
+    position: '10'
+  -
+    name: TenGigE0/{module}/{module}/11
+    position: '11'
+  -
+    name: TenGigE0/{module}/{module}/12
+    position: '12'
+  -
+    name: TenGigE0/{module}/{module}/13
+    position: '13'
+  -
+    name: TenGigE0/{module}/{module}/14
+    position: '14'
+  -
+    name: TenGigE0/{module}/{module}/15
+    position: '15'
+  -
+    name: TenGigE0/{module}/{module}/16
+    position: '16'
+  -
+    name: TenGigE0/{module}/{module}/17
+    position: '17'
+  -
+    name: TenGigE0/{module}/{module}/18
+    position: '18'
+  -
+    name: TenGigE0/{module}/{module}/19
+    position: '19'

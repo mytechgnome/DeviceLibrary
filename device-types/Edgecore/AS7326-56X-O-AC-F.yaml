@@ -1,0 +1,221 @@
+---
+manufacturer: Edgecore
+model: AS7326-56X-O-AC-F
+slug: edgecore-as7326-56x-o-ac-f
+part_number: FP4ZZ7656xxxx
+u_height: 1.0
+is_full_depth: true
+airflow: front-to-rear
+comments: https://www.edge-core.com/_upload/images/DCS203_AS7326-56X_DS_R09_20230717.pdf
+front_image: true
+rear_image: true
+weight: 10
+weight_unit: kg
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: Fan Module Slot 1
+    position: '1'
+  -
+    name: Fan Module Slot 2
+    position: '2'
+  -
+    name: Fan Module Slot 3
+    position: '3'
+  -
+    name: Fan Module Slot 4
+    position: '4'
+  -
+    name: Fan Module Slot 5
+    position: '5'
+  -
+    name: Fan Module Slot 6
+    position: '6'
+  -
+    name: xe57
+    position: '57'
+  -
+    name: xe58
+    position: '58'
+  -
+    name: xe1
+    position: '1'
+  -
+    name: xe2
+    position: '2'
+  -
+    name: xe3
+    position: '3'
+  -
+    name: xe4
+    position: '4'
+  -
+    name: xe5
+    position: '5'
+  -
+    name: xe6
+    position: '6'
+  -
+    name: xe7
+    position: '7'
+  -
+    name: xe8
+    position: '8'
+  -
+    name: xe9
+    position: '9'
+  -
+    name: xe10
+    position: '10'
+  -
+    name: xe11
+    position: '11'
+  -
+    name: xe12
+    position: '12'
+  -
+    name: xe13
+    position: '13'
+  -
+    name: xe14
+    position: '14'
+  -
+    name: xe15
+    position: '15'
+  -
+    name: xe16
+    position: '16'
+  -
+    name: xe17
+    position: '17'
+  -
+    name: xe18
+    position: '18'
+  -
+    name: xe19
+    position: '19'
+  -
+    name: xe20
+    position: '20'
+  -
+    name: xe21
+    position: '21'
+  -
+    name: xe22
+    position: '22'
+  -
+    name: xe23
+    position: '23'
+  -
+    name: xe24
+    position: '24'
+  -
+    name: xe25
+    position: '25'
+  -
+    name: xe26
+    position: '26'
+  -
+    name: xe27
+    position: '27'
+  -
+    name: xe28
+    position: '28'
+  -
+    name: xe29
+    position: '29'
+  -
+    name: xe30
+    position: '30'
+  -
+    name: xe31
+    position: '31'
+  -
+    name: xe32
+    position: '32'
+  -
+    name: xe33
+    position: '33'
+  -
+    name: xe34
+    position: '34'
+  -
+    name: xe35
+    position: '35'
+  -
+    name: xe36
+    position: '36'
+  -
+    name: xe37
+    position: '37'
+  -
+    name: xe38
+    position: '38'
+  -
+    name: xe39
+    position: '39'
+  -
+    name: xe40
+    position: '40'
+  -
+    name: xe41
+    position: '41'
+  -
+    name: xe42
+    position: '42'
+  -
+    name: xe43
+    position: '43'
+  -
+    name: xe44
+    position: '44'
+  -
+    name: xe45
+    position: '45'
+  -
+    name: xe46
+    position: '46'
+  -
+    name: xe47
+    position: '47'
+  -
+    name: xe48
+    position: '48'
+  -
+    name: ce49
+    position: '49'
+  -
+    name: ce50
+    position: '50'
+  -
+    name: ce51
+    position: '51'
+  -
+    name: ce52
+    position: '52'
+  -
+    name: ce53
+    position: '53'
+  -
+    name: ce54
+    position: '54'
+  -
+    name: ce55
+    position: '55'
+  -
+    name: ce56
+    position: '56'
+interfaces:
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true

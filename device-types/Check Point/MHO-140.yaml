@@ -1,0 +1,198 @@
+---
+manufacturer: Check Point
+model: MHO-140
+slug: check-point-mho-140
+part_number: CPAP-MHO-140
+u_height: 1.0
+is_full_depth: true
+weight: 8.52
+weight_unit: kg
+airflow: front-to-rear
+console-ports:
+  -
+    name: CONSOLE
+    type: rj-45
+module-bays:
+  -
+    name: Power1
+    position: '1'
+  -
+    name: Power2
+    position: '2'
+  -
+    name: sfp1
+    position: '1'
+  -
+    name: sfp2
+    position: '2'
+  -
+    name: sfp3
+    position: '3'
+  -
+    name: sfp4
+    position: '4'
+  -
+    name: sfp5
+    position: '5'
+  -
+    name: sfp6
+    position: '6'
+  -
+    name: sfp7
+    position: '7'
+  -
+    name: sfp8
+    position: '8'
+  -
+    name: sfp9
+    position: '9'
+  -
+    name: sfp10
+    position: '10'
+  -
+    name: sfp11
+    position: '11'
+  -
+    name: sfp12
+    position: '12'
+  -
+    name: sfp13
+    position: '13'
+  -
+    name: sfp14
+    position: '14'
+  -
+    name: sfp15
+    position: '15'
+  -
+    name: sfp16
+    position: '16'
+  -
+    name: sfp17
+    position: '17'
+  -
+    name: sfp18
+    position: '18'
+  -
+    name: sfp19
+    position: '19'
+  -
+    name: sfp20
+    position: '20'
+  -
+    name: sfp21
+    position: '21'
+  -
+    name: sfp22
+    position: '22'
+  -
+    name: sfp23
+    position: '23'
+  -
+    name: sfp24
+    position: '24'
+  -
+    name: sfp25
+    position: '25'
+  -
+    name: sfp26
+    position: '26'
+  -
+    name: sfp27
+    position: '27'
+  -
+    name: sfp28
+    position: '28'
+  -
+    name: sfp29
+    position: '29'
+  -
+    name: sfp30
+    position: '30'
+  -
+    name: sfp31
+    position: '31'
+  -
+    name: sfp32
+    position: '32'
+  -
+    name: sfp33
+    position: '33'
+  -
+    name: sfp34
+    position: '34'
+  -
+    name: sfp35
+    position: '35'
+  -
+    name: sfp36
+    position: '36'
+  -
+    name: sfp37
+    position: '37'
+  -
+    name: sfp38
+    position: '38'
+  -
+    name: sfp39
+    position: '39'
+  -
+    name: sfp40
+    position: '40'
+  -
+    name: sfp41
+    position: '41'
+  -
+    name: sfp42
+    position: '42'
+  -
+    name: sfp43
+    position: '43'
+  -
+    name: sfp44
+    position: '44'
+  -
+    name: sfp45
+    position: '45'
+  -
+    name: sfp46
+    position: '46'
+  -
+    name: sfp47
+    position: '47'
+  -
+    name: sfp48
+    position: '48'
+  -
+    name: qsfp49
+    position: '49'
+  -
+    name: qsfp50
+    position: '50'
+  -
+    name: qsfp51
+    position: '51'
+  -
+    name: qsfp52
+    position: '52'
+  -
+    name: qsfp53
+    position: '53'
+  -
+    name: qsfp54
+    position: '54'
+  -
+    name: qsfp55
+    position: '55'
+  -
+    name: qsfp56
+    position: '56'
+interfaces:
+  -
+    name: '0'
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: '1'
+    type: 1000base-t
+    mgmt_only: true

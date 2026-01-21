@@ -1,0 +1,258 @@
+---
+manufacturer: QTECH
+model: QSW-6900-56LF
+part_number: QSW-6900-56LF
+slug: qtech-qsw-6900-56lf
+u_height: 1
+is_full_depth: false
+weight: 8
+weight_unit: kg
+airflow: front-to-rear
+comments: '[QTECH QSW-6900-56LF](https://ftp.qtech.ru/Switch/Data%20Center/QSW-6900/Manual/Installation%20Guide%20%5bEng%5d/QSW-6900-56LF%20Installation%20Manual_Eng.pdf)'
+console-ports:
+  -
+    name: console
+    label: Console
+    type: rj-45
+power-ports:
+  -
+    name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 550
+    allocated_draw: 300
+  -
+    name: PSU2
+    type: iec-60320-c14
+    maximum_draw: 550
+    allocated_draw: 300
+interfaces:
+  -
+    name: mgmt 0
+    label: MGMT
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: TenGigabitEthernet 0/1
+    label: 1F
+    position: '1'
+  -
+    name: TenGigabitEthernet 0/2
+    label: 2F
+    position: '2'
+  -
+    name: TenGigabitEthernet 0/3
+    label: 3F
+    position: '3'
+  -
+    name: TenGigabitEthernet 0/4
+    label: 4F
+    position: '4'
+  -
+    name: TenGigabitEthernet 0/5
+    label: 5F
+    position: '5'
+  -
+    name: TenGigabitEthernet 0/6
+    label: 6F
+    position: '6'
+  -
+    name: TenGigabitEthernet 0/7
+    label: 7F
+    position: '7'
+  -
+    name: TenGigabitEthernet 0/8
+    label: 8F
+    position: '8'
+  -
+    name: TenGigabitEthernet 0/9
+    label: 9F
+    position: '9'
+  -
+    name: TenGigabitEthernet 0/10
+    label: 10F
+    position: '10'
+  -
+    name: TenGigabitEthernet 0/11
+    label: 11F
+    position: '11'
+  -
+    name: TenGigabitEthernet 0/12
+    label: 12F
+    position: '12'
+  -
+    name: TenGigabitEthernet 0/13
+    label: 13F
+    position: '13'
+  -
+    name: TenGigabitEthernet 0/14
+    label: 14F
+    position: '14'
+  -
+    name: TenGigabitEthernet 0/15
+    label: 15F
+    position: '15'
+  -
+    name: TenGigabitEthernet 0/16
+    label: 16F
+    position: '16'
+  -
+    name: TenGigabitEthernet 0/17
+    label: 17F
+    position: '17'
+  -
+    name: TenGigabitEthernet 0/18
+    label: 18F
+    position: '18'
+  -
+    name: TenGigabitEthernet 0/19
+    label: 19F
+    position: '19'
+  -
+    name: TenGigabitEthernet 0/20
+    label: 20F
+    position: '20'
+  -
+    name: TenGigabitEthernet 0/21
+    label: 21F
+    position: '21'
+  -
+    name: TenGigabitEthernet 0/22
+    label: 22F
+    position: '22'
+  -
+    name: TenGigabitEthernet 0/23
+    label: 23F
+    position: '23'
+  -
+    name: TenGigabitEthernet 0/24
+    label: 24F
+    position: '24'
+  -
+    name: TenGigabitEthernet 0/25
+    label: 25F
+    position: '25'
+  -
+    name: TenGigabitEthernet 0/26
+    label: 26F
+    position: '26'
+  -
+    name: TenGigabitEthernet 0/27
+    label: 27F
+    position: '27'
+  -
+    name: TenGigabitEthernet 0/28
+    label: 28F
+    position: '28'
+  -
+    name: TenGigabitEthernet 0/29
+    label: 29F
+    position: '29'
+  -
+    name: TenGigabitEthernet 0/30
+    label: 30F
+    position: '30'
+  -
+    name: TenGigabitEthernet 0/31
+    label: 31F
+    position: '31'
+  -
+    name: TenGigabitEthernet 0/32
+    label: 32F
+    position: '32'
+  -
+    name: TenGigabitEthernet 0/33
+    label: 33F
+    position: '33'
+  -
+    name: TenGigabitEthernet 0/34
+    label: 34F
+    position: '34'
+  -
+    name: TenGigabitEthernet 0/35
+    label: 35F
+    position: '35'
+  -
+    name: TenGigabitEthernet 0/36
+    label: 36F
+    position: '36'
+  -
+    name: TenGigabitEthernet 0/37
+    label: 37F
+    position: '37'
+  -
+    name: TenGigabitEthernet 0/38
+    label: 38F
+    position: '38'
+  -
+    name: TenGigabitEthernet 0/39
+    label: 39F
+    position: '39'
+  -
+    name: TenGigabitEthernet 0/40
+    label: 40F
+    position: '40'
+  -
+    name: TenGigabitEthernet 0/41
+    label: 41F
+    position: '41'
+  -
+    name: TenGigabitEthernet 0/42
+    label: 42F
+    position: '42'
+  -
+    name: TenGigabitEthernet 0/43
+    label: 43F
+    position: '43'
+  -
+    name: TenGigabitEthernet 0/44
+    label: 44F
+    position: '44'
+  -
+    name: TenGigabitEthernet 0/45
+    label: 45F
+    position: '45'
+  -
+    name: TenGigabitEthernet 0/46
+    label: 46F
+    position: '46'
+  -
+    name: TenGigabitEthernet 0/47
+    label: 47F
+    position: '47'
+  -
+    name: TenGigabitEthernet 0/48
+    label: 48F
+    position: '48'
+  -
+    name: HundredGigabitEthernet 0/49
+    label: 49F
+    position: '49'
+  -
+    name: HundredGigabitEthernet 0/50
+    label: 50F
+    position: '50'
+  -
+    name: HundredGigabitEthernet 0/51
+    label: 51F
+    position: '51'
+  -
+    name: HundredGigabitEthernet 0/52
+    label: 52F
+    position: '52'
+  -
+    name: HundredGigabitEthernet 0/53
+    label: 53F
+    position: '53'
+  -
+    name: HundredGigabitEthernet 0/54
+    label: 54F
+    position: '54'
+  -
+    name: HundredGigabitEthernet 0/55
+    label: 55F
+    position: '55'
+  -
+    name: HundredGigabitEthernet 0/56
+    label: 56F
+    position: '56'

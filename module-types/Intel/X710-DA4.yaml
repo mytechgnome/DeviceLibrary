@@ -1,0 +1,19 @@
+---
+manufacturer: Intel
+model: X710-DA4
+part_number: X710-DA4
+comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/83965/intel-ethernet-converged-network-adapter-x710da4.html)'
+interfaces: []
+module-bays:
+  -
+    name: Ethernet/{module}/1
+    position: '1'
+  -
+    name: Ethernet/{module}/2
+    position: '2'
+  -
+    name: Ethernet/{module}/3
+    position: '3'
+  -
+    name: Ethernet/{module}/4
+    position: '4'

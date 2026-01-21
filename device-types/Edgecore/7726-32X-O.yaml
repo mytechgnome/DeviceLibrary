@@ -1,0 +1,126 @@
+---
+manufacturer: Edgecore
+model: 7726-32X-O
+slug: edgecore-7726-32x-o
+part_number: FP3ZZ7632xxxx
+u_height: 1.0
+is_full_depth: true
+comments: https://www.edge-core.com/_upload/images/2021-151-DCS204_AS7726-32X-DS-R06-20211215.pdf
+console-ports:
+  -
+    name: Console
+    type: rj-45
+interfaces:
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PSU 1
+    position: '1'
+  -
+    name: PSU 2
+    position: '2'
+  -
+    name: eth1
+    position: '1'
+  -
+    name: eth2
+    position: '2'
+  -
+    name: Ethernet0
+    position: '0'
+  -
+    name: Ethernet4
+    position: '4'
+  -
+    name: Ethernet8
+    position: '8'
+  -
+    name: Ethernet12
+    position: '12'
+  -
+    name: Ethernet16
+    position: '16'
+  -
+    name: Ethernet20
+    position: '20'
+  -
+    name: Ethernet24
+    position: '24'
+  -
+    name: Ethernet28
+    position: '28'
+  -
+    name: Ethernet32
+    position: '32'
+  -
+    name: Ethernet36
+    position: '36'
+  -
+    name: Ethernet40
+    position: '40'
+  -
+    name: Ethernet44
+    position: '44'
+  -
+    name: Ethernet48
+    position: '48'
+  -
+    name: Ethernet52
+    position: '52'
+  -
+    name: Ethernet56
+    position: '56'
+  -
+    name: Ethernet60
+    position: '60'
+  -
+    name: Ethernet64
+    position: '64'
+  -
+    name: Ethernet68
+    position: '68'
+  -
+    name: Ethernet72
+    position: '72'
+  -
+    name: Ethernet76
+    position: '76'
+  -
+    name: Ethernet80
+    position: '80'
+  -
+    name: Ethernet84
+    position: '84'
+  -
+    name: Ethernet88
+    position: '88'
+  -
+    name: Ethernet92
+    position: '92'
+  -
+    name: Ethernet96
+    position: '96'
+  -
+    name: Ethernet100
+    position: '100'
+  -
+    name: Ethernet104
+    position: '104'
+  -
+    name: Ethernet108
+    position: '108'
+  -
+    name: Ethernet112
+    position: '112'
+  -
+    name: Ethernet116
+    position: '116'
+  -
+    name: Ethernet120
+    position: '120'
+  -
+    name: Ethernet124
+    position: '124'

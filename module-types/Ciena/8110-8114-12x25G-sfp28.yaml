@@ -1,0 +1,43 @@
+---
+manufacturer: Ciena
+model: 8110 8114 12x25G SFP28
+part_number: 170-0404-900
+description: 8110/8114, MODULE, (12)25G/10G SFP28,MACSEC FRU supporting up to 300 G
+interfaces: []
+module-bays:
+  -
+    name: '{module}/1'
+    position: '1'
+  -
+    name: '{module}/2'
+    position: '2'
+  -
+    name: '{module}/3'
+    position: '3'
+  -
+    name: '{module}/4'
+    position: '4'
+  -
+    name: '{module}/5'
+    position: '5'
+  -
+    name: '{module}/6'
+    position: '6'
+  -
+    name: '{module}/7'
+    position: '7'
+  -
+    name: '{module}/8'
+    position: '8'
+  -
+    name: '{module}/9'
+    position: '9'
+  -
+    name: '{module}/10'
+    position: '10'
+  -
+    name: '{module}/11'
+    position: '11'
+  -
+    name: '{module}/12'
+    position: '12'

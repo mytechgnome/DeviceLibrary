@@ -1,0 +1,105 @@
+---
+manufacturer: MikroTik
+model: CRS326-24S+2Q+RM
+slug: mikrotik-crs326-24s-plus-2q-plus-rm
+is_full_depth: false
+u_height: 1
+interfaces:
+  -
+    name: ether1
+    type: 100base-tx
+    label: MGMT/BOOT
+    mgmt_only: true
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+    label: CONSOLE
+power-ports:
+  -
+    name: power1
+    type: iec-60320-c14
+    maximum_draw: 69
+  -
+    name: power2
+    type: iec-60320-c14
+    maximum_draw: 69
+module-bays:
+  -
+    name: sfp-sfpplus1
+    position: '1'
+  -
+    name: sfp-sfpplus2
+    position: '2'
+  -
+    name: sfp-sfpplus3
+    position: '3'
+  -
+    name: sfp-sfpplus4
+    position: '4'
+  -
+    name: sfp-sfpplus5
+    position: '5'
+  -
+    name: sfp-sfpplus6
+    position: '6'
+  -
+    name: sfp-sfpplus7
+    position: '7'
+  -
+    name: sfp-sfpplus8
+    position: '8'
+  -
+    name: sfp-sfpplus9
+    position: '9'
+  -
+    name: sfp-sfpplus10
+    position: '10'
+  -
+    name: sfp-sfpplus11
+    position: '11'
+  -
+    name: sfp-sfpplus12
+    position: '12'
+  -
+    name: sfp-sfpplus13
+    position: '13'
+  -
+    name: sfp-sfpplus14
+    position: '14'
+  -
+    name: sfp-sfpplus15
+    position: '15'
+  -
+    name: sfp-sfpplus16
+    position: '16'
+  -
+    name: sfp-sfpplus17
+    position: '17'
+  -
+    name: sfp-sfpplus18
+    position: '18'
+  -
+    name: sfp-sfpplus19
+    position: '19'
+  -
+    name: sfp-sfpplus20
+    position: '20'
+  -
+    name: sfp-sfpplus21
+    position: '21'
+  -
+    name: sfp-sfpplus22
+    position: '22'
+  -
+    name: sfp-sfpplus23
+    position: '23'
+  -
+    name: sfp-sfpplus24
+    position: '24'
+  -
+    name: qsfp-qsfpplus1
+    position: '1'
+  -
+    name: qsfp-qsfpplus2
+    position: '2'

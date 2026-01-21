@@ -1,0 +1,48 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Switch Aggregation
+slug: ubiquiti-unifi-switch-aggregation
+part_number: USW-Aggregation
+comments: |
+  UniFi Switch Aggregation, 10G 8-Port Managed Aggregation Switch, 30W, (8) SFP+
+
+  Dimensions: 442.4 x 120 x 43.7 mm (17.42 x 4.72 x 1.72")
+
+  [USW-Aggregation Techspecs]https://techspecs.ui.com/unifi/switching/usw-aggregation
+u_height: 1
+weight: 2.7
+weight_unit: kg
+airflow: passive
+front_image: true
+is_full_depth: false
+interfaces: []
+power-ports:
+  -
+    name: Input
+    type: iec-60320-c14
+    maximum_draw: 36
+module-bays:
+  -
+    name: SFP+ 1
+    position: '1'
+  -
+    name: SFP+ 2
+    position: '2'
+  -
+    name: SFP+ 3
+    position: '3'
+  -
+    name: SFP+ 4
+    position: '4'
+  -
+    name: SFP+ 5
+    position: '5'
+  -
+    name: SFP+ 6
+    position: '6'
+  -
+    name: SFP+ 7
+    position: '7'
+  -
+    name: SFP+ 8
+    position: '8'

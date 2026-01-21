@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: QSFP-100G-LR-S
+part_number: QSFP-100G-LR-S
+comments: "Cisco 100GBASE-LR QSFP28."
+interfaces: []
+module-bays:
+  -
+    name: HundredGigabitEthernet{module}

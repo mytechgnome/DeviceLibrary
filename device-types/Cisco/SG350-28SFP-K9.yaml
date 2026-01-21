@@ -1,0 +1,130 @@
+---
+manufacturer: Cisco
+model: SG350-28SFP
+slug: cisco-sg350-28sfp-k9
+part_number: SG350-28SFP-K9
+u_height: 1
+is_full_depth: false
+comments: '[SG350 Series Datasheet](https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data-sheet-c78-737359.html)'
+console-ports:
+  -
+    name: console
+    type: rj-45
+power-ports:
+  -
+    name: Power
+    type: iec-60320-c14
+    maximum_draw: 34
+interfaces:
+  -
+    name: Port-channel1
+    type: lag
+  -
+    name: Port-channel2
+    type: lag
+  -
+    name: Port-channel3
+    type: lag
+  -
+    name: Port-channel4
+    type: lag
+  -
+    name: Port-channel5
+    type: lag
+  -
+    name: Port-channel6
+    type: lag
+  -
+    name: Port-channel7
+    type: lag
+  -
+    name: Port-channel8
+    type: lag
+  -
+    name: vlan1
+    type: virtual
+module-bays:
+  -
+    name: GigabitEthernet1
+    position: '1'
+  -
+    name: GigabitEthernet2
+    position: '2'
+  -
+    name: GigabitEthernet3
+    position: '3'
+  -
+    name: GigabitEthernet4
+    position: '4'
+  -
+    name: GigabitEthernet5
+    position: '5'
+  -
+    name: GigabitEthernet6
+    position: '6'
+  -
+    name: GigabitEthernet7
+    position: '7'
+  -
+    name: GigabitEthernet8
+    position: '8'
+  -
+    name: GigabitEthernet9
+    position: '9'
+  -
+    name: GigabitEthernet10
+    position: '10'
+  -
+    name: GigabitEthernet11
+    position: '11'
+  -
+    name: GigabitEthernet12
+    position: '12'
+  -
+    name: GigabitEthernet13
+    position: '13'
+  -
+    name: GigabitEthernet14
+    position: '14'
+  -
+    name: GigabitEthernet15
+    position: '15'
+  -
+    name: GigabitEthernet16
+    position: '16'
+  -
+    name: GigabitEthernet17
+    position: '17'
+  -
+    name: GigabitEthernet18
+    position: '18'
+  -
+    name: GigabitEthernet19
+    position: '19'
+  -
+    name: GigabitEthernet20
+    position: '20'
+  -
+    name: GigabitEthernet21
+    position: '21'
+  -
+    name: GigabitEthernet22
+    position: '22'
+  -
+    name: GigabitEthernet23
+    position: '23'
+  -
+    name: GigabitEthernet24
+    position: '24'
+  -
+    name: GigabitEthernet25
+    position: '25'
+  -
+    name: GigabitEthernet26
+    position: '26'
+  -
+    name: GigabitEthernet27
+    position: '27'
+  -
+    name: GigabitEthernet28
+    position: '28'

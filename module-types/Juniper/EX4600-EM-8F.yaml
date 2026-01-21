@@ -1,0 +1,30 @@
+---
+manufacturer: Juniper
+model: EX4600-EM-8F
+part_number: EX4600-EM-8F
+interfaces: []
+module-bays:
+  -
+    name: xe-0/{module}/0
+    position: '0'
+  -
+    name: xe-0/{module}/1
+    position: '1'
+  -
+    name: xe-0/{module}/2
+    position: '2'
+  -
+    name: xe-0/{module}/3
+    position: '3'
+  -
+    name: xe-0/{module}/4
+    position: '4'
+  -
+    name: xe-0/{module}/5
+    position: '5'
+  -
+    name: xe-0/{module}/6
+    position: '6'
+  -
+    name: xe-0/{module}/7
+    position: '7'

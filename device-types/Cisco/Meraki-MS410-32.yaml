@@ -1,0 +1,143 @@
+---
+manufacturer: Cisco
+model: Meraki MS410-32
+slug: cisco-meraki-ms410-32
+part_number: ms410-32
+u_height: 1.0
+is_full_depth: false
+airflow: front-to-rear
+comments: '[MS410 Overview and Specifications ](https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS410_Overview_and_Specifications)'
+weight: 12.6
+weight_unit: lb
+interfaces: []
+module-bays:
+  -
+    name: Fan 1
+    label: Fan 1
+    position: '1'
+  -
+    name: Fan 2
+    label: Fan 2
+    position: '2'
+  -
+    name: PSU 1
+    label: PSU 1
+    position: '1'
+  -
+    name: PSU 2
+    label: PSU 2
+    position: '2'
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'
+  -
+    name: '13'
+    position: '13'
+  -
+    name: '14'
+    position: '14'
+  -
+    name: '15'
+    position: '15'
+  -
+    name: '16'
+    position: '16'
+  -
+    name: '17'
+    position: '17'
+  -
+    name: '18'
+    position: '18'
+  -
+    name: '19'
+    position: '19'
+  -
+    name: '20'
+    position: '20'
+  -
+    name: '21'
+    position: '21'
+  -
+    name: '22'
+    position: '22'
+  -
+    name: '23'
+    position: '23'
+  -
+    name: '24'
+    position: '24'
+  -
+    name: '25'
+    position: '25'
+  -
+    name: '26'
+    position: '26'
+  -
+    name: '27'
+    position: '27'
+  -
+    name: '28'
+    position: '28'
+  -
+    name: '29'
+    position: '29'
+  -
+    name: '30'
+    position: '30'
+  -
+    name: '31'
+    position: '31'
+  -
+    name: '32'
+    position: '32'
+  -
+    name: SPF+ 33
+    position: '33'
+  -
+    name: SPF+ 34
+    position: '34'
+  -
+    name: SPF+ 35
+    position: '35'
+  -
+    name: SPF+ 36
+    position: '36'
+  -
+    name: Hardware Stack Port 1
+    position: '1'
+  -
+    name: Hardware Stack Port 2
+    position: '2'

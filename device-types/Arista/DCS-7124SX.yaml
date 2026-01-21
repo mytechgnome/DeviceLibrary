@@ -1,0 +1,100 @@
+---
+manufacturer: Arista
+model: DCS-7124SX
+slug: arista-dcs-7124sx
+part_number: DCS-7124SX
+u_height: 1
+is_full_depth: false
+console-ports:
+  -
+    name: Console
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 210
+    allocated_draw: 120
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 210
+    allocated_draw: 120
+interfaces:
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: Ethernet1
+    position: '1'
+  -
+    name: Ethernet2
+    position: '2'
+  -
+    name: Ethernet3
+    position: '3'
+  -
+    name: Ethernet4
+    position: '4'
+  -
+    name: Ethernet5
+    position: '5'
+  -
+    name: Ethernet6
+    position: '6'
+  -
+    name: Ethernet7
+    position: '7'
+  -
+    name: Ethernet8
+    position: '8'
+  -
+    name: Ethernet9
+    position: '9'
+  -
+    name: Ethernet10
+    position: '10'
+  -
+    name: Ethernet11
+    position: '11'
+  -
+    name: Ethernet12
+    position: '12'
+  -
+    name: Ethernet13
+    position: '13'
+  -
+    name: Ethernet14
+    position: '14'
+  -
+    name: Ethernet15
+    position: '15'
+  -
+    name: Ethernet16
+    position: '16'
+  -
+    name: Ethernet17
+    position: '17'
+  -
+    name: Ethernet18
+    position: '18'
+  -
+    name: Ethernet19
+    position: '19'
+  -
+    name: Ethernet20
+    position: '20'
+  -
+    name: Ethernet21
+    position: '21'
+  -
+    name: Ethernet22
+    position: '22'
+  -
+    name: Ethernet23
+    position: '23'
+  -
+    name: Ethernet24
+    position: '24'

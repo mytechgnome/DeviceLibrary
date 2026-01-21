@@ -1,0 +1,12 @@
+---
+manufacturer: Extreme Networks
+model: X460-G2 VIM-2x
+part_number: '16711'
+interfaces: []
+module-bays:
+  -
+    name: 2/1
+    position: '1'
+  -
+    name: 2/2
+    position: '2'

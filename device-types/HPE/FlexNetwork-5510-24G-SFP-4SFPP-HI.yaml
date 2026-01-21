@@ -1,0 +1,114 @@
+---
+manufacturer: HPE
+model: FlexNetwork 5510-24G-SFP-4SFP+ HI
+slug: hpe-flexnetwork-5510-24g-sfp-4sfpp-hi
+part_number: JH149A
+u_height: 1
+is_full_depth: false
+comments: '[HPE FlexNetwork 5510 HI Switch Series](https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-c04925423)'
+console-ports:
+  -
+    name: console
+    type: rj-45
+  -
+    name: USB Console
+    type: usb-mini-b
+module-bays:
+  -
+    name: Power 1
+    position: '1'
+  -
+    name: Power 2
+    position: '2'
+  -
+    name: port expansion module
+    position: '3'
+  -
+    name: GigabitEthernet1/0/1
+    position: '1'
+  -
+    name: GigabitEthernet1/0/2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/3
+    position: '3'
+  -
+    name: GigabitEthernet1/0/4
+    position: '4'
+  -
+    name: GigabitEthernet1/0/5
+    position: '5'
+  -
+    name: GigabitEthernet1/0/6
+    position: '6'
+  -
+    name: GigabitEthernet1/0/7
+    position: '7'
+  -
+    name: GigabitEthernet1/0/8
+    position: '8'
+  -
+    name: GigabitEthernet1/0/9
+    position: '9'
+  -
+    name: GigabitEthernet1/0/10
+    position: '10'
+  -
+    name: GigabitEthernet1/0/11
+    position: '11'
+  -
+    name: GigabitEthernet1/0/12
+    position: '12'
+  -
+    name: GigabitEthernet1/0/13
+    position: '13'
+  -
+    name: GigabitEthernet1/0/14
+    position: '14'
+  -
+    name: GigabitEthernet1/0/15
+    position: '15'
+  -
+    name: GigabitEthernet1/0/16
+    position: '16'
+  -
+    name: GigabitEthernet1/0/17
+    position: '17'
+  -
+    name: GigabitEthernet1/0/18
+    position: '18'
+  -
+    name: GigabitEthernet1/0/19
+    position: '19'
+  -
+    name: GigabitEthernet1/0/20
+    position: '20'
+  -
+    name: GigabitEthernet1/0/21
+    position: '21'
+  -
+    name: GigabitEthernet1/0/22
+    position: '22'
+  -
+    name: GigabitEthernet1/0/23
+    position: '23'
+  -
+    name: GigabitEthernet1/0/24
+    position: '24'
+  -
+    name: Ten-GigabitEthernet1/0/25
+    position: '25'
+  -
+    name: Ten-GigabitEthernet1/0/26
+    position: '26'
+  -
+    name: Ten-GigabitEthernet1/0/27
+    position: '27'
+  -
+    name: Ten-GigabitEthernet1/0/28
+    position: '28'
+interfaces:
+  -
+    name: M-GigabitEthernet0/0/0
+    type: 1000base-t
+    mgmt_only: true

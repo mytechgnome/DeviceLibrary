@@ -1,0 +1,8 @@
+---
+manufacturer: Cisco
+model: PWR-RGD-AC-DC-400
+part_number: PWR-RGD-AC-DC-400
+comments: "Ruggedized AC/DC power supply for industrial switches."
+maximum_draw: 400
+weight: 1.61
+weight_unit: kg

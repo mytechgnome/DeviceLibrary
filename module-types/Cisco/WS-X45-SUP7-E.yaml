@@ -1,0 +1,26 @@
+---
+manufacturer: Cisco
+part_number: WS-X45-SUP7-E
+model: WS-X45-SUP7-E
+comments: '[Catalyst 4500E Supervisor Engine 7-E Datasheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/data_sheet_c78-612364.html)'
+console-ports:
+  -
+    name: Con{module}
+    type: rj-45
+interfaces:
+  -
+    name: MGT{module}
+    type: 1000base-t
+module-bays:
+  -
+    name: 10GigabitEthernet{module}/1
+    position: '1'
+  -
+    name: 10GigabitEthernet{module}/2
+    position: '2'
+  -
+    name: 10GigabitEthernet{module}/3
+    position: '3'
+  -
+    name: 10GigabitEthernet{module}/4
+    position: '4'

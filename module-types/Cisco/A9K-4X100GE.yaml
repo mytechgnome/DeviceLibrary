@@ -1,0 +1,20 @@
+---
+manufacturer: Cisco
+model: A9K-4X100GE
+part_number: A9K-4X100GE
+description: ASR 9000 4-port 100GE Line card
+comments: '[Cisco ASR 9000 Series 4-Port 100-Gigabit Ethernet LAN Line Card Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-740092.html)'
+interfaces: []
+module-bays:
+  -
+    name: HundredGigE0/{module}/0/0
+    position: '0'
+  -
+    name: HundredGigE0/{module}/0/1
+    position: '1'
+  -
+    name: HundredGigE0/{module}/0/2
+    position: '2'
+  -
+    name: HundredGigE0/{module}/0/3
+    position: '3'

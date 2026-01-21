@@ -1,0 +1,13 @@
+---
+manufacturer: Emulex
+model: LPE35002-AP
+part_number: LPE35002-AP
+comments: Emulex LPE35002-AP HBA dual-port card 32G FC
+interfaces: []
+module-bays:
+  -
+    name: FC{module}/1
+    position: '1'
+  -
+    name: FC{module}/2
+    position: '2'

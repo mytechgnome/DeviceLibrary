@@ -1,0 +1,43 @@
+---
+manufacturer: HPE
+model: FlexFabric 7900 2-port 100GbE CXP/6-port 40GbE QSFP+/4-port 10GbE SFP+ FX Module
+part_number: JH002A
+comments: '[HPE FlexFabric 7900 Switch Series - Specification](https://support.hpe.com/hpesc/public/docDisplay?docId=c04932605&docLocale=en_US)'
+interfaces:
+  -
+    name: '1'
+    type: 100gbase-x-cxp
+  -
+    name: '2'
+    type: 100gbase-x-cxp
+module-bays:
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'

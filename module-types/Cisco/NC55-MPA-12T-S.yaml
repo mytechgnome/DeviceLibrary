@@ -1,0 +1,43 @@
+---
+manufacturer: Cisco
+model: NC55-MPA-12T-S
+part_number: NC55-MPA-12T-S
+comments: NCS 5500 12X10G MPA
+interfaces: []
+module-bays:
+  -
+    name: TenGigE{module}/0
+    position: '0'
+  -
+    name: TenGigE{module}/1
+    position: '1'
+  -
+    name: TenGigE{module}/2
+    position: '2'
+  -
+    name: TenGigE{module}/3
+    position: '3'
+  -
+    name: TenGigE{module}/4
+    position: '4'
+  -
+    name: TenGigE{module}/5
+    position: '5'
+  -
+    name: TenGigE{module}/6
+    position: '6'
+  -
+    name: TenGigE{module}/7
+    position: '7'
+  -
+    name: TenGigE{module}/8
+    position: '8'
+  -
+    name: TenGigE{module}/9
+    position: '9'
+  -
+    name: TenGigE{module}/10
+    position: '10'
+  -
+    name: TenGigE{module}/11
+    position: '11'

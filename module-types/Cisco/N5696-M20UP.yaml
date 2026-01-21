@@ -1,0 +1,68 @@
+---
+manufacturer: Cisco
+model: N5696-M20UP
+part_number: N5696-M20UP
+description: 20-Port 10-Gbps Unified Port Line-Card Expansion Module
+comments: supports 1 and 10 Gigabit Ethernet SFP+, Fibre Channel at 8/4/2 Gbps, and 10-Gbps FCoE [Cisco Nexus 5600 Platform 40-Gbps Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5624q-switch/datasheet-c78-733100.html)
+interfaces: []
+module-bays:
+  -
+    name: Ethernet{module}/1
+    position: '1'
+  -
+    name: Ethernet{module}/2
+    position: '2'
+  -
+    name: Ethernet{module}/3
+    position: '3'
+  -
+    name: Ethernet{module}/4
+    position: '4'
+  -
+    name: Ethernet{module}/5
+    position: '5'
+  -
+    name: Ethernet{module}/6
+    position: '6'
+  -
+    name: Ethernet{module}/7
+    position: '7'
+  -
+    name: Ethernet{module}/8
+    position: '8'
+  -
+    name: Ethernet{module}/9
+    position: '9'
+  -
+    name: Ethernet{module}/10
+    position: '10'
+  -
+    name: Ethernet{module}/11
+    position: '11'
+  -
+    name: Ethernet{module}/12
+    position: '12'
+  -
+    name: Ethernet{module}/13
+    position: '13'
+  -
+    name: Ethernet{module}/14
+    position: '14'
+  -
+    name: Ethernet{module}/15
+    position: '15'
+  -
+    name: Ethernet{module}/16
+    position: '16'
+  -
+    name: Ethernet{module}/17
+    position: '17'
+  -
+    name: Ethernet{module}/18
+    position: '18'
+  -
+    name: Ethernet{module}/19
+    position: '19'
+  -
+    name: Ethernet{module}/20
+    position: '20'

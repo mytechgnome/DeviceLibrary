@@ -1,0 +1,115 @@
+---
+manufacturer: Cisco
+model: ASR-9902
+slug: cisco-asr-9902
+part_number: ASR-9902
+u_height: 2.0
+weight: 21.04
+weight_unit: kg
+is_full_depth: true
+subdevice_role: parent
+airflow: front-to-rear
+front_image: true
+comments: '[Cisco ASR 9902 Compact High-Performance Router Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744663.html)'
+module-bays:
+  -
+    name: RP0
+    position: 0/RP0
+    description: Route Processor
+  -
+    name: RP1
+    position: 0/RP1
+    description: Route Processor
+  -
+    name: PM0
+    position: 0/PT0-PM0
+    description: Power module
+  -
+    name: PM1
+    position: 0/PT0-PM1
+    description: Power module
+  -
+    name: FAN0
+    position: 0/FT0
+    description: Fan tray
+  -
+    name: FAN1
+    position: 0/FT1
+    description: Fan tray
+  -
+    name: FAN2
+    position: 0/FT2
+    description: Fan tray
+  -
+    name: TenGigE0/0/0/0
+    position: '0'
+  -
+    name: TenGigE0/0/0/1
+    position: '1'
+  -
+    name: TenGigE0/0/0/2
+    position: '2'
+  -
+    name: TenGigE0/0/0/3
+    position: '3'
+  -
+    name: TenGigE0/0/0/4
+    position: '4'
+  -
+    name: TenGigE0/0/0/5
+    position: '5'
+  -
+    name: TenGigE0/0/0/6
+    position: '6'
+  -
+    name: TenGigE0/0/0/7
+    position: '7'
+  -
+    name: HundredGigE0/0/0/10
+    position: '10'
+  -
+    name: HundredGigE0/0/0/11
+    position: '11'
+  -
+    name: TenGigE0/0/0/22
+    position: '22'
+  -
+    name: TenGigE0/0/0/23
+    position: '23'
+  -
+    name: TenGigE0/0/0/24
+    position: '24'
+  -
+    name: TenGigE0/0/0/25
+    position: '25'
+  -
+    name: HundredGigE0/0/0/36
+    position: '36'
+  -
+    name: HundredGigE0/0/0/37
+    position: '37'
+  -
+    name: TenGigE0/0/0/40
+    position: '40'
+  -
+    name: TenGigE0/0/0/41
+    position: '41'
+  -
+    name: TenGigE0/0/0/42
+    position: '42'
+  -
+    name: TenGigE0/0/0/43
+    position: '43'
+  -
+    name: TenGigE0/0/0/44
+    position: '44'
+  -
+    name: TenGigE0/0/0/45
+    position: '45'
+  -
+    name: TenGigE0/0/0/46
+    position: '46'
+  -
+    name: TenGigE0/0/0/47
+    position: '47'
+interfaces: []

@@ -1,0 +1,70 @@
+---
+manufacturer: Cisco
+model: Catalyst 8500-12X
+slug: cisco-c8500-12x
+part_number: C8500-12X
+u_height: 1
+is_full_depth: true
+weight: 20.25
+weight_unit: lb
+front_image: true
+rear_image: true
+comments: '[Cisco Catalyst 8500 Series Edge Platforms Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.html)'
+console-ports:
+  -
+    name: con 0
+    type: rj-45
+  -
+    name: usb
+    type: usb-micro-b
+power-ports:
+  -
+    name: P0
+    type: iec-60320-c14
+    maximum_draw: 750
+  -
+    name: P1
+    type: iec-60320-c14
+    maximum_draw: 750
+interfaces:
+  -
+    name: GigabitEthernet0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: TenGigabitEthernet0/0/0
+    position: '0'
+  -
+    name: TenGigabitEthernet0/0/1
+    position: '1'
+  -
+    name: TenGigabitEthernet0/0/2
+    position: '2'
+  -
+    name: TenGigabitEthernet0/0/3
+    position: '3'
+  -
+    name: TenGigabitEthernet0/0/4
+    position: '4'
+  -
+    name: TenGigabitEthernet0/0/5
+    position: '5'
+  -
+    name: TenGigabitEthernet0/0/6
+    position: '6'
+  -
+    name: TenGigabitEthernet0/0/7
+    position: '7'
+  -
+    name: TenGigabitEthernet0/0/8
+    position: '8'
+  -
+    name: TenGigabitEthernet0/0/9
+    position: '9'
+  -
+    name: TenGigabitEthernet0/0/10
+    position: '10'
+  -
+    name: TenGigabitEthernet0/0/11
+    position: '11'

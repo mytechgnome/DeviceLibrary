@@ -1,0 +1,10 @@
+---
+manufacturer: Supermicro
+model: Add-on Card AOC-STGN-i1S
+part_number: AOC-STGN-i1S
+description: Intel 82599EN 10GbE controller with single SFP+ port
+interfaces: []
+module-bays:
+  -
+    name: Gig-E 1
+    position: '1'

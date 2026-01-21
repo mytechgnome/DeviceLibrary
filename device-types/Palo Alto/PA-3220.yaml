@@ -1,0 +1,98 @@
+---
+manufacturer: Palo Alto
+model: PA-3220
+slug: palo-alto-pa-3220
+part_number: PA-3220
+u_height: 2
+is_full_depth: true
+front_image: true
+rear_image: true
+console-ports:
+  -
+    name: console
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 650
+    allocated_draw: 240
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 650
+    allocated_draw: 240
+interfaces:
+  -
+    name: ethernet1/1
+    type: 1000base-t
+  -
+    name: ethernet1/2
+    type: 1000base-t
+  -
+    name: ethernet1/3
+    type: 1000base-t
+  -
+    name: ethernet1/4
+    type: 1000base-t
+  -
+    name: ethernet1/5
+    type: 1000base-t
+  -
+    name: ethernet1/6
+    type: 1000base-t
+  -
+    name: ethernet1/7
+    type: 1000base-t
+  -
+    name: ethernet1/8
+    type: 1000base-t
+  -
+    name: ethernet1/9
+    type: 1000base-t
+  -
+    name: ethernet1/10
+    type: 1000base-t
+  -
+    name: ethernet1/11
+    type: 1000base-t
+  -
+    name: ethernet1/12
+    type: 1000base-t
+  -
+    name: ha1-a
+    type: 1000base-t
+  -
+    name: ha1-b
+    type: 1000base-t
+  -
+    name: management
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: ethernet1/13
+    position: '13'
+  -
+    name: ethernet1/14
+    position: '14'
+  -
+    name: ethernet1/15
+    position: '15'
+  -
+    name: ethernet1/16
+    position: '16'
+  -
+    name: ethernet1/17
+    position: '17'
+  -
+    name: ethernet1/18
+    position: '18'
+  -
+    name: ethernet1/19
+    position: '19'
+  -
+    name: ethernet1/20
+    position: '20'
+  -
+    name: hsci

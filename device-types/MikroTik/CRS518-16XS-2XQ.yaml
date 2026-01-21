@@ -1,0 +1,109 @@
+---
+manufacturer: MikroTik
+model: CRS518-16XS-2XQ
+slug: mikrotik-crs518-16xs-2xq
+part_number: CRS518-16XS-2XQ
+is_full_depth: false
+airflow: front-to-rear
+u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/crs518_16xs_2xq).
+
+  Careful, there is only qsfp28-1-1 and qsfp28-2-1 interfaces for 100Gb,
+  don't forget to add the other if you use breakout cables.
+front_image: false
+rear_image: false
+weight: 4545
+weight_unit: g
+is_powered: true
+interfaces:
+  -
+    name: ether1
+    type: 1000base-t
+    mgmt_only: true
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+  -
+    name: USB
+    type: usb-a
+module-bays:
+  -
+    name: power1
+    position: power1
+    description: Power module
+  -
+    name: power2
+    position: power2
+    description: Power module
+  -
+    name: fan1
+    position: '1'
+    description: Fan tray
+  -
+    name: fan2
+    position: '2'
+    description: Fan tray
+  -
+    name: fan3
+    position: '3'
+    description: Fan tray
+  -
+    name: fan4
+    position: '4'
+    description: Fan tray
+  -
+    name: sfp28-1
+    position: '1'
+  -
+    name: sfp28-2
+    position: '2'
+  -
+    name: sfp28-3
+    position: '3'
+  -
+    name: sfp28-4
+    position: '4'
+  -
+    name: sfp28-5
+    position: '5'
+  -
+    name: sfp28-6
+    position: '6'
+  -
+    name: sfp28-7
+    position: '7'
+  -
+    name: sfp28-8
+    position: '8'
+  -
+    name: sfp28-9
+    position: '9'
+  -
+    name: sfp28-10
+    position: '10'
+  -
+    name: sfp28-11
+    position: '11'
+  -
+    name: sfp28-12
+    position: '12'
+  -
+    name: sfp28-13
+    position: '13'
+  -
+    name: sfp28-14
+    position: '14'
+  -
+    name: sfp28-15
+    position: '15'
+  -
+    name: sfp28-16
+    position: '16'
+  -
+    name: qsfp28-1-1
+    position: '1'
+  -
+    name: qsfp28-2-1
+    position: '1'

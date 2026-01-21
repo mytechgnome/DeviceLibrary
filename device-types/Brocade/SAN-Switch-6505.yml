@@ -1,0 +1,100 @@
+---
+manufacturer: Brocade
+model: SAN Switch 6505
+slug: brocade-6505
+comments: '[Data Sheet](https://docs.broadcom.com/doc/12379859)'
+part_number: '6505'
+is_full_depth: true
+u_height: 1
+weight: 9.2
+weight_unit: kg
+airflow: rear-to-front
+interfaces:
+  -
+    name: mgmt1
+    type: 100base-tx
+    mgmt_only: true
+console-ports:
+  -
+    name: Console
+    label: Serial Console
+    type: rj-45
+module-bays:
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: PSU2
+    position: '2'
+  -
+    name: fc0
+    position: '0'
+  -
+    name: fc1
+    position: '1'
+  -
+    name: fc2
+    position: '2'
+  -
+    name: fc3
+    position: '3'
+  -
+    name: fc4
+    position: '4'
+  -
+    name: fc5
+    position: '5'
+  -
+    name: fc6
+    position: '6'
+  -
+    name: fc7
+    position: '7'
+  -
+    name: fc8
+    position: '8'
+  -
+    name: fc9
+    position: '9'
+  -
+    name: fc10
+    position: '10'
+  -
+    name: fc11
+    position: '11'
+  -
+    name: fc12
+    position: '12'
+  -
+    name: fc13
+    position: '13'
+  -
+    name: fc14
+    position: '14'
+  -
+    name: fc15
+    position: '15'
+  -
+    name: fc16
+    position: '16'
+  -
+    name: fc17
+    position: '17'
+  -
+    name: fc18
+    position: '18'
+  -
+    name: fc19
+    position: '19'
+  -
+    name: fc20
+    position: '20'
+  -
+    name: fc21
+    position: '21'
+  -
+    name: fc22
+    position: '22'
+  -
+    name: fc23
+    position: '23'

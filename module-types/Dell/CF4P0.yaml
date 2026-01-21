@@ -1,0 +1,13 @@
+---
+manufacturer: Dell
+model: CF4P0
+part_number: CF4P0
+comments: Dell Broadcom 57416 Dual Port SFP+ 10Gb LOM Mezzanine Card
+interfaces: []
+module-bays:
+  -
+    name: pcie{module}.nic1
+    position: '1'
+  -
+    name: pcie{module}.nic2
+    position: '2'

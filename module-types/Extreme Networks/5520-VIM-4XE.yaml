@@ -1,0 +1,21 @@
+---
+manufacturer: Extreme Networks
+model: 5520-VIM-4XE
+part_number: 5520-VIM-4XE
+comments: 4 x 10Gbase-X SFP+ ports (unpopulated), MACSec capable
+weight: 200
+weight_unit: g
+interfaces: []
+module-bays:
+  -
+    name: VIM1
+    position: '1'
+  -
+    name: VIM2
+    position: '2'
+  -
+    name: VIM3
+    position: '3'
+  -
+    name: VIM4
+    position: '4'

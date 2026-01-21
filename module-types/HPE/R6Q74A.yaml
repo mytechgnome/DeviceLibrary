@@ -1,0 +1,17 @@
+---
+manufacturer: HPE
+model: LTO-9 Ultrium FC
+part_number: R6Q74A
+comments: HPE MSL LTO-9 Ultrium 45000 FC Half Height Drive Kit
+interfaces:
+  -
+    name: mgmt{module}
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: FC/{module}/1
+    position: '1'
+  -
+    name: FC/{module}/2
+    position: '2'

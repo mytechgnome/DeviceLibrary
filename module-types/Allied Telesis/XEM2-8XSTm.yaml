@@ -1,0 +1,30 @@
+---
+manufacturer: Allied Telesis
+model: XEM2-8XSTm
+part_number: AT-XEM2-8XSTm
+interfaces:
+  -
+    name: port1.{module}.1
+    type: 10gbase-t
+  -
+    name: port1.{module}.2
+    type: 10gbase-t
+  -
+    name: port1.{module}.3
+    type: 10gbase-t
+  -
+    name: port1.{module}.4
+    type: 10gbase-t
+module-bays:
+  -
+    name: port1.{module}.5
+    position: '5'
+  -
+    name: port1.{module}.6
+    position: '6'
+  -
+    name: port1.{module}.7
+    position: '7'
+  -
+    name: port1.{module}.8
+    position: '8'

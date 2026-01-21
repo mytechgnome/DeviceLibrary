@@ -1,0 +1,95 @@
+---
+manufacturer: Huawei
+model: NE40E-M2K-B
+slug: huawei-ne40e-m2k-b
+is_full_depth: false
+u_height: 2
+comments: '[NE40E-M2K-B Documentation](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100168834)'
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: Power 1
+    position: '1'
+  -
+    name: Power 2
+    position: '2'
+  -
+    name: GigabitEthernet0/3/4
+    position: '4'
+  -
+    name: GigabitEthernet0/3/5
+    position: '5'
+  -
+    name: GigabitEthernet0/3/6
+    position: '6'
+  -
+    name: GigabitEthernet0/3/7
+    position: '7'
+  -
+    name: GigabitEthernet0/3/8
+    position: '8'
+  -
+    name: GigabitEthernet0/3/9
+    position: '9'
+  -
+    name: GigabitEthernet0/3/10
+    position: '10'
+  -
+    name: GigabitEthernet0/3/11
+    position: '11'
+  -
+    name: GigabitEthernet0/3/12
+    position: '12'
+  -
+    name: GigabitEthernet0/3/13
+    position: '13'
+  -
+    name: GigabitEthernet0/3/14
+    position: '14'
+  -
+    name: GigabitEthernet0/3/15
+    position: '15'
+  -
+    name: GigabitEthernet0/3/16
+    position: '16'
+  -
+    name: GigabitEthernet0/3/17
+    position: '17'
+  -
+    name: GigabitEthernet0/3/18
+    position: '18'
+  -
+    name: GigabitEthernet0/3/19
+    position: '19'
+  -
+    name: GigabitEthernet0/3/20
+    position: '20'
+  -
+    name: GigabitEthernet0/3/21
+    position: '21'
+  -
+    name: GigabitEthernet0/3/22
+    position: '22'
+  -
+    name: GigabitEthernet0/3/23
+    position: '23'
+  -
+    name: 100GE0/3/0
+    position: '0'
+  -
+    name: 100GE0/3/1
+    position: '1'
+  -
+    name: 100GE0/3/2
+    position: '2'
+  -
+    name: 100GE0/3/3
+    position: '3'
+interfaces:
+  -
+    name: GigabitEthernet0/0/0
+    type: 1000base-t
+    mgmt_only: true

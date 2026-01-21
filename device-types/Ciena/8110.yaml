@@ -1,0 +1,144 @@
+---
+manufacturer: Ciena
+model: '8110'
+slug: ciena-8110
+part_number: 170-8110-900
+u_height: 2
+is_full_depth: false
+weight: 8.16
+weight_unit: kg
+airflow: front-to-rear
+front_image: true
+console-ports:
+  -
+    name: CONSOLE
+    type: usb-c
+  -
+    name: USB
+    type: usb-c
+  -
+    name: 1 PPS/10 MHz
+    description: Mini-COAX 1PPS/ToD SMB interface in or out (software selectable).
+    type: other
+  -
+    name: ANT
+    description: GNSS/GPS antenna mini SMB.
+    type: other
+  -
+    name: SYNC
+    type: rj-45
+    description: RJ-45 sync port
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PS A
+    position: A
+    description: |
+      170-0336-900 8110/8114,DC PLUGGABLE POWER SUPPLY 48V
+      170-0337-900 8110/8114,AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: PS B
+    position: B
+    description: |
+      170-0336-900 8110/8114,DC PLUGGABLE POWER SUPPLY 48V
+      170-0337-900 8110/8114,AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: Module 1
+    position: '1'
+    description: |
+      * 170-0339-900 2x400G QSFP-DD
+      * 170-0339-901 2x400G QSFP-DD-macsec
+      * 170-0340-900 8x100G QSFP28
+      * 170-0389-900 2x400G CFP2-DCO
+      * 170-0404-900 12x25G SFP28
+  -
+    name: Module 2
+    position: '2'
+    description: |
+      * 170-0339-900 2x400G QSFP-DD
+      * 170-0339-901 2x400G QSFP-DD-macsec
+      * 170-0340-900 8x100G QSFP28
+      * 170-0389-900 2x400G CFP2-DCO
+      * 170-0404-900 12x25G SFP28
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'
+  -
+    name: '13'
+    position: '13'
+  -
+    name: '14'
+    position: '14'
+  -
+    name: '15'
+    position: '15'
+  -
+    name: '16'
+    position: '16'
+  -
+    name: '17'
+    position: '17'
+  -
+    name: '18'
+    position: '18'
+  -
+    name: '19'
+    position: '19'
+  -
+    name: '20'
+    position: '20'
+  -
+    name: '21'
+    position: '21'
+  -
+    name: '22'
+    position: '22'
+  -
+    name: '23'
+    position: '23'
+  -
+    name: '24'
+    position: '24'
+  -
+    name: '25'
+    position: '25'
+  -
+    name: '26'
+    position: '26'

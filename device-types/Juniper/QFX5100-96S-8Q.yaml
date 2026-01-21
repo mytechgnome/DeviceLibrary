@@ -1,0 +1,639 @@
+---
+manufacturer: Juniper
+model: QFX5100-96S-8Q
+slug: juniper-qfx5100-96s-8q
+part_number: QFX5100-96S-8Q
+u_height: 2
+weight: 14.74
+weight_unit: kg
+airflow: front-to-rear
+front_image: true
+is_full_depth: true
+interfaces:
+  -
+    name: em0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PSU0
+    position: '0'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: FAN0
+    position: '0'
+  -
+    name: FAN1
+    position: '1'
+  -
+    name: FAN2
+    position: '2'
+  -
+    name: ge-0/0/0
+    position: '0'
+  -
+    name: ge-0/0/1
+    position: '1'
+  -
+    name: ge-0/0/2
+    position: '2'
+  -
+    name: ge-0/0/3
+    position: '3'
+  -
+    name: ge-0/0/4
+    position: '4'
+  -
+    name: ge-0/0/5
+    position: '5'
+  -
+    name: ge-0/0/6
+    position: '6'
+  -
+    name: ge-0/0/7
+    position: '7'
+  -
+    name: ge-0/0/8
+    position: '8'
+  -
+    name: ge-0/0/9
+    position: '9'
+  -
+    name: ge-0/0/10
+    position: '10'
+  -
+    name: ge-0/0/11
+    position: '11'
+  -
+    name: ge-0/0/12
+    position: '12'
+  -
+    name: ge-0/0/13
+    position: '13'
+  -
+    name: ge-0/0/14
+    position: '14'
+  -
+    name: ge-0/0/15
+    position: '15'
+  -
+    name: ge-0/0/16
+    position: '16'
+  -
+    name: ge-0/0/17
+    position: '17'
+  -
+    name: ge-0/0/18
+    position: '18'
+  -
+    name: ge-0/0/19
+    position: '19'
+  -
+    name: ge-0/0/20
+    position: '20'
+  -
+    name: ge-0/0/21
+    position: '21'
+  -
+    name: ge-0/0/22
+    position: '22'
+  -
+    name: ge-0/0/23
+    position: '23'
+  -
+    name: ge-0/0/24
+    position: '24'
+  -
+    name: ge-0/0/25
+    position: '25'
+  -
+    name: ge-0/0/26
+    position: '26'
+  -
+    name: ge-0/0/27
+    position: '27'
+  -
+    name: ge-0/0/28
+    position: '28'
+  -
+    name: ge-0/0/29
+    position: '29'
+  -
+    name: ge-0/0/30
+    position: '30'
+  -
+    name: ge-0/0/31
+    position: '31'
+  -
+    name: ge-0/0/32
+    position: '32'
+  -
+    name: ge-0/0/33
+    position: '33'
+  -
+    name: ge-0/0/34
+    position: '34'
+  -
+    name: ge-0/0/35
+    position: '35'
+  -
+    name: ge-0/0/36
+    position: '36'
+  -
+    name: ge-0/0/37
+    position: '37'
+  -
+    name: ge-0/0/38
+    position: '38'
+  -
+    name: ge-0/0/39
+    position: '39'
+  -
+    name: ge-0/0/40
+    position: '40'
+  -
+    name: ge-0/0/41
+    position: '41'
+  -
+    name: ge-0/0/42
+    position: '42'
+  -
+    name: ge-0/0/43
+    position: '43'
+  -
+    name: ge-0/0/44
+    position: '44'
+  -
+    name: ge-0/0/45
+    position: '45'
+  -
+    name: ge-0/0/46
+    position: '46'
+  -
+    name: ge-0/0/47
+    position: '47'
+  -
+    name: ge-0/0/48
+    position: '48'
+  -
+    name: ge-0/0/49
+    position: '49'
+  -
+    name: ge-0/0/50
+    position: '50'
+  -
+    name: ge-0/0/51
+    position: '51'
+  -
+    name: ge-0/0/52
+    position: '52'
+  -
+    name: ge-0/0/53
+    position: '53'
+  -
+    name: ge-0/0/54
+    position: '54'
+  -
+    name: ge-0/0/55
+    position: '55'
+  -
+    name: ge-0/0/56
+    position: '56'
+  -
+    name: ge-0/0/57
+    position: '57'
+  -
+    name: ge-0/0/58
+    position: '58'
+  -
+    name: ge-0/0/59
+    position: '59'
+  -
+    name: ge-0/0/60
+    position: '60'
+  -
+    name: ge-0/0/61
+    position: '61'
+  -
+    name: ge-0/0/62
+    position: '62'
+  -
+    name: ge-0/0/63
+    position: '63'
+  -
+    name: ge-0/0/64
+    position: '64'
+  -
+    name: ge-0/0/65
+    position: '65'
+  -
+    name: ge-0/0/66
+    position: '66'
+  -
+    name: ge-0/0/67
+    position: '67'
+  -
+    name: ge-0/0/68
+    position: '68'
+  -
+    name: ge-0/0/69
+    position: '69'
+  -
+    name: ge-0/0/70
+    position: '70'
+  -
+    name: ge-0/0/71
+    position: '71'
+  -
+    name: ge-0/0/72
+    position: '72'
+  -
+    name: ge-0/0/73
+    position: '73'
+  -
+    name: ge-0/0/74
+    position: '74'
+  -
+    name: ge-0/0/75
+    position: '75'
+  -
+    name: ge-0/0/76
+    position: '76'
+  -
+    name: ge-0/0/77
+    position: '77'
+  -
+    name: ge-0/0/78
+    position: '78'
+  -
+    name: ge-0/0/79
+    position: '79'
+  -
+    name: ge-0/0/80
+    position: '80'
+  -
+    name: ge-0/0/81
+    position: '81'
+  -
+    name: ge-0/0/82
+    position: '82'
+  -
+    name: ge-0/0/83
+    position: '83'
+  -
+    name: ge-0/0/84
+    position: '84'
+  -
+    name: ge-0/0/85
+    position: '85'
+  -
+    name: ge-0/0/86
+    position: '86'
+  -
+    name: ge-0/0/87
+    position: '87'
+  -
+    name: ge-0/0/88
+    position: '88'
+  -
+    name: ge-0/0/89
+    position: '89'
+  -
+    name: ge-0/0/90
+    position: '90'
+  -
+    name: ge-0/0/91
+    position: '91'
+  -
+    name: ge-0/0/92
+    position: '92'
+  -
+    name: ge-0/0/93
+    position: '93'
+  -
+    name: ge-0/0/94
+    position: '94'
+  -
+    name: ge-0/0/95
+    position: '95'
+  -
+    name: xe-0/0/0
+    position: '0'
+  -
+    name: xe-0/0/1
+    position: '1'
+  -
+    name: xe-0/0/2
+    position: '2'
+  -
+    name: xe-0/0/3
+    position: '3'
+  -
+    name: xe-0/0/4
+    position: '4'
+  -
+    name: xe-0/0/5
+    position: '5'
+  -
+    name: xe-0/0/6
+    position: '6'
+  -
+    name: xe-0/0/7
+    position: '7'
+  -
+    name: xe-0/0/8
+    position: '8'
+  -
+    name: xe-0/0/9
+    position: '9'
+  -
+    name: xe-0/0/10
+    position: '10'
+  -
+    name: xe-0/0/11
+    position: '11'
+  -
+    name: xe-0/0/12
+    position: '12'
+  -
+    name: xe-0/0/13
+    position: '13'
+  -
+    name: xe-0/0/14
+    position: '14'
+  -
+    name: xe-0/0/15
+    position: '15'
+  -
+    name: xe-0/0/16
+    position: '16'
+  -
+    name: xe-0/0/17
+    position: '17'
+  -
+    name: xe-0/0/18
+    position: '18'
+  -
+    name: xe-0/0/19
+    position: '19'
+  -
+    name: xe-0/0/20
+    position: '20'
+  -
+    name: xe-0/0/21
+    position: '21'
+  -
+    name: xe-0/0/22
+    position: '22'
+  -
+    name: xe-0/0/23
+    position: '23'
+  -
+    name: xe-0/0/24
+    position: '24'
+  -
+    name: xe-0/0/25
+    position: '25'
+  -
+    name: xe-0/0/26
+    position: '26'
+  -
+    name: xe-0/0/27
+    position: '27'
+  -
+    name: xe-0/0/28
+    position: '28'
+  -
+    name: xe-0/0/29
+    position: '29'
+  -
+    name: xe-0/0/30
+    position: '30'
+  -
+    name: xe-0/0/31
+    position: '31'
+  -
+    name: xe-0/0/32
+    position: '32'
+  -
+    name: xe-0/0/33
+    position: '33'
+  -
+    name: xe-0/0/34
+    position: '34'
+  -
+    name: xe-0/0/35
+    position: '35'
+  -
+    name: xe-0/0/36
+    position: '36'
+  -
+    name: xe-0/0/37
+    position: '37'
+  -
+    name: xe-0/0/38
+    position: '38'
+  -
+    name: xe-0/0/39
+    position: '39'
+  -
+    name: xe-0/0/40
+    position: '40'
+  -
+    name: xe-0/0/41
+    position: '41'
+  -
+    name: xe-0/0/42
+    position: '42'
+  -
+    name: xe-0/0/43
+    position: '43'
+  -
+    name: xe-0/0/44
+    position: '44'
+  -
+    name: xe-0/0/45
+    position: '45'
+  -
+    name: xe-0/0/46
+    position: '46'
+  -
+    name: xe-0/0/47
+    position: '47'
+  -
+    name: xe-0/0/48
+    position: '48'
+  -
+    name: xe-0/0/49
+    position: '49'
+  -
+    name: xe-0/0/50
+    position: '50'
+  -
+    name: xe-0/0/51
+    position: '51'
+  -
+    name: xe-0/0/52
+    position: '52'
+  -
+    name: xe-0/0/53
+    position: '53'
+  -
+    name: xe-0/0/54
+    position: '54'
+  -
+    name: xe-0/0/55
+    position: '55'
+  -
+    name: xe-0/0/56
+    position: '56'
+  -
+    name: xe-0/0/57
+    position: '57'
+  -
+    name: xe-0/0/58
+    position: '58'
+  -
+    name: xe-0/0/59
+    position: '59'
+  -
+    name: xe-0/0/60
+    position: '60'
+  -
+    name: xe-0/0/61
+    position: '61'
+  -
+    name: xe-0/0/62
+    position: '62'
+  -
+    name: xe-0/0/63
+    position: '63'
+  -
+    name: xe-0/0/64
+    position: '64'
+  -
+    name: xe-0/0/65
+    position: '65'
+  -
+    name: xe-0/0/66
+    position: '66'
+  -
+    name: xe-0/0/67
+    position: '67'
+  -
+    name: xe-0/0/68
+    position: '68'
+  -
+    name: xe-0/0/69
+    position: '69'
+  -
+    name: xe-0/0/70
+    position: '70'
+  -
+    name: xe-0/0/71
+    position: '71'
+  -
+    name: xe-0/0/72
+    position: '72'
+  -
+    name: xe-0/0/73
+    position: '73'
+  -
+    name: xe-0/0/74
+    position: '74'
+  -
+    name: xe-0/0/75
+    position: '75'
+  -
+    name: xe-0/0/76
+    position: '76'
+  -
+    name: xe-0/0/77
+    position: '77'
+  -
+    name: xe-0/0/78
+    position: '78'
+  -
+    name: xe-0/0/79
+    position: '79'
+  -
+    name: xe-0/0/80
+    position: '80'
+  -
+    name: xe-0/0/81
+    position: '81'
+  -
+    name: xe-0/0/82
+    position: '82'
+  -
+    name: xe-0/0/83
+    position: '83'
+  -
+    name: xe-0/0/84
+    position: '84'
+  -
+    name: xe-0/0/85
+    position: '85'
+  -
+    name: xe-0/0/86
+    position: '86'
+  -
+    name: xe-0/0/87
+    position: '87'
+  -
+    name: xe-0/0/88
+    position: '88'
+  -
+    name: xe-0/0/89
+    position: '89'
+  -
+    name: xe-0/0/90
+    position: '90'
+  -
+    name: xe-0/0/91
+    position: '91'
+  -
+    name: xe-0/0/92
+    position: '92'
+  -
+    name: xe-0/0/93
+    position: '93'
+  -
+    name: xe-0/0/94
+    position: '94'
+  -
+    name: xe-0/0/95
+    position: '95'
+  -
+    name: et-0/0/96
+    position: '96'
+  -
+    name: et-0/0/97
+    position: '97'
+  -
+    name: et-0/0/98
+    position: '98'
+  -
+    name: et-0/0/99
+    position: '99'
+  -
+    name: et-0/0/100
+    position: '100'
+  -
+    name: et-0/0/101
+    position: '101'
+  -
+    name: et-0/0/102
+    position: '102'
+  -
+    name: et-0/0/103
+    position: '103'
+  -
+    name: em1
+    position: '1'
+console-ports:
+  -
+    name: console
+    type: rj-45

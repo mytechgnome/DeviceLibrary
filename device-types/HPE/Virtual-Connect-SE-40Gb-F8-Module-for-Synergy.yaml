@@ -1,0 +1,53 @@
+---
+manufacturer: HPE
+model: Virtual Connect SE 40Gb F8 Module for Synergy
+slug: hpe-virtual-connect-se-40gb-f8-module-for-synergy
+comments: '[QuickSpecs](https://www.hpe.com/psnow/doc/c04815258)'
+part_number: 794502-B23
+weight: 5
+weight_unit: kg
+u_height: 0
+is_full_depth: false
+subdevice_role: child
+interfaces:
+  -
+    name: interconnect {module}, L1
+    description: CXP (120 Gb/s Interconnect Link)
+    type: other
+  -
+    name: interconnect {module}, L2
+    description: CXP (120 Gb/s Interconnect Link)
+    type: other
+  -
+    name: interconnect {module}, L3
+    description: CXP (120 Gb/s Interconnect Link)
+    type: other
+  -
+    name: interconnect {module}, L4
+    description: CXP (120 Gb/s Interconnect Link)
+    type: other
+module-bays:
+  -
+    name: interconnect {module}, Q1
+    position: '1'
+  -
+    name: interconnect {module}, Q2
+    position: '2'
+  -
+    name: interconnect {module}, Q3
+    position: '3'
+  -
+    name: interconnect {module}, Q4
+    position: '4'
+  -
+    name: interconnect {module}, Q5
+    position: '5'
+  -
+    name: interconnect {module}, Q6
+    position: '6'
+  -
+    name: interconnect {module}, Q7
+    position: '7'
+  -
+    name: interconnect {module}, Q8
+    position: '8'

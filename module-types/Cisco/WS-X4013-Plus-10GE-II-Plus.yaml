@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+part_number: WS-X4013+10GE-II-Plus
+model: WS-X4013+10GE-II-Plus
+console-ports:
+  -
+    name: Con{module}
+    type: rj-45
+interfaces:
+  -
+    name: MGT{module}
+    type: 1000base-t
+module-bays:
+  -
+    name: 10GigabitEthernet{module}/1
+    position: '1'
+  -
+    name: 10GigabitEthernet{module}/2
+    position: '2'
+  -
+    name: 10GigabitEthernet{module}/3
+    position: '3'
+  -
+    name: 10GigabitEthernet{module}/4
+    position: '4'

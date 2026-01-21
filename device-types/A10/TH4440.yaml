@@ -1,0 +1,113 @@
+---
+manufacturer: A10
+model: Thunder 4440 ADC
+slug: a10-thunder-4440-adc
+part_number: TH4440
+u_height: 1
+comments: '[A10 Thunder 4440 Applcation Delivery Controller Datasheet](https://www.a10networks.com/wp-content/uploads/A10-DS-Thunder-ADC.pdf)'
+is_full_depth: true
+airflow: front-to-rear
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PSU1
+    position: PSU1
+  -
+    name: PSU2
+    position: PSU2
+  -
+    name: eth1
+    position: '1'
+  -
+    name: eth2
+    position: '2'
+  -
+    name: eth3
+    position: '3'
+  -
+    name: eth4
+    position: '4'
+  -
+    name: eth5
+    position: '5'
+  -
+    name: eth6
+    position: '6'
+  -
+    name: eth7
+    position: '7'
+  -
+    name: eth8
+    position: '8'
+  -
+    name: eth9
+    position: '9'
+  -
+    name: eth10
+    position: '10'
+  -
+    name: eth11
+    position: '11'
+  -
+    name: eth12
+    position: '12'
+  -
+    name: eth13
+    position: '13'
+  -
+    name: eth14
+    position: '14'
+  -
+    name: eth15
+    position: '15'
+  -
+    name: eth16
+    position: '16'
+  -
+    name: eth17
+    position: '17'
+  -
+    name: eth18
+    position: '18'
+  -
+    name: eth19
+    position: '19'
+  -
+    name: eth20
+    position: '20'
+  -
+    name: eth21
+    position: '21'
+  -
+    name: eth22
+    position: '22'
+  -
+    name: eth23
+    position: '23'
+  -
+    name: eth24
+    position: '24'
+  -
+    name: eth25
+    position: '25'
+  -
+    name: eth26
+    position: '26'
+  -
+    name: eth27
+    position: '27'
+  -
+    name: eth28
+    position: '28'
+interfaces:
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: ipmi
+    type: 1000base-t
+    mgmt_only: true

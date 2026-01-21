@@ -1,0 +1,12 @@
+---
+manufacturer: Allied Telesis
+model: StackQS
+part_number: AT-StackQS
+interfaces: []
+module-bays:
+  -
+    name: port1.{module}.1
+    position: '1'
+  -
+    name: port1.{module}.2
+    position: '2'

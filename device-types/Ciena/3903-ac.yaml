@@ -1,0 +1,34 @@
+---
+manufacturer: Ciena
+model: 3903 AC
+slug: ciena-3903-ac
+part_number: 170-3903-900
+u_height: 1
+is_full_depth: false
+weight: 1.4
+weight_unit: kg
+airflow: front-to-rear
+console-ports:
+  -
+    name: CONSOLE
+    type: rj-45
+power-ports:
+  -
+    name: PSA
+    type: iec-60320-c14
+    maximum_draw: 96
+  -
+    name: PSB
+    type: iec-60320-c14
+    maximum_draw: 96
+interfaces: []
+module-bays:
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'

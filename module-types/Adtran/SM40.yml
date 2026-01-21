@@ -1,0 +1,19 @@
+---
+manufacturer: Adtran
+model: SM40
+part_number: 1187040G1
+comments: '[Total Access 5000 SM40 4x10GE Switch Module](https://portal.adtran.com/web/appmanager/portal/Adtran?_nfpb=true&partNumber=1187040F1&productGroupId=1&selectTab=relatedProducts&_pageLabel=waverunner_page_products_productdetail)'
+interfaces: []
+module-bays:
+  -
+    name: Te 1/{module}/1
+    position: '1'
+  -
+    name: Te 1/{module}/2
+    position: '2'
+  -
+    name: Te 1/{module}/3
+    position: '3'
+  -
+    name: Te 1/{module}/4
+    position: '4'

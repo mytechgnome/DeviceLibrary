@@ -1,0 +1,196 @@
+---
+manufacturer: Cisco
+model: SG550XG-24F
+slug: cisco-sg550xg-24f-k9
+part_number: SG550XG-24F-K9
+u_height: 1
+is_full_depth: false
+front_image: true
+rear_image: true
+comments: '[SG550X Series Datasheet](https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.html)'
+console-ports:
+  -
+    name: console
+    type: rj-45
+power-ports:
+  -
+    name: Power
+    type: iec-60320-c14
+    maximum_draw: 77
+interfaces:
+  -
+    name: Port-channel1
+    type: lag
+  -
+    name: Port-channel2
+    type: lag
+  -
+    name: Port-channel3
+    type: lag
+  -
+    name: Port-channel4
+    type: lag
+  -
+    name: Port-channel5
+    type: lag
+  -
+    name: Port-channel6
+    type: lag
+  -
+    name: Port-channel7
+    type: lag
+  -
+    name: Port-channel8
+    type: lag
+  -
+    name: Port-channel9
+    type: lag
+  -
+    name: Port-channel10
+    type: lag
+  -
+    name: Port-channel11
+    type: lag
+  -
+    name: Port-channel12
+    type: lag
+  -
+    name: Port-channel13
+    type: lag
+  -
+    name: Port-channel14
+    type: lag
+  -
+    name: Port-channel15
+    type: lag
+  -
+    name: Port-channel16
+    type: lag
+  -
+    name: Port-channel17
+    type: lag
+  -
+    name: Port-channel18
+    type: lag
+  -
+    name: Port-channel19
+    type: lag
+  -
+    name: Port-channel20
+    type: lag
+  -
+    name: Port-channel21
+    type: lag
+  -
+    name: Port-channel22
+    type: lag
+  -
+    name: Port-channel23
+    type: lag
+  -
+    name: Port-channel24
+    type: lag
+  -
+    name: Port-channel25
+    type: lag
+  -
+    name: Port-channel26
+    type: lag
+  -
+    name: Port-channel27
+    type: lag
+  -
+    name: Port-channel28
+    type: lag
+  -
+    name: Port-channel29
+    type: lag
+  -
+    name: Port-channel30
+    type: lag
+  -
+    name: Port-channel31
+    type: lag
+  -
+    name: Port-channel32
+    type: lag
+  -
+    name: oob
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: vlan1
+    type: virtual
+module-bays:
+  -
+    name: TenGigabitEthernet1/0/1
+    position: '1'
+  -
+    name: TenGigabitEthernet1/0/2
+    position: '2'
+  -
+    name: TenGigabitEthernet1/0/3
+    position: '3'
+  -
+    name: TenGigabitEthernet1/0/4
+    position: '4'
+  -
+    name: TenGigabitEthernet1/0/5
+    position: '5'
+  -
+    name: TenGigabitEthernet1/0/6
+    position: '6'
+  -
+    name: TenGigabitEthernet1/0/7
+    position: '7'
+  -
+    name: TenGigabitEthernet1/0/8
+    position: '8'
+  -
+    name: TenGigabitEthernet1/0/9
+    position: '9'
+  -
+    name: TenGigabitEthernet1/0/10
+    position: '10'
+  -
+    name: TenGigabitEthernet1/0/11
+    position: '11'
+  -
+    name: TenGigabitEthernet1/0/12
+    position: '12'
+  -
+    name: TenGigabitEthernet1/0/13
+    position: '13'
+  -
+    name: TenGigabitEthernet1/0/14
+    position: '14'
+  -
+    name: TenGigabitEthernet1/0/15
+    position: '15'
+  -
+    name: TenGigabitEthernet1/0/16
+    position: '16'
+  -
+    name: TenGigabitEthernet1/0/17
+    position: '17'
+  -
+    name: TenGigabitEthernet1/0/18
+    position: '18'
+  -
+    name: TenGigabitEthernet1/0/19
+    position: '19'
+  -
+    name: TenGigabitEthernet1/0/20
+    position: '20'
+  -
+    name: TenGigabitEthernet1/0/21
+    position: '21'
+  -
+    name: TenGigabitEthernet1/0/22
+    position: '22'
+  -
+    name: TenGigabitEthernet1/0/23
+    position: '23'
+  -
+    name: TenGigabitEthernet1/0/24
+    position: '24'

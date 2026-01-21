@@ -1,0 +1,235 @@
+---
+manufacturer: Arista
+model: DCS-7060X6-64PE
+slug: arista-dcs-7060x6-64pe
+part_number: DCS-7060X6-64PE
+u_height: 2
+is_full_depth: true
+airflow: front-to-rear
+weight: 21
+weight_unit: kg
+comments: >
+  The Arista DCS-7060X6-64PE is a 2RU fixed-configuration switch featuring 64 OSFP800 ports and 2 SFP+ ports, delivering up to 51.2 Tbps of throughput.
+  It supports flexible port configurations including 800G, 400G, 200G, and 100G, making it ideal for AI/ML workloads and hyperscale data centers.
+  [7060X6 Series Datasheet](https://www.arista.com/assets/data/pdf/Datasheets/7060X6-Datasheet.pdf)
+
+console-ports:
+  -
+    name: Console
+    type: rj-45
+
+interfaces:
+  -
+    name: Management1
+    type: 1000base-t
+  -
+    name: Management2
+    type: 1000base-t
+module-bays:
+  -
+    name: Supervisor Slot
+    position: S1
+  -
+    name: PSU1
+    position: P1
+  -
+    name: PSU2
+    position: P2
+  -
+    name: SFP1
+    position: '1'
+  -
+    name: SFP2
+    position: '2'
+  -
+    name: Ethernet1
+    position: '1'
+  -
+    name: Ethernet2
+    position: '2'
+  -
+    name: Ethernet3
+    position: '3'
+  -
+    name: Ethernet4
+    position: '4'
+  -
+    name: Ethernet5
+    position: '5'
+  -
+    name: Ethernet6
+    position: '6'
+  -
+    name: Ethernet7
+    position: '7'
+  -
+    name: Ethernet8
+    position: '8'
+  -
+    name: Ethernet9
+    position: '9'
+  -
+    name: Ethernet10
+    position: '10'
+  -
+    name: Ethernet11
+    position: '11'
+  -
+    name: Ethernet12
+    position: '12'
+  -
+    name: Ethernet13
+    position: '13'
+  -
+    name: Ethernet14
+    position: '14'
+  -
+    name: Ethernet15
+    position: '15'
+  -
+    name: Ethernet16
+    position: '16'
+  -
+    name: Ethernet17
+    position: '17'
+  -
+    name: Ethernet18
+    position: '18'
+  -
+    name: Ethernet19
+    position: '19'
+  -
+    name: Ethernet20
+    position: '20'
+  -
+    name: Ethernet21
+    position: '21'
+  -
+    name: Ethernet22
+    position: '22'
+  -
+    name: Ethernet23
+    position: '23'
+  -
+    name: Ethernet24
+    position: '24'
+  -
+    name: Ethernet25
+    position: '25'
+  -
+    name: Ethernet26
+    position: '26'
+  -
+    name: Ethernet27
+    position: '27'
+  -
+    name: Ethernet28
+    position: '28'
+  -
+    name: Ethernet29
+    position: '29'
+  -
+    name: Ethernet30
+    position: '30'
+  -
+    name: Ethernet31
+    position: '31'
+  -
+    name: Ethernet32
+    position: '32'
+  -
+    name: Ethernet33
+    position: '33'
+  -
+    name: Ethernet34
+    position: '34'
+  -
+    name: Ethernet35
+    position: '35'
+  -
+    name: Ethernet36
+    position: '36'
+  -
+    name: Ethernet37
+    position: '37'
+  -
+    name: Ethernet38
+    position: '38'
+  -
+    name: Ethernet39
+    position: '39'
+  -
+    name: Ethernet40
+    position: '40'
+  -
+    name: Ethernet41
+    position: '41'
+  -
+    name: Ethernet42
+    position: '42'
+  -
+    name: Ethernet43
+    position: '43'
+  -
+    name: Ethernet44
+    position: '44'
+  -
+    name: Ethernet45
+    position: '45'
+  -
+    name: Ethernet46
+    position: '46'
+  -
+    name: Ethernet47
+    position: '47'
+  -
+    name: Ethernet48
+    position: '48'
+  -
+    name: Ethernet49
+    position: '49'
+  -
+    name: Ethernet50
+    position: '50'
+  -
+    name: Ethernet51
+    position: '51'
+  -
+    name: Ethernet52
+    position: '52'
+  -
+    name: Ethernet53
+    position: '53'
+  -
+    name: Ethernet54
+    position: '54'
+  -
+    name: Ethernet55
+    position: '55'
+  -
+    name: Ethernet56
+    position: '56'
+  -
+    name: Ethernet57
+    position: '57'
+  -
+    name: Ethernet58
+    position: '58'
+  -
+    name: Ethernet59
+    position: '59'
+  -
+    name: Ethernet60
+    position: '60'
+  -
+    name: Ethernet61
+    position: '61'
+  -
+    name: Ethernet62
+    position: '62'
+  -
+    name: Ethernet63
+    position: '63'
+  -
+    name: Ethernet64
+    position: '64'

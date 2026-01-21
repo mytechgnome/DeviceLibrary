@@ -1,0 +1,188 @@
+---
+manufacturer: Edgecore
+model: 5912-54XM-O-AC-F
+slug: edgecore-5912-54xm-o-ac-f
+part_number: 5912-54XM-O-AC-F
+u_height: 1
+is_full_depth: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 750
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 750
+interfaces:
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: xe1
+    position: '1'
+  -
+    name: xe2
+    position: '2'
+  -
+    name: xe3
+    position: '3'
+  -
+    name: xe4
+    position: '4'
+  -
+    name: xe5
+    position: '5'
+  -
+    name: xe6
+    position: '6'
+  -
+    name: xe7
+    position: '7'
+  -
+    name: xe8
+    position: '8'
+  -
+    name: xe9
+    position: '9'
+  -
+    name: xe10
+    position: '10'
+  -
+    name: xe11
+    position: '11'
+  -
+    name: xe12
+    position: '12'
+  -
+    name: xe13
+    position: '13'
+  -
+    name: xe14
+    position: '14'
+  -
+    name: xe15
+    position: '15'
+  -
+    name: xe16
+    position: '16'
+  -
+    name: xe17
+    position: '17'
+  -
+    name: xe18
+    position: '18'
+  -
+    name: xe19
+    position: '19'
+  -
+    name: xe20
+    position: '20'
+  -
+    name: xe21
+    position: '21'
+  -
+    name: xe22
+    position: '22'
+  -
+    name: xe23
+    position: '23'
+  -
+    name: xe24
+    position: '24'
+  -
+    name: xe25
+    position: '25'
+  -
+    name: xe26
+    position: '26'
+  -
+    name: xe27
+    position: '27'
+  -
+    name: xe28
+    position: '28'
+  -
+    name: xe29
+    position: '29'
+  -
+    name: xe30
+    position: '30'
+  -
+    name: xe31
+    position: '31'
+  -
+    name: xe32
+    position: '32'
+  -
+    name: xe33
+    position: '33'
+  -
+    name: xe34
+    position: '34'
+  -
+    name: xe35
+    position: '35'
+  -
+    name: xe36
+    position: '36'
+  -
+    name: xe37
+    position: '37'
+  -
+    name: xe38
+    position: '38'
+  -
+    name: xe39
+    position: '39'
+  -
+    name: xe40
+    position: '40'
+  -
+    name: xe41
+    position: '41'
+  -
+    name: xe42
+    position: '42'
+  -
+    name: xe43
+    position: '43'
+  -
+    name: xe44
+    position: '44'
+  -
+    name: xe45
+    position: '45'
+  -
+    name: xe46
+    position: '46'
+  -
+    name: xe47
+    position: '47'
+  -
+    name: xe48
+    position: '48'
+  -
+    name: ce49
+    position: '49'
+  -
+    name: ce50
+    position: '50'
+  -
+    name: ce51
+    position: '51'
+  -
+    name: ce52
+    position: '52'
+  -
+    name: ce53
+    position: '53'
+  -
+    name: ce54
+    position: '54'

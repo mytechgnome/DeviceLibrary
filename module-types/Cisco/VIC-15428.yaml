@@ -1,0 +1,19 @@
+---
+manufacturer: Cisco
+part_number: UCSC-M-V5Q50G-D
+model: VIC 15428
+interfaces: []
+comments: Cisco UCS VIC 15428 Quad port 10/25/50G mLOM for C220-M7, C240-M7
+module-bays:
+  -
+    name: Ethernet {module}/1
+    position: '1'
+  -
+    name: Ethernet {module}/2
+    position: '2'
+  -
+    name: Ethernet {module}/3
+    position: '3'
+  -
+    name: Ethernet {module}/4
+    position: '4'

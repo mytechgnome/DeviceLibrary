@@ -1,0 +1,13 @@
+---
+manufacturer: Cisco
+model: UCSC-MLOM-C40Q-03
+part_number: UCSC-MLOM-C40Q-03
+comments: Cisco VIC 1387 Dual Port 40Gb QSFP CNA MLOM
+interfaces: []
+module-bays:
+  -
+    name: Ethernet{module}/1
+    position: '1'
+  -
+    name: Ethernet{module}/2
+    position: '2'

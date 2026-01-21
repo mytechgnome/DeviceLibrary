@@ -1,0 +1,13 @@
+---
+manufacturer: Intel
+model: XXV710-DA2T
+part_number: XXV710-DA2T
+comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/204979/intel-ethernet-network-adapter-xxv710da2t.html)'
+interfaces: []
+module-bays:
+  -
+    name: Ethernet/{module}/1
+    position: '1'
+  -
+    name: Ethernet/{module}/2
+    position: '2'

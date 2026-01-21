@@ -1,0 +1,19 @@
+---
+manufacturer: Cisco
+part_number: UCSC-MLOM-C25Q-04
+model: VIC 1457
+interfaces: []
+comments: Cisco UCS VIC 1457 quad port 10/25G SFP28 mLOM for C220 M5, C240 M5 and C240 SD M5
+module-bays:
+  -
+    name: Ethernet {module}/1
+    position: '1'
+  -
+    name: Ethernet {module}/2
+    position: '2'
+  -
+    name: Ethernet {module}/3
+    position: '3'
+  -
+    name: Ethernet {module}/4
+    position: '4'

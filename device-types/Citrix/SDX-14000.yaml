@@ -1,0 +1,79 @@
+---
+manufacturer: Citrix
+model: SDX-14000
+slug: citrix-sdx-14000
+u_height: 1
+is_full_depth: true
+console-ports:
+  -
+    name: Console
+    type: de-9
+power-ports:
+  -
+    name: PS 1
+    type: iec-60320-c14
+    maximum_draw: 1000
+  -
+    name: PS 2
+    type: iec-60320-c14
+    maximum_draw: 1000
+interfaces:
+  -
+    name: Interface 0/1
+    type: 1000base-t
+  -
+    name: Interface 1/1
+    type: 1000base-t
+  -
+    name: LOM
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: Interface 10/1
+    position: '1'
+  -
+    name: Interface 10/2
+    position: '2'
+  -
+    name: Interface 10/3
+    position: '3'
+  -
+    name: Interface 10/4
+    position: '4'
+  -
+    name: Interface 10/5
+    position: '5'
+  -
+    name: Interface 10/6
+    position: '6'
+  -
+    name: Interface 10/7
+    position: '7'
+  -
+    name: Interface 10/8
+    position: '8'
+  -
+    name: Interface 10/9
+    position: '9'
+  -
+    name: Interface 10/10
+    position: '10'
+  -
+    name: Interface 10/11
+    position: '11'
+  -
+    name: Interface 10/12
+    position: '12'
+  -
+    name: Interface 10/13
+    position: '13'
+  -
+    name: Interface 10/14
+    position: '14'
+  -
+    name: Interface 10/15
+    position: '15'
+  -
+    name: Interface 10/16
+    position: '16'

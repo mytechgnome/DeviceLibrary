@@ -1,0 +1,445 @@
+---
+manufacturer: Nokia
+model: 7220 IXR-H2 128QSFP28
+slug: nokia-7220-ixr-h2-128qsfp28
+part_number: 3HE16421AA
+u_height: 4
+is_full_depth: true  # 21.65"
+weight: 65.78
+weight_unit: lb
+front_image: true
+rear_image: true
+comments: '[Datasheet](https://onestore.nokia.com/asset/210990)'
+console-ports:
+  -
+    name: Console
+    type: rj-45
+  -
+    name: USB
+    type: usb-a
+interfaces:
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: PS3
+    position: '3'
+  -
+    name: PS4
+    position: '4'
+  -
+    name: Fan Tray 1
+    position: '1'
+  -
+    name: Fan Tray 2
+    position: '2'
+  -
+    name: Fan Tray 3
+    position: '3'
+  -
+    name: Fan Tray 4
+    position: '4'
+  -
+    name: Fan Tray 5
+    position: '5'
+  -
+    name: Fan Tray 6
+    position: '6'
+  -
+    name: Fan Tray 7
+    position: '7'
+  -
+    name: Fan Tray 8
+    position: '8'
+  -
+    name: ethernet-1/1
+    position: '1'
+  -
+    name: ethernet-1/2
+    position: '2'
+  -
+    name: ethernet-1/3
+    position: '3'
+  -
+    name: ethernet-1/4
+    position: '4'
+  -
+    name: ethernet-1/5
+    position: '5'
+  -
+    name: ethernet-1/6
+    position: '6'
+  -
+    name: ethernet-1/7
+    position: '7'
+  -
+    name: ethernet-1/8
+    position: '8'
+  -
+    name: ethernet-1/9
+    position: '9'
+  -
+    name: ethernet-1/10
+    position: '10'
+  -
+    name: ethernet-1/11
+    position: '11'
+  -
+    name: ethernet-1/12
+    position: '12'
+  -
+    name: ethernet-1/13
+    position: '13'
+  -
+    name: ethernet-1/14
+    position: '14'
+  -
+    name: ethernet-1/15
+    position: '15'
+  -
+    name: ethernet-1/16
+    position: '16'
+  -
+    name: ethernet-1/17
+    position: '17'
+  -
+    name: ethernet-1/18
+    position: '18'
+  -
+    name: ethernet-1/19
+    position: '19'
+  -
+    name: ethernet-1/20
+    position: '20'
+  -
+    name: ethernet-1/21
+    position: '21'
+  -
+    name: ethernet-1/22
+    position: '22'
+  -
+    name: ethernet-1/23
+    position: '23'
+  -
+    name: ethernet-1/24
+    position: '24'
+  -
+    name: ethernet-1/25
+    position: '25'
+  -
+    name: ethernet-1/26
+    position: '26'
+  -
+    name: ethernet-1/27
+    position: '27'
+  -
+    name: ethernet-1/28
+    position: '28'
+  -
+    name: ethernet-1/29
+    position: '29'
+  -
+    name: ethernet-1/30
+    position: '30'
+  -
+    name: ethernet-1/31
+    position: '31'
+  -
+    name: ethernet-1/32
+    position: '32'
+  -
+    name: ethernet-1/33
+    position: '33'
+  -
+    name: ethernet-1/34
+    position: '34'
+  -
+    name: ethernet-1/35
+    position: '35'
+  -
+    name: ethernet-1/36
+    position: '36'
+  -
+    name: ethernet-1/37
+    position: '37'
+  -
+    name: ethernet-1/38
+    position: '38'
+  -
+    name: ethernet-1/39
+    position: '39'
+  -
+    name: ethernet-1/40
+    position: '40'
+  -
+    name: ethernet-1/41
+    position: '41'
+  -
+    name: ethernet-1/42
+    position: '42'
+  -
+    name: ethernet-1/43
+    position: '43'
+  -
+    name: ethernet-1/44
+    position: '44'
+  -
+    name: ethernet-1/45
+    position: '45'
+  -
+    name: ethernet-1/46
+    position: '46'
+  -
+    name: ethernet-1/47
+    position: '47'
+  -
+    name: ethernet-1/48
+    position: '48'
+  -
+    name: ethernet-1/49
+    position: '49'
+  -
+    name: ethernet-1/50
+    position: '50'
+  -
+    name: ethernet-1/51
+    position: '51'
+  -
+    name: ethernet-1/52
+    position: '52'
+  -
+    name: ethernet-1/53
+    position: '53'
+  -
+    name: ethernet-1/54
+    position: '54'
+  -
+    name: ethernet-1/55
+    position: '55'
+  -
+    name: ethernet-1/56
+    position: '56'
+  -
+    name: ethernet-1/57
+    position: '57'
+  -
+    name: ethernet-1/58
+    position: '58'
+  -
+    name: ethernet-1/59
+    position: '59'
+  -
+    name: ethernet-1/60
+    position: '60'
+  -
+    name: ethernet-1/61
+    position: '61'
+  -
+    name: ethernet-1/62
+    position: '62'
+  -
+    name: ethernet-1/63
+    position: '63'
+  -
+    name: ethernet-1/64
+    position: '64'
+  -
+    name: ethernet-1/65
+    position: '65'
+  -
+    name: ethernet-1/66
+    position: '66'
+  -
+    name: ethernet-1/67
+    position: '67'
+  -
+    name: ethernet-1/68
+    position: '68'
+  -
+    name: ethernet-1/69
+    position: '69'
+  -
+    name: ethernet-1/70
+    position: '70'
+  -
+    name: ethernet-1/71
+    position: '71'
+  -
+    name: ethernet-1/72
+    position: '72'
+  -
+    name: ethernet-1/73
+    position: '73'
+  -
+    name: ethernet-1/74
+    position: '74'
+  -
+    name: ethernet-1/75
+    position: '75'
+  -
+    name: ethernet-1/76
+    position: '76'
+  -
+    name: ethernet-1/77
+    position: '77'
+  -
+    name: ethernet-1/78
+    position: '78'
+  -
+    name: ethernet-1/79
+    position: '79'
+  -
+    name: ethernet-1/80
+    position: '80'
+  -
+    name: ethernet-1/81
+    position: '81'
+  -
+    name: ethernet-1/82
+    position: '82'
+  -
+    name: ethernet-1/83
+    position: '83'
+  -
+    name: ethernet-1/84
+    position: '84'
+  -
+    name: ethernet-1/85
+    position: '85'
+  -
+    name: ethernet-1/86
+    position: '86'
+  -
+    name: ethernet-1/87
+    position: '87'
+  -
+    name: ethernet-1/88
+    position: '88'
+  -
+    name: ethernet-1/89
+    position: '89'
+  -
+    name: ethernet-1/90
+    position: '90'
+  -
+    name: ethernet-1/91
+    position: '91'
+  -
+    name: ethernet-1/92
+    position: '92'
+  -
+    name: ethernet-1/93
+    position: '93'
+  -
+    name: ethernet-1/94
+    position: '94'
+  -
+    name: ethernet-1/95
+    position: '95'
+  -
+    name: ethernet-1/96
+    position: '96'
+  -
+    name: ethernet-1/97
+    position: '97'
+  -
+    name: ethernet-1/98
+    position: '98'
+  -
+    name: ethernet-1/99
+    position: '99'
+  -
+    name: ethernet-1/100
+    position: '100'
+  -
+    name: ethernet-1/101
+    position: '101'
+  -
+    name: ethernet-1/102
+    position: '102'
+  -
+    name: ethernet-1/103
+    position: '103'
+  -
+    name: ethernet-1/104
+    position: '104'
+  -
+    name: ethernet-1/105
+    position: '105'
+  -
+    name: ethernet-1/106
+    position: '106'
+  -
+    name: ethernet-1/107
+    position: '107'
+  -
+    name: ethernet-1/108
+    position: '108'
+  -
+    name: ethernet-1/109
+    position: '109'
+  -
+    name: ethernet-1/110
+    position: '110'
+  -
+    name: ethernet-1/111
+    position: '111'
+  -
+    name: ethernet-1/112
+    position: '112'
+  -
+    name: ethernet-1/113
+    position: '113'
+  -
+    name: ethernet-1/114
+    position: '114'
+  -
+    name: ethernet-1/115
+    position: '115'
+  -
+    name: ethernet-1/116
+    position: '116'
+  -
+    name: ethernet-1/117
+    position: '117'
+  -
+    name: ethernet-1/118
+    position: '118'
+  -
+    name: ethernet-1/119
+    position: '119'
+  -
+    name: ethernet-1/120
+    position: '120'
+  -
+    name: ethernet-1/121
+    position: '121'
+  -
+    name: ethernet-1/122
+    position: '122'
+  -
+    name: ethernet-1/123
+    position: '123'
+  -
+    name: ethernet-1/124
+    position: '124'
+  -
+    name: ethernet-1/125
+    position: '125'
+  -
+    name: ethernet-1/126
+    position: '126'
+  -
+    name: ethernet-1/127
+    position: '127'
+  -
+    name: ethernet-1/128
+    position: '128'

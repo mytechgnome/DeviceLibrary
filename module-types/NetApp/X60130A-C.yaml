@@ -1,0 +1,11 @@
+---
+manufacturer: NetApp
+model: X60130A-C
+part_number: X60130A-C
+description: IO Module,2PT,100GbE
+interfaces: []
+module-bays:
+  -
+    name: e{module}a
+  -
+    name: e{module}b

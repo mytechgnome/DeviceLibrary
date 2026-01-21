@@ -1,0 +1,13 @@
+---
+manufacturer: ADVA
+model: NEMI
+part_number: 1044200020-05
+console-ports:
+  -
+    name: SER
+    type: rj-45
+interfaces: []
+module-bays:
+  -
+    name: DCN-{module}/1
+    position: '1'

@@ -1,0 +1,13 @@
+---
+manufacturer: Cisco
+model: UCSC-MLOM-CSC-02
+part_number: UCSC-MLOM-CSC-02
+comments: Cisco UCS VIC1227 VIC MLOM - Dual Port 10Gb SFP+
+interfaces: []
+module-bays:
+  -
+    name: Ethernet{module}/1
+    position: '1'
+  -
+    name: Ethernet{module}/2
+    position: '2'

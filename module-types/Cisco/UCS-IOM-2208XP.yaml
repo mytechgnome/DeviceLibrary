@@ -1,0 +1,30 @@
+---
+manufacturer: Cisco
+model: UCS-IOM-2208XP
+part_number: UCS-IOM-2208XP
+interfaces: []
+module-bays:
+  -
+    name: Fabric {module}/1
+    position: '1'
+  -
+    name: Fabric {module}/2
+    position: '2'
+  -
+    name: Fabric {module}/3
+    position: '3'
+  -
+    name: Fabric {module}/4
+    position: '4'
+  -
+    name: Fabric {module}/5
+    position: '5'
+  -
+    name: Fabric {module}/6
+    position: '6'
+  -
+    name: Fabric {module}/7
+    position: '7'
+  -
+    name: Fabric {module}/8
+    position: '8'

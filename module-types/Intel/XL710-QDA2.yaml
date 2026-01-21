@@ -1,0 +1,13 @@
+---
+manufacturer: Intel
+model: XL710-QDA2
+part_number: XL710-QDA2
+comments: '[Datasheet](https://www.intel.com/content/www/us/en/products/sku/83967/intel-ethernet-converged-network-adapter-xl710qda2/specifications.html)'
+interfaces: []
+module-bays:
+  -
+    name: Ethernet/{module}/1
+    position: '1'
+  -
+    name: Ethernet/{module}/2
+    position: '2'

@@ -1,0 +1,121 @@
+---
+manufacturer: Cisco
+model: 88-LC0-36FH
+part_number: 88-LC0-36FH
+description: Cisco 8800 36x400GE QSFP56-DD Line Card
+weight: 12.3
+weight_unit: kg
+comments: |
+  - [Cisco 8800 Series Q200-Based Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/8800-series-q200-basedline-cards-ds.html)
+  - [Interface and Hardware Component Command Reference for Cisco 8000 Series Routers](https://www.cisco.com/c/en/us/td/docs/iosxr/cisco8000/Interfaces/b-interfaces-hardware-component-cr-8000/m-ethernet-interface-commands.html)
+  - [Interface and Hardware Component Configuration Guide for Cisco 8000 Series Routers, IOS XR Release 25.1.x](https://www.cisco.com/c/en/us/td/docs/iosxr/cisco8000/Interfaces/25xx/configuration/guide/b-interfaces-config-guide-cisco8k-r25xx/m-configuring-ethernet-interfaces-8k.html)
+interfaces: []
+module-bays:
+  -
+    name: FourHundredGigE0/{module}/0/0
+    position: '0'
+  -
+    name: FourHundredGigE0/{module}/0/1
+    position: '1'
+  -
+    name: FourHundredGigE0/{module}/0/2
+    position: '2'
+  -
+    name: FourHundredGigE0/{module}/0/3
+    position: '3'
+  -
+    name: FourHundredGigE0/{module}/0/4
+    position: '4'
+  -
+    name: FourHundredGigE0/{module}/0/5
+    position: '5'
+  -
+    name: FourHundredGigE0/{module}/0/6
+    position: '6'
+  -
+    name: FourHundredGigE0/{module}/0/7
+    position: '7'
+  -
+    name: FourHundredGigE0/{module}/0/8
+    position: '8'
+  -
+    name: FourHundredGigE0/{module}/0/9
+    position: '9'
+  -
+    name: FourHundredGigE0/{module}/0/10
+    position: '10'
+  -
+    name: FourHundredGigE0/{module}/0/11
+    position: '11'
+  -
+    name: FourHundredGigE0/{module}/0/12
+    position: '12'
+  -
+    name: FourHundredGigE0/{module}/0/13
+    position: '13'
+  -
+    name: FourHundredGigE0/{module}/0/14
+    position: '14'
+  -
+    name: FourHundredGigE0/{module}/0/15
+    position: '15'
+  -
+    name: FourHundredGigE0/{module}/0/16
+    position: '16'
+  -
+    name: FourHundredGigE0/{module}/0/17
+    position: '17'
+  -
+    name: FourHundredGigE0/{module}/0/18
+    position: '18'
+  -
+    name: FourHundredGigE0/{module}/0/19
+    position: '19'
+  -
+    name: FourHundredGigE0/{module}/0/20
+    position: '20'
+  -
+    name: FourHundredGigE0/{module}/0/21
+    position: '21'
+  -
+    name: FourHundredGigE0/{module}/0/22
+    position: '22'
+  -
+    name: FourHundredGigE0/{module}/0/23
+    position: '23'
+  -
+    name: FourHundredGigE0/{module}/0/24
+    position: '24'
+  -
+    name: FourHundredGigE0/{module}/0/25
+    position: '25'
+  -
+    name: FourHundredGigE0/{module}/0/26
+    position: '26'
+  -
+    name: FourHundredGigE0/{module}/0/27
+    position: '27'
+  -
+    name: FourHundredGigE0/{module}/0/28
+    position: '28'
+  -
+    name: FourHundredGigE0/{module}/0/29
+    position: '29'
+  -
+    name: FourHundredGigE0/{module}/0/30
+    position: '30'
+  -
+    name: FourHundredGigE0/{module}/0/31
+    position: '31'
+  -
+    name: FourHundredGigE0/{module}/0/32
+    position: '32'
+  -
+    name: FourHundredGigE0/{module}/0/33
+    position: '33'
+  -
+    name: FourHundredGigE0/{module}/0/34
+    position: '34'
+  -
+    name: FourHundredGigE0/{module}/0/35
+    position: '35'

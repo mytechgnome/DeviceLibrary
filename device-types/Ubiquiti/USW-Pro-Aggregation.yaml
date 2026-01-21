@@ -1,0 +1,124 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Switch Pro Aggregation
+slug: ubiquiti-unifi-switch-pro-aggregation
+part_number: USW-Pro-Aggregation
+comments: |
+  UniFi Switch Pro Aggregation, 10G 28-Port and 25G 4-Port Managed Aggregation Switch, 100W, (28) SFP+ (4) SFP28.
+
+  Dimensions: 442 x 325 x 44 mm (17.4 x 12.8 x 1.7")
+  [UniFi Switch Pro Aggregation Techspecs](https://techspecs.ui.com/unifi/switching/usw-pro-aggregation)
+u_height: 1
+is_full_depth: false
+front_image: true
+rear_image: true
+weight: 10.4
+weight_unit: lb
+airflow: front-to-rear
+interfaces: []
+power-ports:
+  -
+    name: Universal AC input
+    type: iec-60320-c14
+    maximum_draw: 100
+  -
+    name: USP-RPS DC input
+    type: ubiquiti-smartpower
+    maximum_draw: 50
+module-bays:
+  -
+    name: SFP+ 1
+    position: '1'
+  -
+    name: SFP+ 2
+    position: '2'
+  -
+    name: SFP+ 3
+    position: '3'
+  -
+    name: SFP+ 4
+    position: '4'
+  -
+    name: SFP+ 5
+    position: '5'
+  -
+    name: SFP+ 6
+    position: '6'
+  -
+    name: SFP+ 7
+    position: '7'
+  -
+    name: SFP+ 8
+    position: '8'
+  -
+    name: SFP+ 9
+    position: '9'
+  -
+    name: SFP+ 10
+    position: '10'
+  -
+    name: SFP+ 11
+    position: '11'
+  -
+    name: SFP+ 12
+    position: '12'
+  -
+    name: SFP+ 13
+    position: '13'
+  -
+    name: SFP+ 14
+    position: '14'
+  -
+    name: SFP+ 15
+    position: '15'
+  -
+    name: SFP+ 16
+    position: '16'
+  -
+    name: SFP+ 17
+    position: '17'
+  -
+    name: SFP+ 18
+    position: '18'
+  -
+    name: SFP+ 19
+    position: '19'
+  -
+    name: SFP+ 20
+    position: '20'
+  -
+    name: SFP+ 21
+    position: '21'
+  -
+    name: SFP+ 22
+    position: '22'
+  -
+    name: SFP+ 23
+    position: '23'
+  -
+    name: SFP+ 24
+    position: '24'
+  -
+    name: SFP+ 25
+    position: '25'
+  -
+    name: SFP+ 26
+    position: '26'
+  -
+    name: SFP+ 27
+    position: '27'
+  -
+    name: SFP+ 28
+    position: '28'
+  -
+    name: SFP28 29
+    position: '29'
+  -
+    name: SFP28 30
+    position: '30'
+  -
+    name: SFP28 31
+    position: '31'
+  -
+    name: SFP28 32
+    position: '32'

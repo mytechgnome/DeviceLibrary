@@ -1,0 +1,168 @@
+---
+manufacturer: Fortinet
+model: FortiGate 200F
+slug: fortinet-fg-200f
+part_number: FG-200F
+u_height: 1.0
+is_full_depth: true
+airflow: side-to-rear
+weight: 4.5
+weight_unit: kg
+comments: '[FortiGate 200F Series](https://www.fortinet.com/resources/data-sheets/fortigate-200f-series)'
+console-ports:
+  -
+    name: Console
+    label: CONSOLE
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 119
+    allocated_draw: 102
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 119
+    allocated_draw: 102
+interfaces:
+  -
+    name: ha
+    type: 1000base-t
+    enabled: true
+    label: HA
+  -
+    name: mgmt
+    type: 1000base-t
+    enabled: true
+    mgmt_only: true
+    label: MGMT
+  -
+    name: port1
+    type: 1000base-t
+    enabled: true
+    label: '1'
+  -
+    name: port2
+    type: 1000base-t
+    enabled: true
+    label: '2'
+  -
+    name: port3
+    type: 1000base-t
+    enabled: true
+    label: '3'
+  -
+    name: port4
+    type: 1000base-t
+    enabled: true
+    label: '4'
+  -
+    name: port5
+    type: 1000base-t
+    enabled: true
+    label: '5'
+  -
+    name: port6
+    type: 1000base-t
+    enabled: true
+    label: '6'
+  -
+    name: port7
+    type: 1000base-t
+    enabled: true
+    label: '7'
+  -
+    name: port8
+    type: 1000base-t
+    enabled: true
+    label: '8'
+  -
+    name: port9
+    type: 1000base-t
+    enabled: true
+    label: '9'
+  -
+    name: port10
+    type: 1000base-t
+    enabled: true
+    label: '10'
+  -
+    name: port11
+    type: 1000base-t
+    enabled: true
+    label: '11'
+  -
+    name: port12
+    type: 1000base-t
+    enabled: true
+    label: '12'
+  -
+    name: port13
+    type: 1000base-t
+    enabled: true
+    label: '13'
+  -
+    name: port14
+    type: 1000base-t
+    enabled: true
+    label: '14'
+  -
+    name: port15
+    type: 1000base-t
+    enabled: true
+    label: '15'
+  -
+    name: port16
+    type: 1000base-t
+    enabled: true
+    label: '16'
+module-bays:
+  -
+    name: port17
+    label: '17'
+    position: '17'
+  -
+    name: port18
+    label: '18'
+    position: '18'
+  -
+    name: port19
+    label: '19'
+    position: '19'
+  -
+    name: port20
+    label: '20'
+    position: '20'
+  -
+    name: port21
+    label: '21'
+    position: '21'
+  -
+    name: port22
+    label: '22'
+    position: '22'
+  -
+    name: port23
+    label: '23'
+    position: '23'
+  -
+    name: port24
+    label: '24'
+    position: '24'
+  -
+    name: x1
+    label: X1
+    position: '1'
+  -
+    name: x2
+    label: X2
+    position: '2'
+  -
+    name: x3
+    label: X3
+    position: '3'
+  -
+    name: x4
+    label: X4
+    position: '4'

@@ -1,0 +1,145 @@
+---
+manufacturer: Fortinet
+model: FortiGate 2600F
+slug: fortinet-fg-2600f
+part_number: FG-2600F
+u_height: 2
+is_full_depth: true
+front_image: true
+weight: 13.9
+weight_unit: kg
+airflow: front-to-rear
+console-ports:
+  -
+    name: Console
+    type: rj-45
+interfaces:
+  -
+    name: mgmt1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: mgmt2
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: ha1
+    type: 1000base-t
+  -
+    name: ha2
+    type: 1000base-t
+  -
+    name: port1
+    type: 1000base-t
+  -
+    name: port2
+    type: 1000base-t
+  -
+    name: port3
+    type: 1000base-t
+  -
+    name: port4
+    type: 1000base-t
+  -
+    name: port5
+    type: 1000base-t
+  -
+    name: port6
+    type: 1000base-t
+  -
+    name: port7
+    type: 1000base-t
+  -
+    name: port8
+    type: 1000base-t
+  -
+    name: port9
+    type: 1000base-t
+  -
+    name: port10
+    type: 1000base-t
+  -
+    name: port11
+    type: 1000base-t
+  -
+    name: port12
+    type: 1000base-t
+  -
+    name: port13
+    type: 1000base-t
+  -
+    name: port14
+    type: 1000base-t
+  -
+    name: port15
+    type: 1000base-t
+  -
+    name: port16
+    type: 1000base-t
+module-bays:
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: PSU2
+    position: '2'
+  -
+    name: port17
+    position: '17'
+  -
+    name: port18
+    position: '18'
+  -
+    name: port19
+    position: '19'
+  -
+    name: port20
+    position: '20'
+  -
+    name: port21
+    position: '21'
+  -
+    name: port22
+    position: '22'
+  -
+    name: port23
+    position: '23'
+  -
+    name: port24
+    position: '24'
+  -
+    name: port25
+    position: '25'
+  -
+    name: port26
+    position: '26'
+  -
+    name: port27
+    position: '27'
+  -
+    name: port28
+    position: '28'
+  -
+    name: port29
+    position: '29'
+  -
+    name: port30
+    position: '30'
+  -
+    name: port31
+    position: '31'
+  -
+    name: port32
+    position: '32'
+  -
+    name: port33
+    position: '33'
+  -
+    name: port34
+    position: '34'
+  -
+    name: port35
+    position: '35'
+  -
+    name: port36
+    position: '36'

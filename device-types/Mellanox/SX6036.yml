@@ -1,0 +1,137 @@
+---
+manufacturer: Mellanox
+model: SX6036
+slug: mellanox-sx6036
+u_height: 1
+is_full_depth: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+power-ports:
+  -
+    name: psu1
+    type: iec-60320-c14
+    maximum_draw: 500
+  -
+    name: psu2
+    type: iec-60320-c14
+    maximum_draw: 500
+interfaces:
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: mgmt1
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: IB1/1
+    position: '1'
+  -
+    name: IB1/2
+    position: '2'
+  -
+    name: IB1/3
+    position: '3'
+  -
+    name: IB1/4
+    position: '4'
+  -
+    name: IB1/5
+    position: '5'
+  -
+    name: IB1/6
+    position: '6'
+  -
+    name: IB1/7
+    position: '7'
+  -
+    name: IB1/8
+    position: '8'
+  -
+    name: IB1/9
+    position: '9'
+  -
+    name: IB1/10
+    position: '10'
+  -
+    name: IB1/11
+    position: '11'
+  -
+    name: IB1/12
+    position: '12'
+  -
+    name: IB1/13
+    position: '13'
+  -
+    name: IB1/14
+    position: '14'
+  -
+    name: IB1/15
+    position: '15'
+  -
+    name: IB1/16
+    position: '16'
+  -
+    name: IB1/17
+    position: '17'
+  -
+    name: IB1/18
+    position: '18'
+  -
+    name: IB1/19
+    position: '19'
+  -
+    name: IB1/20
+    position: '20'
+  -
+    name: IB1/21
+    position: '21'
+  -
+    name: IB1/22
+    position: '22'
+  -
+    name: IB1/23
+    position: '23'
+  -
+    name: IB1/24
+    position: '24'
+  -
+    name: IB1/25
+    position: '25'
+  -
+    name: IB1/26
+    position: '26'
+  -
+    name: IB1/27
+    position: '27'
+  -
+    name: IB1/28
+    position: '28'
+  -
+    name: IB1/29
+    position: '29'
+  -
+    name: IB1/30
+    position: '30'
+  -
+    name: IB1/31
+    position: '31'
+  -
+    name: IB1/32
+    position: '32'
+  -
+    name: IB1/33
+    position: '33'
+  -
+    name: IB1/34
+    position: '34'
+  -
+    name: IB1/35
+    position: '35'
+  -
+    name: IB1/36
+    position: '36'

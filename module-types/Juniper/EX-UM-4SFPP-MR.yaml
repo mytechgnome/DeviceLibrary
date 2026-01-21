@@ -1,0 +1,19 @@
+---
+manufacturer: Juniper
+model: EX-UM-4SFPP-MR
+part_number: EX-UM-4SFPP-MR
+comments: Compatible with EX4300MP only
+interfaces: []
+module-bays:
+  -
+    name: xe-0/{module}/0
+    position: '0'
+  -
+    name: xe-0/{module}/1
+    position: '1'
+  -
+    name: xe-0/{module}/2
+    position: '2'
+  -
+    name: xe-0/{module}/3
+    position: '3'

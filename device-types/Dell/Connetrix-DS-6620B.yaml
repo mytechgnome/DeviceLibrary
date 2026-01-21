@@ -1,0 +1,177 @@
+---
+manufacturer: Dell
+model: Connetrix-DS-6620B
+slug: dell-connetrix-ds-6620b
+is_full_depth: true
+u_height: 1
+weight: 8
+airflow: rear-to-front
+weight_unit: kg
+interfaces:
+  -
+    name: management
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PSU0
+    position: '0'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: FC port 0
+    position: '0'
+  -
+    name: FC port 1
+    position: '1'
+  -
+    name: FC port 2
+    position: '2'
+  -
+    name: FC port 3
+    position: '3'
+  -
+    name: FC port 4
+    position: '4'
+  -
+    name: FC port 5
+    position: '5'
+  -
+    name: FC port 6
+    position: '6'
+  -
+    name: FC port 7
+    position: '7'
+  -
+    name: FC port 8
+    position: '8'
+  -
+    name: FC port 9
+    position: '9'
+  -
+    name: FC port 10
+    position: '10'
+  -
+    name: FC port 11
+    position: '11'
+  -
+    name: FC port 12
+    position: '12'
+  -
+    name: FC port 13
+    position: '13'
+  -
+    name: FC port 14
+    position: '14'
+  -
+    name: FC port 15
+    position: '15'
+  -
+    name: FC port 16
+    position: '16'
+  -
+    name: FC port 17
+    position: '17'
+  -
+    name: FC port 18
+    position: '18'
+  -
+    name: FC port 19
+    position: '19'
+  -
+    name: FC port 20
+    position: '20'
+  -
+    name: FC port 21
+    position: '21'
+  -
+    name: FC port 22
+    position: '22'
+  -
+    name: FC port 23
+    position: '23'
+  -
+    name: FC port 24
+    position: '24'
+  -
+    name: FC port 25
+    position: '25'
+  -
+    name: FC port 26
+    position: '26'
+  -
+    name: FC port 27
+    position: '27'
+  -
+    name: FC port 28
+    position: '28'
+  -
+    name: FC port 29
+    position: '29'
+  -
+    name: FC port 30
+    position: '30'
+  -
+    name: FC port 31
+    position: '31'
+  -
+    name: FC port 32
+    position: '32'
+  -
+    name: FC port 33
+    position: '33'
+  -
+    name: FC port 34
+    position: '34'
+  -
+    name: FC port 35
+    position: '35'
+  -
+    name: FC port 36
+    position: '36'
+  -
+    name: FC port 37
+    position: '37'
+  -
+    name: FC port 38
+    position: '38'
+  -
+    name: FC port 39
+    position: '39'
+  -
+    name: FC port 40
+    position: '40'
+  -
+    name: FC port 41
+    position: '41'
+  -
+    name: FC port 42
+    position: '42'
+  -
+    name: FC port 43
+    position: '43'
+  -
+    name: FC port 44
+    position: '44'
+  -
+    name: FC port 45
+    position: '45'
+  -
+    name: FC port 46
+    position: '46'
+  -
+    name: FC port 47
+    position: '47'
+  -
+    name: FC port 48
+    position: '48'
+  -
+    name: FC port 49
+    position: '49'
+  -
+    name: FC port 50
+    position: '50'
+  -
+    name: FC port 51
+    position: '51'

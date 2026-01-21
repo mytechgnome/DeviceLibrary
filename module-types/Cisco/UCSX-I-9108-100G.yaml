@@ -1,0 +1,32 @@
+---
+manufacturer: Cisco
+model: UCSX-I-9108-100G
+part_number: UCSX-I-9108-100G
+description: Cisco UCS 9108 100G Intelligent Fabric Module
+comments: '[Cisco UCS 9108 100G IFM Data Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/cisco-ucs-9108-100g-intelligent-fabric-module-spec-sheet.pdf)'
+interfaces: []
+module-bays:
+  -
+    name: Fabric port {module}/1
+    position: '1'
+  -
+    name: Fabric port {module}/2
+    position: '2'
+  -
+    name: Fabric port {module}/3
+    position: '3'
+  -
+    name: Fabric port {module}/4
+    position: '4'
+  -
+    name: Fabric port {module}/5
+    position: '5'
+  -
+    name: Fabric port {module}/6
+    position: '6'
+  -
+    name: Fabric port {module}/7
+    position: '7'
+  -
+    name: Fabric port {module}/8
+    position: '8'

@@ -1,0 +1,54 @@
+---
+manufacturer: Cisco
+model: C6880-X-LE-16P10G
+part_number: C6880-X-LE-16P10G
+interfaces: []
+module-bays:
+  -
+    name: Ethernet{module}/1
+    position: '1'
+  -
+    name: Ethernet{module}/2
+    position: '2'
+  -
+    name: Ethernet{module}/3
+    position: '3'
+  -
+    name: Ethernet{module}/4
+    position: '4'
+  -
+    name: Ethernet{module}/5
+    position: '5'
+  -
+    name: Ethernet{module}/6
+    position: '6'
+  -
+    name: Ethernet{module}/7
+    position: '7'
+  -
+    name: Ethernet{module}/8
+    position: '8'
+  -
+    name: Ethernet{module}/9
+    position: '9'
+  -
+    name: Ethernet{module}/10
+    position: '10'
+  -
+    name: Ethernet{module}/11
+    position: '11'
+  -
+    name: Ethernet{module}/12
+    position: '12'
+  -
+    name: Ethernet{module}/13
+    position: '13'
+  -
+    name: Ethernet{module}/14
+    position: '14'
+  -
+    name: Ethernet{module}/15
+    position: '15'
+  -
+    name: Ethernet{module}/16
+    position: '16'

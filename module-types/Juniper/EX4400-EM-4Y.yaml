@@ -1,0 +1,21 @@
+---
+manufacturer: Juniper
+model: EX4400-EM-4Y
+part_number: EX4400-EM-4Y
+weight: 0.29
+weight_unit: lb
+comments: 4x25GbE SFP28 extension module
+interfaces: []
+module-bays:
+  -
+    name: et-0/2/0
+    position: '0'
+  -
+    name: et-0/2/1
+    position: '1'
+  -
+    name: et-0/2/2
+    position: '2'
+  -
+    name: et-0/2/3
+    position: '3'

@@ -1,0 +1,64 @@
+---
+manufacturer: Keysight
+model: SERT100GE
+slug: keysight-sert100ge
+part_number: 944-1450
+description: Keysight, Switch and Edge Router Tester 100GE, 12-port, QSFP28, 100GE L2-3 Fixed Chassis (944-1450)
+u_height: 1
+weight: 20.2
+weight_unit: lb
+airflow: front-to-rear
+is_full_depth: false
+comments: |
+  [Switch and Edge Router Tester 100GE Data Sheet](https://www.keysight.com/us/en/assets/3124-1787/data-sheets/Switch-and-Edge-Router-Tester-100GE.pdf)
+front_image: true
+rear_image: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'
+interfaces:
+  -
+    name: MGMT
+    type: 10gbase-t
+    mgmt_only: true

@@ -1,0 +1,60 @@
+---
+manufacturer: Ciena
+model: '3930'
+slug: ciena-3930
+part_number: 170-3930-900
+u_height: 1
+is_full_depth: false
+front_image: true
+console-ports:
+  -
+    name: CONSOLE
+    type: rj-45
+module-bays:
+  -
+    name: PS A
+    position: A
+    description: |
+      170-0013-900 3930/3932/5142/3926, DC PLUGGABLE POWER SUPPLY, WIDE RANGE 24/48V
+      170-0014-900 3930/3932/5142/3926, AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: PS B
+    position: B
+    description: |
+      170-0013-900 3930/3932/5142/3926, DC PLUGGABLE POWER SUPPLY, WIDE RANGE 24/48V
+      170-0014-900 3930/3932/5142/3926, AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true

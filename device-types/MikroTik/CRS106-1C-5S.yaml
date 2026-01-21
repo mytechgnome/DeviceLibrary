@@ -1,0 +1,30 @@
+---
+manufacturer: MikroTik
+model: CRS106-1C-5S
+slug: mikrotik-crs106-1c-5s
+is_full_depth: false
+u_height: 1
+power-ports:
+  -
+    name: PSU0
+    type: dc-terminal
+interfaces: []
+module-bays:
+  -
+    name: sfp1
+    position: '1'
+  -
+    name: sfp2
+    position: '2'
+  -
+    name: sfp3
+    position: '3'
+  -
+    name: sfp4
+    position: '4'
+  -
+    name: sfp5
+    position: '5'
+  -
+    name: combo1
+    position: '1'

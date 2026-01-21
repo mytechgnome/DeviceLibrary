@@ -1,0 +1,146 @@
+---
+manufacturer: Fortinet
+model: FortiGate 1200D
+slug: fortinet-fg-1200d
+part_number: FG-1200D
+airflow: front-to-rear
+weight: 14.7
+weight_unit: kg
+u_height: 2
+is_full_depth: false
+front_image: true
+rear_image: false
+console-ports:
+  -
+    name: usbmgmt
+    type: usb-mini-b
+  -
+    name: Console
+    type: rj-45
+  -
+    name: usbport1
+    type: usb-a
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: port1
+    position: '1'
+  -
+    name: port2
+    position: '2'
+  -
+    name: port3
+    position: '3'
+  -
+    name: port4
+    position: '4'
+  -
+    name: port5
+    position: '5'
+  -
+    name: port6
+    position: '6'
+  -
+    name: port7
+    position: '7'
+  -
+    name: port8
+    position: '8'
+  -
+    name: port9
+    position: '9'
+  -
+    name: port10
+    position: '10'
+  -
+    name: port11
+    position: '11'
+  -
+    name: port12
+    position: '12'
+  -
+    name: port13
+    position: '13'
+  -
+    name: port14
+    position: '14'
+  -
+    name: port15
+    position: '15'
+  -
+    name: port16
+    position: '16'
+  -
+    name: port33
+    position: '33'
+  -
+    name: port34
+    position: '34'
+  -
+    name: port35
+    position: '35'
+  -
+    name: port36
+    position: '36'
+interfaces:
+  -
+    name: mgmt1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: mgmt2
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: port17
+    type: 1000base-t
+  -
+    name: port18
+    type: 1000base-t
+  -
+    name: port19
+    type: 1000base-t
+  -
+    name: port20
+    type: 1000base-t
+  -
+    name: port21
+    type: 1000base-t
+  -
+    name: port22
+    type: 1000base-t
+  -
+    name: port23
+    type: 1000base-t
+  -
+    name: port24
+    type: 1000base-t
+  -
+    name: port25
+    type: 1000base-t
+  -
+    name: port26
+    type: 1000base-t
+  -
+    name: port27
+    type: 1000base-t
+  -
+    name: port28
+    type: 1000base-t
+  -
+    name: port29
+    type: 1000base-t
+  -
+    name: port30
+    type: 1000base-t
+  -
+    name: port31
+    type: 1000base-t
+  -
+    name: port32
+    type: 1000base-t

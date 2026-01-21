@@ -1,0 +1,15 @@
+---
+manufacturer: Dell
+model: NHN45
+part_number: NHN45
+comments: Broadcom 2x25G SFP28 OCP 3.0 (Gen3)
+interfaces: []
+module-bays:
+  -
+    name: '{module}-25GbE-0'
+    label: '1'
+    position: '0'
+  -
+    name: '{module}-25GbE-1'
+    label: '2'
+    position: '1'

@@ -1,0 +1,52 @@
+---
+manufacturer: MikroTik
+model: CCR1072-1G-8S+
+slug: mikrotik-ccr1072-1g-8s-plus
+is_full_depth: false
+u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/CCR1072-1G-8Splus)
+front_image: false
+rear_image: false
+is_powered: true
+interfaces:
+  -
+    name: ether1
+    type: 1000base-t
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+module-bays:
+  -
+    name: power1
+    position: power1
+    description: Power module
+  -
+    name: power2
+    position: power2
+    description: Power module
+  -
+    name: sfp-sfpplus1
+    position: '1'
+  -
+    name: sfp-sfpplus2
+    position: '2'
+  -
+    name: sfp-sfpplus3
+    position: '3'
+  -
+    name: sfp-sfpplus4
+    position: '4'
+  -
+    name: sfp-sfpplus5
+    position: '5'
+  -
+    name: sfp-sfpplus6
+    position: '6'
+  -
+    name: sfp-sfpplus7
+    position: '7'
+  -
+    name: sfp-sfpplus8
+    position: '8'

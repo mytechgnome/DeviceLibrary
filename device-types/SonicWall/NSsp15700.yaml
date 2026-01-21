@@ -1,0 +1,123 @@
+---
+manufacturer: SonicWall
+model: NSsp 15700
+slug: sonicwall-nssp-15700
+part_number: NSSP15700
+u_height: 2
+is_full_depth: true
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PSU Slot 1
+    position: '1'
+  -
+    name: PSU Slot 2
+    position: '2'
+  -
+    name: Expansion Module
+    position: '1'
+  -
+    name: X0
+    position: '0'
+  -
+    name: X1
+    position: '1'
+  -
+    name: X2
+    position: '2'
+  -
+    name: X3
+    position: '3'
+  -
+    name: X4
+    position: '4'
+  -
+    name: X5
+    position: '5'
+  -
+    name: X6
+    position: '6'
+  -
+    name: X7
+    position: '7'
+  -
+    name: X8
+    position: '8'
+  -
+    name: X9
+    position: '9'
+  -
+    name: X10
+    position: '10'
+  -
+    name: X11
+    position: '11'
+  -
+    name: X12
+    position: '12'
+  -
+    name: X13
+    position: '13'
+  -
+    name: X14
+    position: '14'
+  -
+    name: X15
+    position: '15'
+  -
+    name: X16
+    position: '16'
+  -
+    name: X17
+    position: '17'
+  -
+    name: X18
+    position: '18'
+  -
+    name: X19
+    position: '19'
+  -
+    name: X20
+    position: '20'
+  -
+    name: X21
+    position: '21'
+  -
+    name: X22
+    position: '22'
+  -
+    name: X23
+    position: '23'
+  -
+    name: X24
+    position: '24'
+  -
+    name: X25
+    position: '25'
+inventory-items:
+  -
+    name: Storage-Module 1
+    manufacturer: SonicWall
+  -
+    name: Storage-Module 2
+    manufacturer: SonicWall
+  -
+    name: Storage-Module 3
+    manufacturer: SonicWall
+  -
+    name: Storage-Module 4
+    manufacturer: SonicWall
+  -
+    name: Fan-Module 1
+    manufacturer: SonicWall
+  -
+    name: Fan-Module 2
+    manufacturer: SonicWall
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true

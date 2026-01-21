@@ -1,0 +1,80 @@
+---
+manufacturer: Fortinet
+model: FortiGate 500E
+slug: fortinet-fg-500e
+part_number: FG-500E
+u_height: 1
+is_full_depth: false
+console-ports:
+  -
+    name: Console
+    type: rj-45
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: port9
+    position: '9'
+  -
+    name: port10
+    position: '10'
+  -
+    name: port11
+    position: '11'
+  -
+    name: port12
+    position: '12'
+  -
+    name: s1
+    position: '1'
+  -
+    name: s2
+    position: '2'
+  -
+    name: vw1
+    position: '1'
+  -
+    name: vw2
+    position: '2'
+  -
+    name: x1
+    position: '1'
+  -
+    name: x2
+    position: '2'
+interfaces:
+  -
+    name: ha
+    type: 1000base-t
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: port1
+    type: 1000base-t
+  -
+    name: port2
+    type: 1000base-t
+  -
+    name: port3
+    type: 1000base-t
+  -
+    name: port4
+    type: 1000base-t
+  -
+    name: port5
+    type: 1000base-t
+  -
+    name: port6
+    type: 1000base-t
+  -
+    name: port7
+    type: 1000base-t
+  -
+    name: port8
+    type: 1000base-t

@@ -1,0 +1,26 @@
+---
+manufacturer: Lenovo
+model: ThinkSystem 10Gb 4-port SFP+ LOM
+slug: lenovo-thinksystem-10gb-4-port-sfpp-lom
+part_number: 7ZT7A00547
+u_height: 0
+is_full_depth: false
+subdevice_role: child
+interfaces: []
+module-bays:
+  -
+    name: '1'
+    label: '1'
+    position: '1'
+  -
+    name: '2'
+    label: '2'
+    position: '2'
+  -
+    name: '3'
+    label: '3'
+    position: '3'
+  -
+    name: '4'
+    label: '4'
+    position: '4'

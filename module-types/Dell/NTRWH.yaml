@@ -1,0 +1,18 @@
+---
+manufacturer: Dell
+model: 10GBASE-SFP+ module
+part_number: NTRWH
+interfaces: []
+module-bays:
+  -
+    name: Te1/1/1
+    position: '1'
+  -
+    name: Te1/1/2
+    position: '2'
+  -
+    name: Te1/1/3
+    position: '3'
+  -
+    name: Te1/1/4
+    position: '4'

@@ -1,0 +1,185 @@
+---
+manufacturer: Cisco
+model: Nexus 93180YC-FX3S
+part_number: N9K-C93180YC-FX3S
+slug: cisco-n9k-c93180yc-fx3s
+u_height: 1
+is_full_depth: true
+console-ports:
+  -
+    name: console
+    type: rj-45
+interfaces:
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: Ethernet1/1
+    position: '1'
+  -
+    name: Ethernet1/2
+    position: '2'
+  -
+    name: Ethernet1/3
+    position: '3'
+  -
+    name: Ethernet1/4
+    position: '4'
+  -
+    name: Ethernet1/5
+    position: '5'
+  -
+    name: Ethernet1/6
+    position: '6'
+  -
+    name: Ethernet1/7
+    position: '7'
+  -
+    name: Ethernet1/8
+    position: '8'
+  -
+    name: Ethernet1/9
+    position: '9'
+  -
+    name: Ethernet1/10
+    position: '10'
+  -
+    name: Ethernet1/11
+    position: '11'
+  -
+    name: Ethernet1/12
+    position: '12'
+  -
+    name: Ethernet1/13
+    position: '13'
+  -
+    name: Ethernet1/14
+    position: '14'
+  -
+    name: Ethernet1/15
+    position: '15'
+  -
+    name: Ethernet1/16
+    position: '16'
+  -
+    name: Ethernet1/17
+    position: '17'
+  -
+    name: Ethernet1/18
+    position: '18'
+  -
+    name: Ethernet1/19
+    position: '19'
+  -
+    name: Ethernet1/20
+    position: '20'
+  -
+    name: Ethernet1/21
+    position: '21'
+  -
+    name: Ethernet1/22
+    position: '22'
+  -
+    name: Ethernet1/23
+    position: '23'
+  -
+    name: Ethernet1/24
+    position: '24'
+  -
+    name: Ethernet1/25
+    position: '25'
+  -
+    name: Ethernet1/26
+    position: '26'
+  -
+    name: Ethernet1/27
+    position: '27'
+  -
+    name: Ethernet1/28
+    position: '28'
+  -
+    name: Ethernet1/29
+    position: '29'
+  -
+    name: Ethernet1/30
+    position: '30'
+  -
+    name: Ethernet1/31
+    position: '31'
+  -
+    name: Ethernet1/32
+    position: '32'
+  -
+    name: Ethernet1/33
+    position: '33'
+  -
+    name: Ethernet1/34
+    position: '34'
+  -
+    name: Ethernet1/35
+    position: '35'
+  -
+    name: Ethernet1/36
+    position: '36'
+  -
+    name: Ethernet1/37
+    position: '37'
+  -
+    name: Ethernet1/38
+    position: '38'
+  -
+    name: Ethernet1/39
+    position: '39'
+  -
+    name: Ethernet1/40
+    position: '40'
+  -
+    name: Ethernet1/41
+    position: '41'
+  -
+    name: Ethernet1/42
+    position: '42'
+  -
+    name: Ethernet1/43
+    position: '43'
+  -
+    name: Ethernet1/44
+    position: '44'
+  -
+    name: Ethernet1/45
+    position: '45'
+  -
+    name: Ethernet1/46
+    position: '46'
+  -
+    name: Ethernet1/47
+    position: '47'
+  -
+    name: Ethernet1/48
+    position: '48'
+  -
+    name: Ethernet1/49
+    position: '49'
+  -
+    name: Ethernet1/50
+    position: '50'
+  -
+    name: Ethernet1/51
+    position: '51'
+  -
+    name: Ethernet1/52
+    position: '52'
+  -
+    name: Ethernet1/53
+    position: '53'
+  -
+    name: Ethernet1/54
+    position: '54'

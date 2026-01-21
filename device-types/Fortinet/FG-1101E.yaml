@@ -1,0 +1,134 @@
+---
+manufacturer: Fortinet
+model: FortiGate 1101E
+slug: fortinet-fg-1101e
+part_number: FG-1101E
+u_height: 2
+is_full_depth: false
+comments: Same as FG-1100E , but **WITH** 2 x 480GB SSDs on-board.
+console-ports:
+  -
+    name: Console
+    type: rj-45
+power-ports:
+  -
+    name: PS1
+    type: iec-60320-c14
+    maximum_draw: 336
+    allocated_draw: 217
+  -
+    name: PS2
+    type: iec-60320-c14
+    maximum_draw: 336
+    allocated_draw: 217
+interfaces:
+  -
+    name: ha
+    type: 1000base-t
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: port1
+    type: 1000base-t
+  -
+    name: port2
+    type: 1000base-t
+  -
+    name: port3
+    type: 1000base-t
+  -
+    name: port4
+    type: 1000base-t
+  -
+    name: port5
+    type: 1000base-t
+  -
+    name: port6
+    type: 1000base-t
+  -
+    name: port7
+    type: 1000base-t
+  -
+    name: port8
+    type: 1000base-t
+  -
+    name: port9
+    type: 1000base-t
+  -
+    name: port10
+    type: 1000base-t
+  -
+    name: port11
+    type: 1000base-t
+  -
+    name: port12
+    type: 1000base-t
+  -
+    name: port13
+    type: 1000base-t
+  -
+    name: port14
+    type: 1000base-t
+  -
+    name: port15
+    type: 1000base-t
+  -
+    name: port16
+    type: 1000base-t
+module-bays:
+  -
+    name: port17
+    position: '17'
+  -
+    name: port18
+    position: '18'
+  -
+    name: port19
+    position: '19'
+  -
+    name: port20
+    position: '20'
+  -
+    name: port21
+    position: '21'
+  -
+    name: port22
+    position: '22'
+  -
+    name: port23
+    position: '23'
+  -
+    name: port24
+    position: '24'
+  -
+    name: port25
+    position: '25'
+  -
+    name: port26
+    position: '26'
+  -
+    name: port27
+    position: '27'
+  -
+    name: port28
+    position: '28'
+  -
+    name: port29
+    position: '29'
+  -
+    name: port30
+    position: '30'
+  -
+    name: port31
+    position: '31'
+  -
+    name: port32
+    position: '32'
+  -
+    name: port33
+    position: '33'
+  -
+    name: port34
+    position: '34'

@@ -1,0 +1,65 @@
+---
+manufacturer: Cisco
+model: Catalyst 3750X-12S-S
+slug: cisco-ws-c3750x-12s-s
+part_number: WS-C3750X-12S-S
+is_full_depth: false
+u_height: 1
+interfaces:
+  -
+    name: FastEthernet0
+    type: 100base-tx
+    mgmt_only: true
+module-bays:
+  -
+    name: Network Module
+    position: '1'
+  -
+    name: PSU1
+    position: '1'
+  -
+    name: PSU2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/1
+    position: '1'
+  -
+    name: GigabitEthernet1/0/2
+    position: '2'
+  -
+    name: GigabitEthernet1/0/3
+    position: '3'
+  -
+    name: GigabitEthernet1/0/4
+    position: '4'
+  -
+    name: GigabitEthernet1/0/5
+    position: '5'
+  -
+    name: GigabitEthernet1/0/6
+    position: '6'
+  -
+    name: GigabitEthernet1/0/7
+    position: '7'
+  -
+    name: GigabitEthernet1/0/8
+    position: '8'
+  -
+    name: GigabitEthernet1/0/9
+    position: '9'
+  -
+    name: GigabitEthernet1/0/10
+    position: '10'
+  -
+    name: GigabitEthernet1/0/11
+    position: '11'
+  -
+    name: GigabitEthernet1/0/12
+    position: '12'
+console-ports:
+  -
+    name: con0
+    type: rj-45
+  -
+    name: usb
+    type: usb-mini-b

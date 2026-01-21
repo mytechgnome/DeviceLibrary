@@ -1,0 +1,185 @@
+---
+manufacturer: Cisco
+model: MDS 9148V 64G Fibre Channel Switch
+slug: cisco-mds-9148v-64g-fibre-channel-switch
+part_number: DS-C9148V-48EK9
+u_height: 1
+is_full_depth: true
+weight: 9.9
+weight_unit: kg
+airflow: rear-to-front
+front_image: false
+rear_image: false
+comments: '[Cisco MDS 9148V 64-Gbps 48-Port Fibre Channel Switch Data Sheet](https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9100-series-multilayer-fabric-switches/mds-9148v-fibre-channel-switch-ds.html)'
+console-ports:
+  -
+    name: Console
+    type: rj-45
+    label: CONSOLE
+module-bays:
+  -
+    name: PSU-1
+    position: '1'
+    description: Chassis Power Supply
+  -
+    name: Fan-1
+    position: '1'
+    description: Chassis Fan Module
+  -
+    name: Fan-2
+    position: '2'
+    description: Chassis Fan Module
+  -
+    name: PSU-2
+    position: '2'
+    description: Chassis Power Supply
+  -
+    name: fc1/1
+    position: '1'
+  -
+    name: fc1/2
+    position: '2'
+  -
+    name: fc1/3
+    position: '3'
+  -
+    name: fc1/4
+    position: '4'
+  -
+    name: fc1/5
+    position: '5'
+  -
+    name: fc1/6
+    position: '6'
+  -
+    name: fc1/7
+    position: '7'
+  -
+    name: fc1/8
+    position: '8'
+  -
+    name: fc1/9
+    position: '9'
+  -
+    name: fc1/10
+    position: '10'
+  -
+    name: fc1/11
+    position: '11'
+  -
+    name: fc1/12
+    position: '12'
+  -
+    name: fc1/13
+    position: '13'
+  -
+    name: fc1/14
+    position: '14'
+  -
+    name: fc1/15
+    position: '15'
+  -
+    name: fc1/16
+    position: '16'
+  -
+    name: fc1/17
+    position: '17'
+  -
+    name: fc1/18
+    position: '18'
+  -
+    name: fc1/19
+    position: '19'
+  -
+    name: fc1/20
+    position: '20'
+  -
+    name: fc1/21
+    position: '21'
+  -
+    name: fc1/22
+    position: '22'
+  -
+    name: fc1/23
+    position: '23'
+  -
+    name: fc1/24
+    position: '24'
+  -
+    name: fc1/25
+    position: '25'
+  -
+    name: fc1/26
+    position: '26'
+  -
+    name: fc1/27
+    position: '27'
+  -
+    name: fc1/28
+    position: '28'
+  -
+    name: fc1/29
+    position: '29'
+  -
+    name: fc1/30
+    position: '30'
+  -
+    name: fc1/31
+    position: '31'
+  -
+    name: fc1/32
+    position: '32'
+  -
+    name: fc1/33
+    position: '33'
+  -
+    name: fc1/34
+    position: '34'
+  -
+    name: fc1/35
+    position: '35'
+  -
+    name: fc1/36
+    position: '36'
+  -
+    name: fc1/37
+    position: '37'
+  -
+    name: fc1/38
+    position: '38'
+  -
+    name: fc1/39
+    position: '39'
+  -
+    name: fc1/40
+    position: '40'
+  -
+    name: fc1/41
+    position: '41'
+  -
+    name: fc1/42
+    position: '42'
+  -
+    name: fc1/43
+    position: '43'
+  -
+    name: fc1/44
+    position: '44'
+  -
+    name: fc1/45
+    position: '45'
+  -
+    name: fc1/46
+    position: '46'
+  -
+    name: fc1/47
+    position: '47'
+  -
+    name: fc1/48
+    position: '48'
+interfaces:
+  -
+    name: mgmt0
+    type: 1000base-t
+    label: MGMT ETH
+    mgmt_only: true

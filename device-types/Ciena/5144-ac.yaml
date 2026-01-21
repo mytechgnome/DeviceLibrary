@@ -1,0 +1,131 @@
+---
+manufacturer: Ciena
+model: 5144 AC
+slug: ciena-5144-ac
+part_number: 170-5144-901
+u_height: 1
+is_full_depth: false
+airflow: front-to-rear
+front_image: true
+weight: 4.5
+weight_unit: kg
+console-ports:
+  -
+    name: CONSOLE
+    type: usb-c
+  -
+    name: USB
+    type: usb-a
+  -
+    name: 1PPS / 10MHZ
+    description: 1PPS / G.703 ToD port in or out (software selectable). SMB connector
+    type: other
+  -
+    name: ANT
+    type: other
+    description: GNSS/GPS antenna mini SMB.
+  -
+    name: SYNC
+    type: rj-45
+    description: RJ-45 sync port
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+power-ports:
+  -
+    name: PS-A
+    type: iec-60320-c14
+    allocated_draw: 70
+    maximum_draw: 100
+  -
+    name: PS-B
+    type: iec-60320-c14
+    maximum_draw: 100
+    allocated_draw: 70
+module-bays:
+  -
+    name: '1'
+    position: '1'
+  -
+    name: '2'
+    position: '2'
+  -
+    name: '3'
+    position: '3'
+  -
+    name: '4'
+    position: '4'
+  -
+    name: '5'
+    position: '5'
+  -
+    name: '6'
+    position: '6'
+  -
+    name: '7'
+    position: '7'
+  -
+    name: '8'
+    position: '8'
+  -
+    name: '9'
+    position: '9'
+  -
+    name: '10'
+    position: '10'
+  -
+    name: '11'
+    position: '11'
+  -
+    name: '12'
+    position: '12'
+  -
+    name: '13'
+    position: '13'
+  -
+    name: '14'
+    position: '14'
+  -
+    name: '15'
+    position: '15'
+  -
+    name: '16'
+    position: '16'
+  -
+    name: '17'
+    position: '17'
+  -
+    name: '18'
+    position: '18'
+  -
+    name: '19'
+    position: '19'
+  -
+    name: '20'
+    position: '20'
+  -
+    name: '21'
+    position: '21'
+  -
+    name: '22'
+    position: '22'
+  -
+    name: '23'
+    position: '23'
+  -
+    name: '24'
+    position: '24'
+  -
+    name: '25'
+    position: '25'
+  -
+    name: '26'
+    position: '26'
+  -
+    name: '27'
+    position: '27'
+  -
+    name: '28'
+    position: '28'

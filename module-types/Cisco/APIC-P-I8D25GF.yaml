@@ -1,0 +1,12 @@
+---
+manufacturer: Cisco
+model: APIC-P-I8D25GF
+part_number: APIC-P-I8D25GF
+interfaces: []
+module-bays:
+  -
+    name: Ethernet {module}/1
+    position: '1'
+  -
+    name: Ethernet {module}/2
+    position: '2'

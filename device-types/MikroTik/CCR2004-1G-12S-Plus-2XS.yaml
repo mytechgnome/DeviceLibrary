@@ -1,0 +1,72 @@
+---
+manufacturer: MikroTik
+model: CCR2004-1G-12S+2XS
+slug: mikrotik-ccr2004-1g-12s-plus-2xs
+part_number: CCR2004-1G-12S+2XS
+is_full_depth: false
+u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/ccr2004_1g_12s_2xs)
+front_image: true
+rear_image: false
+is_powered: true
+interfaces:
+  -
+    name: ether1
+    type: 1000base-t
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+power-ports:
+  -
+    name: power1
+    type: iec-60320-c14
+    maximum_draw: 49
+  -
+    name: power2
+    type: iec-60320-c14
+    maximum_draw: 49
+module-bays:
+  -
+    name: sfp-sfpplus1
+    position: '1'
+  -
+    name: sfp-sfpplus2
+    position: '2'
+  -
+    name: sfp-sfpplus3
+    position: '3'
+  -
+    name: sfp-sfpplus4
+    position: '4'
+  -
+    name: sfp-sfpplus5
+    position: '5'
+  -
+    name: sfp-sfpplus6
+    position: '6'
+  -
+    name: sfp-sfpplus7
+    position: '7'
+  -
+    name: sfp-sfpplus8
+    position: '8'
+  -
+    name: sfp-sfpplus9
+    position: '9'
+  -
+    name: sfp-sfpplus10
+    position: '10'
+  -
+    name: sfp-sfpplus11
+    position: '11'
+  -
+    name: sfp-sfpplus12
+    position: '12'
+  -
+    name: sfp28-1
+    position: '1'
+  -
+    name: sfp28-2
+    position: '2'

@@ -1,0 +1,89 @@
+---
+manufacturer: MikroTik
+model: CCR2216-1G-12XS-2XQ
+slug: mikrotik-ccr2216-1g-12xs-2xq
+part_number: CCR2216-1G-12XS-2XQ
+is_full_depth: false
+u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/ccr2216_1g_12xs_2xq)
+front_image: true
+rear_image: false
+is_powered: true
+weight: 2520
+weight_unit: g
+interfaces:
+  -
+    name: ether1
+    type: 1000base-t
+console-ports:
+  -
+    name: serial0
+    type: rj-45
+module-bays:
+  -
+    name: power1
+    position: power1
+    description: Power module
+  -
+    name: power2
+    position: power2
+    description: Power module
+  -
+    name: fan1
+    position: '1'
+    description: Fan tray
+  -
+    name: fan2
+    position: '2'
+    description: Fan tray
+  -
+    name: fan3
+    position: '3'
+    description: Fan tray
+  -
+    name: fan4
+    position: '4'
+    description: Fan tray
+  -
+    name: sfp28-1
+    position: '1'
+  -
+    name: sfp28-2
+    position: '2'
+  -
+    name: sfp28-3
+    position: '3'
+  -
+    name: sfp28-4
+    position: '4'
+  -
+    name: sfp28-5
+    position: '5'
+  -
+    name: sfp28-6
+    position: '6'
+  -
+    name: sfp28-7
+    position: '7'
+  -
+    name: sfp28-8
+    position: '8'
+  -
+    name: sfp28-9
+    position: '9'
+  -
+    name: sfp28-10
+    position: '10'
+  -
+    name: sfp28-11
+    position: '11'
+  -
+    name: sfp28-12
+    position: '12'
+  -
+    name: qsfp28-1-1
+    position: '1'
+  -
+    name: qsfp28-2-1
+    position: '1'

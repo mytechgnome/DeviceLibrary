@@ -1,0 +1,19 @@
+---
+manufacturer: Intel
+model: E810-XXVDA4T
+part_number: E810-XXVDA4T
+comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/211608/intel-ethernet-network-adapter-e810xxvda4t.html)'
+interfaces: []
+module-bays:
+  -
+    name: Ethernet/{module}/1
+    position: '1'
+  -
+    name: Ethernet/{module}/2
+    position: '2'
+  -
+    name: Ethernet/{module}/3
+    position: '3'
+  -
+    name: Ethernet/{module}/4
+    position: '4'

@@ -1,0 +1,41 @@
+---
+manufacturer: HPE
+model: HPE Virtual Connect Flex-10/10D Module for c-Class BladeSystem
+comments: '[QuickSpecs](https://www.hpe.com/psnow/doc/c04154336)'
+part_number: 638526-B21
+slug: hpe-638526-b21
+subdevice_role: child
+u_height: 0
+is_full_depth: false
+interfaces: []
+module-bays:
+  -
+    name: Port X1
+    position: '1'
+  -
+    name: Port X2
+    position: '2'
+  -
+    name: Port X3
+    position: '3'
+  -
+    name: Port X4
+    position: '4'
+  -
+    name: Port X5
+    position: '5'
+  -
+    name: Port X6
+    position: '6'
+  -
+    name: Port X7
+    position: '7'
+  -
+    name: Port X8
+    position: '8'
+  -
+    name: Port X9
+    position: '9'
+  -
+    name: Port X10
+    position: '10'
