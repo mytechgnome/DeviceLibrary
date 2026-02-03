@@ -3,7 +3,6 @@ manufacturer: Cisco
 model: SFP-10G-LR-S
 part_number: SFP-10G-LR-S
 comments: "Cisco 10GBASE-LR SFP+."
-interfaces: []
-module-bays:
-  -
-    name: TenGigabitEthernet{module}
+interfaces:
+  - name: {module}
+
