@@ -4,5 +4,5 @@ model: GLC-LH-SMD
 part_number: GLC-LH-SMD
 comments: "Cisco 1000BASE-LX/LH SFP with DOM."
 interfaces:
-  - name: {module}
+  - name: "{module}"
     type: 1000base-lx
