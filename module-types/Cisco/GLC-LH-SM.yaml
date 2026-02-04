@@ -3,7 +3,6 @@ manufacturer: Cisco
 model: GLC-LH-SM
 part_number: GLC-LH-SM
 comments: "Cisco 1000BASE-LX/LH SFP."
-interfaces: []
-module-bays:
-  -
-    name: GigabitEthernet{module}
+interfaces:
+  - name: {module}
+    type: 1000base-lx
