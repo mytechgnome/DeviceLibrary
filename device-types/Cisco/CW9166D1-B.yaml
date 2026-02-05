@@ -1,0 +1,39 @@
+---
+manufacturer: Cisco
+model: CW9166D1-B
+slug: cisco-cw9166d1-b
+part_number: CW9166D1-B
+u_height: 0
+is_full_depth: false
+airflow: passive
+console-ports:
+  -
+    name: Console
+    type: rj-45
+    description: RJ-45 console port (not available in Meraki mode)
+power-ports:
+  -
+    name: DC
+    type: other
+    description: 54 V DC (8 mm, center-positive) input
+interfaces:
+  -
+    name: Eth0
+    type: 5gbase-t
+    power_mode: pd
+    poe_type: type2-ieee802.3af
+    description: 100/1000/2.5G/5G RJ-45 multi-gig Ethernet
+    enabled: true
+  -
+    name: Dot11Radio0
+    type: ieee802.11ax
+    description: 2.4 GHz Wi-Fi 6E radio
+  -
+    name: Dot11Radio1
+    type: ieee802.11ax
+    description: 5 GHz Wi-Fi 6E radio
+  -
+    name: Dot11Radio2
+    type: ieee802.11ax
+    description: 6 GHz Wi-Fi 6E radio
+module-bays: []
