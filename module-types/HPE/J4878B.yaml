@@ -3,16 +3,21 @@ manufacturer: HPE
 model: HP ProCurve Switch 4-Port xl Mini-GBIC Module
 part_number: J4878B
 comments: HP ProCurve Switch 4-Port xl Mini-GBIC Module
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}1'
+    position: '{module}1'
+    label: '{module}1'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}2'
+    position: '{module}2'
+    label: '{module}2'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}3'
+    position: '{module}3'
+    label: '{module}3'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}4'
+    position: '{module}4'
+    label: '{module}4'

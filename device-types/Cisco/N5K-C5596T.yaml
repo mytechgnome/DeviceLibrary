@@ -127,66 +127,66 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: Ethernet1/33
     position: Ethernet1/33
-    label: Ethernet1/33
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/34
     position: Ethernet1/34
-    label: Ethernet1/34
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/35
     position: Ethernet1/35
-    label: Ethernet1/35
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/36
     position: Ethernet1/36
-    label: Ethernet1/36
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/37
     position: Ethernet1/37
-    label: Ethernet1/37
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/38
     position: Ethernet1/38
-    label: Ethernet1/38
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/39
     position: Ethernet1/39
-    label: Ethernet1/39
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/40
     position: Ethernet1/40
-    label: Ethernet1/40
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/41
     position: Ethernet1/41
-    label: Ethernet1/41
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/42
     position: Ethernet1/42
-    label: Ethernet1/42
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/43
     position: Ethernet1/43
-    label: Ethernet1/43
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/44
     position: Ethernet1/44
-    label: Ethernet1/44
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/45
     position: Ethernet1/45
-    label: Ethernet1/45
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/46
     position: Ethernet1/46
-    label: Ethernet1/46
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/47
     position: Ethernet1/47
-    label: Ethernet1/47
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/48
     position: Ethernet1/48
-    label: Ethernet1/48
+    label: sfp+

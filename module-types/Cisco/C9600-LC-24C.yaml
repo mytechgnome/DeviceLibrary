@@ -3,148 +3,197 @@ manufacturer: Cisco
 model: C9600-LC-24C
 part_number: C9600-LC-24C
 comments: '[Cisco Catalyst 9600 Series Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9600-series-switches/nb-06-cat9600-series-line-data-sheet-cte-en.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/1
+    position: FortyGigabitEthernet{module}/0/1
+    label: FortyGigabitEthernet{module}/0/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/2
+    position: FortyGigabitEthernet{module}/0/2
+    label: FortyGigabitEthernet{module}/0/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/3
+    position: FortyGigabitEthernet{module}/0/3
+    label: FortyGigabitEthernet{module}/0/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/4
+    position: FortyGigabitEthernet{module}/0/4
+    label: FortyGigabitEthernet{module}/0/4
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/5
+    position: FortyGigabitEthernet{module}/0/5
+    label: FortyGigabitEthernet{module}/0/5
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/6
+    position: FortyGigabitEthernet{module}/0/6
+    label: FortyGigabitEthernet{module}/0/6
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/7
+    position: FortyGigabitEthernet{module}/0/7
+    label: FortyGigabitEthernet{module}/0/7
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/8
+    position: FortyGigabitEthernet{module}/0/8
+    label: FortyGigabitEthernet{module}/0/8
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/9
+    position: FortyGigabitEthernet{module}/0/9
+    label: FortyGigabitEthernet{module}/0/9
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/10
+    position: FortyGigabitEthernet{module}/0/10
+    label: FortyGigabitEthernet{module}/0/10
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/11
+    position: FortyGigabitEthernet{module}/0/11
+    label: FortyGigabitEthernet{module}/0/11
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/12
+    position: FortyGigabitEthernet{module}/0/12
+    label: FortyGigabitEthernet{module}/0/12
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/13
+    position: FortyGigabitEthernet{module}/0/13
+    label: FortyGigabitEthernet{module}/0/13
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/14
+    position: FortyGigabitEthernet{module}/0/14
+    label: FortyGigabitEthernet{module}/0/14
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/15
+    position: FortyGigabitEthernet{module}/0/15
+    label: FortyGigabitEthernet{module}/0/15
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/16
+    position: FortyGigabitEthernet{module}/0/16
+    label: FortyGigabitEthernet{module}/0/16
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/17
+    position: FortyGigabitEthernet{module}/0/17
+    label: FortyGigabitEthernet{module}/0/17
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/18
+    position: FortyGigabitEthernet{module}/0/18
+    label: FortyGigabitEthernet{module}/0/18
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/19
+    position: FortyGigabitEthernet{module}/0/19
+    label: FortyGigabitEthernet{module}/0/19
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/20
+    position: FortyGigabitEthernet{module}/0/20
+    label: FortyGigabitEthernet{module}/0/20
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/21
+    position: FortyGigabitEthernet{module}/0/21
+    label: FortyGigabitEthernet{module}/0/21
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/22
+    position: FortyGigabitEthernet{module}/0/22
+    label: FortyGigabitEthernet{module}/0/22
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/23
+    position: FortyGigabitEthernet{module}/0/23
+    label: FortyGigabitEthernet{module}/0/23
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet{module}/0/24
+    position: FortyGigabitEthernet{module}/0/24
+    label: FortyGigabitEthernet{module}/0/24
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/25
+    position: HundredGigE{module}/0/25
+    label: HundredGigE{module}/0/25
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/26
+    position: HundredGigE{module}/0/26
+    label: HundredGigE{module}/0/26
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/27
+    position: HundredGigE{module}/0/27
+    label: HundredGigE{module}/0/27
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/28
+    position: HundredGigE{module}/0/28
+    label: HundredGigE{module}/0/28
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/29
+    position: HundredGigE{module}/0/29
+    label: HundredGigE{module}/0/29
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/30
+    position: HundredGigE{module}/0/30
+    label: HundredGigE{module}/0/30
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/31
+    position: HundredGigE{module}/0/31
+    label: HundredGigE{module}/0/31
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/32
+    position: HundredGigE{module}/0/32
+    label: HundredGigE{module}/0/32
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/33
+    position: HundredGigE{module}/0/33
+    label: HundredGigE{module}/0/33
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/34
+    position: HundredGigE{module}/0/34
+    label: HundredGigE{module}/0/34
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/35
+    position: HundredGigE{module}/0/35
+    label: HundredGigE{module}/0/35
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/36
+    position: HundredGigE{module}/0/36
+    label: HundredGigE{module}/0/36
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/37
+    position: HundredGigE{module}/0/37
+    label: HundredGigE{module}/0/37
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/38
+    position: HundredGigE{module}/0/38
+    label: HundredGigE{module}/0/38
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/39
+    position: HundredGigE{module}/0/39
+    label: HundredGigE{module}/0/39
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/40
+    position: HundredGigE{module}/0/40
+    label: HundredGigE{module}/0/40
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/41
+    position: HundredGigE{module}/0/41
+    label: HundredGigE{module}/0/41
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/42
+    position: HundredGigE{module}/0/42
+    label: HundredGigE{module}/0/42
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/43
+    position: HundredGigE{module}/0/43
+    label: HundredGigE{module}/0/43
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/44
+    position: HundredGigE{module}/0/44
+    label: HundredGigE{module}/0/44
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/45
+    position: HundredGigE{module}/0/45
+    label: HundredGigE{module}/0/45
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/46
+    position: HundredGigE{module}/0/46
+    label: HundredGigE{module}/0/46
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/47
+    position: HundredGigE{module}/0/47
+    label: HundredGigE{module}/0/47
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/0/48
+    position: HundredGigE{module}/0/48
+    label: HundredGigE{module}/0/48

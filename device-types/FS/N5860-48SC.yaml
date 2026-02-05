@@ -26,226 +26,226 @@ power-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: Te0/1
     position: Te0/1
-    label: Te0/1
+    label: sfp+
   -
-    name: SFP
+    name: Te0/2
     position: Te0/2
-    label: Te0/2
+    label: sfp+
   -
-    name: SFP
+    name: Te0/3
     position: Te0/3
-    label: Te0/3
+    label: sfp+
   -
-    name: SFP
+    name: Te0/4
     position: Te0/4
-    label: Te0/4
+    label: sfp+
   -
-    name: SFP
+    name: Te0/5
     position: Te0/5
-    label: Te0/5
+    label: sfp+
   -
-    name: SFP
+    name: Te0/6
     position: Te0/6
-    label: Te0/6
+    label: sfp+
   -
-    name: SFP
+    name: Te0/7
     position: Te0/7
-    label: Te0/7
+    label: sfp+
   -
-    name: SFP
+    name: Te0/8
     position: Te0/8
-    label: Te0/8
+    label: sfp+
   -
-    name: SFP
+    name: Te0/9
     position: Te0/9
-    label: Te0/9
+    label: sfp+
   -
-    name: SFP
+    name: Te0/10
     position: Te0/10
-    label: Te0/10
+    label: sfp+
   -
-    name: SFP
+    name: Te0/11
     position: Te0/11
-    label: Te0/11
+    label: sfp+
   -
-    name: SFP
+    name: Te0/12
     position: Te0/12
-    label: Te0/12
+    label: sfp+
   -
-    name: SFP
+    name: Te0/13
     position: Te0/13
-    label: Te0/13
+    label: sfp+
   -
-    name: SFP
+    name: Te0/14
     position: Te0/14
-    label: Te0/14
+    label: sfp+
   -
-    name: SFP
+    name: Te0/15
     position: Te0/15
-    label: Te0/15
+    label: sfp+
   -
-    name: SFP
+    name: Te0/16
     position: Te0/16
-    label: Te0/16
+    label: sfp+
   -
-    name: SFP
+    name: Te0/17
     position: Te0/17
-    label: Te0/17
+    label: sfp+
   -
-    name: SFP
+    name: Te0/18
     position: Te0/18
-    label: Te0/18
+    label: sfp+
   -
-    name: SFP
+    name: Te0/19
     position: Te0/19
-    label: Te0/19
+    label: sfp+
   -
-    name: SFP
+    name: Te0/20
     position: Te0/20
-    label: Te0/20
+    label: sfp+
   -
-    name: SFP
+    name: Te0/21
     position: Te0/21
-    label: Te0/21
+    label: sfp+
   -
-    name: SFP
+    name: Te0/22
     position: Te0/22
-    label: Te0/22
+    label: sfp+
   -
-    name: SFP
+    name: Te0/23
     position: Te0/23
-    label: Te0/23
+    label: sfp+
   -
-    name: SFP
+    name: Te0/24
     position: Te0/24
-    label: Te0/24
+    label: sfp+
   -
-    name: SFP
+    name: Te0/25
     position: Te0/25
-    label: Te0/25
+    label: sfp+
   -
-    name: SFP
+    name: Te0/26
     position: Te0/26
-    label: Te0/26
+    label: sfp+
   -
-    name: SFP
+    name: Te0/27
     position: Te0/27
-    label: Te0/27
+    label: sfp+
   -
-    name: SFP
+    name: Te0/28
     position: Te0/28
-    label: Te0/28
+    label: sfp+
   -
-    name: SFP
+    name: Te0/29
     position: Te0/29
-    label: Te0/29
+    label: sfp+
   -
-    name: SFP
+    name: Te0/30
     position: Te0/30
-    label: Te0/30
+    label: sfp+
   -
-    name: SFP
+    name: Te0/31
     position: Te0/31
-    label: Te0/31
+    label: sfp+
   -
-    name: SFP
+    name: Te0/32
     position: Te0/32
-    label: Te0/32
+    label: sfp+
   -
-    name: SFP
+    name: Te0/33
     position: Te0/33
-    label: Te0/33
+    label: sfp+
   -
-    name: SFP
+    name: Te0/34
     position: Te0/34
-    label: Te0/34
+    label: sfp+
   -
-    name: SFP
+    name: Te0/35
     position: Te0/35
-    label: Te0/35
+    label: sfp+
   -
-    name: SFP
+    name: Te0/36
     position: Te0/36
-    label: Te0/36
+    label: sfp+
   -
-    name: SFP
+    name: Te0/37
     position: Te0/37
-    label: Te0/37
+    label: sfp+
   -
-    name: SFP
+    name: Te0/38
     position: Te0/38
-    label: Te0/38
+    label: sfp+
   -
-    name: SFP
+    name: Te0/39
     position: Te0/39
-    label: Te0/39
+    label: sfp+
   -
-    name: SFP
+    name: Te0/40
     position: Te0/40
-    label: Te0/40
+    label: sfp+
   -
-    name: SFP
+    name: Te0/41
     position: Te0/41
-    label: Te0/41
+    label: sfp+
   -
-    name: SFP
+    name: Te0/42
     position: Te0/42
-    label: Te0/42
+    label: sfp+
   -
-    name: SFP
+    name: Te0/43
     position: Te0/43
-    label: Te0/43
+    label: sfp+
   -
-    name: SFP
+    name: Te0/44
     position: Te0/44
-    label: Te0/44
+    label: sfp+
   -
-    name: SFP
+    name: Te0/45
     position: Te0/45
-    label: Te0/45
+    label: sfp+
   -
-    name: SFP
+    name: Te0/46
     position: Te0/46
-    label: Te0/46
+    label: sfp+
   -
-    name: SFP
+    name: Te0/47
     position: Te0/47
-    label: Te0/47
+    label: sfp+
   -
-    name: SFP
+    name: Te0/48
     position: Te0/48
-    label: Te0/48
+    label: sfp+
   -
-    name: QSFP
+    name: Hu0/49
     position: Hu0/49
-    label: Hu0/49
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/50
     position: Hu0/50
-    label: Hu0/50
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/51
     position: Hu0/51
-    label: Hu0/51
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/52
     position: Hu0/52
-    label: Hu0/52
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/53
     position: Hu0/53
-    label: Hu0/53
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/54
     position: Hu0/54
-    label: Hu0/54
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/55
     position: Hu0/55
-    label: Hu0/55
+    label: qsfp
   -
-    name: QSFP
+    name: Hu0/56
     position: Hu0/56
-    label: Hu0/56
+    label: qsfp

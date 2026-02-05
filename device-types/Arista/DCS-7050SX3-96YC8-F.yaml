@@ -21,429 +21,429 @@ module-bays:
     name: PSU 1
     position: '1'
   -
-    name: SFP
+    name: Ethernet1
     position: Ethernet1
-    label: Ethernet1
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet2
     position: Ethernet2
-    label: Ethernet2
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet3
     position: Ethernet3
-    label: Ethernet3
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet4
     position: Ethernet4
-    label: Ethernet4
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet5
     position: Ethernet5
-    label: Ethernet5
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet6
     position: Ethernet6
-    label: Ethernet6
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet7
     position: Ethernet7
-    label: Ethernet7
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet8
     position: Ethernet8
-    label: Ethernet8
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet9
     position: Ethernet9
-    label: Ethernet9
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet10
     position: Ethernet10
-    label: Ethernet10
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet11
     position: Ethernet11
-    label: Ethernet11
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet12
     position: Ethernet12
-    label: Ethernet12
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet13
     position: Ethernet13
-    label: Ethernet13
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet14
     position: Ethernet14
-    label: Ethernet14
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet15
     position: Ethernet15
-    label: Ethernet15
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet16
     position: Ethernet16
-    label: Ethernet16
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet17
     position: Ethernet17
-    label: Ethernet17
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet18
     position: Ethernet18
-    label: Ethernet18
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet19
     position: Ethernet19
-    label: Ethernet19
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet20
     position: Ethernet20
-    label: Ethernet20
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet21
     position: Ethernet21
-    label: Ethernet21
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet22
     position: Ethernet22
-    label: Ethernet22
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet23
     position: Ethernet23
-    label: Ethernet23
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet24
     position: Ethernet24
-    label: Ethernet24
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet25
     position: Ethernet25
-    label: Ethernet25
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet26
     position: Ethernet26
-    label: Ethernet26
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet27
     position: Ethernet27
-    label: Ethernet27
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet28
     position: Ethernet28
-    label: Ethernet28
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet29
     position: Ethernet29
-    label: Ethernet29
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet30
     position: Ethernet30
-    label: Ethernet30
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet31
     position: Ethernet31
-    label: Ethernet31
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet32
     position: Ethernet32
-    label: Ethernet32
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet33
     position: Ethernet33
-    label: Ethernet33
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet34
     position: Ethernet34
-    label: Ethernet34
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet35
     position: Ethernet35
-    label: Ethernet35
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet36
     position: Ethernet36
-    label: Ethernet36
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet37
     position: Ethernet37
-    label: Ethernet37
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet38
     position: Ethernet38
-    label: Ethernet38
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet39
     position: Ethernet39
-    label: Ethernet39
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet40
     position: Ethernet40
-    label: Ethernet40
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet41
     position: Ethernet41
-    label: Ethernet41
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet42
     position: Ethernet42
-    label: Ethernet42
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet43
     position: Ethernet43
-    label: Ethernet43
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet44
     position: Ethernet44
-    label: Ethernet44
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet45
     position: Ethernet45
-    label: Ethernet45
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet46
     position: Ethernet46
-    label: Ethernet46
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet47
     position: Ethernet47
-    label: Ethernet47
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet48
     position: Ethernet48
-    label: Ethernet48
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet49
     position: Ethernet49
-    label: Ethernet49
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet50
     position: Ethernet50
-    label: Ethernet50
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet51
     position: Ethernet51
-    label: Ethernet51
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet52
     position: Ethernet52
-    label: Ethernet52
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet53
     position: Ethernet53
-    label: Ethernet53
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet54
     position: Ethernet54
-    label: Ethernet54
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet55
     position: Ethernet55
-    label: Ethernet55
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet56
     position: Ethernet56
-    label: Ethernet56
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet57
     position: Ethernet57
-    label: Ethernet57
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet58
     position: Ethernet58
-    label: Ethernet58
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet59
     position: Ethernet59
-    label: Ethernet59
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet60
     position: Ethernet60
-    label: Ethernet60
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet61
     position: Ethernet61
-    label: Ethernet61
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet62
     position: Ethernet62
-    label: Ethernet62
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet63
     position: Ethernet63
-    label: Ethernet63
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet64
     position: Ethernet64
-    label: Ethernet64
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet65
     position: Ethernet65
-    label: Ethernet65
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet66
     position: Ethernet66
-    label: Ethernet66
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet67
     position: Ethernet67
-    label: Ethernet67
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet68
     position: Ethernet68
-    label: Ethernet68
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet69
     position: Ethernet69
-    label: Ethernet69
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet70
     position: Ethernet70
-    label: Ethernet70
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet71
     position: Ethernet71
-    label: Ethernet71
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet72
     position: Ethernet72
-    label: Ethernet72
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet73
     position: Ethernet73
-    label: Ethernet73
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet74
     position: Ethernet74
-    label: Ethernet74
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet75
     position: Ethernet75
-    label: Ethernet75
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet76
     position: Ethernet76
-    label: Ethernet76
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet77
     position: Ethernet77
-    label: Ethernet77
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet78
     position: Ethernet78
-    label: Ethernet78
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet79
     position: Ethernet79
-    label: Ethernet79
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet80
     position: Ethernet80
-    label: Ethernet80
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet81
     position: Ethernet81
-    label: Ethernet81
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet82
     position: Ethernet82
-    label: Ethernet82
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet83
     position: Ethernet83
-    label: Ethernet83
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet84
     position: Ethernet84
-    label: Ethernet84
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet85
     position: Ethernet85
-    label: Ethernet85
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet86
     position: Ethernet86
-    label: Ethernet86
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet87
     position: Ethernet87
-    label: Ethernet87
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet88
     position: Ethernet88
-    label: Ethernet88
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet89
     position: Ethernet89
-    label: Ethernet89
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet90
     position: Ethernet90
-    label: Ethernet90
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet91
     position: Ethernet91
-    label: Ethernet91
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet92
     position: Ethernet92
-    label: Ethernet92
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet93
     position: Ethernet93
-    label: Ethernet93
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet94
     position: Ethernet94
-    label: Ethernet94
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet95
     position: Ethernet95
-    label: Ethernet95
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet96
     position: Ethernet96
-    label: Ethernet96
+    label: sfp28
   -
-    name: QSFP
+    name: Ethernet97/1
     position: Ethernet97/1
-    label: Ethernet97/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet98/1
     position: Ethernet98/1
-    label: Ethernet98/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet99/1
     position: Ethernet99/1
-    label: Ethernet99/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet100/1
     position: Ethernet100/1
-    label: Ethernet100/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet101/1
     position: Ethernet101/1
-    label: Ethernet101/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet102/1
     position: Ethernet102/1
-    label: Ethernet102/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet103/1
     position: Ethernet103/1
-    label: Ethernet103/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet104/1
     position: Ethernet104/1
-    label: Ethernet104/1
+    label: qsfp
   -
-    name: SFP
+    name: Ethernet105
     position: Ethernet105
-    label: Ethernet105
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet106
     position: Ethernet106
-    label: Ethernet106
+    label: sfp+
 front_image: true
 rear_image: true
 interfaces:

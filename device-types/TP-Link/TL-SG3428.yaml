@@ -145,18 +145,18 @@ interfaces:
     label: '24'
 module-bays:
   -
-    name: SFP
+    name: gigabitEthernet 1/0/25
     position: gigabitEthernet 1/0/25
-    label: gigabitEthernet 1/0/25
+    label: sfp
   -
-    name: SFP
+    name: gigabitEthernet 1/0/26
     position: gigabitEthernet 1/0/26
-    label: gigabitEthernet 1/0/26
+    label: sfp
   -
-    name: SFP
+    name: gigabitEthernet 1/0/27
     position: gigabitEthernet 1/0/27
-    label: gigabitEthernet 1/0/27
+    label: sfp
   -
-    name: SFP
+    name: gigabitEthernet 1/0/28
     position: gigabitEthernet 1/0/28
-    label: gigabitEthernet 1/0/28
+    label: sfp

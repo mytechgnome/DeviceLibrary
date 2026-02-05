@@ -5,50 +5,68 @@ part_number: DCS-7358-16C
 comments: '[Arista 7358 Series Overview](https://www.arista.com/en/products/7358x4-series)'
 interfaces:
 # QSFP28(100G) ports can be broke into 4x25 with a model of [1-16]/[1-4]
+    []
+module-bays:   -
+    name: Ethernet{module}/1/1
+    position: Ethernet{module}/1/1
+    label: Ethernet{module}/1/1
   -
-    name: '{module}' type: 100gbase-x-qsfp28
+    name: Ethernet{module}/2/1
+    position: Ethernet{module}/2/1
+    label: Ethernet{module}/2/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/3/1
+    position: Ethernet{module}/3/1
+    label: Ethernet{module}/3/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/4/1
+    position: Ethernet{module}/4/1
+    label: Ethernet{module}/4/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/5/1
+    position: Ethernet{module}/5/1
+    label: Ethernet{module}/5/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/6/1
+    position: Ethernet{module}/6/1
+    label: Ethernet{module}/6/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/7/1
+    position: Ethernet{module}/7/1
+    label: Ethernet{module}/7/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/8/1
+    position: Ethernet{module}/8/1
+    label: Ethernet{module}/8/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/9/1
+    position: Ethernet{module}/9/1
+    label: Ethernet{module}/9/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/10/1
+    position: Ethernet{module}/10/1
+    label: Ethernet{module}/10/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/11/1
+    position: Ethernet{module}/11/1
+    label: Ethernet{module}/11/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/12/1
+    position: Ethernet{module}/12/1
+    label: Ethernet{module}/12/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/13/1
+    position: Ethernet{module}/13/1
+    label: Ethernet{module}/13/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/14/1
+    position: Ethernet{module}/14/1
+    label: Ethernet{module}/14/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/15/1
+    position: Ethernet{module}/15/1
+    label: Ethernet{module}/15/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-  -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/16/1
+    position: Ethernet{module}/16/1
+    label: Ethernet{module}/16/1

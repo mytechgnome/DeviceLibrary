@@ -21,29 +21,29 @@ module-bays:
     name: PSU 2
     position: '1'
   -
-    name: QSFP
+    name: Ethernet41/1
     position: Ethernet41/1
-    label: Ethernet41/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet42/1
     position: Ethernet42/1
-    label: Ethernet42/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet43/1
     position: Ethernet43/1
-    label: Ethernet43/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet44/1
     position: Ethernet44/1
-    label: Ethernet44/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet45/1
     position: Ethernet45/1
-    label: Ethernet45/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet46/1
     position: Ethernet46/1
-    label: Ethernet46/1
+    label: qsfp
 front_image: true
 rear_image: false
 interfaces:

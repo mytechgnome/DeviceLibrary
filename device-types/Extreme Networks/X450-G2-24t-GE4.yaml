@@ -102,18 +102,18 @@ interfaces:
     type: extreme-summitstack
 module-bays:
   -
-    name: SFP
+    name: '25'
     position: '25'
-    label: '25'
+    label: sfp
   -
-    name: SFP
+    name: '26'
     position: '26'
-    label: '26'
+    label: sfp
   -
-    name: SFP
+    name: '27'
     position: '27'
-    label: '27'
+    label: sfp
   -
-    name: SFP
+    name: '28'
     position: '28'
-    label: '28'
+    label: sfp

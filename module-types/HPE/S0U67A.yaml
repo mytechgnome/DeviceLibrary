@@ -4,76 +4,101 @@ model: Aruba Networking CX 5420 24p SFP 1G Module
 part_number: S0U67A
 weight: 898.1
 weight_unit: g
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/1
+    position: 1/{module}/1
+    label: 1/{module}/1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/2
+    position: 1/{module}/2
+    label: 1/{module}/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/3
+    position: 1/{module}/3
+    label: 1/{module}/3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/4
+    position: 1/{module}/4
+    label: 1/{module}/4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/5
+    position: 1/{module}/5
+    label: 1/{module}/5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/6
+    position: 1/{module}/6
+    label: 1/{module}/6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/7
+    position: 1/{module}/7
+    label: 1/{module}/7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/8
+    position: 1/{module}/8
+    label: 1/{module}/8
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/9
+    position: 1/{module}/9
+    label: 1/{module}/9
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/10
+    position: 1/{module}/10
+    label: 1/{module}/10
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/11
+    position: 1/{module}/11
+    label: 1/{module}/11
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/12
+    position: 1/{module}/12
+    label: 1/{module}/12
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/13
+    position: 1/{module}/13
+    label: 1/{module}/13
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/14
+    position: 1/{module}/14
+    label: 1/{module}/14
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/15
+    position: 1/{module}/15
+    label: 1/{module}/15
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/16
+    position: 1/{module}/16
+    label: 1/{module}/16
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/17
+    position: 1/{module}/17
+    label: 1/{module}/17
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/18
+    position: 1/{module}/18
+    label: 1/{module}/18
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/19
+    position: 1/{module}/19
+    label: 1/{module}/19
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/20
+    position: 1/{module}/20
+    label: 1/{module}/20
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/21
+    position: 1/{module}/21
+    label: 1/{module}/21
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/22
+    position: 1/{module}/22
+    label: 1/{module}/22
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/23
+    position: 1/{module}/23
+    label: 1/{module}/23
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: 1/{module}/24
+    position: 1/{module}/24
+    label: 1/{module}/24

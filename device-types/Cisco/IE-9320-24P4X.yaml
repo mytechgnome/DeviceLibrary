@@ -153,18 +153,18 @@ interfaces:
     type: cisco-stackwise
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/25
     position: TenGigabitEthernet1/0/25
-    label: TenGigabitEthernet1/0/25
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/26
     position: TenGigabitEthernet1/0/26
-    label: TenGigabitEthernet1/0/26
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/27
     position: TenGigabitEthernet1/0/27
-    label: TenGigabitEthernet1/0/27
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/28
     position: TenGigabitEthernet1/0/28
-    label: TenGigabitEthernet1/0/28
+    label: sfp+

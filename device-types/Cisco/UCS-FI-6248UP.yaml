@@ -51,130 +51,130 @@ module-bays:
     name: Fan 2
     position: '2'
   -
-    name: SFP
+    name: port-1
     position: port-1
-    label: port-1
+    label: sfp+
   -
-    name: SFP
+    name: port-2
     position: port-2
-    label: port-2
+    label: sfp+
   -
-    name: SFP
+    name: port-3
     position: port-3
-    label: port-3
+    label: sfp+
   -
-    name: SFP
+    name: port-4
     position: port-4
-    label: port-4
+    label: sfp+
   -
-    name: SFP
+    name: port-5
     position: port-5
-    label: port-5
+    label: sfp+
   -
-    name: SFP
+    name: port-6
     position: port-6
-    label: port-6
+    label: sfp+
   -
-    name: SFP
+    name: port-7
     position: port-7
-    label: port-7
+    label: sfp+
   -
-    name: SFP
+    name: port-8
     position: port-8
-    label: port-8
+    label: sfp+
   -
-    name: SFP
+    name: port-9
     position: port-9
-    label: port-9
+    label: sfp+
   -
-    name: SFP
+    name: port-10
     position: port-10
-    label: port-10
+    label: sfp+
   -
-    name: SFP
+    name: port-11
     position: port-11
-    label: port-11
+    label: sfp+
   -
-    name: SFP
+    name: port-12
     position: port-12
-    label: port-12
+    label: sfp+
   -
-    name: SFP
+    name: port-13
     position: port-13
-    label: port-13
+    label: sfp+
   -
-    name: SFP
+    name: port-14
     position: port-14
-    label: port-14
+    label: sfp+
   -
-    name: SFP
+    name: port-15
     position: port-15
-    label: port-15
+    label: sfp+
   -
-    name: SFP
+    name: port-16
     position: port-16
-    label: port-16
+    label: sfp+
   -
-    name: SFP
+    name: port-17
     position: port-17
-    label: port-17
+    label: sfp+
   -
-    name: SFP
+    name: port-18
     position: port-18
-    label: port-18
+    label: sfp+
   -
-    name: SFP
+    name: port-19
     position: port-19
-    label: port-19
+    label: sfp+
   -
-    name: SFP
+    name: port-20
     position: port-20
-    label: port-20
+    label: sfp+
   -
-    name: SFP
+    name: port-21
     position: port-21
-    label: port-21
+    label: sfp+
   -
-    name: SFP
+    name: port-22
     position: port-22
-    label: port-22
+    label: sfp+
   -
-    name: SFP
+    name: port-23
     position: port-23
-    label: port-23
+    label: sfp+
   -
-    name: SFP
+    name: port-24
     position: port-24
-    label: port-24
+    label: sfp+
   -
-    name: SFP
+    name: port-25
     position: port-25
-    label: port-25
+    label: sfp+
   -
-    name: SFP
+    name: port-26
     position: port-26
-    label: port-26
+    label: sfp+
   -
-    name: SFP
+    name: port-27
     position: port-27
-    label: port-27
+    label: sfp+
   -
-    name: SFP
+    name: port-28
     position: port-28
-    label: port-28
+    label: sfp+
   -
-    name: SFP
+    name: port-29
     position: port-29
-    label: port-29
+    label: sfp+
   -
-    name: SFP
+    name: port-30
     position: port-30
-    label: port-30
+    label: sfp+
   -
-    name: SFP
+    name: port-31
     position: port-31
-    label: port-31
+    label: sfp+
   -
-    name: SFP
+    name: port-32
     position: port-32
-    label: port-32
+    label: sfp+

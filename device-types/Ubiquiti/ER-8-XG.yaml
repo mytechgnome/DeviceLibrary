@@ -17,37 +17,37 @@ module-bays:
     name: PSU 2
     position: '2'
   -
-    name: SFP
+    name: eth1
     position: eth1
-    label: eth1
+    label: sfp+
   -
-    name: SFP
+    name: eth2
     position: eth2
-    label: eth2
+    label: sfp+
   -
-    name: SFP
+    name: eth3
     position: eth3
-    label: eth3
+    label: sfp+
   -
-    name: SFP
+    name: eth4
     position: eth4
-    label: eth4
+    label: sfp+
   -
-    name: SFP
+    name: eth5
     position: eth5
-    label: eth5
+    label: sfp+
   -
-    name: SFP
+    name: eth6
     position: eth6
-    label: eth6
+    label: sfp+
   -
-    name: SFP
+    name: eth7
     position: eth7
-    label: eth7
+    label: sfp+
   -
-    name: SFP
+    name: eth8
     position: eth8
-    label: eth8
+    label: sfp+
 interfaces:
   -
     name: eth0

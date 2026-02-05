@@ -3,10 +3,13 @@ manufacturer: Emulex
 model: UCSC-PCIE-ESFP
 part_number: UCSC-PCIE-ESFP
 comments: (Emulex OCe11102-FX dual-port 10 GbE FCoE CNA (Gen 3 CNA)[https://www.provantage.com/cisco-systems-ucsc-pcie-esfp~7CSC9QQT.htm]
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2

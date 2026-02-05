@@ -19,14 +19,14 @@ module-bays:
     name: VIM
     position: VIM
   -
-    name: QSFP
+    name: U1
     position: U1
-    label: U1
+    label: qsfp
     description: Can be used for stacking or as various speed normal interfaces
   -
-    name: QSFP
+    name: U2
     position: U2
-    label: U2
+    label: qsfp
     description: Can be used for stacking or as various speed normal interfaces
 console-ports:
   -

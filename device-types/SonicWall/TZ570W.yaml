@@ -48,10 +48,10 @@ interfaces:
     type: ieee802.11ac
 module-bays:
   -
-    name: SFP
+    name: X8
     position: X8
-    label: X8
+    label: sfp
   -
-    name: SFP
+    name: X9
     position: X9
-    label: X9
+    label: sfp

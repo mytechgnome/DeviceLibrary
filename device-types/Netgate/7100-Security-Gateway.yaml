@@ -64,12 +64,12 @@ module-bays:
     description: PCI-E 3.0 4x
     position: PCI1
   -
-    name: SFP
+    name: ix0
     position: ix0
-    label: ix0
+    label: sfp+
     description: Intel x553
   -
-    name: SFP
+    name: ix1
     position: ix1
-    label: ix1
+    label: sfp+
     description: Intel x553

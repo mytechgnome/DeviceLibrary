@@ -6,40 +6,53 @@ description: Nexus 7700 M3-Series 12-Port 100G Ethernet Module
 comments: '[Cisco Nexus 7700 M3-Series 100 Gigabit Ethernet Module Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/datasheet-c78-738175.html)'
 weight: 5.44
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/3
+    position: Ethernet{module}/3
+    label: Ethernet{module}/3
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/4
+    position: Ethernet{module}/4
+    label: Ethernet{module}/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/5
+    position: Ethernet{module}/5
+    label: Ethernet{module}/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/6
+    position: Ethernet{module}/6
+    label: Ethernet{module}/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/7
+    position: Ethernet{module}/7
+    label: Ethernet{module}/7
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/8
+    position: Ethernet{module}/8
+    label: Ethernet{module}/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/9
+    position: Ethernet{module}/9
+    label: Ethernet{module}/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/10
+    position: Ethernet{module}/10
+    label: Ethernet{module}/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/11
+    position: Ethernet{module}/11
+    label: Ethernet{module}/11
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Ethernet{module}/12
+    position: Ethernet{module}/12
+    label: Ethernet{module}/12

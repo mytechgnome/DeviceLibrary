@@ -25,13 +25,13 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: sfp0
     position: sfp0
-    label: sfp0
+    label: sfp
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp
 interfaces:
   -
     name: ge0

@@ -30,66 +30,66 @@ power-ports:
 comments: Smart Switch, 1 x Gigabit LAN, 16 x SFP+ cages, Dual Core 800MHz CPU, 1GB RAM, 1U rackmount passive cooling case, Dual Power Supplies.
 module-bays:
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus2
     position: sfp-sfpplus2
-    label: sfp-sfpplus2
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus3
     position: sfp-sfpplus3
-    label: sfp-sfpplus3
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus4
     position: sfp-sfpplus4
-    label: sfp-sfpplus4
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus5
     position: sfp-sfpplus5
-    label: sfp-sfpplus5
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus6
     position: sfp-sfpplus6
-    label: sfp-sfpplus6
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus7
     position: sfp-sfpplus7
-    label: sfp-sfpplus7
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus8
     position: sfp-sfpplus8
-    label: sfp-sfpplus8
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus9
     position: sfp-sfpplus9
-    label: sfp-sfpplus9
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus10
     position: sfp-sfpplus10
-    label: sfp-sfpplus10
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus11
     position: sfp-sfpplus11
-    label: sfp-sfpplus11
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus12
     position: sfp-sfpplus12
-    label: sfp-sfpplus12
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus13
     position: sfp-sfpplus13
-    label: sfp-sfpplus13
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus14
     position: sfp-sfpplus14
-    label: sfp-sfpplus14
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus15
     position: sfp-sfpplus15
-    label: sfp-sfpplus15
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus16
     position: sfp-sfpplus16
-    label: sfp-sfpplus16
+    label: sfp+

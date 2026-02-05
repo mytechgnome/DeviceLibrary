@@ -3,40 +3,53 @@ manufacturer: Nokia
 model: MDA-E12-QSFP28
 part_number: 3HE12334AA
 comments: 12 QSFP28 ports Media Dependent Adapter (MDA) for the 7750 SR-1, 7, 12 and 12e that provides additional physical interface connectivity. '[7750 Data Sheet](https://onestore.nokia.com/asset/164728)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c1'
+    position: '{module}/c1'
+    label: '{module}/c1'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c2'
+    position: '{module}/c2'
+    label: '{module}/c2'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c3'
+    position: '{module}/c3'
+    label: '{module}/c3'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c4'
+    position: '{module}/c4'
+    label: '{module}/c4'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c5'
+    position: '{module}/c5'
+    label: '{module}/c5'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c6'
+    position: '{module}/c6'
+    label: '{module}/c6'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c7'
+    position: '{module}/c7'
+    label: '{module}/c7'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c8'
+    position: '{module}/c8'
+    label: '{module}/c8'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c9'
+    position: '{module}/c9'
+    label: '{module}/c9'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c10'
+    position: '{module}/c10'
+    label: '{module}/c10'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c11'
+    position: '{module}/c11'
+    label: '{module}/c11'
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: '{module}/c12'
+    position: '{module}/c12'
+    label: '{module}/c12'

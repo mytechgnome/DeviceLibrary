@@ -56,12 +56,12 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: wan1
     position: wan1
-    label: wan1
+    label: sfp+
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. One is 10gbase-x-sfpp, the other is 10gbase-t.)
   -
-    name: SFP
+    name: wan2
     position: wan2
-    label: wan2
+    label: sfp+
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. One is 1000base-x-sfp, the other is 10gbase-t.)

@@ -160,10 +160,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GbESfpDMZInerface1
     position: GbESfpDMZInerface1
-    label: GbESfpDMZInerface1
+    label: sfp
   -
-    name: SFP
+    name: GbESfpDMZInerface2
     position: GbESfpDMZInerface2
-    label: GbESfpDMZInerface2
+    label: sfp

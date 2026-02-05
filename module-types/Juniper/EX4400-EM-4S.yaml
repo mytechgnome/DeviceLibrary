@@ -5,16 +5,21 @@ part_number: EX4400-EM-4S
 weight: 0.2
 weight_unit: lb
 comments: 4x10GbE SFP+ extension module
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xe-0/2/0
+    position: xe-0/2/0
+    label: xe-0/2/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xe-0/2/1
+    position: xe-0/2/1
+    label: xe-0/2/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xe-0/2/2
+    position: xe-0/2/2
+    label: xe-0/2/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xe-0/2/3
+    position: xe-0/2/3
+    label: xe-0/2/3

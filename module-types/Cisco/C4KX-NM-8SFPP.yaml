@@ -3,28 +3,37 @@ manufacturer: Cisco
 model: C4KX-NM-8SFP+
 part_number: C4KX-NM-8SFP+
 comments: '[Cisco Catalyst 4500-X Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/data_sheet_c78-696791.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/1
+    position: TenGigabitEthernet{module}/1
+    label: TenGigabitEthernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/2
+    position: TenGigabitEthernet{module}/2
+    label: TenGigabitEthernet{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/3
+    position: TenGigabitEthernet{module}/3
+    label: TenGigabitEthernet{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/4
+    position: TenGigabitEthernet{module}/4
+    label: TenGigabitEthernet{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/5
+    position: TenGigabitEthernet{module}/5
+    label: TenGigabitEthernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/6
+    position: TenGigabitEthernet{module}/6
+    label: TenGigabitEthernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/7
+    position: TenGigabitEthernet{module}/7
+    label: TenGigabitEthernet{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/8
+    position: TenGigabitEthernet{module}/8
+    label: TenGigabitEthernet{module}/8

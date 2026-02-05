@@ -168,34 +168,34 @@ power-ports:
     maximum_draw: 70
 module-bays:
   -
-    name: SFP
+    name: 10GigabitEthernet2/1
     position: 10GigabitEthernet2/1
-    label: 10GigabitEthernet2/1
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/2
     position: 10GigabitEthernet2/2
-    label: 10GigabitEthernet2/2
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/3
     position: 10GigabitEthernet2/3
-    label: 10GigabitEthernet2/3
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/4
     position: 10GigabitEthernet2/4
-    label: 10GigabitEthernet2/4
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/5
     position: 10GigabitEthernet2/5
-    label: 10GigabitEthernet2/5
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/6
     position: 10GigabitEthernet2/6
-    label: 10GigabitEthernet2/6
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/7
     position: 10GigabitEthernet2/7
-    label: 10GigabitEthernet2/7
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet2/8
     position: 10GigabitEthernet2/8
-    label: 10GigabitEthernet2/8
+    label: sfp+

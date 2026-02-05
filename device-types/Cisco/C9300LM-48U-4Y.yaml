@@ -282,18 +282,18 @@ module-bays:
     name: FAN 3
     position: '3'
   -
-    name: SFP
+    name: TwentyFiveGigabitEthernet1/1/1
     position: TwentyFiveGigabitEthernet1/1/1
-    label: TwentyFiveGigabitEthernet1/1/1
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigabitEthernet1/1/2
     position: TwentyFiveGigabitEthernet1/1/2
-    label: TwentyFiveGigabitEthernet1/1/2
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigabitEthernet1/1/3
     position: TwentyFiveGigabitEthernet1/1/3
-    label: TwentyFiveGigabitEthernet1/1/3
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigabitEthernet1/1/4
     position: TwentyFiveGigabitEthernet1/1/4
-    label: TwentyFiveGigabitEthernet1/1/4
+    label: sfp28

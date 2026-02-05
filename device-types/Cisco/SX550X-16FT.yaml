@@ -148,34 +148,34 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/9
     position: GigabitEthernet1/9
-    label: GigabitEthernet1/9
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/10
     position: GigabitEthernet1/10
-    label: GigabitEthernet1/10
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/11
     position: GigabitEthernet1/11
-    label: GigabitEthernet1/11
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/12
     position: GigabitEthernet1/12
-    label: GigabitEthernet1/12
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/13
     position: GigabitEthernet1/13
-    label: GigabitEthernet1/13
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/14
     position: GigabitEthernet1/14
-    label: GigabitEthernet1/14
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/15
     position: GigabitEthernet1/15
-    label: GigabitEthernet1/15
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet1/16
     position: GigabitEthernet1/16
-    label: GigabitEthernet1/16
+    label: sfp+

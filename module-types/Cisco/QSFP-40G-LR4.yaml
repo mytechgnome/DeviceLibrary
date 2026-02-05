@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: QSFP-40G-LR4
+part_number: QSFP-40G-LR4
+comments: "Cisco 40GBASE-LR4 QSFP+."
+interfaces:
+  -
+    name: {module: null}
+    type: 40gbase-lr4

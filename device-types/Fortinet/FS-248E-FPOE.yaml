@@ -271,18 +271,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: port49
     position: port49
-    label: port49
+    label: sfp
   -
-    name: SFP
+    name: port50
     position: port50
-    label: port50
+    label: sfp
   -
-    name: SFP
+    name: port51
     position: port51
-    label: port51
+    label: sfp
   -
-    name: SFP
+    name: port52
     position: port52
-    label: port52
+    label: sfp

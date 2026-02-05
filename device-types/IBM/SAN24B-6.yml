@@ -25,98 +25,98 @@ power-ports:
     maximum_draw: 77
 module-bays:
   -
-    name: SFP
+    name: FC port 0/0
     position: FC port 0/0
-    label: FC port 0/0
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/1
     position: FC port 0/1
-    label: FC port 0/1
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/2
     position: FC port 0/2
-    label: FC port 0/2
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/3
     position: FC port 0/3
-    label: FC port 0/3
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/4
     position: FC port 0/4
-    label: FC port 0/4
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/5
     position: FC port 0/5
-    label: FC port 0/5
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/6
     position: FC port 0/6
-    label: FC port 0/6
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/7
     position: FC port 0/7
-    label: FC port 0/7
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/8
     position: FC port 0/8
-    label: FC port 0/8
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/9
     position: FC port 0/9
-    label: FC port 0/9
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/10
     position: FC port 0/10
-    label: FC port 0/10
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/11
     position: FC port 0/11
-    label: FC port 0/11
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/12
     position: FC port 0/12
-    label: FC port 0/12
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/13
     position: FC port 0/13
-    label: FC port 0/13
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/14
     position: FC port 0/14
-    label: FC port 0/14
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/15
     position: FC port 0/15
-    label: FC port 0/15
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/16
     position: FC port 0/16
-    label: FC port 0/16
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/17
     position: FC port 0/17
-    label: FC port 0/17
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/18
     position: FC port 0/18
-    label: FC port 0/18
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/19
     position: FC port 0/19
-    label: FC port 0/19
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/20
     position: FC port 0/20
-    label: FC port 0/20
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/21
     position: FC port 0/21
-    label: FC port 0/21
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/22
     position: FC port 0/22
-    label: FC port 0/22
+    label: sfp28
   -
-    name: SFP
+    name: FC port 0/23
     position: FC port 0/23
-    label: FC port 0/23
+    label: sfp28

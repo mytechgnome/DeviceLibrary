@@ -49,6 +49,6 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: TenGigabitSfpPlus/12
     position: TenGigabitSfpPlus/12
-    label: TenGigabitSfpPlus/12
+    label: sfp+

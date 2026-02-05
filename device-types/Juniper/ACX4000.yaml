@@ -58,18 +58,18 @@ module-bays:
     name: MIC1
     position: '1'
   -
-    name: SFP
+    name: ge-0/2/0
     position: ge-0/2/0
-    label: ge-0/2/0
+    label: sfp
   -
-    name: SFP
+    name: ge-0/2/1
     position: ge-0/2/1
-    label: ge-0/2/1
+    label: sfp
   -
-    name: SFP
+    name: xe-0/3/0
     position: xe-0/3/0
-    label: xe-0/3/0
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/3/1
     position: xe-0/3/1
-    label: xe-0/3/1
+    label: sfp+

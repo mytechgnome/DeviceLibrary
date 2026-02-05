@@ -36,50 +36,50 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: QSFP
+    name: 1/1/1
     position: 1/1/1
-    label: 1/1/1
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/2
     position: 1/1/2
-    label: 1/1/2
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/3
     position: 1/1/3
-    label: 1/1/3
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/4
     position: 1/1/4
-    label: 1/1/4
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/5
     position: 1/1/5
-    label: 1/1/5
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/6
     position: 1/1/6
-    label: 1/1/6
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/7
     position: 1/1/7
-    label: 1/1/7
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/8
     position: 1/1/8
-    label: 1/1/8
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/9
     position: 1/1/9
-    label: 1/1/9
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/10
     position: 1/1/10
-    label: 1/1/10
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/11
     position: 1/1/11
-    label: 1/1/11
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/12
     position: 1/1/12
-    label: 1/1/12
+    label: qsfp

@@ -3,14 +3,13 @@ manufacturer: Dell
 model: 9M6PR
 part_number: 9M6PR
 comments: Broadcom 2x100G QSFP28 OCP 3.0
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    label: '1'
-    type: 100gbase-x-qsfp28
-    mgmt_only: false
+    name: '{module}-100GbE-0'
+    position: '{module}-100GbE-0'
+    label: '{module}-100GbE-0'
   -
-    name: '{module}'
-    label: '2'
-    type: 100gbase-x-qsfp28
-    mgmt_only: false
+    name: '{module}-100GbE-1'
+    position: '{module}-100GbE-1'
+    label: '{module}-100GbE-1'

@@ -41,6 +41,6 @@ interfaces:
     type: other-wireless
 module-bays:
   -
-    name: SFP
+    name: E1
     position: E1
-    label: E1
+    label: sfp+

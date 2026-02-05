@@ -7,184 +7,245 @@ weight_unit: kg
 description: NCS 6000 60x10G Multi-Service SFP+
 comments: |
   - [Cisco Network Convergence System 6000 Series 60-Port 10Gbps Multiservice Line Card Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-6000-series-routers/datasheet-c78-730923.html)
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/0
+    position: TenGigE0/{module}/0/0
+    label: TenGigE0/{module}/0/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/1
+    position: TenGigE0/{module}/0/1
+    label: TenGigE0/{module}/0/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/2
+    position: TenGigE0/{module}/0/2
+    label: TenGigE0/{module}/0/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/3
+    position: TenGigE0/{module}/0/3
+    label: TenGigE0/{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/4
+    position: TenGigE0/{module}/0/4
+    label: TenGigE0/{module}/0/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/5
+    position: TenGigE0/{module}/0/5
+    label: TenGigE0/{module}/0/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/6
+    position: TenGigE0/{module}/0/6
+    label: TenGigE0/{module}/0/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/7
+    position: TenGigE0/{module}/0/7
+    label: TenGigE0/{module}/0/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/8
+    position: TenGigE0/{module}/0/8
+    label: TenGigE0/{module}/0/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/9
+    position: TenGigE0/{module}/0/9
+    label: TenGigE0/{module}/0/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/10
+    position: TenGigE0/{module}/0/10
+    label: TenGigE0/{module}/0/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/11
+    position: TenGigE0/{module}/0/11
+    label: TenGigE0/{module}/0/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/12
+    position: TenGigE0/{module}/0/12
+    label: TenGigE0/{module}/0/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/13
+    position: TenGigE0/{module}/0/13
+    label: TenGigE0/{module}/0/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/14
+    position: TenGigE0/{module}/0/14
+    label: TenGigE0/{module}/0/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/15
+    position: TenGigE0/{module}/0/15
+    label: TenGigE0/{module}/0/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/16
+    position: TenGigE0/{module}/0/16
+    label: TenGigE0/{module}/0/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/17
+    position: TenGigE0/{module}/0/17
+    label: TenGigE0/{module}/0/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/18
+    position: TenGigE0/{module}/0/18
+    label: TenGigE0/{module}/0/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/19
+    position: TenGigE0/{module}/0/19
+    label: TenGigE0/{module}/0/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/20
+    position: TenGigE0/{module}/0/20
+    label: TenGigE0/{module}/0/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/21
+    position: TenGigE0/{module}/0/21
+    label: TenGigE0/{module}/0/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/22
+    position: TenGigE0/{module}/0/22
+    label: TenGigE0/{module}/0/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/23
+    position: TenGigE0/{module}/0/23
+    label: TenGigE0/{module}/0/23
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/24
+    position: TenGigE0/{module}/0/24
+    label: TenGigE0/{module}/0/24
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/25
+    position: TenGigE0/{module}/0/25
+    label: TenGigE0/{module}/0/25
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/26
+    position: TenGigE0/{module}/0/26
+    label: TenGigE0/{module}/0/26
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/27
+    position: TenGigE0/{module}/0/27
+    label: TenGigE0/{module}/0/27
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/28
+    position: TenGigE0/{module}/0/28
+    label: TenGigE0/{module}/0/28
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/29
+    position: TenGigE0/{module}/0/29
+    label: TenGigE0/{module}/0/29
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/30
+    position: TenGigE0/{module}/0/30
+    label: TenGigE0/{module}/0/30
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/31
+    position: TenGigE0/{module}/0/31
+    label: TenGigE0/{module}/0/31
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/32
+    position: TenGigE0/{module}/0/32
+    label: TenGigE0/{module}/0/32
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/33
+    position: TenGigE0/{module}/0/33
+    label: TenGigE0/{module}/0/33
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/34
+    position: TenGigE0/{module}/0/34
+    label: TenGigE0/{module}/0/34
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/35
+    position: TenGigE0/{module}/0/35
+    label: TenGigE0/{module}/0/35
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/36
+    position: TenGigE0/{module}/0/36
+    label: TenGigE0/{module}/0/36
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/37
+    position: TenGigE0/{module}/0/37
+    label: TenGigE0/{module}/0/37
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/38
+    position: TenGigE0/{module}/0/38
+    label: TenGigE0/{module}/0/38
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/39
+    position: TenGigE0/{module}/0/39
+    label: TenGigE0/{module}/0/39
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/40
+    position: TenGigE0/{module}/0/40
+    label: TenGigE0/{module}/0/40
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/41
+    position: TenGigE0/{module}/0/41
+    label: TenGigE0/{module}/0/41
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/42
+    position: TenGigE0/{module}/0/42
+    label: TenGigE0/{module}/0/42
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/43
+    position: TenGigE0/{module}/0/43
+    label: TenGigE0/{module}/0/43
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/44
+    position: TenGigE0/{module}/0/44
+    label: TenGigE0/{module}/0/44
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/45
+    position: TenGigE0/{module}/0/45
+    label: TenGigE0/{module}/0/45
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/46
+    position: TenGigE0/{module}/0/46
+    label: TenGigE0/{module}/0/46
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/47
+    position: TenGigE0/{module}/0/47
+    label: TenGigE0/{module}/0/47
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/48
+    position: TenGigE0/{module}/0/48
+    label: TenGigE0/{module}/0/48
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/49
+    position: TenGigE0/{module}/0/49
+    label: TenGigE0/{module}/0/49
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/50
+    position: TenGigE0/{module}/0/50
+    label: TenGigE0/{module}/0/50
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/51
+    position: TenGigE0/{module}/0/51
+    label: TenGigE0/{module}/0/51
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/52
+    position: TenGigE0/{module}/0/52
+    label: TenGigE0/{module}/0/52
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/53
+    position: TenGigE0/{module}/0/53
+    label: TenGigE0/{module}/0/53
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/54
+    position: TenGigE0/{module}/0/54
+    label: TenGigE0/{module}/0/54
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/55
+    position: TenGigE0/{module}/0/55
+    label: TenGigE0/{module}/0/55
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/56
+    position: TenGigE0/{module}/0/56
+    label: TenGigE0/{module}/0/56
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/57
+    position: TenGigE0/{module}/0/57
+    label: TenGigE0/{module}/0/57
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/58
+    position: TenGigE0/{module}/0/58
+    label: TenGigE0/{module}/0/58
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/59
+    position: TenGigE0/{module}/0/59
+    label: TenGigE0/{module}/0/59

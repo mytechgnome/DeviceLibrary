@@ -3,40 +3,53 @@ manufacturer: HPE
 model: FlexFabric 7900 12-port 40GbE QSFP+ FX Module
 part_number: JG683B
 comments: '[HPE FlexFabric 7900 Switch Series - Specification](https://support.hpe.com/hpesc/public/docDisplay?docId=c04932605&docLocale=en_US)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '1'
+    position: '1'
+    label: '1'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '2'
+    position: '2'
+    label: '2'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '3'
+    position: '3'
+    label: '3'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '4'
+    position: '4'
+    label: '4'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '5'
+    position: '5'
+    label: '5'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '6'
+    position: '6'
+    label: '6'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '7'
+    position: '7'
+    label: '7'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '8'
+    position: '8'
+    label: '8'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '9'
+    position: '9'
+    label: '9'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '10'
+    position: '10'
+    label: '10'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '11'
+    position: '11'
+    label: '11'
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: '12'
+    position: '12'
+    label: '12'

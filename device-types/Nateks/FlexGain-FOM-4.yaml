@@ -36,6 +36,6 @@ interfaces:
     type: e1
 module-bays:
   -
-    name: SFP
+    name: TDM
     position: TDM
-    label: TDM
+    label: sfp

@@ -35,225 +35,225 @@ module-bays:
     name: Fan Tray 4
     position: FAN 4
   -
-    name: SFP
+    name: xe-0/0/0
     position: xe-0/0/0
-    label: xe-0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/1
     position: xe-0/0/1
-    label: xe-0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/2
     position: xe-0/0/2
-    label: xe-0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/3
     position: xe-0/0/3
-    label: xe-0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/4
     position: xe-0/0/4
-    label: xe-0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/5
     position: xe-0/0/5
-    label: xe-0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/6
     position: xe-0/0/6
-    label: xe-0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/7
     position: xe-0/0/7
-    label: xe-0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/8
     position: xe-0/0/8
-    label: xe-0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/9
     position: xe-0/0/9
-    label: xe-0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/10
     position: xe-0/0/10
-    label: xe-0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/11
     position: xe-0/0/11
-    label: xe-0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/12
     position: xe-0/0/12
-    label: xe-0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/13
     position: xe-0/0/13
-    label: xe-0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/14
     position: xe-0/0/14
-    label: xe-0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/15
     position: xe-0/0/15
-    label: xe-0/0/15
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/16
     position: xe-0/0/16
-    label: xe-0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/17
     position: xe-0/0/17
-    label: xe-0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/18
     position: xe-0/0/18
-    label: xe-0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/19
     position: xe-0/0/19
-    label: xe-0/0/19
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/20
     position: xe-0/0/20
-    label: xe-0/0/20
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/21
     position: xe-0/0/21
-    label: xe-0/0/21
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/22
     position: xe-0/0/22
-    label: xe-0/0/22
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/23
     position: xe-0/0/23
-    label: xe-0/0/23
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/24
     position: xe-0/0/24
-    label: xe-0/0/24
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/25
     position: xe-0/0/25
-    label: xe-0/0/25
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/26
     position: xe-0/0/26
-    label: xe-0/0/26
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/27
     position: xe-0/0/27
-    label: xe-0/0/27
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/28
     position: xe-0/0/28
-    label: xe-0/0/28
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/29
     position: xe-0/0/29
-    label: xe-0/0/29
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/30
     position: xe-0/0/30
-    label: xe-0/0/30
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/31
     position: xe-0/0/31
-    label: xe-0/0/31
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/32
     position: xe-0/0/32
-    label: xe-0/0/32
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/33
     position: xe-0/0/33
-    label: xe-0/0/33
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/34
     position: xe-0/0/34
-    label: xe-0/0/34
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/35
     position: xe-0/0/35
-    label: xe-0/0/35
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/36
     position: xe-0/0/36
-    label: xe-0/0/36
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/37
     position: xe-0/0/37
-    label: xe-0/0/37
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/38
     position: xe-0/0/38
-    label: xe-0/0/38
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/39
     position: xe-0/0/39
-    label: xe-0/0/39
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/40
     position: xe-0/0/40
-    label: xe-0/0/40
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/41
     position: xe-0/0/41
-    label: xe-0/0/41
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/42
     position: xe-0/0/42
-    label: xe-0/0/42
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/43
     position: xe-0/0/43
-    label: xe-0/0/43
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/44
     position: xe-0/0/44
-    label: xe-0/0/44
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/45
     position: xe-0/0/45
-    label: xe-0/0/45
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/46
     position: xe-0/0/46
-    label: xe-0/0/46
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/47
     position: xe-0/0/47
-    label: xe-0/0/47
+    label: sfp+
   -
-    name: QSFP
+    name: et-0/0/48
     position: et-0/0/48
-    label: et-0/0/48
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/49
     position: et-0/0/49
-    label: et-0/0/49
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/50
     position: et-0/0/50
-    label: et-0/0/50
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/51
     position: et-0/0/51
-    label: et-0/0/51
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/52
     position: et-0/0/52
-    label: et-0/0/52
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/53
     position: et-0/0/53
-    label: et-0/0/53
+    label: qsfp
   -
-    name: SFP
+    name: em1
     position: em1
-    label: em1
+    label: sfp
 interfaces:
   -
     name: em0

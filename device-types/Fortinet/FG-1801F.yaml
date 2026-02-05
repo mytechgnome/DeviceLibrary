@@ -81,106 +81,106 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: ha1
     position: ha1
-    label: ha1
+    label: sfp+
   -
-    name: SFP
+    name: ha2
     position: ha2
-    label: ha2
+    label: sfp+
   -
-    name: SFP
+    name: port17
     position: port17
-    label: port17
+    label: sfp
   -
-    name: SFP
+    name: port18
     position: port18
-    label: port18
+    label: sfp
   -
-    name: SFP
+    name: port19
     position: port19
-    label: port19
+    label: sfp
   -
-    name: SFP
+    name: port20
     position: port20
-    label: port20
+    label: sfp
   -
-    name: SFP
+    name: port21
     position: port21
-    label: port21
+    label: sfp
   -
-    name: SFP
+    name: port22
     position: port22
-    label: port22
+    label: sfp
   -
-    name: SFP
+    name: port23
     position: port23
-    label: port23
+    label: sfp
   -
-    name: SFP
+    name: port24
     position: port24
-    label: port24
+    label: sfp
   -
-    name: SFP
+    name: port25
     position: port25
-    label: port25
+    label: sfp28
   -
-    name: SFP
+    name: port26
     position: port26
-    label: port26
+    label: sfp28
   -
-    name: SFP
+    name: port27
     position: port27
-    label: port27
+    label: sfp28
   -
-    name: SFP
+    name: port28
     position: port28
-    label: port28
+    label: sfp28
   -
-    name: SFP
+    name: port29
     position: port29
-    label: port29
+    label: sfp28
   -
-    name: SFP
+    name: port30
     position: port30
-    label: port30
+    label: sfp28
   -
-    name: SFP
+    name: port31
     position: port31
-    label: port31
+    label: sfp28
   -
-    name: SFP
+    name: port32
     position: port32
-    label: port32
+    label: sfp28
   -
-    name: SFP
+    name: port33
     position: port33
-    label: port33
+    label: sfp28
   -
-    name: SFP
+    name: port34
     position: port34
-    label: port34
+    label: sfp28
   -
-    name: SFP
+    name: port35
     position: port35
-    label: port35
+    label: sfp28
   -
-    name: SFP
+    name: port36
     position: port36
-    label: port36
+    label: sfp28
   -
-    name: QSFP
+    name: port37
     position: port37
-    label: port37
+    label: qsfp
   -
-    name: QSFP
+    name: port38
     position: port38
-    label: port38
+    label: qsfp
   -
-    name: QSFP
+    name: port39
     position: port39
-    label: port39
+    label: qsfp
   -
-    name: QSFP
+    name: port40
     position: port40
-    label: port40
+    label: qsfp

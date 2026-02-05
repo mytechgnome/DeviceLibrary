@@ -175,18 +175,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Ethernet49
     position: Ethernet49
-    label: Ethernet49
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet50
     position: Ethernet50
-    label: Ethernet50
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet51
     position: Ethernet51
-    label: Ethernet51
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet52
     position: Ethernet52
-    label: Ethernet52
+    label: sfp+

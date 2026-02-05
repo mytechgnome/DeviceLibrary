@@ -2,11 +2,14 @@
 manufacturer: Cisco
 part_number: UCSC-M-V100-04
 model: VIC 1477
-interfaces:
-  -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-  -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+interfaces: []
 comments: Cisco UCS VIC 1477 dual port 40/100G QSFP28 mLOM for C220 M6, C240 M6, C225 M6, C245 M6
+module-bays:
+  -
+    name: Ethernet {module}/1
+    position: Ethernet {module}/1
+    label: Ethernet {module}/1
+  -
+    name: Ethernet {module}/2
+    position: Ethernet {module}/2
+    label: Ethernet {module}/2

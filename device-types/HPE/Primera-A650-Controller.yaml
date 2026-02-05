@@ -26,10 +26,10 @@ module-bays:
     name: Slot-5
     position: '5'
   -
-    name: SFP
+    name: Slot-1
     position: Slot-1
-    label: Slot-1
+    label: sfp+
   -
-    name: SFP
+    name: Slot-2
     position: Slot-2
-    label: Slot-2
+    label: sfp+

@@ -27,101 +27,101 @@ module-bays:
     name: PWR2
     position: '2'
   -
-    name: SFP
+    name: GigabitEthernet0/2/0
     position: GigabitEthernet0/2/0
-    label: GigabitEthernet0/2/0
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/1
     position: GigabitEthernet0/2/1
-    label: GigabitEthernet0/2/1
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/2
     position: GigabitEthernet0/2/2
-    label: GigabitEthernet0/2/2
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/3
     position: GigabitEthernet0/2/3
-    label: GigabitEthernet0/2/3
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/4
     position: GigabitEthernet0/2/4
-    label: GigabitEthernet0/2/4
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/5
     position: GigabitEthernet0/2/5
-    label: GigabitEthernet0/2/5
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/6
     position: GigabitEthernet0/2/6
-    label: GigabitEthernet0/2/6
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/7
     position: GigabitEthernet0/2/7
-    label: GigabitEthernet0/2/7
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/8
     position: GigabitEthernet0/2/8
-    label: GigabitEthernet0/2/8
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/9
     position: GigabitEthernet0/2/9
-    label: GigabitEthernet0/2/9
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/10
     position: GigabitEthernet0/2/10
-    label: GigabitEthernet0/2/10
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/11
     position: GigabitEthernet0/2/11
-    label: GigabitEthernet0/2/11
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/12
     position: GigabitEthernet0/2/12
-    label: GigabitEthernet0/2/12
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/13
     position: GigabitEthernet0/2/13
-    label: GigabitEthernet0/2/13
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/14
     position: GigabitEthernet0/2/14
-    label: GigabitEthernet0/2/14
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/15
     position: GigabitEthernet0/2/15
-    label: GigabitEthernet0/2/15
+    label: sfp+
   -
-    name: SFP
+    name: GigabitEthernet0/2/16
     position: GigabitEthernet0/2/16
-    label: GigabitEthernet0/2/16
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/17
     position: GigabitEthernet0/2/17
-    label: GigabitEthernet0/2/17
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/18
     position: GigabitEthernet0/2/18
-    label: GigabitEthernet0/2/18
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/19
     position: GigabitEthernet0/2/19
-    label: GigabitEthernet0/2/19
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/20
     position: GigabitEthernet0/2/20
-    label: GigabitEthernet0/2/20
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/21
     position: GigabitEthernet0/2/21
-    label: GigabitEthernet0/2/21
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/22
     position: GigabitEthernet0/2/22
-    label: GigabitEthernet0/2/22
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2/23
     position: GigabitEthernet0/2/23
-    label: GigabitEthernet0/2/23
+    label: sfp
 interfaces:
   -
     name: MEthernet0/0/0

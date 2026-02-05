@@ -30,218 +30,218 @@ module-bays:   -
     name: PSU 2
     position: right
   -
-    name: SFP
+    name: SFP28 Port 1
     position: SFP28 Port 1
-    label: SFP28 Port 1
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 2
     position: SFP28 Port 2
-    label: SFP28 Port 2
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 3
     position: SFP28 Port 3
-    label: SFP28 Port 3
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 4
     position: SFP28 Port 4
-    label: SFP28 Port 4
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 5
     position: SFP28 Port 5
-    label: SFP28 Port 5
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 6
     position: SFP28 Port 6
-    label: SFP28 Port 6
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 7
     position: SFP28 Port 7
-    label: SFP28 Port 7
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 8
     position: SFP28 Port 8
-    label: SFP28 Port 8
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 9
     position: SFP28 Port 9
-    label: SFP28 Port 9
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 10
     position: SFP28 Port 10
-    label: SFP28 Port 10
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 11
     position: SFP28 Port 11
-    label: SFP28 Port 11
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 12
     position: SFP28 Port 12
-    label: SFP28 Port 12
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 13
     position: SFP28 Port 13
-    label: SFP28 Port 13
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 14
     position: SFP28 Port 14
-    label: SFP28 Port 14
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 15
     position: SFP28 Port 15
-    label: SFP28 Port 15
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 16
     position: SFP28 Port 16
-    label: SFP28 Port 16
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 17
     position: SFP28 Port 17
-    label: SFP28 Port 17
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 18
     position: SFP28 Port 18
-    label: SFP28 Port 18
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 19
     position: SFP28 Port 19
-    label: SFP28 Port 19
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 20
     position: SFP28 Port 20
-    label: SFP28 Port 20
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 21
     position: SFP28 Port 21
-    label: SFP28 Port 21
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 22
     position: SFP28 Port 22
-    label: SFP28 Port 22
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 23
     position: SFP28 Port 23
-    label: SFP28 Port 23
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 24
     position: SFP28 Port 24
-    label: SFP28 Port 24
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 25
     position: SFP28 Port 25
-    label: SFP28 Port 25
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 26
     position: SFP28 Port 26
-    label: SFP28 Port 26
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 27
     position: SFP28 Port 27
-    label: SFP28 Port 27
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 28
     position: SFP28 Port 28
-    label: SFP28 Port 28
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 29
     position: SFP28 Port 29
-    label: SFP28 Port 29
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 30
     position: SFP28 Port 30
-    label: SFP28 Port 30
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 31
     position: SFP28 Port 31
-    label: SFP28 Port 31
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 32
     position: SFP28 Port 32
-    label: SFP28 Port 32
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 33
     position: SFP28 Port 33
-    label: SFP28 Port 33
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 34
     position: SFP28 Port 34
-    label: SFP28 Port 34
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 35
     position: SFP28 Port 35
-    label: SFP28 Port 35
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 36
     position: SFP28 Port 36
-    label: SFP28 Port 36
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 37
     position: SFP28 Port 37
-    label: SFP28 Port 37
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 38
     position: SFP28 Port 38
-    label: SFP28 Port 38
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 39
     position: SFP28 Port 39
-    label: SFP28 Port 39
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 40
     position: SFP28 Port 40
-    label: SFP28 Port 40
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 41
     position: SFP28 Port 41
-    label: SFP28 Port 41
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 42
     position: SFP28 Port 42
-    label: SFP28 Port 42
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 43
     position: SFP28 Port 43
-    label: SFP28 Port 43
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 44
     position: SFP28 Port 44
-    label: SFP28 Port 44
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 45
     position: SFP28 Port 45
-    label: SFP28 Port 45
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 46
     position: SFP28 Port 46
-    label: SFP28 Port 46
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 47
     position: SFP28 Port 47
-    label: SFP28 Port 47
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 48
     position: SFP28 Port 48
-    label: SFP28 Port 48
+    label: sfp28
   -
-    name: QSFP
+    name: QSFP28 Port 49
     position: QSFP28 Port 49
-    label: QSFP28 Port 49
+    label: qsfp
   -
-    name: QSFP
+    name: QSFP28 Port 50
     position: QSFP28 Port 50
-    label: QSFP28 Port 50
+    label: qsfp
   -
-    name: QSFP
+    name: QSFP28 Port 51
     position: QSFP28 Port 51
-    label: QSFP28 Port 51
+    label: qsfp
   -
-    name: QSFP
+    name: QSFP28 Port 52
     position: QSFP28 Port 52
-    label: QSFP28 Port 52
+    label: qsfp
   -
-    name: QSFP
+    name: QSFP28 Port 53
     position: QSFP28 Port 53
-    label: QSFP28 Port 53
+    label: qsfp
   -
-    name: QSFP
+    name: QSFP28 Port 54
     position: QSFP28 Port 54
-    label: QSFP28 Port 54
+    label: qsfp

@@ -2,40 +2,53 @@
 manufacturer: Juniper
 model: MPC7E-MRATE
 part_number: 750-056519
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/0
+    position: et-{module}/0/0
+    label: et-{module}/0/0
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/1
+    position: et-{module}/0/1
+    label: et-{module}/0/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/2
+    position: et-{module}/0/2
+    label: et-{module}/0/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/3
+    position: et-{module}/0/3
+    label: et-{module}/0/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/4
+    position: et-{module}/0/4
+    label: et-{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/5
+    position: et-{module}/0/5
+    label: et-{module}/0/5
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/1/0
+    position: et-{module}/1/0
+    label: et-{module}/1/0
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/1/1
+    position: et-{module}/1/1
+    label: et-{module}/1/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/1/2
+    position: et-{module}/1/2
+    label: et-{module}/1/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/1/3
+    position: et-{module}/1/3
+    label: et-{module}/1/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/1/4
+    position: et-{module}/1/4
+    label: et-{module}/1/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/1/5
+    position: et-{module}/1/5
+    label: et-{module}/1/5

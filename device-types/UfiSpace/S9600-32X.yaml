@@ -41,151 +41,151 @@ module-bays:
     name: PSU1
     position: '1'
   -
-    name: QSFP
+    name: ce0
     position: ce0
-    label: ce0
+    label: qsfp
     description: May be disabled and replaced by xe0-3, requires reboot
   -
-    name: QSFP
+    name: ce1
     position: ce1
-    label: ce1
+    label: qsfp
   -
-    name: QSFP
+    name: ce2
     position: ce2
-    label: ce2
+    label: qsfp
   -
-    name: QSFP
+    name: ce3
     position: ce3
-    label: ce3
+    label: qsfp
   -
-    name: QSFP
+    name: ce4
     position: ce4
-    label: ce4
+    label: qsfp
   -
-    name: QSFP
+    name: ce5
     position: ce5
-    label: ce5
+    label: qsfp
   -
-    name: QSFP
+    name: ce6
     position: ce6
-    label: ce6
+    label: qsfp
   -
-    name: QSFP
+    name: ce7
     position: ce7
-    label: ce7
+    label: qsfp
   -
-    name: QSFP
+    name: ce8
     position: ce8
-    label: ce8
+    label: qsfp
   -
-    name: QSFP
+    name: ce9
     position: ce9
-    label: ce9
+    label: qsfp
   -
-    name: QSFP
+    name: ce10
     position: ce10
-    label: ce10
+    label: qsfp
   -
-    name: QSFP
+    name: ce11
     position: ce11
-    label: ce11
+    label: qsfp
   -
-    name: QSFP
+    name: ce12
     position: ce12
-    label: ce12
+    label: qsfp
   -
-    name: QSFP
+    name: ce13
     position: ce13
-    label: ce13
+    label: qsfp
   -
-    name: QSFP
+    name: ce14
     position: ce14
-    label: ce14
+    label: qsfp
   -
-    name: QSFP
+    name: ce15
     position: ce15
-    label: ce15
+    label: qsfp
   -
-    name: QSFP
+    name: ce16
     position: ce16
-    label: ce16
+    label: qsfp
   -
-    name: QSFP
+    name: ce17
     position: ce17
-    label: ce17
+    label: qsfp
   -
-    name: QSFP
+    name: ce18
     position: ce18
-    label: ce18
+    label: qsfp
   -
-    name: QSFP
+    name: ce19
     position: ce19
-    label: ce19
+    label: qsfp
   -
-    name: QSFP
+    name: ce20
     position: ce20
-    label: ce20
+    label: qsfp
   -
-    name: QSFP
+    name: ce21
     position: ce21
-    label: ce21
+    label: qsfp
   -
-    name: QSFP
+    name: ce22
     position: ce22
-    label: ce22
+    label: qsfp
   -
-    name: QSFP
+    name: ce23
     position: ce23
-    label: ce23
+    label: qsfp
   -
-    name: QSFP
+    name: ce24
     position: ce24
-    label: ce24
+    label: qsfp
   -
-    name: QSFP
+    name: ce25
     position: ce25
-    label: ce25
+    label: qsfp
   -
-    name: QSFP
+    name: ce26
     position: ce26
-    label: ce26
+    label: qsfp
   -
-    name: QSFP
+    name: ce27
     position: ce27
-    label: ce27
+    label: qsfp
   -
-    name: QSFP
+    name: ce28
     position: ce28
-    label: ce28
+    label: qsfp
   -
-    name: QSFP
+    name: ce29
     position: ce29
-    label: ce29
+    label: qsfp
   -
-    name: QSFP
+    name: ce30
     position: ce30
-    label: ce30
+    label: qsfp
   -
-    name: QSFP
+    name: ce31
     position: ce31
-    label: ce31
+    label: qsfp
   -
-    name: SFP
+    name: xe0
     position: xe0
-    label: xe0
+    label: sfp28
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
-    name: SFP
+    name: xe1
     position: xe1
-    label: xe1
+    label: sfp28
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
-    name: SFP
+    name: xe2
     position: xe2
-    label: xe2
+    label: sfp28
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
-    name: SFP
+    name: xe3
     position: xe3
-    label: xe3
+    label: sfp28
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.

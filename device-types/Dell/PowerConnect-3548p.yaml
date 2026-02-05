@@ -273,10 +273,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: g1
     position: g1
-    label: g1
+    label: sfp
   -
-    name: SFP
+    name: g2
     position: g2
-    label: g2
+    label: sfp

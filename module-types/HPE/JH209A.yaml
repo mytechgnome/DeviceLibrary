@@ -21,41 +21,52 @@ interfaces:
     name: M-GigabitEthernet{module}/0/1
     type: 1000base-t
     mgmt_only: true
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
-    mgmt_only: true
+    name: M-GigabitEthernet{module}/0/2
+    position: M-GigabitEthernet{module}/0/2
+    label: M-GigabitEthernet{module}/0/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
-    mgmt_only: true
+    name: M-GigabitEthernet{module}/0/3
+    position: M-GigabitEthernet{module}/0/3
+    label: M-GigabitEthernet{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/1
+    position: Ten-GigabitEthernet{module}/0/1
+    label: Ten-GigabitEthernet{module}/0/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/2
+    position: Ten-GigabitEthernet{module}/0/2
+    label: Ten-GigabitEthernet{module}/0/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/3
+    position: Ten-GigabitEthernet{module}/0/3
+    label: Ten-GigabitEthernet{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/4
+    position: Ten-GigabitEthernet{module}/0/4
+    label: Ten-GigabitEthernet{module}/0/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/5
+    position: Ten-GigabitEthernet{module}/0/5
+    label: Ten-GigabitEthernet{module}/0/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/6
+    position: Ten-GigabitEthernet{module}/0/6
+    label: Ten-GigabitEthernet{module}/0/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/7
+    position: Ten-GigabitEthernet{module}/0/7
+    label: Ten-GigabitEthernet{module}/0/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ten-GigabitEthernet{module}/0/8
+    position: Ten-GigabitEthernet{module}/0/8
+    label: Ten-GigabitEthernet{module}/0/8
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Forty-GigabitEthernet{module}/0/1
+    position: Forty-GigabitEthernet{module}/0/1
+    label: Forty-GigabitEthernet{module}/0/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Forty-GigabitEthernet{module}/0/2
+    position: Forty-GigabitEthernet{module}/0/2
+    label: Forty-GigabitEthernet{module}/0/2

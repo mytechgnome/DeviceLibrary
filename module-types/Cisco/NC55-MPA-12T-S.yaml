@@ -3,40 +3,53 @@ manufacturer: Cisco
 model: NC55-MPA-12T-S
 part_number: NC55-MPA-12T-S
 comments: NCS 5500 12X10G MPA
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/0
+    position: TenGigE{module}/0
+    label: TenGigE{module}/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/1
+    position: TenGigE{module}/1
+    label: TenGigE{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/2
+    position: TenGigE{module}/2
+    label: TenGigE{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/3
+    position: TenGigE{module}/3
+    label: TenGigE{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/4
+    position: TenGigE{module}/4
+    label: TenGigE{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/5
+    position: TenGigE{module}/5
+    label: TenGigE{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/6
+    position: TenGigE{module}/6
+    label: TenGigE{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/7
+    position: TenGigE{module}/7
+    label: TenGigE{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/8
+    position: TenGigE{module}/8
+    label: TenGigE{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/9
+    position: TenGigE{module}/9
+    label: TenGigE{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/10
+    position: TenGigE{module}/10
+    label: TenGigE{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE{module}/11
+    position: TenGigE{module}/11
+    label: TenGigE{module}/11

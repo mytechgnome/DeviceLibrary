@@ -29,82 +29,82 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: SFP
+    name: et-0/0/0
     position: et-0/0/0
-    label: et-0/0/0
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/1
     position: et-0/0/1
-    label: et-0/0/1
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/2
     position: et-0/0/2
-    label: et-0/0/2
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/3
     position: et-0/0/3
-    label: et-0/0/3
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/4
     position: et-0/0/4
-    label: et-0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/5
     position: et-0/0/5
-    label: et-0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/6
     position: et-0/0/6
-    label: et-0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/7
     position: et-0/0/7
-    label: et-0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/8
     position: et-0/0/8
-    label: et-0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/9
     position: et-0/0/9
-    label: et-0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/10
     position: et-0/0/10
-    label: et-0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/11
     position: et-0/0/11
-    label: et-0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/12
     position: et-0/0/12
-    label: et-0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/13
     position: et-0/0/13
-    label: et-0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/14
     position: et-0/0/14
-    label: et-0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/15
     position: et-0/0/15
-    label: et-0/0/15
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/16
     position: et-0/0/16
-    label: et-0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/17
     position: et-0/0/17
-    label: et-0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/18
     position: et-0/0/18
-    label: et-0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: et-0/0/19
     position: et-0/0/19
-    label: et-0/0/19
+    label: sfp+

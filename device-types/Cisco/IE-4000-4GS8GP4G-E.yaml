@@ -67,38 +67,38 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/1
     position: GigabitEthernet1/1
-    label: GigabitEthernet1/1
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet1/2
     position: GigabitEthernet1/2
-    label: GigabitEthernet1/2
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet1/3
     position: GigabitEthernet1/3
-    label: GigabitEthernet1/3
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet1/4
     position: GigabitEthernet1/4
-    label: GigabitEthernet1/4
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet1/5
     position: GigabitEthernet1/5
-    label: GigabitEthernet1/5
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/6
     position: GigabitEthernet1/6
-    label: GigabitEthernet1/6
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/7
     position: GigabitEthernet1/7
-    label: GigabitEthernet1/7
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/8
     position: GigabitEthernet1/8
-    label: GigabitEthernet1/8
+    label: sfp

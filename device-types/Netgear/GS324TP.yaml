@@ -138,10 +138,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet/25
     position: GigabitEthernet/25
-    label: GigabitEthernet/25
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet/26
     position: GigabitEthernet/26
-    label: GigabitEthernet/26
+    label: sfp

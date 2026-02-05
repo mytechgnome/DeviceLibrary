@@ -35,42 +35,42 @@ module-bays:
     name: psu2
     position: '2'
   -
-    name: QSFP
+    name: '1.0'
     position: '1.0'
-    label: '1.0'
+    label: qsfp
   -
-    name: QSFP
+    name: '2.0'
     position: '2.0'
-    label: '2.0'
+    label: qsfp
   -
-    name: SFP
+    name: '3.0'
     position: '3.0'
-    label: '3.0'
+    label: sfp28
   -
-    name: SFP
+    name: '4.0'
     position: '4.0'
-    label: '4.0'
+    label: sfp28
   -
-    name: SFP
+    name: '5.0'
     position: '5.0'
-    label: '5.0'
+    label: sfp28
   -
-    name: SFP
+    name: '6.0'
     position: '6.0'
-    label: '6.0'
+    label: sfp28
   -
-    name: SFP
+    name: '7.0'
     position: '7.0'
-    label: '7.0'
+    label: sfp28
   -
-    name: SFP
+    name: '8.0'
     position: '8.0'
-    label: '8.0'
+    label: sfp28
   -
-    name: SFP
+    name: '9.0'
     position: '9.0'
-    label: '9.0'
+    label: sfp28
   -
-    name: SFP
+    name: '10.0'
     position: '10.0'
-    label: '10.0'
+    label: sfp28

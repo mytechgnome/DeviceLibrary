@@ -19,91 +19,92 @@ interfaces:
     name: ethernet{module}/4
     type: 10gbase-t
     label: ethernet{module}/4
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/5
+    position: ethernet{module}/5
     label: ethernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/6
+    position: ethernet{module}/6
     label: ethernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/7
+    position: ethernet{module}/7
     label: ethernet{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/8
+    position: ethernet{module}/8
     label: ethernet{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/9
+    position: ethernet{module}/9
     label: ethernet{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/10
+    position: ethernet{module}/10
     label: ethernet{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/11
+    position: ethernet{module}/11
     label: ethernet{module}/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/12
+    position: ethernet{module}/12
     label: ethernet{module}/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/13
+    position: ethernet{module}/13
     label: ethernet{module}/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/14
+    position: ethernet{module}/14
     label: ethernet{module}/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/15
+    position: ethernet{module}/15
     label: ethernet{module}/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/16
+    position: ethernet{module}/16
     label: ethernet{module}/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/17
+    position: ethernet{module}/17
     label: ethernet{module}/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/18
+    position: ethernet{module}/18
     label: ethernet{module}/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/19
+    position: ethernet{module}/19
     label: ethernet{module}/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/20
+    position: ethernet{module}/20
     label: ethernet{module}/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/21
+    position: ethernet{module}/21
     label: ethernet{module}/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/22
+    position: ethernet{module}/22
     label: ethernet{module}/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/23
+    position: ethernet{module}/23
     label: ethernet{module}/23
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: ethernet{module}/24
+    position: ethernet{module}/24
     label: ethernet{module}/24
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: ethernet{module}/25
+    position: ethernet{module}/25
     label: ethernet{module}/25
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: ethernet{module}/26
+    position: ethernet{module}/26
     label: ethernet{module}/26

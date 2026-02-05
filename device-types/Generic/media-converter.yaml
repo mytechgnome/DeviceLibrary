@@ -15,6 +15,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Fiber
     position: Fiber
-    label: Fiber
+    label: sfp

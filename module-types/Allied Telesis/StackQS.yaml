@@ -2,10 +2,13 @@
 manufacturer: Allied Telesis
 model: StackQS
 part_number: AT-StackQS
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: port1.{module}.1
+    position: port1.{module}.1
+    label: port1.{module}.1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: port1.{module}.2
+    position: port1.{module}.2
+    label: port1.{module}.2

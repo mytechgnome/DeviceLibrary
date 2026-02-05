@@ -3,148 +3,197 @@ manufacturer: Cisco
 model: C9600-LC-48YL
 part_number: C9600-LC-48YL
 comments: '[Cisco Catalyst 9600 Series Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9600-series-switches/nb-06-cat9600-series-line-data-sheet-cte-en.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/1
+    position: TwentyFiveGigE{module}/0/1
+    label: TwentyFiveGigE{module}/0/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/2
+    position: TwentyFiveGigE{module}/0/2
+    label: TwentyFiveGigE{module}/0/2
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/3
+    position: TwentyFiveGigE{module}/0/3
+    label: TwentyFiveGigE{module}/0/3
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/4
+    position: TwentyFiveGigE{module}/0/4
+    label: TwentyFiveGigE{module}/0/4
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/5
+    position: TwentyFiveGigE{module}/0/5
+    label: TwentyFiveGigE{module}/0/5
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/6
+    position: TwentyFiveGigE{module}/0/6
+    label: TwentyFiveGigE{module}/0/6
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/7
+    position: TwentyFiveGigE{module}/0/7
+    label: TwentyFiveGigE{module}/0/7
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/8
+    position: TwentyFiveGigE{module}/0/8
+    label: TwentyFiveGigE{module}/0/8
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/9
+    position: TwentyFiveGigE{module}/0/9
+    label: TwentyFiveGigE{module}/0/9
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/10
+    position: TwentyFiveGigE{module}/0/10
+    label: TwentyFiveGigE{module}/0/10
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/11
+    position: TwentyFiveGigE{module}/0/11
+    label: TwentyFiveGigE{module}/0/11
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/12
+    position: TwentyFiveGigE{module}/0/12
+    label: TwentyFiveGigE{module}/0/12
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/13
+    position: TwentyFiveGigE{module}/0/13
+    label: TwentyFiveGigE{module}/0/13
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/14
+    position: TwentyFiveGigE{module}/0/14
+    label: TwentyFiveGigE{module}/0/14
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/15
+    position: TwentyFiveGigE{module}/0/15
+    label: TwentyFiveGigE{module}/0/15
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/16
+    position: TwentyFiveGigE{module}/0/16
+    label: TwentyFiveGigE{module}/0/16
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/17
+    position: TwentyFiveGigE{module}/0/17
+    label: TwentyFiveGigE{module}/0/17
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/18
+    position: TwentyFiveGigE{module}/0/18
+    label: TwentyFiveGigE{module}/0/18
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/19
+    position: TwentyFiveGigE{module}/0/19
+    label: TwentyFiveGigE{module}/0/19
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/20
+    position: TwentyFiveGigE{module}/0/20
+    label: TwentyFiveGigE{module}/0/20
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/21
+    position: TwentyFiveGigE{module}/0/21
+    label: TwentyFiveGigE{module}/0/21
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/22
+    position: TwentyFiveGigE{module}/0/22
+    label: TwentyFiveGigE{module}/0/22
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/23
+    position: TwentyFiveGigE{module}/0/23
+    label: TwentyFiveGigE{module}/0/23
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/24
+    position: TwentyFiveGigE{module}/0/24
+    label: TwentyFiveGigE{module}/0/24
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/25
+    position: TwentyFiveGigE{module}/0/25
+    label: TwentyFiveGigE{module}/0/25
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/26
+    position: TwentyFiveGigE{module}/0/26
+    label: TwentyFiveGigE{module}/0/26
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/27
+    position: TwentyFiveGigE{module}/0/27
+    label: TwentyFiveGigE{module}/0/27
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/28
+    position: TwentyFiveGigE{module}/0/28
+    label: TwentyFiveGigE{module}/0/28
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/29
+    position: TwentyFiveGigE{module}/0/29
+    label: TwentyFiveGigE{module}/0/29
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/30
+    position: TwentyFiveGigE{module}/0/30
+    label: TwentyFiveGigE{module}/0/30
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/31
+    position: TwentyFiveGigE{module}/0/31
+    label: TwentyFiveGigE{module}/0/31
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/32
+    position: TwentyFiveGigE{module}/0/32
+    label: TwentyFiveGigE{module}/0/32
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/33
+    position: TwentyFiveGigE{module}/0/33
+    label: TwentyFiveGigE{module}/0/33
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/34
+    position: TwentyFiveGigE{module}/0/34
+    label: TwentyFiveGigE{module}/0/34
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/35
+    position: TwentyFiveGigE{module}/0/35
+    label: TwentyFiveGigE{module}/0/35
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/36
+    position: TwentyFiveGigE{module}/0/36
+    label: TwentyFiveGigE{module}/0/36
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/37
+    position: TwentyFiveGigE{module}/0/37
+    label: TwentyFiveGigE{module}/0/37
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/38
+    position: TwentyFiveGigE{module}/0/38
+    label: TwentyFiveGigE{module}/0/38
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/39
+    position: TwentyFiveGigE{module}/0/39
+    label: TwentyFiveGigE{module}/0/39
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/40
+    position: TwentyFiveGigE{module}/0/40
+    label: TwentyFiveGigE{module}/0/40
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/41
+    position: TwentyFiveGigE{module}/0/41
+    label: TwentyFiveGigE{module}/0/41
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/42
+    position: TwentyFiveGigE{module}/0/42
+    label: TwentyFiveGigE{module}/0/42
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/43
+    position: TwentyFiveGigE{module}/0/43
+    label: TwentyFiveGigE{module}/0/43
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/44
+    position: TwentyFiveGigE{module}/0/44
+    label: TwentyFiveGigE{module}/0/44
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/45
+    position: TwentyFiveGigE{module}/0/45
+    label: TwentyFiveGigE{module}/0/45
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/46
+    position: TwentyFiveGigE{module}/0/46
+    label: TwentyFiveGigE{module}/0/46
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/47
+    position: TwentyFiveGigE{module}/0/47
+    label: TwentyFiveGigE{module}/0/47
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: TwentyFiveGigE{module}/0/48
+    position: TwentyFiveGigE{module}/0/48
+    label: TwentyFiveGigE{module}/0/48

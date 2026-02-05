@@ -2,76 +2,101 @@
 manufacturer: Juniper
 model: PTX10K-LC1102
 part_number: PTX10K-LC1102
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/0
+    position: et-{module}/0/0
+    label: et-{module}/0/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/1
+    position: et-{module}/0/1
+    label: et-{module}/0/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[2-4]
+    position: et-{module}/0/[2-4]
+    label: et-{module}/0/[2-4]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/5
+    position: et-{module}/0/5
+    label: et-{module}/0/5
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/6
+    position: et-{module}/0/6
+    label: et-{module}/0/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/7
+    position: et-{module}/0/7
+    label: et-{module}/0/7
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[8-10]
+    position: et-{module}/0/[8-10]
+    label: et-{module}/0/[8-10]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/11
+    position: et-{module}/0/11
+    label: et-{module}/0/11
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/12
+    position: et-{module}/0/12
+    label: et-{module}/0/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/13
+    position: et-{module}/0/13
+    label: et-{module}/0/13
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[14-16]
+    position: et-{module}/0/[14-16]
+    label: et-{module}/0/[14-16]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/17
+    position: et-{module}/0/17
+    label: et-{module}/0/17
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/18
+    position: et-{module}/0/18
+    label: et-{module}/0/18
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/19
+    position: et-{module}/0/19
+    label: et-{module}/0/19
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[20-22]
+    position: et-{module}/0/[20-22]
+    label: et-{module}/0/[20-22]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/23
+    position: et-{module}/0/23
+    label: et-{module}/0/23
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/24
+    position: et-{module}/0/24
+    label: et-{module}/0/24
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/25
+    position: et-{module}/0/25
+    label: et-{module}/0/25
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[26-28]
+    position: et-{module}/0/[26-28]
+    label: et-{module}/0/[26-28]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/29
+    position: et-{module}/0/29
+    label: et-{module}/0/29
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/30
+    position: et-{module}/0/30
+    label: et-{module}/0/30
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/31
+    position: et-{module}/0/31
+    label: et-{module}/0/31
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/[32-34]
+    position: et-{module}/0/[32-34]
+    label: et-{module}/0/[32-34]
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/35
+    position: et-{module}/0/35
+    label: et-{module}/0/35

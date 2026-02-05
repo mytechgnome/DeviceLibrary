@@ -27,138 +27,138 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/0
     position: GigTenGigabitEthernet0/0/0/0/0
-    label: GigTenGigabitEthernet0/0/0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/1
     position: GigTenGigabitEthernet0/0/0/0/1
-    label: GigTenGigabitEthernet0/0/0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/2
     position: GigTenGigabitEthernet0/0/0/0/2
-    label: GigTenGigabitEthernet0/0/0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/3
     position: GigTenGigabitEthernet0/0/0/0/3
-    label: GigTenGigabitEthernet0/0/0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/4
     position: GigTenGigabitEthernet0/0/0/0/4
-    label: GigTenGigabitEthernet0/0/0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/5
     position: GigTenGigabitEthernet0/0/0/0/5
-    label: GigTenGigabitEthernet0/0/0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/6
     position: GigTenGigabitEthernet0/0/0/0/6
-    label: GigTenGigabitEthernet0/0/0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/7
     position: GigTenGigabitEthernet0/0/0/0/7
-    label: GigTenGigabitEthernet0/0/0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/8
     position: GigTenGigabitEthernet0/0/0/0/8
-    label: GigTenGigabitEthernet0/0/0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/9
     position: GigTenGigabitEthernet0/0/0/0/9
-    label: GigTenGigabitEthernet0/0/0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/10
     position: GigTenGigabitEthernet0/0/0/0/10
-    label: GigTenGigabitEthernet0/0/0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/11
     position: GigTenGigabitEthernet0/0/0/0/11
-    label: GigTenGigabitEthernet0/0/0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/12
     position: GigTenGigabitEthernet0/0/0/0/12
-    label: GigTenGigabitEthernet0/0/0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/13
     position: GigTenGigabitEthernet0/0/0/0/13
-    label: GigTenGigabitEthernet0/0/0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/14
     position: GigTenGigabitEthernet0/0/0/0/14
-    label: GigTenGigabitEthernet0/0/0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/15
     position: GigTenGigabitEthernet0/0/0/0/15
-    label: GigTenGigabitEthernet0/0/0/0/15
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/16
     position: GigTenGigabitEthernet0/0/0/0/16
-    label: GigTenGigabitEthernet0/0/0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/17
     position: GigTenGigabitEthernet0/0/0/0/17
-    label: GigTenGigabitEthernet0/0/0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/18
     position: GigTenGigabitEthernet0/0/0/0/18
-    label: GigTenGigabitEthernet0/0/0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/19
     position: GigTenGigabitEthernet0/0/0/0/19
-    label: GigTenGigabitEthernet0/0/0/0/19
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/20
     position: GigTenGigabitEthernet0/0/0/0/20
-    label: GigTenGigabitEthernet0/0/0/0/20
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/21
     position: GigTenGigabitEthernet0/0/0/0/21
-    label: GigTenGigabitEthernet0/0/0/0/21
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/22
     position: GigTenGigabitEthernet0/0/0/0/22
-    label: GigTenGigabitEthernet0/0/0/0/22
+    label: sfp+
   -
-    name: SFP
+    name: GigTenGigabitEthernet0/0/0/0/23
     position: GigTenGigabitEthernet0/0/0/0/23
-    label: GigTenGigabitEthernet0/0/0/0/23
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/24
     position: Gig/Te/Twe 0/0/0/24
-    label: Gig/Te/Twe 0/0/0/24
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/25
     position: Gig/Te/Twe 0/0/0/25
-    label: Gig/Te/Twe 0/0/0/25
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/26
     position: Gig/Te/Twe 0/0/0/26
-    label: Gig/Te/Twe 0/0/0/26
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/27
     position: Gig/Te/Twe 0/0/0/27
-    label: Gig/Te/Twe 0/0/0/27
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/28
     position: Gig/Te/Twe 0/0/0/28
-    label: Gig/Te/Twe 0/0/0/28
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/29
     position: Gig/Te/Twe 0/0/0/29
-    label: Gig/Te/Twe 0/0/0/29
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/30
     position: Gig/Te/Twe 0/0/0/30
-    label: Gig/Te/Twe 0/0/0/30
+    label: sfp+
   -
-    name: SFP
+    name: Gig/Te/Twe 0/0/0/31
     position: Gig/Te/Twe 0/0/0/31
-    label: Gig/Te/Twe 0/0/0/31
+    label: sfp+
   -
-    name: QSFP
+    name: Hu 0/0/1/32
     position: Hu 0/0/1/32
-    label: Hu 0/0/1/32
+    label: qsfp
   -
-    name: QSFP
+    name: Hu 0/0/1/33
     position: Hu 0/0/1/33
-    label: Hu 0/0/1/33
+    label: qsfp

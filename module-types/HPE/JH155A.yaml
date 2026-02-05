@@ -3,10 +3,13 @@ manufacturer: HPE
 model: JH155A
 part_number: JH155A
 comments: HPE 5510 2 port QSFP+ Module
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigE1/{module}/1
+    position: FortyGigE1/{module}/1
+    label: FortyGigE1/{module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigE1/{module}/2
+    position: FortyGigE1/{module}/2
+    label: FortyGigE1/{module}/2

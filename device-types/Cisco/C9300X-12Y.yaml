@@ -49,50 +49,50 @@ module-bays:
     name: FAN 3
     position: '3'
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/1
     position: TwentyFiveGigE1/0/1
-    label: TwentyFiveGigE1/0/1
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/2
     position: TwentyFiveGigE1/0/2
-    label: TwentyFiveGigE1/0/2
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/3
     position: TwentyFiveGigE1/0/3
-    label: TwentyFiveGigE1/0/3
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/4
     position: TwentyFiveGigE1/0/4
-    label: TwentyFiveGigE1/0/4
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/5
     position: TwentyFiveGigE1/0/5
-    label: TwentyFiveGigE1/0/5
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/6
     position: TwentyFiveGigE1/0/6
-    label: TwentyFiveGigE1/0/6
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/7
     position: TwentyFiveGigE1/0/7
-    label: TwentyFiveGigE1/0/7
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/8
     position: TwentyFiveGigE1/0/8
-    label: TwentyFiveGigE1/0/8
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/9
     position: TwentyFiveGigE1/0/9
-    label: TwentyFiveGigE1/0/9
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/10
     position: TwentyFiveGigE1/0/10
-    label: TwentyFiveGigE1/0/10
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/11
     position: TwentyFiveGigE1/0/11
-    label: TwentyFiveGigE1/0/11
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE1/0/12
     position: TwentyFiveGigE1/0/12
-    label: TwentyFiveGigE1/0/12
+    label: sfp28

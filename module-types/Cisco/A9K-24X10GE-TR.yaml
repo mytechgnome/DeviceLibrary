@@ -4,76 +4,101 @@ model: A9K-24X10GE-TR
 part_number: A9K-24X10GE-TR
 description: 24-port 10GE, Packet Transport Optimized LC
 comments: '[Cisco ASR 9000 Series 24-Port 10 Gigabit Ethernet Line Card](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet_C78-662708.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/0
+    position: TenGigE0/{module}/0/0
+    label: TenGigE0/{module}/0/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/1
+    position: TenGigE0/{module}/0/1
+    label: TenGigE0/{module}/0/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/2
+    position: TenGigE0/{module}/0/2
+    label: TenGigE0/{module}/0/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/3
+    position: TenGigE0/{module}/0/3
+    label: TenGigE0/{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/4
+    position: TenGigE0/{module}/0/4
+    label: TenGigE0/{module}/0/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/5
+    position: TenGigE0/{module}/0/5
+    label: TenGigE0/{module}/0/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/6
+    position: TenGigE0/{module}/0/6
+    label: TenGigE0/{module}/0/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/7
+    position: TenGigE0/{module}/0/7
+    label: TenGigE0/{module}/0/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/8
+    position: TenGigE0/{module}/0/8
+    label: TenGigE0/{module}/0/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/9
+    position: TenGigE0/{module}/0/9
+    label: TenGigE0/{module}/0/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/10
+    position: TenGigE0/{module}/0/10
+    label: TenGigE0/{module}/0/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/11
+    position: TenGigE0/{module}/0/11
+    label: TenGigE0/{module}/0/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/12
+    position: TenGigE0/{module}/0/12
+    label: TenGigE0/{module}/0/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/13
+    position: TenGigE0/{module}/0/13
+    label: TenGigE0/{module}/0/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/14
+    position: TenGigE0/{module}/0/14
+    label: TenGigE0/{module}/0/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/15
+    position: TenGigE0/{module}/0/15
+    label: TenGigE0/{module}/0/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/16
+    position: TenGigE0/{module}/0/16
+    label: TenGigE0/{module}/0/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/17
+    position: TenGigE0/{module}/0/17
+    label: TenGigE0/{module}/0/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/18
+    position: TenGigE0/{module}/0/18
+    label: TenGigE0/{module}/0/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/19
+    position: TenGigE0/{module}/0/19
+    label: TenGigE0/{module}/0/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/20
+    position: TenGigE0/{module}/0/20
+    label: TenGigE0/{module}/0/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/21
+    position: TenGigE0/{module}/0/21
+    label: TenGigE0/{module}/0/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/22
+    position: TenGigE0/{module}/0/22
+    label: TenGigE0/{module}/0/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/0/23
+    position: TenGigE0/{module}/0/23
+    label: TenGigE0/{module}/0/23

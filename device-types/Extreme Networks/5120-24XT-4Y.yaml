@@ -101,22 +101,22 @@ module-bays:
     name: PSU-2
     position: '2'
   -
-    name: SFP
+    name: '25'
     position: '25'
-    label: '25'
+    label: sfp28
     description: For normal use or for stacking.
   -
-    name: SFP
+    name: '26'
     position: '26'
-    label: '26'
+    label: sfp28
     description: For normal use or for stacking.
   -
-    name: SFP
+    name: U1
     position: U1
-    label: U1
+    label: sfp28
     description: For normal use or for stacking.
   -
-    name: SFP
+    name: U2
     position: U2
-    label: U2
+    label: sfp28
     description: For normal use or for stacking.

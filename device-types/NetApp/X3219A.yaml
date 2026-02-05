@@ -42,10 +42,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: e0a
     position: e0a
-    label: e0a
+    label: sfp+
   -
-    name: SFP
+    name: e0b
     position: e0b
-    label: e0b
+    label: sfp+

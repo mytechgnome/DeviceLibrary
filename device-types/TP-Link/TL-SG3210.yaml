@@ -58,10 +58,10 @@ interfaces:
     label: '8'
 module-bays:
   -
-    name: SFP
+    name: gigabitEthernet 1/0/9
     position: gigabitEthernet 1/0/9
-    label: gigabitEthernet 1/0/9
+    label: sfp
   -
-    name: SFP
+    name: gigabitEthernet 1/0/10
     position: gigabitEthernet 1/0/10
-    label: gigabitEthernet 1/0/10
+    label: sfp

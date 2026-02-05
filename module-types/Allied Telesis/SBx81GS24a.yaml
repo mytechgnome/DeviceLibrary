@@ -2,76 +2,101 @@
 manufacturer: Allied Telesis
 model: SBx81GS24a
 part_number: AT-SBx81GS24a
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.1
+    position: port1.{module}.1
+    label: port1.{module}.1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.2
+    position: port1.{module}.2
+    label: port1.{module}.2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.3
+    position: port1.{module}.3
+    label: port1.{module}.3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.4
+    position: port1.{module}.4
+    label: port1.{module}.4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.5
+    position: port1.{module}.5
+    label: port1.{module}.5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.6
+    position: port1.{module}.6
+    label: port1.{module}.6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.7
+    position: port1.{module}.7
+    label: port1.{module}.7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.8
+    position: port1.{module}.8
+    label: port1.{module}.8
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.9
+    position: port1.{module}.9
+    label: port1.{module}.9
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.10
+    position: port1.{module}.10
+    label: port1.{module}.10
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.11
+    position: port1.{module}.11
+    label: port1.{module}.11
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.12
+    position: port1.{module}.12
+    label: port1.{module}.12
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.13
+    position: port1.{module}.13
+    label: port1.{module}.13
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.14
+    position: port1.{module}.14
+    label: port1.{module}.14
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.15
+    position: port1.{module}.15
+    label: port1.{module}.15
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.16
+    position: port1.{module}.16
+    label: port1.{module}.16
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.17
+    position: port1.{module}.17
+    label: port1.{module}.17
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.18
+    position: port1.{module}.18
+    label: port1.{module}.18
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.19
+    position: port1.{module}.19
+    label: port1.{module}.19
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.20
+    position: port1.{module}.20
+    label: port1.{module}.20
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.21
+    position: port1.{module}.21
+    label: port1.{module}.21
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.22
+    position: port1.{module}.22
+    label: port1.{module}.22
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.23
+    position: port1.{module}.23
+    label: port1.{module}.23
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port1.{module}.24
+    position: port1.{module}.24
+    label: port1.{module}.24

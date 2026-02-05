@@ -168,39 +168,39 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: '49'
     position: '49'
-    label: '49'
+    label: sfp+
     description: Reserved for SPBM in Fabric Engine
   -
-    name: SFP
+    name: '50'
     position: '50'
-    label: '50'
+    label: sfp+
     description: Reserved for SPBM in Fabric Engine
   -
-    name: SFP
+    name: '51'
     position: '51'
-    label: '51'
+    label: sfp+
     description: Reserved for SPBM in Fabric Engine
   -
-    name: SFP
+    name: '52'
     position: '52'
-    label: '52'
+    label: sfp+
   -
-    name: SFP
+    name: '53'
     position: '53'
-    label: '53'
+    label: sfp+
   -
-    name: SFP
+    name: '54'
     position: '54'
-    label: '54'
+    label: sfp+
   -
-    name: SFP
+    name: '55'
     position: '55'
-    label: '55'
+    label: sfp+
     description: Can be used for stacking in Switch Engine
   -
-    name: SFP
+    name: '56'
     position: '56'
-    label: '56'
+    label: sfp+
     description: Can be used for stacking in Switch Engine

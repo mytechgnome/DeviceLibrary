@@ -17,21 +17,21 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: SFP
+    name: swp49
     position: swp49
-    label: swp49
+    label: sfp+
   -
-    name: SFP
+    name: swp50
     position: swp50
-    label: swp50
+    label: sfp+
   -
-    name: SFP
+    name: swp51
     position: swp51
-    label: swp51
+    label: sfp+
   -
-    name: SFP
+    name: swp52
     position: swp52
-    label: swp52
+    label: sfp+
 interfaces:
   -
     name: eth0

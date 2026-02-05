@@ -86,10 +86,10 @@ console-ports:
     type: usb-mini-b
 module-bays:
   -
-    name: SFP
+    name: ge-0/1/0
     position: ge-0/1/0
-    label: ge-0/1/0
+    label: sfp
   -
-    name: SFP
+    name: ge-0/1/1
     position: ge-0/1/1
-    label: ge-0/1/1
+    label: sfp

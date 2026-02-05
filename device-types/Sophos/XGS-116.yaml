@@ -49,9 +49,9 @@ module-bays:
     name: A
     position: A
   -
-    name: SFP
+    name: Port9
     position: Port9
-    label: Port9
+    label: sfp
 power-ports:
   -
     name: DC In 1

@@ -29,6 +29,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: ether6
     position: ether6
-    label: ether6
+    label: sfp

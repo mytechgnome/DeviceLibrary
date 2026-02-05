@@ -45,10 +45,10 @@ interfaces:
     type: 100base-tx
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet 1/0/9
     position: GigabitEthernet 1/0/9
-    label: GigabitEthernet 1/0/9
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/10
     position: GigabitEthernet 1/0/10
-    label: GigabitEthernet 1/0/10
+    label: sfp

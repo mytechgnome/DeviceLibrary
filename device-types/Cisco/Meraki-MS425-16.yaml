@@ -19,74 +19,74 @@ power-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: Port 1
     position: Port 1
-    label: Port 1
+    label: sfp+
   -
-    name: SFP
+    name: Port 2
     position: Port 2
-    label: Port 2
+    label: sfp+
   -
-    name: SFP
+    name: Port 3
     position: Port 3
-    label: Port 3
+    label: sfp+
   -
-    name: SFP
+    name: Port 4
     position: Port 4
-    label: Port 4
+    label: sfp+
   -
-    name: SFP
+    name: Port 5
     position: Port 5
-    label: Port 5
+    label: sfp+
   -
-    name: SFP
+    name: Port 6
     position: Port 6
-    label: Port 6
+    label: sfp+
   -
-    name: SFP
+    name: Port 7
     position: Port 7
-    label: Port 7
+    label: sfp+
   -
-    name: SFP
+    name: Port 8
     position: Port 8
-    label: Port 8
+    label: sfp+
   -
-    name: SFP
+    name: Port 9
     position: Port 9
-    label: Port 9
+    label: sfp+
   -
-    name: SFP
+    name: Port 10
     position: Port 10
-    label: Port 10
+    label: sfp+
   -
-    name: SFP
+    name: Port 11
     position: Port 11
-    label: Port 11
+    label: sfp+
   -
-    name: SFP
+    name: Port 12
     position: Port 12
-    label: Port 12
+    label: sfp+
   -
-    name: SFP
+    name: Port 13
     position: Port 13
-    label: Port 13
+    label: sfp+
   -
-    name: SFP
+    name: Port 14
     position: Port 14
-    label: Port 14
+    label: sfp+
   -
-    name: SFP
+    name: Port 15
     position: Port 15
-    label: Port 15
+    label: sfp+
   -
-    name: SFP
+    name: Port 16
     position: Port 16
-    label: Port 16
+    label: sfp+
   -
-    name: QSFP
+    name: Port 17
     position: Port 17
-    label: Port 17
+    label: qsfp
   -
-    name: QSFP
+    name: Port 18
     position: Port 18
-    label: Port 18
+    label: qsfp

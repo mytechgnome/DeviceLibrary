@@ -49,10 +49,10 @@ interfaces:
     poe_type: type1-ieee802.3af
 module-bays:
   -
-    name: SFP
+    name: port9
     position: port9
-    label: port9
+    label: sfp
   -
-    name: SFP
+    name: port10
     position: port10
-    label: port10
+    label: sfp

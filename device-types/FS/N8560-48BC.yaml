@@ -20,227 +20,227 @@ module-bays:
     name: PSU 2
     position: PSU2
   -
-    name: SFP
+    name: TFGigabitEthernet0/1
     position: TFGigabitEthernet0/1
-    label: TFGigabitEthernet0/1
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/2
     position: TFGigabitEthernet0/2
-    label: TFGigabitEthernet0/2
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/3
     position: TFGigabitEthernet0/3
-    label: TFGigabitEthernet0/3
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/4
     position: TFGigabitEthernet0/4
-    label: TFGigabitEthernet0/4
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/5
     position: TFGigabitEthernet0/5
-    label: TFGigabitEthernet0/5
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/6
     position: TFGigabitEthernet0/6
-    label: TFGigabitEthernet0/6
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/7
     position: TFGigabitEthernet0/7
-    label: TFGigabitEthernet0/7
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/8
     position: TFGigabitEthernet0/8
-    label: TFGigabitEthernet0/8
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/9
     position: TFGigabitEthernet0/9
-    label: TFGigabitEthernet0/9
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/10
     position: TFGigabitEthernet0/10
-    label: TFGigabitEthernet0/10
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/11
     position: TFGigabitEthernet0/11
-    label: TFGigabitEthernet0/11
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/12
     position: TFGigabitEthernet0/12
-    label: TFGigabitEthernet0/12
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/13
     position: TFGigabitEthernet0/13
-    label: TFGigabitEthernet0/13
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/14
     position: TFGigabitEthernet0/14
-    label: TFGigabitEthernet0/14
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/15
     position: TFGigabitEthernet0/15
-    label: TFGigabitEthernet0/15
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/16
     position: TFGigabitEthernet0/16
-    label: TFGigabitEthernet0/16
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/17
     position: TFGigabitEthernet0/17
-    label: TFGigabitEthernet0/17
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/18
     position: TFGigabitEthernet0/18
-    label: TFGigabitEthernet0/18
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/19
     position: TFGigabitEthernet0/19
-    label: TFGigabitEthernet0/19
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/20
     position: TFGigabitEthernet0/20
-    label: TFGigabitEthernet0/20
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/21
     position: TFGigabitEthernet0/21
-    label: TFGigabitEthernet0/21
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/22
     position: TFGigabitEthernet0/22
-    label: TFGigabitEthernet0/22
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/23
     position: TFGigabitEthernet0/23
-    label: TFGigabitEthernet0/23
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/24
     position: TFGigabitEthernet0/24
-    label: TFGigabitEthernet0/24
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/25
     position: TFGigabitEthernet0/25
-    label: TFGigabitEthernet0/25
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/26
     position: TFGigabitEthernet0/26
-    label: TFGigabitEthernet0/26
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/27
     position: TFGigabitEthernet0/27
-    label: TFGigabitEthernet0/27
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/28
     position: TFGigabitEthernet0/28
-    label: TFGigabitEthernet0/28
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/29
     position: TFGigabitEthernet0/29
-    label: TFGigabitEthernet0/29
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/30
     position: TFGigabitEthernet0/30
-    label: TFGigabitEthernet0/30
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/31
     position: TFGigabitEthernet0/31
-    label: TFGigabitEthernet0/31
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/32
     position: TFGigabitEthernet0/32
-    label: TFGigabitEthernet0/32
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/33
     position: TFGigabitEthernet0/33
-    label: TFGigabitEthernet0/33
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/34
     position: TFGigabitEthernet0/34
-    label: TFGigabitEthernet0/34
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/35
     position: TFGigabitEthernet0/35
-    label: TFGigabitEthernet0/35
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/36
     position: TFGigabitEthernet0/36
-    label: TFGigabitEthernet0/36
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/37
     position: TFGigabitEthernet0/37
-    label: TFGigabitEthernet0/37
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/38
     position: TFGigabitEthernet0/38
-    label: TFGigabitEthernet0/38
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/39
     position: TFGigabitEthernet0/39
-    label: TFGigabitEthernet0/39
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/40
     position: TFGigabitEthernet0/40
-    label: TFGigabitEthernet0/40
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/41
     position: TFGigabitEthernet0/41
-    label: TFGigabitEthernet0/41
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/42
     position: TFGigabitEthernet0/42
-    label: TFGigabitEthernet0/42
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/43
     position: TFGigabitEthernet0/43
-    label: TFGigabitEthernet0/43
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/44
     position: TFGigabitEthernet0/44
-    label: TFGigabitEthernet0/44
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/45
     position: TFGigabitEthernet0/45
-    label: TFGigabitEthernet0/45
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/46
     position: TFGigabitEthernet0/46
-    label: TFGigabitEthernet0/46
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/47
     position: TFGigabitEthernet0/47
-    label: TFGigabitEthernet0/47
+    label: sfp28
   -
-    name: SFP
+    name: TFGigabitEthernet0/48
     position: TFGigabitEthernet0/48
-    label: TFGigabitEthernet0/48
+    label: sfp28
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/49
     position: HundredGigabitEthernet0/49
-    label: HundredGigabitEthernet0/49
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/50
     position: HundredGigabitEthernet0/50
-    label: HundredGigabitEthernet0/50
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/51
     position: HundredGigabitEthernet0/51
-    label: HundredGigabitEthernet0/51
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/52
     position: HundredGigabitEthernet0/52
-    label: HundredGigabitEthernet0/52
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/53
     position: HundredGigabitEthernet0/53
-    label: HundredGigabitEthernet0/53
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/54
     position: HundredGigabitEthernet0/54
-    label: HundredGigabitEthernet0/54
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/55
     position: HundredGigabitEthernet0/55
-    label: HundredGigabitEthernet0/55
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigabitEthernet0/56
     position: HundredGigabitEthernet0/56
-    label: HundredGigabitEthernet0/56
+    label: qsfp
 interfaces: []

@@ -79,12 +79,12 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/1
     position: GigabitEthernet1/1
-    label: GigabitEthernet1/1
+    label: sfp
     description: Combo Port (Change type to 1000base-t if using RJ45 interface)
   -
-    name: SFP
+    name: GigabitEthernet1/2
     position: GigabitEthernet1/2
-    label: GigabitEthernet1/2
+    label: sfp
     description: Combo Port (Change type to 1000base-t if using RJ45 interface)

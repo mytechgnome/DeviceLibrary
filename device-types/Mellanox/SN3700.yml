@@ -22,130 +22,130 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: QSFP
+    name: swp1
     position: swp1
-    label: swp1
+    label: qsfp
   -
-    name: QSFP
+    name: swp2
     position: swp2
-    label: swp2
+    label: qsfp
   -
-    name: QSFP
+    name: swp3
     position: swp3
-    label: swp3
+    label: qsfp
   -
-    name: QSFP
+    name: swp4
     position: swp4
-    label: swp4
+    label: qsfp
   -
-    name: QSFP
+    name: swp5
     position: swp5
-    label: swp5
+    label: qsfp
   -
-    name: QSFP
+    name: swp6
     position: swp6
-    label: swp6
+    label: qsfp
   -
-    name: QSFP
+    name: swp7
     position: swp7
-    label: swp7
+    label: qsfp
   -
-    name: QSFP
+    name: swp8
     position: swp8
-    label: swp8
+    label: qsfp
   -
-    name: QSFP
+    name: swp9
     position: swp9
-    label: swp9
+    label: qsfp
   -
-    name: QSFP
+    name: swp10
     position: swp10
-    label: swp10
+    label: qsfp
   -
-    name: QSFP
+    name: swp11
     position: swp11
-    label: swp11
+    label: qsfp
   -
-    name: QSFP
+    name: swp12
     position: swp12
-    label: swp12
+    label: qsfp
   -
-    name: QSFP
+    name: swp13
     position: swp13
-    label: swp13
+    label: qsfp
   -
-    name: QSFP
+    name: swp14
     position: swp14
-    label: swp14
+    label: qsfp
   -
-    name: QSFP
+    name: swp15
     position: swp15
-    label: swp15
+    label: qsfp
   -
-    name: QSFP
+    name: swp16
     position: swp16
-    label: swp16
+    label: qsfp
   -
-    name: QSFP
+    name: swp17
     position: swp17
-    label: swp17
+    label: qsfp
   -
-    name: QSFP
+    name: swp18
     position: swp18
-    label: swp18
+    label: qsfp
   -
-    name: QSFP
+    name: swp19
     position: swp19
-    label: swp19
+    label: qsfp
   -
-    name: QSFP
+    name: swp20
     position: swp20
-    label: swp20
+    label: qsfp
   -
-    name: QSFP
+    name: swp21
     position: swp21
-    label: swp21
+    label: qsfp
   -
-    name: QSFP
+    name: swp22
     position: swp22
-    label: swp22
+    label: qsfp
   -
-    name: QSFP
+    name: swp23
     position: swp23
-    label: swp23
+    label: qsfp
   -
-    name: QSFP
+    name: swp24
     position: swp24
-    label: swp24
+    label: qsfp
   -
-    name: QSFP
+    name: swp25
     position: swp25
-    label: swp25
+    label: qsfp
   -
-    name: QSFP
+    name: swp26
     position: swp26
-    label: swp26
+    label: qsfp
   -
-    name: QSFP
+    name: swp27
     position: swp27
-    label: swp27
+    label: qsfp
   -
-    name: QSFP
+    name: swp28
     position: swp28
-    label: swp28
+    label: qsfp
   -
-    name: QSFP
+    name: swp29
     position: swp29
-    label: swp29
+    label: qsfp
   -
-    name: QSFP
+    name: swp30
     position: swp30
-    label: swp30
+    label: qsfp
   -
-    name: QSFP
+    name: swp31
     position: swp31
-    label: swp31
+    label: qsfp
   -
-    name: QSFP
+    name: swp32
     position: swp32
-    label: swp32
+    label: qsfp

@@ -26,165 +26,165 @@ module-bays:
     label: PSU1
     position: '1'
   -
-    name: SFP
+    name: TenGigE0/0/0/0
     position: TenGigE0/0/0/0
-    label: TenGigE0/0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/1
     position: TenGigE0/0/0/1
-    label: TenGigE0/0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/2
     position: TenGigE0/0/0/2
-    label: TenGigE0/0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/3
     position: TenGigE0/0/0/3
-    label: TenGigE0/0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/4
     position: TenGigE0/0/0/4
-    label: TenGigE0/0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/5
     position: TenGigE0/0/0/5
-    label: TenGigE0/0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/6
     position: TenGigE0/0/0/6
-    label: TenGigE0/0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/7
     position: TenGigE0/0/0/7
-    label: TenGigE0/0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/8
     position: TenGigE0/0/0/8
-    label: TenGigE0/0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/9
     position: TenGigE0/0/0/9
-    label: TenGigE0/0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/10
     position: TenGigE0/0/0/10
-    label: TenGigE0/0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/11
     position: TenGigE0/0/0/11
-    label: TenGigE0/0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/12
     position: TenGigE0/0/0/12
-    label: TenGigE0/0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/13
     position: TenGigE0/0/0/13
-    label: TenGigE0/0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/14
     position: TenGigE0/0/0/14
-    label: TenGigE0/0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/15
     position: TenGigE0/0/0/15
-    label: TenGigE0/0/0/15
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/16
     position: TenGigE0/0/0/16
-    label: TenGigE0/0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/17
     position: TenGigE0/0/0/17
-    label: TenGigE0/0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/18
     position: TenGigE0/0/0/18
-    label: TenGigE0/0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/19
     position: TenGigE0/0/0/19
-    label: TenGigE0/0/0/19
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/20
     position: TenGigE0/0/0/20
-    label: TenGigE0/0/0/20
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/21
     position: TenGigE0/0/0/21
-    label: TenGigE0/0/0/21
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/22
     position: TenGigE0/0/0/22
-    label: TenGigE0/0/0/22
+    label: sfp+
   -
-    name: SFP
+    name: TenGigE0/0/0/23
     position: TenGigE0/0/0/23
-    label: TenGigE0/0/0/23
+    label: sfp+
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/24
     position: TwentyFiveGigE0/0/0/24
-    label: TwentyFiveGigE0/0/0/24
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/25
     position: TwentyFiveGigE0/0/0/25
-    label: TwentyFiveGigE0/0/0/25
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/26
     position: TwentyFiveGigE0/0/0/26
-    label: TwentyFiveGigE0/0/0/26
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/27
     position: TwentyFiveGigE0/0/0/27
-    label: TwentyFiveGigE0/0/0/27
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/28
     position: TwentyFiveGigE0/0/0/28
-    label: TwentyFiveGigE0/0/0/28
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/29
     position: TwentyFiveGigE0/0/0/29
-    label: TwentyFiveGigE0/0/0/29
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/30
     position: TwentyFiveGigE0/0/0/30
-    label: TwentyFiveGigE0/0/0/30
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/31
     position: TwentyFiveGigE0/0/0/31
-    label: TwentyFiveGigE0/0/0/31
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/32
     position: TwentyFiveGigE0/0/0/32
-    label: TwentyFiveGigE0/0/0/32
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/33
     position: TwentyFiveGigE0/0/0/33
-    label: TwentyFiveGigE0/0/0/33
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/34
     position: TwentyFiveGigE0/0/0/34
-    label: TwentyFiveGigE0/0/0/34
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/35
     position: TwentyFiveGigE0/0/0/35
-    label: TwentyFiveGigE0/0/0/35
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/36
     position: TwentyFiveGigE0/0/0/36
-    label: TwentyFiveGigE0/0/0/36
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/37
     position: TwentyFiveGigE0/0/0/37
-    label: TwentyFiveGigE0/0/0/37
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/38
     position: TwentyFiveGigE0/0/0/38
-    label: TwentyFiveGigE0/0/0/38
+    label: sfp28
   -
-    name: SFP
+    name: TwentyFiveGigE0/0/0/39
     position: TwentyFiveGigE0/0/0/39
-    label: TwentyFiveGigE0/0/0/39
+    label: sfp28
 interfaces:
   -
     name: MgmtEth0/RP0/CPU0/0

@@ -383,20 +383,20 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet49
     position: GigabitEthernet49
-    label: GigabitEthernet49
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet50
     position: GigabitEthernet50
-    label: GigabitEthernet50
+    label: sfp
     description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: SFP
+    name: GigabitEthernet51
     position: GigabitEthernet51
-    label: GigabitEthernet51
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet52
     position: GigabitEthernet52
-    label: GigabitEthernet52
+    label: sfp

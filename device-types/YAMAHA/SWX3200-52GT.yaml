@@ -166,18 +166,18 @@ power-ports:
     maximum_draw: 48
 module-bays:
   -
-    name: SFP
+    name: port1.49
     position: port1.49
-    label: port1.49
+    label: sfp
   -
-    name: SFP
+    name: port1.50
     position: port1.50
-    label: port1.50
+    label: sfp
   -
-    name: SFP
+    name: port1.51
     position: port1.51
-    label: port1.51
+    label: sfp
   -
-    name: SFP
+    name: port1.52
     position: port1.52
-    label: port1.52
+    label: sfp

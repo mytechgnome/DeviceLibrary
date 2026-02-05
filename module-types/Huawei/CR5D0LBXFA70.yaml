@@ -6,40 +6,53 @@ description: LPUI-120 12x10GBase LAN/WAN-SFP+ -A
 comments: '[Huawei 12-Port 10GBase LAN/WAN-SFP+ Integrated Line Processing Unit (LPUI-120)](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100259796)'
 weight: 7.9
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/0
+    position: GE{module}/0/0
+    label: GE{module}/0/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/1
+    position: GE{module}/0/1
+    label: GE{module}/0/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/2
+    position: GE{module}/0/2
+    label: GE{module}/0/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/3
+    position: GE{module}/0/3
+    label: GE{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/4
+    position: GE{module}/0/4
+    label: GE{module}/0/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/5
+    position: GE{module}/0/5
+    label: GE{module}/0/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/6
+    position: GE{module}/0/6
+    label: GE{module}/0/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/7
+    position: GE{module}/0/7
+    label: GE{module}/0/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/8
+    position: GE{module}/0/8
+    label: GE{module}/0/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/9
+    position: GE{module}/0/9
+    label: GE{module}/0/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/10
+    position: GE{module}/0/10
+    label: GE{module}/0/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/11
+    position: GE{module}/0/11
+    label: GE{module}/0/11

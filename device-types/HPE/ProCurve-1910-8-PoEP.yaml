@@ -61,10 +61,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet 1/0/9
     position: GigabitEthernet 1/0/9
-    label: GigabitEthernet 1/0/9
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/10
     position: GigabitEthernet 1/0/10
-    label: GigabitEthernet 1/0/10
+    label: sfp

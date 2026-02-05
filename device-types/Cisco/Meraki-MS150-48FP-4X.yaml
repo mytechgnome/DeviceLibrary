@@ -261,26 +261,26 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Port 49
     position: Port 49
-    label: Port 49
+    label: sfp+
   -
-    name: SFP
+    name: Port 50
     position: Port 50
-    label: Port 50
+    label: sfp+
   -
-    name: SFP
+    name: Port 51
     position: Port 51
-    label: Port 51
+    label: sfp+
   -
-    name: SFP
+    name: Port 52
     position: Port 52
-    label: Port 52
+    label: sfp+
   -
-    name: QSFP
+    name: Dedicated Stack Port 1
     position: Dedicated Stack Port 1
-    label: Dedicated Stack Port 1
+    label: qsfp
   -
-    name: QSFP
+    name: Dedicated Stack Port 2
     position: Dedicated Stack Port 2
-    label: Dedicated Stack Port 2
+    label: qsfp

@@ -167,10 +167,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Te1/0/1
     position: Te1/0/1
-    label: Te1/0/1
+    label: sfp+
   -
-    name: SFP
+    name: Te1/0/2
     position: Te1/0/2
-    label: Te1/0/2
+    label: sfp+

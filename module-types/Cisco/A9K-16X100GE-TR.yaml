@@ -4,52 +4,69 @@ model: A9K-16X100GE-TR
 part_number: A9K-16X100GE-TR
 description: ASR 9000 16-port 100GE TR linecard
 comments: '[Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Packet Transport Line Card Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-741100.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/0
+    position: HundredGigE0/{module}/0/0
+    label: HundredGigE0/{module}/0/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/1
+    position: HundredGigE0/{module}/0/1
+    label: HundredGigE0/{module}/0/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/2
+    position: HundredGigE0/{module}/0/2
+    label: HundredGigE0/{module}/0/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/3
+    position: HundredGigE0/{module}/0/3
+    label: HundredGigE0/{module}/0/3
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/4
+    position: HundredGigE0/{module}/0/4
+    label: HundredGigE0/{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/5
+    position: HundredGigE0/{module}/0/5
+    label: HundredGigE0/{module}/0/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/6
+    position: HundredGigE0/{module}/0/6
+    label: HundredGigE0/{module}/0/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/7
+    position: HundredGigE0/{module}/0/7
+    label: HundredGigE0/{module}/0/7
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/8
+    position: HundredGigE0/{module}/0/8
+    label: HundredGigE0/{module}/0/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/9
+    position: HundredGigE0/{module}/0/9
+    label: HundredGigE0/{module}/0/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/10
+    position: HundredGigE0/{module}/0/10
+    label: HundredGigE0/{module}/0/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/11
+    position: HundredGigE0/{module}/0/11
+    label: HundredGigE0/{module}/0/11
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/12
+    position: HundredGigE0/{module}/0/12
+    label: HundredGigE0/{module}/0/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/13
+    position: HundredGigE0/{module}/0/13
+    label: HundredGigE0/{module}/0/13
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/14
+    position: HundredGigE0/{module}/0/14
+    label: HundredGigE0/{module}/0/14
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE0/{module}/0/15
+    position: HundredGigE0/{module}/0/15
+    label: HundredGigE0/{module}/0/15

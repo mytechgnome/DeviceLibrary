@@ -21,229 +21,229 @@ module-bays:
     name: PSU 1
     position: '1'
   -
-    name: SFP
+    name: et-0/0/0
     position: et-0/0/0
-    label: et-0/0/0
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/1
     position: et-0/0/1
-    label: et-0/0/1
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/2
     position: et-0/0/2
-    label: et-0/0/2
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/3
     position: et-0/0/3
-    label: et-0/0/3
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/4
     position: et-0/0/4
-    label: et-0/0/4
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/5
     position: et-0/0/5
-    label: et-0/0/5
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/6
     position: et-0/0/6
-    label: et-0/0/6
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/7
     position: et-0/0/7
-    label: et-0/0/7
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/8
     position: et-0/0/8
-    label: et-0/0/8
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/9
     position: et-0/0/9
-    label: et-0/0/9
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/10
     position: et-0/0/10
-    label: et-0/0/10
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/11
     position: et-0/0/11
-    label: et-0/0/11
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/12
     position: et-0/0/12
-    label: et-0/0/12
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/13
     position: et-0/0/13
-    label: et-0/0/13
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/14
     position: et-0/0/14
-    label: et-0/0/14
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/15
     position: et-0/0/15
-    label: et-0/0/15
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/16
     position: et-0/0/16
-    label: et-0/0/16
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/17
     position: et-0/0/17
-    label: et-0/0/17
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/18
     position: et-0/0/18
-    label: et-0/0/18
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/19
     position: et-0/0/19
-    label: et-0/0/19
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/20
     position: et-0/0/20
-    label: et-0/0/20
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/21
     position: et-0/0/21
-    label: et-0/0/21
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/22
     position: et-0/0/22
-    label: et-0/0/22
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/23
     position: et-0/0/23
-    label: et-0/0/23
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/24
     position: et-0/0/24
-    label: et-0/0/24
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/25
     position: et-0/0/25
-    label: et-0/0/25
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/26
     position: et-0/0/26
-    label: et-0/0/26
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/27
     position: et-0/0/27
-    label: et-0/0/27
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/28
     position: et-0/0/28
-    label: et-0/0/28
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/29
     position: et-0/0/29
-    label: et-0/0/29
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/30
     position: et-0/0/30
-    label: et-0/0/30
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/31
     position: et-0/0/31
-    label: et-0/0/31
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/32
     position: et-0/0/32
-    label: et-0/0/32
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/33
     position: et-0/0/33
-    label: et-0/0/33
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/34
     position: et-0/0/34
-    label: et-0/0/34
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/35
     position: et-0/0/35
-    label: et-0/0/35
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/36
     position: et-0/0/36
-    label: et-0/0/36
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/37
     position: et-0/0/37
-    label: et-0/0/37
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/38
     position: et-0/0/38
-    label: et-0/0/38
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/39
     position: et-0/0/39
-    label: et-0/0/39
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/40
     position: et-0/0/40
-    label: et-0/0/40
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/41
     position: et-0/0/41
-    label: et-0/0/41
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/42
     position: et-0/0/42
-    label: et-0/0/42
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/43
     position: et-0/0/43
-    label: et-0/0/43
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/44
     position: et-0/0/44
-    label: et-0/0/44
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/45
     position: et-0/0/45
-    label: et-0/0/45
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/46
     position: et-0/0/46
-    label: et-0/0/46
+    label: sfp28
   -
-    name: SFP
+    name: et-0/0/47
     position: et-0/0/47
-    label: et-0/0/47
+    label: sfp28
   -
-    name: QSFP
+    name: et-0/0/48
     position: et-0/0/48
-    label: et-0/0/48
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/49
     position: et-0/0/49
-    label: et-0/0/49
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/50
     position: et-0/0/50
-    label: et-0/0/50
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/51
     position: et-0/0/51
-    label: et-0/0/51
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/52
     position: et-0/0/52
-    label: et-0/0/52
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/53
     position: et-0/0/53
-    label: et-0/0/53
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/54
     position: et-0/0/54
-    label: et-0/0/54
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/55
     position: et-0/0/55
-    label: et-0/0/55
+    label: qsfp
 interfaces:
   -
     name: fxp0

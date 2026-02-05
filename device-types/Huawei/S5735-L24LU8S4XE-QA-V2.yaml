@@ -190,60 +190,60 @@ interfaces:
     poe_type: type4-ieee802.3bt
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet0/0/25
     position: GigabitEthernet0/0/25
-    label: GigabitEthernet0/0/25
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/26
     position: GigabitEthernet0/0/26
-    label: GigabitEthernet0/0/26
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/27
     position: GigabitEthernet0/0/27
-    label: GigabitEthernet0/0/27
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/28
     position: GigabitEthernet0/0/28
-    label: GigabitEthernet0/0/28
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/29
     position: GigabitEthernet0/0/29
-    label: GigabitEthernet0/0/29
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/30
     position: GigabitEthernet0/0/30
-    label: GigabitEthernet0/0/30
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/31
     position: GigabitEthernet0/0/31
-    label: GigabitEthernet0/0/31
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/32
     position: GigabitEthernet0/0/32
-    label: GigabitEthernet0/0/32
+    label: sfp
   -
-    name: SFP
+    name: XGigabitEthernet0/0/1
     position: XGigabitEthernet0/0/1
-    label: XGigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/2
     position: XGigabitEthernet0/0/2
-    label: XGigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/3
     position: XGigabitEthernet0/0/3
-    label: XGigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/4
     position: XGigabitEthernet0/0/4
-    label: XGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/5
     position: XGigabitEthernet0/0/5
-    label: XGigabitEthernet0/0/5
+    label: sfp+
     description: Stack port
   -
-    name: SFP
+    name: XGigabitEthernet0/0/6
     position: XGigabitEthernet0/0/6
-    label: XGigabitEthernet0/0/6
+    label: sfp+
     description: Stack port

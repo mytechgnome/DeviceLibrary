@@ -26,29 +26,29 @@ module-bays:
     name: PWR2
     position: PWR2
   -
-    name: QSFP
+    name: 40GE1/0/1
     position: 40GE1/0/1
-    label: 40GE1/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: 40GE1/0/2
     position: 40GE1/0/2
-    label: 40GE1/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: 40GE1/0/3
     position: 40GE1/0/3
-    label: 40GE1/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: 40GE1/0/4
     position: 40GE1/0/4
-    label: 40GE1/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: 40GE1/0/5
     position: 40GE1/0/5
-    label: 40GE1/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: 40GE1/0/6
     position: 40GE1/0/6
-    label: 40GE1/0/6
+    label: qsfp
 interfaces:
   -
     name: MEth0/0/0

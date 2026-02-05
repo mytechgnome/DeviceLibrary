@@ -45,14 +45,14 @@ module-bays:
     name: Fan2
     position: '2'
   -
-    name: SFP
+    name: Management2
     position: Management2
-    label: Management2
+    label: sfp
   -
-    name: SFP
+    name: SFP1
     position: SFP1
-    label: SFP1
+    label: sfp
   -
-    name: SFP
+    name: SFP2
     position: SFP2
-    label: SFP2
+    label: sfp

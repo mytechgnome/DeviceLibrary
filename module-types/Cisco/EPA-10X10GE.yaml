@@ -2,28 +2,37 @@
 manufacturer: Cisco
 model: EPA-10X10GE
 part_number: EPA-10X10GE
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/0
+    position: TenGigabitEthernet{module}/0
+    label: TenGigabitEthernet{module}/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/1
+    position: TenGigabitEthernet{module}/1
+    label: TenGigabitEthernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/2
+    position: TenGigabitEthernet{module}/2
+    label: TenGigabitEthernet{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/3
+    position: TenGigabitEthernet{module}/3
+    label: TenGigabitEthernet{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/4
+    position: TenGigabitEthernet{module}/4
+    label: TenGigabitEthernet{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/5
+    position: TenGigabitEthernet{module}/5
+    label: TenGigabitEthernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/6
+    position: TenGigabitEthernet{module}/6
+    label: TenGigabitEthernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigabitEthernet{module}/7
+    position: TenGigabitEthernet{module}/7
+    label: TenGigabitEthernet{module}/7

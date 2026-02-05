@@ -52,10 +52,10 @@ module-bays:
     name: Interface Card 4
     position: '4'
   -
-    name: SFP
+    name: Sync1
     position: Sync1
-    label: Sync1
+    label: sfp28
   -
-    name: SFP
+    name: Sync2
     position: Sync2
-    label: Sync2
+    label: sfp28

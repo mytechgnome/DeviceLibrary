@@ -36,38 +36,38 @@ module-bays:
     name: Bay 1
     position: '1'
   -
-    name: SFP
+    name: Redundancy Port-SFP
     position: Redundancy Port-SFP
-    label: Redundancy Port-SFP
+    label: sfp
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/0
     position: TenGigabitEthernet0/0/0
-    label: TenGigabitEthernet0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/1
     position: TenGigabitEthernet0/0/1
-    label: TenGigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/2
     position: TenGigabitEthernet0/0/2
-    label: TenGigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/3
     position: TenGigabitEthernet0/0/3
-    label: TenGigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/4
     position: TenGigabitEthernet0/0/4
-    label: TenGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/5
     position: TenGigabitEthernet0/0/5
-    label: TenGigabitEthernet0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/6
     position: TenGigabitEthernet0/0/6
-    label: TenGigabitEthernet0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/7
     position: TenGigabitEthernet0/0/7
-    label: TenGigabitEthernet0/0/7
+    label: sfp+

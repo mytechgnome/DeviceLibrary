@@ -33,26 +33,26 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: WAN1S
     position: WAN1S
-    label: WAN1S
+    label: sfp
   -
-    name: SFP
+    name: WAN2S
     position: WAN2S
-    label: WAN2S
+    label: sfp
   -
-    name: SFP
+    name: LAN1S
     position: LAN1S
-    label: LAN1S
+    label: sfp
   -
-    name: SFP
+    name: LAN2S
     position: LAN2S
-    label: LAN2S
+    label: sfp
   -
-    name: SFP
+    name: LAN3S
     position: LAN3S
-    label: LAN3S
+    label: sfp
   -
-    name: SFP
+    name: LAN4S
     position: LAN4S
-    label: LAN4S
+    label: sfp

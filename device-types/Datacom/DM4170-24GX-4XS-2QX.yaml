@@ -34,122 +34,122 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/1
     position: gigabit-ethernet-1/1/1
-    label: gigabit-ethernet-1/1/1
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/2
     position: gigabit-ethernet-1/1/2
-    label: gigabit-ethernet-1/1/2
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/3
     position: gigabit-ethernet-1/1/3
-    label: gigabit-ethernet-1/1/3
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/4
     position: gigabit-ethernet-1/1/4
-    label: gigabit-ethernet-1/1/4
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/5
     position: gigabit-ethernet-1/1/5
-    label: gigabit-ethernet-1/1/5
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/6
     position: gigabit-ethernet-1/1/6
-    label: gigabit-ethernet-1/1/6
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/7
     position: gigabit-ethernet-1/1/7
-    label: gigabit-ethernet-1/1/7
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/8
     position: gigabit-ethernet-1/1/8
-    label: gigabit-ethernet-1/1/8
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/9
     position: gigabit-ethernet-1/1/9
-    label: gigabit-ethernet-1/1/9
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/10
     position: gigabit-ethernet-1/1/10
-    label: gigabit-ethernet-1/1/10
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/11
     position: gigabit-ethernet-1/1/11
-    label: gigabit-ethernet-1/1/11
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/12
     position: gigabit-ethernet-1/1/12
-    label: gigabit-ethernet-1/1/12
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/13
     position: gigabit-ethernet-1/1/13
-    label: gigabit-ethernet-1/1/13
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/14
     position: gigabit-ethernet-1/1/14
-    label: gigabit-ethernet-1/1/14
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/15
     position: gigabit-ethernet-1/1/15
-    label: gigabit-ethernet-1/1/15
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/16
     position: gigabit-ethernet-1/1/16
-    label: gigabit-ethernet-1/1/16
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/17
     position: gigabit-ethernet-1/1/17
-    label: gigabit-ethernet-1/1/17
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/18
     position: gigabit-ethernet-1/1/18
-    label: gigabit-ethernet-1/1/18
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/19
     position: gigabit-ethernet-1/1/19
-    label: gigabit-ethernet-1/1/19
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/20
     position: gigabit-ethernet-1/1/20
-    label: gigabit-ethernet-1/1/20
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/21
     position: gigabit-ethernet-1/1/21
-    label: gigabit-ethernet-1/1/21
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/22
     position: gigabit-ethernet-1/1/22
-    label: gigabit-ethernet-1/1/22
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/23
     position: gigabit-ethernet-1/1/23
-    label: gigabit-ethernet-1/1/23
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/24
     position: gigabit-ethernet-1/1/24
-    label: gigabit-ethernet-1/1/24
+    label: sfp
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/1
     position: ten-gigabit-ethernet-1/1/1
-    label: ten-gigabit-ethernet-1/1/1
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/2
     position: ten-gigabit-ethernet-1/1/2
-    label: ten-gigabit-ethernet-1/1/2
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/3
     position: ten-gigabit-ethernet-1/1/3
-    label: ten-gigabit-ethernet-1/1/3
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/4
     position: ten-gigabit-ethernet-1/1/4
-    label: ten-gigabit-ethernet-1/1/4
+    label: sfp+
   -
-    name: QSFP
+    name: forty-gigabit-ethernet-1/1/1
     position: forty-gigabit-ethernet-1/1/1
-    label: forty-gigabit-ethernet-1/1/1
+    label: qsfp
   -
-    name: QSFP
+    name: forty-gigabit-ethernet-1/1/2
     position: forty-gigabit-ethernet-1/1/2
-    label: forty-gigabit-ethernet-1/1/2
+    label: qsfp

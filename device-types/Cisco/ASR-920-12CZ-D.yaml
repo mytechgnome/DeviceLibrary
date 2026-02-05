@@ -54,26 +54,26 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet0/0/0
     position: GigabitEthernet0/0/0
-    label: GigabitEthernet0/0/0
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/1
     position: GigabitEthernet0/0/1
-    label: GigabitEthernet0/0/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/2
     position: GigabitEthernet0/0/2
-    label: GigabitEthernet0/0/2
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/3
     position: GigabitEthernet0/0/3
-    label: GigabitEthernet0/0/3
+    label: sfp
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/12
     position: TenGigabitEthernet0/0/12
-    label: TenGigabitEthernet0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/13
     position: TenGigabitEthernet0/0/13
-    label: TenGigabitEthernet0/0/13
+    label: sfp+

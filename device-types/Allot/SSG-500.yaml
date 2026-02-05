@@ -16,69 +16,69 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: Interface 1
     position: Interface 1
-    label: Interface 1
+    label: sfp+
   -
-    name: SFP
+    name: Interface 2
     position: Interface 2
-    label: Interface 2
+    label: sfp+
   -
-    name: SFP
+    name: Interface 3
     position: Interface 3
-    label: Interface 3
+    label: sfp+
   -
-    name: SFP
+    name: Interface 4
     position: Interface 4
-    label: Interface 4
+    label: sfp+
   -
-    name: SFP
+    name: Interface 5
     position: Interface 5
-    label: Interface 5
+    label: sfp+
   -
-    name: SFP
+    name: Interface 6
     position: Interface 6
-    label: Interface 6
+    label: sfp+
   -
-    name: SFP
+    name: Interface 7
     position: Interface 7
-    label: Interface 7
+    label: sfp+
   -
-    name: SFP
+    name: Interface 8
     position: Interface 8
-    label: Interface 8
+    label: sfp+
   -
-    name: SFP
+    name: Interface 9
     position: Interface 9
-    label: Interface 9
+    label: sfp+
   -
-    name: SFP
+    name: Interface 10
     position: Interface 10
-    label: Interface 10
+    label: sfp+
   -
-    name: SFP
+    name: Interface 11
     position: Interface 11
-    label: Interface 11
+    label: sfp+
   -
-    name: SFP
+    name: Interface 12
     position: Interface 12
-    label: Interface 12
+    label: sfp+
   -
-    name: SFP
+    name: Interface 13
     position: Interface 13
-    label: Interface 13
+    label: sfp+
   -
-    name: SFP
+    name: Interface 14
     position: Interface 14
-    label: Interface 14
+    label: sfp+
   -
-    name: SFP
+    name: Interface 15
     position: Interface 15
-    label: Interface 15
+    label: sfp+
   -
-    name: SFP
+    name: Interface 16
     position: Interface 16
-    label: Interface 16
+    label: sfp+
 interfaces:
   -
     name: Management 1

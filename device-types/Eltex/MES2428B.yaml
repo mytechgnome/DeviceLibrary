@@ -92,22 +92,22 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: gi0/25
     position: gi0/25
-    label: gi0/25
+    label: sfp
     description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: SFP
+    name: gi0/26
     position: gi0/26
-    label: gi0/26
+    label: sfp
     description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: SFP
+    name: gi0/27
     position: gi0/27
-    label: gi0/27
+    label: sfp
     description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: SFP
+    name: gi0/28
     position: gi0/28
-    label: gi0/28
+    label: sfp
     description: comboport 1000BASE-T / 1000BASE-X

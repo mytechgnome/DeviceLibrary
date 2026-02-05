@@ -2,154 +2,125 @@
 manufacturer: Juniper
 model: QFX10000-30C
 part_number: QFX10000-30C
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/0
+    position: et-{module}/0/0
+    label: et-{module}/0/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/1
+    position: et-{module}/0/1
+    label: et-{module}/0/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/2
+    position: et-{module}/0/2
+    label: et-{module}/0/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/3
+    position: et-{module}/0/3
+    label: et-{module}/0/3
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/4
+    position: et-{module}/0/4
+    label: et-{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/5
+    position: et-{module}/0/5
+    label: et-{module}/0/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/6
+    position: et-{module}/0/6
+    label: et-{module}/0/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/7
+    position: et-{module}/0/7
+    label: et-{module}/0/7
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/8
+    position: et-{module}/0/8
+    label: et-{module}/0/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/9
+    position: et-{module}/0/9
+    label: et-{module}/0/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/10
+    position: et-{module}/0/10
+    label: et-{module}/0/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/11
+    position: et-{module}/0/11
+    label: et-{module}/0/11
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/12
+    position: et-{module}/0/12
+    label: et-{module}/0/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/13
+    position: et-{module}/0/13
+    label: et-{module}/0/13
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/14
+    position: et-{module}/0/14
+    label: et-{module}/0/14
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/15
+    position: et-{module}/0/15
+    label: et-{module}/0/15
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/16
+    position: et-{module}/0/16
+    label: et-{module}/0/16
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/17
+    position: et-{module}/0/17
+    label: et-{module}/0/17
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/18
+    position: et-{module}/0/18
+    label: et-{module}/0/18
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/19
+    position: et-{module}/0/19
+    label: et-{module}/0/19
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/20
+    position: et-{module}/0/20
+    label: et-{module}/0/20
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/21
+    position: et-{module}/0/21
+    label: et-{module}/0/21
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/22
+    position: et-{module}/0/22
+    label: et-{module}/0/22
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/23
+    position: et-{module}/0/23
+    label: et-{module}/0/23
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/24
+    position: et-{module}/0/24
+    label: et-{module}/0/24
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/25
+    position: et-{module}/0/25
+    label: et-{module}/0/25
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/26
+    position: et-{module}/0/26
+    label: et-{module}/0/26
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/27
+    position: et-{module}/0/27
+    label: et-{module}/0/27
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/28
+    position: et-{module}/0/28
+    label: et-{module}/0/28
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
-    enabled: true
-    mgmt_only: false
+    name: et-{module}/0/29
+    position: et-{module}/0/29
+    label: et-{module}/0/29

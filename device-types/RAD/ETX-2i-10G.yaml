@@ -34,34 +34,34 @@ power-ports:
     maximum_draw: 90
 module-bays:
   -
-    name: SFP
+    name: ETH-1/1
     position: ETH-1/1
-    label: ETH-1/1
+    label: sfp+
   -
-    name: SFP
+    name: ETH-1/2
     position: ETH-1/2
-    label: ETH-1/2
+    label: sfp+
   -
-    name: SFP
+    name: ETH-1/3
     position: ETH-1/3
-    label: ETH-1/3
+    label: sfp+
   -
-    name: SFP
+    name: ETH-1/4
     position: ETH-1/4
-    label: ETH-1/4
+    label: sfp+
   -
-    name: SFP
+    name: ETH-1/5
     position: ETH-1/5
-    label: ETH-1/5
+    label: sfp
   -
-    name: SFP
+    name: ETH-1/6
     position: ETH-1/6
-    label: ETH-1/6
+    label: sfp
   -
-    name: SFP
+    name: ETH-1/7
     position: ETH-1/7
-    label: ETH-1/7
+    label: sfp
   -
-    name: SFP
+    name: ETH-1/8
     position: ETH-1/8
-    label: ETH-1/8
+    label: sfp

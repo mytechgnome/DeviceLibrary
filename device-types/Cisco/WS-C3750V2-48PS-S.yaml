@@ -256,18 +256,18 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/0/1
     position: GigabitEthernet1/0/1
-    label: GigabitEthernet1/0/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/2
     position: GigabitEthernet1/0/2
-    label: GigabitEthernet1/0/2
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/3
     position: GigabitEthernet1/0/3
-    label: GigabitEthernet1/0/3
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/4
     position: GigabitEthernet1/0/4
-    label: GigabitEthernet1/0/4
+    label: sfp

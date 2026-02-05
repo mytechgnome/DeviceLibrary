@@ -11,15 +11,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
-  -
-    name: '{module}'
-    type: 1000base-x-sfp
-  -
-    name: '{module}'
-    type: 1000base-x-sfp
-  -
     name: TenGigabitEthernet{module}/4
     type: 10gbase-x-x2
   -
@@ -29,3 +20,16 @@ interfaces:
     name: Mgmt{module}/0
     type: 1000base-t
     mgmt_only: true
+module-bays:
+  -
+    name: GigabitEthernet{module}/1
+    position: GigabitEthernet{module}/1
+    label: GigabitEthernet{module}/1
+  -
+    name: GigabitEthernet{module}/2
+    position: GigabitEthernet{module}/2
+    label: GigabitEthernet{module}/2
+  -
+    name: GigabitEthernet{module}/3
+    position: GigabitEthernet{module}/3
+    label: GigabitEthernet{module}/3

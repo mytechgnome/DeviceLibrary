@@ -21,53 +21,53 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: GigabitEthernet1/0/1
     position: GigabitEthernet1/0/1
-    label: GigabitEthernet1/0/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/2
     position: GigabitEthernet1/0/2
-    label: GigabitEthernet1/0/2
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/3
     position: GigabitEthernet1/0/3
-    label: GigabitEthernet1/0/3
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/4
     position: GigabitEthernet1/0/4
-    label: GigabitEthernet1/0/4
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/5
     position: GigabitEthernet1/0/5
-    label: GigabitEthernet1/0/5
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/6
     position: GigabitEthernet1/0/6
-    label: GigabitEthernet1/0/6
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/7
     position: GigabitEthernet1/0/7
-    label: GigabitEthernet1/0/7
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/8
     position: GigabitEthernet1/0/8
-    label: GigabitEthernet1/0/8
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/9
     position: GigabitEthernet1/0/9
-    label: GigabitEthernet1/0/9
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/10
     position: GigabitEthernet1/0/10
-    label: GigabitEthernet1/0/10
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/11
     position: GigabitEthernet1/0/11
-    label: GigabitEthernet1/0/11
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/12
     position: GigabitEthernet1/0/12
-    label: GigabitEthernet1/0/12
+    label: sfp
 console-ports:
   -
     name: con0

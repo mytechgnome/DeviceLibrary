@@ -30,45 +30,45 @@ module-bays:
     name: FAN1
     position: '1'
   -
-    name: QSFP
+    name: et-0/1/0
     position: et-0/1/0
-    label: et-0/1/0
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/1/1
     position: et-0/1/1
-    label: et-0/1/1
+    label: qsfp
   -
-    name: SFP
+    name: ge-0/2/0
     position: ge-0/2/0
-    label: ge-0/2/0
+    label: sfp
   -
-    name: SFP
+    name: ge-0/2/1
     position: ge-0/2/1
-    label: ge-0/2/1
+    label: sfp
   -
-    name: SFP
+    name: ge-0/2/2
     position: ge-0/2/2
-    label: ge-0/2/2
+    label: sfp
   -
-    name: SFP
+    name: ge-0/2/3
     position: ge-0/2/3
-    label: ge-0/2/3
+    label: sfp
   -
-    name: SFP
+    name: xe-0/2/0
     position: xe-0/2/0
-    label: xe-0/2/0
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/2/1
     position: xe-0/2/1
-    label: xe-0/2/1
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/2/2
     position: xe-0/2/2
-    label: xe-0/2/2
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/2/3
     position: xe-0/2/3
-    label: xe-0/2/3
+    label: sfp+
 interfaces:
   -
     name: me0

@@ -20,13 +20,13 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: GigabitEthernet0/25
     position: GigabitEthernet0/25
-    label: GigabitEthernet0/25
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/26
     position: GigabitEthernet0/26
-    label: GigabitEthernet0/26
+    label: sfp
 interfaces:
   -
     name: Management

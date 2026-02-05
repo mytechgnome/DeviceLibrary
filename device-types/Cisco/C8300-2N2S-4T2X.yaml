@@ -35,13 +35,13 @@ module-bays:
     name: PIM 1 # PIM = Pluggable Interface Module (LTE/5G)
     position: '1'
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/4
     position: TenGigabitEthernet0/0/4
-    label: TenGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/5
     position: TenGigabitEthernet0/0/5
-    label: TenGigabitEthernet0/0/5
+    label: sfp+
 console-ports:
   -
     name: con0

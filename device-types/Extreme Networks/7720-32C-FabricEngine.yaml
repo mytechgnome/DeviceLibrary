@@ -21,133 +21,133 @@ module-bays:
     name: PS#2
     position: '2'
   -
-    name: QSFP
+    name: 1/1
     position: 1/1
-    label: 1/1
+    label: qsfp
   -
-    name: QSFP
+    name: 1/2
     position: 1/2
-    label: 1/2
+    label: qsfp
   -
-    name: QSFP
+    name: 1/3
     position: 1/3
-    label: 1/3
+    label: qsfp
   -
-    name: QSFP
+    name: 1/4
     position: 1/4
-    label: 1/4
+    label: qsfp
   -
-    name: QSFP
+    name: 1/5
     position: 1/5
-    label: 1/5
+    label: qsfp
   -
-    name: QSFP
+    name: 1/6
     position: 1/6
-    label: 1/6
+    label: qsfp
   -
-    name: QSFP
+    name: 1/7
     position: 1/7
-    label: 1/7
+    label: qsfp
   -
-    name: QSFP
+    name: 1/8
     position: 1/8
-    label: 1/8
+    label: qsfp
   -
-    name: QSFP
+    name: 1/9
     position: 1/9
-    label: 1/9
+    label: qsfp
   -
-    name: QSFP
+    name: 1/10
     position: 1/10
-    label: 1/10
+    label: qsfp
   -
-    name: QSFP
+    name: 1/11
     position: 1/11
-    label: 1/11
+    label: qsfp
   -
-    name: QSFP
+    name: 1/12
     position: 1/12
-    label: 1/12
+    label: qsfp
   -
-    name: QSFP
+    name: 1/13
     position: 1/13
-    label: 1/13
+    label: qsfp
   -
-    name: QSFP
+    name: 1/14
     position: 1/14
-    label: 1/14
+    label: qsfp
   -
-    name: QSFP
+    name: 1/15
     position: 1/15
-    label: 1/15
+    label: qsfp
   -
-    name: QSFP
+    name: 1/16
     position: 1/16
-    label: 1/16
+    label: qsfp
   -
-    name: QSFP
+    name: 1/17
     position: 1/17
-    label: 1/17
+    label: qsfp
   -
-    name: QSFP
+    name: 1/18
     position: 1/18
-    label: 1/18
+    label: qsfp
   -
-    name: QSFP
+    name: 1/19
     position: 1/19
-    label: 1/19
+    label: qsfp
   -
-    name: QSFP
+    name: 1/20
     position: 1/20
-    label: 1/20
+    label: qsfp
   -
-    name: QSFP
+    name: 1/21
     position: 1/21
-    label: 1/21
+    label: qsfp
   -
-    name: QSFP
+    name: 1/22
     position: 1/22
-    label: 1/22
+    label: qsfp
   -
-    name: QSFP
+    name: 1/23
     position: 1/23
-    label: 1/23
+    label: qsfp
   -
-    name: QSFP
+    name: 1/24
     position: 1/24
-    label: 1/24
+    label: qsfp
   -
-    name: QSFP
+    name: 1/25
     position: 1/25
-    label: 1/25
+    label: qsfp
   -
-    name: QSFP
+    name: 1/26
     position: 1/26
-    label: 1/26
+    label: qsfp
   -
-    name: QSFP
+    name: 1/27
     position: 1/27
-    label: 1/27
+    label: qsfp
   -
-    name: QSFP
+    name: 1/28
     position: 1/28
-    label: 1/28
+    label: qsfp
   -
-    name: QSFP
+    name: 1/29
     position: 1/29
-    label: 1/29
+    label: qsfp
   -
-    name: QSFP
+    name: 1/30
     position: 1/30
-    label: 1/30
+    label: qsfp
   -
-    name: QSFP
+    name: 1/31
     position: 1/31
-    label: 1/31
+    label: qsfp
   -
-    name: QSFP
+    name: 1/32
     position: 1/32
-    label: 1/32
+    label: qsfp
 interfaces:
   -
     name: MGMT1

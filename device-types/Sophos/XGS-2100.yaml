@@ -50,13 +50,13 @@ module-bays:
     name: A
     position: A
   -
-    name: SFP
+    name: F1
     position: F1
-    label: F1
+    label: sfp
   -
-    name: SFP
+    name: F2
     position: F2
-    label: F2
+    label: sfp
 power-ports:
   -
     name: internal-PS

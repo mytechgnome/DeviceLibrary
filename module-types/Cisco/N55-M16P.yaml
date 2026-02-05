@@ -3,52 +3,69 @@ manufacturer: Cisco
 model: N55-M16P
 description: N55 M16P Generic Expansion Module
 comments: '[Cisco Nexus 5500 Platform Overview](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/hw/installation/guide/nexus_5000_hig/overview5500.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/1
+    position: Ethernet2/1
+    label: Ethernet2/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/2
+    position: Ethernet2/2
+    label: Ethernet2/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/3
+    position: Ethernet2/3
+    label: Ethernet2/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/4
+    position: Ethernet2/4
+    label: Ethernet2/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/5
+    position: Ethernet2/5
+    label: Ethernet2/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/6
+    position: Ethernet2/6
+    label: Ethernet2/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/7
+    position: Ethernet2/7
+    label: Ethernet2/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/8
+    position: Ethernet2/8
+    label: Ethernet2/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/9
+    position: Ethernet2/9
+    label: Ethernet2/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/10
+    position: Ethernet2/10
+    label: Ethernet2/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/11
+    position: Ethernet2/11
+    label: Ethernet2/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/12
+    position: Ethernet2/12
+    label: Ethernet2/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/13
+    position: Ethernet2/13
+    label: Ethernet2/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/14
+    position: Ethernet2/14
+    label: Ethernet2/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/15
+    position: Ethernet2/15
+    label: Ethernet2/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet2/16
+    position: Ethernet2/16
+    label: Ethernet2/16

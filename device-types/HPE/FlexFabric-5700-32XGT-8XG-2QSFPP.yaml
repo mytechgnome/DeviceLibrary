@@ -27,45 +27,45 @@ module-bays:
     name: Fan2
     position: Fan2
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/33
     position: Ten-GigabitEthernet1/0/33
-    label: Ten-GigabitEthernet1/0/33
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/34
     position: Ten-GigabitEthernet1/0/34
-    label: Ten-GigabitEthernet1/0/34
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/35
     position: Ten-GigabitEthernet1/0/35
-    label: Ten-GigabitEthernet1/0/35
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/36
     position: Ten-GigabitEthernet1/0/36
-    label: Ten-GigabitEthernet1/0/36
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/37
     position: Ten-GigabitEthernet1/0/37
-    label: Ten-GigabitEthernet1/0/37
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/38
     position: Ten-GigabitEthernet1/0/38
-    label: Ten-GigabitEthernet1/0/38
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/39
     position: Ten-GigabitEthernet1/0/39
-    label: Ten-GigabitEthernet1/0/39
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/40
     position: Ten-GigabitEthernet1/0/40
-    label: Ten-GigabitEthernet1/0/40
+    label: sfp+
   -
-    name: QSFP
+    name: FortyGigE1/0/41
     position: FortyGigE1/0/41
-    label: FortyGigE1/0/41
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigE1/0/42
     position: FortyGigE1/0/42
-    label: FortyGigE1/0/42
+    label: qsfp
 interfaces:
   -
     name: Ten-GigabitEthernet1/0/0

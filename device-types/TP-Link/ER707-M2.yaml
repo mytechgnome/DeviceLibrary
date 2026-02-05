@@ -33,6 +33,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: wan/lan7
     position: wan/lan7
-    label: wan/lan7
+    label: sfp

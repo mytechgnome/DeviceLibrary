@@ -3,7 +3,9 @@ manufacturer: Intel
 model: XL710-QDA1
 part_number: XL710-QDA1
 comments: '[Datasheet](https://www.intel.com/content/www/us/en/products/sku/83966/intel-ethernet-converged-network-adapter-xl710qda1/specifications.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet/{module}/1
+    position: Ethernet/{module}/1
+    label: Ethernet/{module}/1

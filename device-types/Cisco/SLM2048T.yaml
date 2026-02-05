@@ -173,10 +173,10 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet49
     position: GigabitEthernet49
-    label: GigabitEthernet49
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet50
     position: GigabitEthernet50
-    label: GigabitEthernet50
+    label: sfp

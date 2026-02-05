@@ -43,10 +43,10 @@ power-ports:
     allocated_draw: 3
 module-bays:
   -
-    name: SFP
+    name: SFP-WAN-1/0
     position: SFP-WAN-1/0
-    label: SFP-WAN-1/0
+    label: sfp
   -
-    name: SFP
+    name: SFP-WAN-2/0
     position: SFP-WAN-2/0
-    label: SFP-WAN-2/0
+    label: sfp

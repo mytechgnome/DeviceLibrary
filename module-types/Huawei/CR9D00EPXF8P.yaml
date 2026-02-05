@@ -6,184 +6,245 @@ description: NE9000 LPUI-1T-CM 60x10GBase LAN/WAN-SFP+
 comments: '[Huawei 60-Port 10GBase LAN/WAN-SFP+ Integrated Line Process Unit CM (LPUI-1T-CM)](https://info.support.huawei.com/info-finder/enterprisesearch/en?keyword=CR9D00EPXF8P)'
 weight: 13.5
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/0
+    position: GE{module}/0/0
+    label: GE{module}/0/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/1
+    position: GE{module}/0/1
+    label: GE{module}/0/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/2
+    position: GE{module}/0/2
+    label: GE{module}/0/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/3
+    position: GE{module}/0/3
+    label: GE{module}/0/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/4
+    position: GE{module}/0/4
+    label: GE{module}/0/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/5
+    position: GE{module}/0/5
+    label: GE{module}/0/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/6
+    position: GE{module}/0/6
+    label: GE{module}/0/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/7
+    position: GE{module}/0/7
+    label: GE{module}/0/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/8
+    position: GE{module}/0/8
+    label: GE{module}/0/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/9
+    position: GE{module}/0/9
+    label: GE{module}/0/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/10
+    position: GE{module}/0/10
+    label: GE{module}/0/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/11
+    position: GE{module}/0/11
+    label: GE{module}/0/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/12
+    position: GE{module}/0/12
+    label: GE{module}/0/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/13
+    position: GE{module}/0/13
+    label: GE{module}/0/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/14
+    position: GE{module}/0/14
+    label: GE{module}/0/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/15
+    position: GE{module}/0/15
+    label: GE{module}/0/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/16
+    position: GE{module}/0/16
+    label: GE{module}/0/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/17
+    position: GE{module}/0/17
+    label: GE{module}/0/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/18
+    position: GE{module}/0/18
+    label: GE{module}/0/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/19
+    position: GE{module}/0/19
+    label: GE{module}/0/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/20
+    position: GE{module}/0/20
+    label: GE{module}/0/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/21
+    position: GE{module}/0/21
+    label: GE{module}/0/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/22
+    position: GE{module}/0/22
+    label: GE{module}/0/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/23
+    position: GE{module}/0/23
+    label: GE{module}/0/23
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/24
+    position: GE{module}/0/24
+    label: GE{module}/0/24
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/25
+    position: GE{module}/0/25
+    label: GE{module}/0/25
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/26
+    position: GE{module}/0/26
+    label: GE{module}/0/26
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/27
+    position: GE{module}/0/27
+    label: GE{module}/0/27
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/28
+    position: GE{module}/0/28
+    label: GE{module}/0/28
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/29
+    position: GE{module}/0/29
+    label: GE{module}/0/29
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/30
+    position: GE{module}/0/30
+    label: GE{module}/0/30
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/31
+    position: GE{module}/0/31
+    label: GE{module}/0/31
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/32
+    position: GE{module}/0/32
+    label: GE{module}/0/32
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/33
+    position: GE{module}/0/33
+    label: GE{module}/0/33
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/34
+    position: GE{module}/0/34
+    label: GE{module}/0/34
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/35
+    position: GE{module}/0/35
+    label: GE{module}/0/35
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/36
+    position: GE{module}/0/36
+    label: GE{module}/0/36
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/37
+    position: GE{module}/0/37
+    label: GE{module}/0/37
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/38
+    position: GE{module}/0/38
+    label: GE{module}/0/38
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/39
+    position: GE{module}/0/39
+    label: GE{module}/0/39
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/40
+    position: GE{module}/0/40
+    label: GE{module}/0/40
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/41
+    position: GE{module}/0/41
+    label: GE{module}/0/41
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/42
+    position: GE{module}/0/42
+    label: GE{module}/0/42
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/43
+    position: GE{module}/0/43
+    label: GE{module}/0/43
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/44
+    position: GE{module}/0/44
+    label: GE{module}/0/44
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/45
+    position: GE{module}/0/45
+    label: GE{module}/0/45
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/46
+    position: GE{module}/0/46
+    label: GE{module}/0/46
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/47
+    position: GE{module}/0/47
+    label: GE{module}/0/47
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/48
+    position: GE{module}/0/48
+    label: GE{module}/0/48
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/49
+    position: GE{module}/0/49
+    label: GE{module}/0/49
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/50
+    position: GE{module}/0/50
+    label: GE{module}/0/50
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/51
+    position: GE{module}/0/51
+    label: GE{module}/0/51
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/52
+    position: GE{module}/0/52
+    label: GE{module}/0/52
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/53
+    position: GE{module}/0/53
+    label: GE{module}/0/53
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/54
+    position: GE{module}/0/54
+    label: GE{module}/0/54
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/55
+    position: GE{module}/0/55
+    label: GE{module}/0/55
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/56
+    position: GE{module}/0/56
+    label: GE{module}/0/56
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/57
+    position: GE{module}/0/57
+    label: GE{module}/0/57
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/58
+    position: GE{module}/0/58
+    label: GE{module}/0/58
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: GE{module}/0/59
+    position: GE{module}/0/59
+    label: GE{module}/0/59

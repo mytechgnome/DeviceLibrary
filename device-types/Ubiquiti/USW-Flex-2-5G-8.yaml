@@ -48,6 +48,6 @@ power-ports:
     maximum_draw: 14
 module-bays:
   -
-    name: SFP
+    name: Port 10
     position: Port 10
-    label: Port 10
+    label: sfp+

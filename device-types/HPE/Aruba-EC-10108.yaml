@@ -57,18 +57,18 @@ interfaces:
     label: mgmt1 (bottom)
 module-bays:
   -
-    name: SFP
+    name: lan2-SFP
     position: lan2-SFP
-    label: lan2-SFP
+    label: sfp
   -
-    name: SFP
+    name: wan0
     position: wan0
-    label: wan0
+    label: sfp+
   -
-    name: SFP
+    name: wan1
     position: wan1
-    label: wan1
+    label: sfp+
   -
-    name: SFP
+    name: wan2-SFP
     position: wan2-SFP
-    label: wan2-SFP
+    label: sfp

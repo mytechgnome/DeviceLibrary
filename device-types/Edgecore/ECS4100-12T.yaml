@@ -41,18 +41,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: eth9
     position: eth9
-    label: eth9
+    label: sfp
   -
-    name: SFP
+    name: eth10
     position: eth10
-    label: eth10
+    label: sfp
   -
-    name: SFP
+    name: eth11
     position: eth11
-    label: eth11
+    label: sfp
   -
-    name: SFP
+    name: eth12
     position: eth12
-    label: eth12
+    label: sfp

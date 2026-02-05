@@ -68,18 +68,18 @@ module-bays:
     name: Network Module 1
     position: '1'
   -
-    name: SFP
+    name: Ethernet1/13
     position: Ethernet1/13
-    label: Ethernet1/13
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/14
     position: Ethernet1/14
-    label: Ethernet1/14
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/15
     position: Ethernet1/15
-    label: Ethernet1/15
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/16
     position: Ethernet1/16
-    label: Ethernet1/16
+    label: sfp+

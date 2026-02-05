@@ -3,82 +3,109 @@ manufacturer: Huawei
 model: CE88-D24S2CQ
 part_number: CE88-D24S2CQ
 comments: '[Huawei 24-Port 10GE/25GE (SFP28) and 2-Port 40GE/100GE (QSFP28) Interface Card](https://support.huawei.com/enterprise/en/doc/EDOC1000019246/c8bb22b/ce88-d24s2cq-24-port-10ge-25ge-sfp28-and-2-port-40ge-100ge-qsfp28-interface-card)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/1
+    position: 25GE1/{module}/1
+    label: 25GE1/{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/2
+    position: 25GE1/{module}/2
+    label: 25GE1/{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/3
+    position: 25GE1/{module}/3
+    label: 25GE1/{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/4
+    position: 25GE1/{module}/4
+    label: 25GE1/{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/5
+    position: 25GE1/{module}/5
+    label: 25GE1/{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/6
+    position: 25GE1/{module}/6
+    label: 25GE1/{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/7
+    position: 25GE1/{module}/7
+    label: 25GE1/{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/8
+    position: 25GE1/{module}/8
+    label: 25GE1/{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/9
+    position: 25GE1/{module}/9
+    label: 25GE1/{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/10
+    position: 25GE1/{module}/10
+    label: 25GE1/{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/11
+    position: 25GE1/{module}/11
+    label: 25GE1/{module}/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/12
+    position: 25GE1/{module}/12
+    label: 25GE1/{module}/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/13
+    position: 25GE1/{module}/13
+    label: 25GE1/{module}/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/14
+    position: 25GE1/{module}/14
+    label: 25GE1/{module}/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/15
+    position: 25GE1/{module}/15
+    label: 25GE1/{module}/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/16
+    position: 25GE1/{module}/16
+    label: 25GE1/{module}/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/17
+    position: 25GE1/{module}/17
+    label: 25GE1/{module}/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/18
+    position: 25GE1/{module}/18
+    label: 25GE1/{module}/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/19
+    position: 25GE1/{module}/19
+    label: 25GE1/{module}/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/20
+    position: 25GE1/{module}/20
+    label: 25GE1/{module}/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/21
+    position: 25GE1/{module}/21
+    label: 25GE1/{module}/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/22
+    position: 25GE1/{module}/22
+    label: 25GE1/{module}/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/23
+    position: 25GE1/{module}/23
+    label: 25GE1/{module}/23
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 25GE1/{module}/24
+    position: 25GE1/{module}/24
+    label: 25GE1/{module}/24
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE1/{module}/1
+    position: 100GE1/{module}/1
+    label: 100GE1/{module}/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE1/{module}/2
+    position: 100GE1/{module}/2
+    label: 100GE1/{module}/2

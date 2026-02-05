@@ -20,21 +20,21 @@ module-bays:
     name: PS2
     position: '1'
   -
-    name: SFP
+    name: Ethernet1/5
     position: Ethernet1/5
-    label: Ethernet1/5
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/6
     position: Ethernet1/6
-    label: Ethernet1/6
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/7
     position: Ethernet1/7
-    label: Ethernet1/7
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/8
     position: Ethernet1/8
-    label: Ethernet1/8
+    label: sfp+
 front_image: true
 rear_image: true
 interfaces:

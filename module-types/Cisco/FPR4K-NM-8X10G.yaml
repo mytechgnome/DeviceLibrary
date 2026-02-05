@@ -3,28 +3,37 @@ manufacturer: Cisco
 model: FPR4K-NM-8X10G
 part_number: FPR4K-NM-8X10G
 comments: '[Cisco Firepower 4110, 4120, 4140, and 4150 Hardware Installation Guide](https://www.cisco.com/c/en/us/td/docs/security/firepower/4100/hw/guide/b_install_guide_4100/overview.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/3
+    position: Ethernet{module}/3
+    label: Ethernet{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/4
+    position: Ethernet{module}/4
+    label: Ethernet{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/5
+    position: Ethernet{module}/5
+    label: Ethernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/6
+    position: Ethernet{module}/6
+    label: Ethernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/7
+    position: Ethernet{module}/7
+    label: Ethernet{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/8
+    position: Ethernet{module}/8
+    label: Ethernet{module}/8

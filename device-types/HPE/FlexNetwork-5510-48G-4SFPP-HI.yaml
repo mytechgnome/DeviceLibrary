@@ -17,21 +17,21 @@ module-bays:
     name: Power 2
     position: '2'
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/49
     position: Ten-GigabitEthernet1/0/49
-    label: Ten-GigabitEthernet1/0/49
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/50
     position: Ten-GigabitEthernet1/0/50
-    label: Ten-GigabitEthernet1/0/50
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/51
     position: Ten-GigabitEthernet1/0/51
-    label: Ten-GigabitEthernet1/0/51
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/52
     position: Ten-GigabitEthernet1/0/52
-    label: Ten-GigabitEthernet1/0/52
+    label: sfp+
 interfaces:
   -
     name: M-GigabitEthernet0/0/0

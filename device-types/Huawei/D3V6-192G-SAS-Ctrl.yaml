@@ -18,21 +18,21 @@ module-bays:
     name: IOM_2
     position: IOM_2
   -
-    name: SFP
+    name: Net P2
     position: Net P2
-    label: Net P2
+    label: sfp+
   -
-    name: SFP
+    name: Net P3
     position: Net P3
-    label: Net P3
+    label: sfp+
   -
-    name: SFP
+    name: Net P4
     position: Net P4
-    label: Net P4
+    label: sfp+
   -
-    name: SFP
+    name: Net P5
     position: Net P5
-    label: Net P5
+    label: sfp+
 interfaces:
   -
     name: Net P6

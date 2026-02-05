@@ -3,148 +3,197 @@ manufacturer: Telco Systems
 model: TM8104-48SFP+
 part_number: TM8104-48SFP+
 description: T-Metro 8104 48 SFP+ port Expansion Line Card
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/1
+    position: 1/2/1
+    label: 1/2/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/2
+    position: 1/2/2
+    label: 1/2/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/3
+    position: 1/2/3
+    label: 1/2/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/4
+    position: 1/2/4
+    label: 1/2/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/5
+    position: 1/2/5
+    label: 1/2/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/6
+    position: 1/2/6
+    label: 1/2/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/7
+    position: 1/2/7
+    label: 1/2/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/8
+    position: 1/2/8
+    label: 1/2/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/9
+    position: 1/2/9
+    label: 1/2/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/10
+    position: 1/2/10
+    label: 1/2/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/11
+    position: 1/2/11
+    label: 1/2/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/12
+    position: 1/2/12
+    label: 1/2/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/13
+    position: 1/2/13
+    label: 1/2/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/14
+    position: 1/2/14
+    label: 1/2/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/15
+    position: 1/2/15
+    label: 1/2/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/16
+    position: 1/2/16
+    label: 1/2/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/17
+    position: 1/2/17
+    label: 1/2/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/18
+    position: 1/2/18
+    label: 1/2/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/19
+    position: 1/2/19
+    label: 1/2/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/20
+    position: 1/2/20
+    label: 1/2/20
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/21
+    position: 1/2/21
+    label: 1/2/21
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/22
+    position: 1/2/22
+    label: 1/2/22
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/23
+    position: 1/2/23
+    label: 1/2/23
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/24
+    position: 1/2/24
+    label: 1/2/24
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/25
+    position: 1/2/25
+    label: 1/2/25
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/26
+    position: 1/2/26
+    label: 1/2/26
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/27
+    position: 1/2/27
+    label: 1/2/27
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/28
+    position: 1/2/28
+    label: 1/2/28
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/29
+    position: 1/2/29
+    label: 1/2/29
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/30
+    position: 1/2/30
+    label: 1/2/30
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/31
+    position: 1/2/31
+    label: 1/2/31
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/32
+    position: 1/2/32
+    label: 1/2/32
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/33
+    position: 1/2/33
+    label: 1/2/33
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/34
+    position: 1/2/34
+    label: 1/2/34
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/35
+    position: 1/2/35
+    label: 1/2/35
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/36
+    position: 1/2/36
+    label: 1/2/36
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/37
+    position: 1/2/37
+    label: 1/2/37
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/38
+    position: 1/2/38
+    label: 1/2/38
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/39
+    position: 1/2/39
+    label: 1/2/39
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/40
+    position: 1/2/40
+    label: 1/2/40
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/41
+    position: 1/2/41
+    label: 1/2/41
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/42
+    position: 1/2/42
+    label: 1/2/42
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/43
+    position: 1/2/43
+    label: 1/2/43
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/44
+    position: 1/2/44
+    label: 1/2/44
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/45
+    position: 1/2/45
+    label: 1/2/45
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/46
+    position: 1/2/46
+    label: 1/2/46
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/47
+    position: 1/2/47
+    label: 1/2/47
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 1/2/48
+    position: 1/2/48
+    label: 1/2/48

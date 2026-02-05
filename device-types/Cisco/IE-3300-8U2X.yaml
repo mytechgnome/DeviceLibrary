@@ -49,12 +49,12 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Te1/1
     position: Te1/1
-    label: Te1/1
+    label: sfp+
     description: 10G SFP+ uplink
   -
-    name: SFP
+    name: Te1/2
     position: Te1/2
-    label: Te1/2
+    label: sfp+
     description: 10G SFP+ uplink

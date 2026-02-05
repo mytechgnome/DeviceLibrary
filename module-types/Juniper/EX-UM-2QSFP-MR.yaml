@@ -3,10 +3,13 @@ manufacturer: Juniper
 model: EX-UM-2QSFP-MR
 part_number: EX-UM-2QSFP-MR
 comments: Compatible with EX4300MP Only
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-0/{module}/0
+    position: et-0/{module}/0
+    label: et-0/{module}/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-0/{module}/1
+    position: et-0/{module}/1
+    label: et-0/{module}/1

@@ -99,18 +99,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: 25F
     position: 25F
-    label: 25F
+    label: sfp
   -
-    name: SFP
+    name: 26F
     position: 26F
-    label: 26F
+    label: sfp
   -
-    name: SFP
+    name: '27'
     position: '27'
-    label: '27'
+    label: sfp
   -
-    name: SFP
+    name: '28'
     position: '28'
-    label: '28'
+    label: sfp

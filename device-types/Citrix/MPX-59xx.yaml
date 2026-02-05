@@ -45,10 +45,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Interface 10/1
     position: Interface 10/1
-    label: Interface 10/1
+    label: sfp+
   -
-    name: SFP
+    name: Interface 10/2
     position: Interface 10/2
-    label: Interface 10/2
+    label: sfp+

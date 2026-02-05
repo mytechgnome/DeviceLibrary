@@ -32,10 +32,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Adapter 5
     position: Adapter 5
-    label: Adapter 5
+    label: sfp+
   -
-    name: SFP
+    name: Adapter 6
     position: Adapter 6
-    label: Adapter 6
+    label: sfp+

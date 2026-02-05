@@ -39,18 +39,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: port5
     position: port5
-    label: port5
+    label: sfp+
   -
-    name: SFP
+    name: port6
     position: port6
-    label: port6
+    label: sfp+
   -
-    name: SFP
+    name: port7
     position: port7
-    label: port7
+    label: sfp+
   -
-    name: SFP
+    name: port8
     position: port8
-    label: port8
+    label: sfp+

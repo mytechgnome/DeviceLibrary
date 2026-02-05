@@ -4,14 +4,17 @@ model: HUVQ
 comments: 2-port 10GE and 2-port GE optical interface Ethernet uplink card, supports SynE and IEEE 1588 TC function.
 interfaces:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
     name: gei_1/{module}/3
     type: 10gbase-t
   -
     name: gei_1/{module}/4
     type: 10gbase-t
+module-bays:
+  -
+    name: xgei_1/{module}/1
+    position: xgei_1/{module}/1
+    label: xgei_1/{module}/1
+  -
+    name: xgei_1/{module}/2
+    position: xgei_1/{module}/2
+    label: xgei_1/{module}/2

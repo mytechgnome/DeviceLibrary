@@ -53,10 +53,10 @@ module-bays:
     name: HMIM slot 2
     position: HMIM-2
   -
-    name: SFP
+    name: GigabitEthernet1/0/4
     position: GigabitEthernet1/0/4
-    label: GigabitEthernet1/0/4
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/5
     position: GigabitEthernet1/0/5
-    label: GigabitEthernet1/0/5
+    label: sfp

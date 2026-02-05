@@ -29,13 +29,13 @@ module-bays:
     name: IOM_5
     position: IOM_5
   -
-    name: QSFP
+    name: RDMA_Expand_1
     position: RDMA_Expand_1
-    label: RDMA_Expand_1
+    label: qsfp
   -
-    name: QSFP
+    name: RDMA_Expand_2
     position: RDMA_Expand_2
-    label: RDMA_Expand_2
+    label: qsfp
 interfaces:
   -
     name: Mgmt

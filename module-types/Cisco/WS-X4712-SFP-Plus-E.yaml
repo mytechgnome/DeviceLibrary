@@ -3,40 +3,53 @@ manufacturer: Cisco
 part_number: WS-X4712-SFP+E
 model: WS-X4712-SFP+E
 comments: Cisco Catalyst 4500E Series 12-Port 10 Gigabit Ethernet (SFP+) / [Cisco Catalyst 4500 Series Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/catalyst-4500-series-line-cards/product_data_sheet0900aecd802109ea.html)
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/1
+    position: 10GigabitEthernet{module}/1
+    label: 10GigabitEthernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/2
+    position: 10GigabitEthernet{module}/2
+    label: 10GigabitEthernet{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/3
+    position: 10GigabitEthernet{module}/3
+    label: 10GigabitEthernet{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/4
+    position: 10GigabitEthernet{module}/4
+    label: 10GigabitEthernet{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/5
+    position: 10GigabitEthernet{module}/5
+    label: 10GigabitEthernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/6
+    position: 10GigabitEthernet{module}/6
+    label: 10GigabitEthernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/7
+    position: 10GigabitEthernet{module}/7
+    label: 10GigabitEthernet{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/8
+    position: 10GigabitEthernet{module}/8
+    label: 10GigabitEthernet{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/9
+    position: 10GigabitEthernet{module}/9
+    label: 10GigabitEthernet{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/10
+    position: 10GigabitEthernet{module}/10
+    label: 10GigabitEthernet{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/11
+    position: 10GigabitEthernet{module}/11
+    label: 10GigabitEthernet{module}/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: 10GigabitEthernet{module}/12
+    position: 10GigabitEthernet{module}/12
+    label: 10GigabitEthernet{module}/12

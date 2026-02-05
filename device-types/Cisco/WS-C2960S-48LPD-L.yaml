@@ -327,12 +327,12 @@ power-ports:
     description: Primary power supply (449W, 370W PoE budget)
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/49
     position: TenGigabitEthernet1/0/49
-    label: TenGigabitEthernet1/0/49
+    label: sfp+
     description: 10GbE SFP+ uplink port
   -
-    name: SFP
+    name: TenGigabitEthernet1/0/50
     position: TenGigabitEthernet1/0/50
-    label: TenGigabitEthernet1/0/50
+    label: sfp+
     description: 10GbE SFP+ uplink port

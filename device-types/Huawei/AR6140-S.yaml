@@ -57,18 +57,18 @@ module-bays:
     position: '4'
     description: Slot Interface Card 4
   -
-    name: SFP
+    name: GE4
     position: GE4
-    label: GE4
+    label: sfp
   -
-    name: SFP
+    name: GE5
     position: GE5
-    label: GE5
+    label: sfp
   -
-    name: SFP
+    name: GE6
     position: GE6
-    label: GE6
+    label: sfp
   -
-    name: SFP
+    name: GE7
     position: GE7
-    label: GE7
+    label: sfp

@@ -3,24 +3,21 @@ manufacturer: Dell
 model: VF81P
 part_number: VF81P
 comments: Intel 4x10G SFP+ OCP 3.0
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    label: '1'
-    type: 10gbase-x-sfpp
-    mgmt_only: false
+    name: '{module}-10GbE-0'
+    position: '{module}-10GbE-0'
+    label: '{module}-10GbE-0'
   -
-    name: '{module}'
-    label: '2'
-    type: 10gbase-x-sfpp
-    mgmt_only: false
+    name: '{module}-10GbE-1'
+    position: '{module}-10GbE-1'
+    label: '{module}-10GbE-1'
   -
-    name: '{module}'
-    label: '3'
-    type: 10gbase-x-sfpp
-    mgmt_only: false
+    name: '{module}-10GbE-2'
+    position: '{module}-10GbE-2'
+    label: '{module}-10GbE-2'
   -
-    name: '{module}'
-    label: '4'
-    type: 10gbase-x-sfpp
-    mgmt_only: false
+    name: '{module}-10GbE-3'
+    position: '{module}-10GbE-3'
+    label: '{module}-10GbE-3'

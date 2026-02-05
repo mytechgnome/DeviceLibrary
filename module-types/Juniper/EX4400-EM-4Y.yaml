@@ -5,16 +5,21 @@ part_number: EX4400-EM-4Y
 weight: 0.29
 weight_unit: lb
 comments: 4x25GbE SFP28 extension module
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: et-0/2/0
+    position: et-0/2/0
+    label: et-0/2/0
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: et-0/2/1
+    position: et-0/2/1
+    label: et-0/2/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: et-0/2/2
+    position: et-0/2/2
+    label: et-0/2/2
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: et-0/2/3
+    position: et-0/2/3
+    label: et-0/2/3

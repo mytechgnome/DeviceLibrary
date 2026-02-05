@@ -37,6 +37,6 @@ interfaces:
     type: lte
 module-bays:
   -
-    name: SFP
+    name: port1
     position: port1
-    label: port1
+    label: sfp

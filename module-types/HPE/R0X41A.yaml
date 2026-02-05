@@ -245,23 +245,20 @@ interfaces:
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
+module-bays:
   -
-    name: '{module}'
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
+    name: 1/{module}/49
+    position: 1/{module}/49
+    label: 1/{module}/49
   -
-    name: '{module}'
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
+    name: 1/{module}/50
+    position: 1/{module}/50
+    label: 1/{module}/50
   -
-    name: '{module}'
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
+    name: 1/{module}/51
+    position: 1/{module}/51
+    label: 1/{module}/51
   -
-    name: '{module}'
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
+    name: 1/{module}/52
+    position: 1/{module}/52
+    label: 1/{module}/52

@@ -19,37 +19,37 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: ethernet1/5
     position: ethernet1/5
-    label: ethernet1/5
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/6
     position: ethernet1/6
-    label: ethernet1/6
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/7
     position: ethernet1/7
-    label: ethernet1/7
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/8
     position: ethernet1/8
-    label: ethernet1/8
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/9
     position: ethernet1/9
-    label: ethernet1/9
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/10
     position: ethernet1/10
-    label: ethernet1/10
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/11
     position: ethernet1/11
-    label: ethernet1/11
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/12
     position: ethernet1/12
-    label: ethernet1/12
+    label: sfp
 console-ports:
   -
     name: console

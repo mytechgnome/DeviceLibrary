@@ -40,10 +40,10 @@ module-bays:
     position: '4'
     description: PCIe 4.0 x16 AIOM slot (OCP 3.0 compatible)
   -
-    name: SFP
+    name: Gig-E 1
     position: Gig-E 1
-    label: Gig-E 1
+    label: sfp28
   -
-    name: SFP
+    name: Gig-E 2
     position: Gig-E 2
-    label: Gig-E 2
+    label: sfp28

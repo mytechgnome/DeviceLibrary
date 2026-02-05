@@ -2,40 +2,53 @@
 manufacturer: Allied Telesis
 model: XEM2-12XS
 part_number: AT-XEM2-12XS
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.1
+    position: port1.{module}.1
+    label: port1.{module}.1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.2
+    position: port1.{module}.2
+    label: port1.{module}.2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.3
+    position: port1.{module}.3
+    label: port1.{module}.3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.4
+    position: port1.{module}.4
+    label: port1.{module}.4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.5
+    position: port1.{module}.5
+    label: port1.{module}.5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.6
+    position: port1.{module}.6
+    label: port1.{module}.6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.7
+    position: port1.{module}.7
+    label: port1.{module}.7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.8
+    position: port1.{module}.8
+    label: port1.{module}.8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.9
+    position: port1.{module}.9
+    label: port1.{module}.9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.10
+    position: port1.{module}.10
+    label: port1.{module}.10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.11
+    position: port1.{module}.11
+    label: port1.{module}.11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: port1.{module}.12
+    position: port1.{module}.12
+    label: port1.{module}.12

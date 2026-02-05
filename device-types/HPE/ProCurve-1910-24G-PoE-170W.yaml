@@ -141,18 +141,18 @@ interfaces:
     poe_type: type1-ieee802.3af
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet 1/0/25
     position: GigabitEthernet 1/0/25
-    label: GigabitEthernet 1/0/25
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/26
     position: GigabitEthernet 1/0/26
-    label: GigabitEthernet 1/0/26
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/27
     position: GigabitEthernet 1/0/27
-    label: GigabitEthernet 1/0/27
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/28
     position: GigabitEthernet 1/0/28
-    label: GigabitEthernet 1/0/28
+    label: sfp

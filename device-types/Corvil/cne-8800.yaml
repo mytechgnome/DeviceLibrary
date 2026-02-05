@@ -39,18 +39,18 @@ power-ports:
     maximum_draw: 1600
 module-bays:
   -
-    name: QSFP
+    name: PortA
     position: PortA
-    label: PortA
+    label: qsfp
   -
-    name: QSFP
+    name: PortB
     position: PortB
-    label: PortB
+    label: qsfp
   -
-    name: SFP
+    name: mgmt-sfp-1
     position: mgmt-sfp-1
-    label: mgmt-sfp-1
+    label: sfp+
   -
-    name: SFP
+    name: mgmt-sfp-2
     position: mgmt-sfp-2
-    label: mgmt-sfp-2
+    label: sfp+

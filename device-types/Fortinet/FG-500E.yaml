@@ -17,45 +17,45 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: port9
     position: port9
-    label: port9
+    label: sfp
   -
-    name: SFP
+    name: port10
     position: port10
-    label: port10
+    label: sfp
   -
-    name: SFP
+    name: port11
     position: port11
-    label: port11
+    label: sfp
   -
-    name: SFP
+    name: port12
     position: port12
-    label: port12
+    label: sfp
   -
-    name: SFP
+    name: s1
     position: s1
-    label: s1
+    label: sfp
   -
-    name: SFP
+    name: s2
     position: s2
-    label: s2
+    label: sfp
   -
-    name: SFP
+    name: vw1
     position: vw1
-    label: vw1
+    label: sfp
   -
-    name: SFP
+    name: vw2
     position: vw2
-    label: vw2
+    label: sfp
   -
-    name: SFP
+    name: x1
     position: x1
-    label: x1
+    label: sfp+
   -
-    name: SFP
+    name: x2
     position: x2
-    label: x2
+    label: sfp+
 interfaces:
   -
     name: ha

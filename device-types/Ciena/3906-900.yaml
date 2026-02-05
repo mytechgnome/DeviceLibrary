@@ -43,18 +43,18 @@ module-bays:
       * 170-0121-901 BROADWELL D-1508, 8GB RAM, 120GB SSD
       * 170-0122-901 BROADWELL D-1527, 16GB RAM, 120GB SSD
   -
-    name: SFP
+    name: '1'
     position: '1'
-    label: '1'
+    label: sfp
   -
-    name: SFP
+    name: '2'
     position: '2'
-    label: '2'
+    label: sfp
   -
-    name: SFP
+    name: '5'
     position: '5'
-    label: '5'
+    label: sfp
   -
-    name: SFP
+    name: '6'
     position: '6'
-    label: '6'
+    label: sfp

@@ -45,10 +45,10 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: SFP
+    name: ETH-9
     position: ETH-9
-    label: ETH-9
+    label: sfp+
   -
-    name: SFP
+    name: ETH-10
     position: ETH-10
-    label: ETH-10
+    label: sfp+

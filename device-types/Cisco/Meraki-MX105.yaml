@@ -43,18 +43,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: WAN 1
     position: WAN 1
-    label: WAN 1
+    label: sfp+
   -
-    name: SFP
+    name: WAN 2
     position: WAN 2
-    label: WAN 2
+    label: sfp+
   -
-    name: SFP
+    name: Port 9
     position: Port 9
-    label: Port 9
+    label: sfp+
   -
-    name: SFP
+    name: Port 10
     position: Port 10
-    label: Port 10
+    label: sfp+

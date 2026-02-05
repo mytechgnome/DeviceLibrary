@@ -97,26 +97,26 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: XGigabitEthernet0/0/25
     position: XGigabitEthernet0/0/25
-    label: XGigabitEthernet0/0/25
+    label: sfp28
   -
-    name: SFP
+    name: XGigabitEthernet0/0/26
     position: XGigabitEthernet0/0/26
-    label: XGigabitEthernet0/0/26
+    label: sfp28
   -
-    name: SFP
+    name: XGigabitEthernet0/0/27
     position: XGigabitEthernet0/0/27
-    label: XGigabitEthernet0/0/27
+    label: sfp28
   -
-    name: SFP
+    name: XGigabitEthernet0/0/28
     position: XGigabitEthernet0/0/28
-    label: XGigabitEthernet0/0/28
+    label: sfp28
   -
-    name: QSFP
+    name: 100GE0/0/1
     position: 100GE0/0/1
-    label: 100GE0/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/2
     position: 100GE0/0/2
-    label: 100GE0/0/2
+    label: qsfp

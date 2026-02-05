@@ -2,148 +2,197 @@
 manufacturer: Cisco
 model: WS-X6748-SFP
 part_number: WS-X6748-SFP
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/1
+    position: GigabitEthernet{module}/1
+    label: GigabitEthernet{module}/1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/2
+    position: GigabitEthernet{module}/2
+    label: GigabitEthernet{module}/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/3
+    position: GigabitEthernet{module}/3
+    label: GigabitEthernet{module}/3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/4
+    position: GigabitEthernet{module}/4
+    label: GigabitEthernet{module}/4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/5
+    position: GigabitEthernet{module}/5
+    label: GigabitEthernet{module}/5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/6
+    position: GigabitEthernet{module}/6
+    label: GigabitEthernet{module}/6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/7
+    position: GigabitEthernet{module}/7
+    label: GigabitEthernet{module}/7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/8
+    position: GigabitEthernet{module}/8
+    label: GigabitEthernet{module}/8
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/9
+    position: GigabitEthernet{module}/9
+    label: GigabitEthernet{module}/9
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/10
+    position: GigabitEthernet{module}/10
+    label: GigabitEthernet{module}/10
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/11
+    position: GigabitEthernet{module}/11
+    label: GigabitEthernet{module}/11
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/12
+    position: GigabitEthernet{module}/12
+    label: GigabitEthernet{module}/12
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/13
+    position: GigabitEthernet{module}/13
+    label: GigabitEthernet{module}/13
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/14
+    position: GigabitEthernet{module}/14
+    label: GigabitEthernet{module}/14
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/15
+    position: GigabitEthernet{module}/15
+    label: GigabitEthernet{module}/15
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/16
+    position: GigabitEthernet{module}/16
+    label: GigabitEthernet{module}/16
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/17
+    position: GigabitEthernet{module}/17
+    label: GigabitEthernet{module}/17
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/18
+    position: GigabitEthernet{module}/18
+    label: GigabitEthernet{module}/18
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/19
+    position: GigabitEthernet{module}/19
+    label: GigabitEthernet{module}/19
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/20
+    position: GigabitEthernet{module}/20
+    label: GigabitEthernet{module}/20
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/21
+    position: GigabitEthernet{module}/21
+    label: GigabitEthernet{module}/21
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/22
+    position: GigabitEthernet{module}/22
+    label: GigabitEthernet{module}/22
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/23
+    position: GigabitEthernet{module}/23
+    label: GigabitEthernet{module}/23
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/24
+    position: GigabitEthernet{module}/24
+    label: GigabitEthernet{module}/24
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/25
+    position: GigabitEthernet{module}/25
+    label: GigabitEthernet{module}/25
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/26
+    position: GigabitEthernet{module}/26
+    label: GigabitEthernet{module}/26
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/27
+    position: GigabitEthernet{module}/27
+    label: GigabitEthernet{module}/27
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/28
+    position: GigabitEthernet{module}/28
+    label: GigabitEthernet{module}/28
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/29
+    position: GigabitEthernet{module}/29
+    label: GigabitEthernet{module}/29
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/30
+    position: GigabitEthernet{module}/30
+    label: GigabitEthernet{module}/30
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/31
+    position: GigabitEthernet{module}/31
+    label: GigabitEthernet{module}/31
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/32
+    position: GigabitEthernet{module}/32
+    label: GigabitEthernet{module}/32
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/33
+    position: GigabitEthernet{module}/33
+    label: GigabitEthernet{module}/33
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/34
+    position: GigabitEthernet{module}/34
+    label: GigabitEthernet{module}/34
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/35
+    position: GigabitEthernet{module}/35
+    label: GigabitEthernet{module}/35
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/36
+    position: GigabitEthernet{module}/36
+    label: GigabitEthernet{module}/36
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/37
+    position: GigabitEthernet{module}/37
+    label: GigabitEthernet{module}/37
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/38
+    position: GigabitEthernet{module}/38
+    label: GigabitEthernet{module}/38
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/39
+    position: GigabitEthernet{module}/39
+    label: GigabitEthernet{module}/39
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/40
+    position: GigabitEthernet{module}/40
+    label: GigabitEthernet{module}/40
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/41
+    position: GigabitEthernet{module}/41
+    label: GigabitEthernet{module}/41
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/42
+    position: GigabitEthernet{module}/42
+    label: GigabitEthernet{module}/42
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/43
+    position: GigabitEthernet{module}/43
+    label: GigabitEthernet{module}/43
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/44
+    position: GigabitEthernet{module}/44
+    label: GigabitEthernet{module}/44
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/45
+    position: GigabitEthernet{module}/45
+    label: GigabitEthernet{module}/45
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/46
+    position: GigabitEthernet{module}/46
+    label: GigabitEthernet{module}/46
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/47
+    position: GigabitEthernet{module}/47
+    label: GigabitEthernet{module}/47
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/48
+    position: GigabitEthernet{module}/48
+    label: GigabitEthernet{module}/48

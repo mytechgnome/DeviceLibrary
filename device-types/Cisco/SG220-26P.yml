@@ -148,10 +148,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet27
     position: GigabitEthernet27
-    label: GigabitEthernet27
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet28
     position: GigabitEthernet28
-    label: GigabitEthernet28
+    label: sfp

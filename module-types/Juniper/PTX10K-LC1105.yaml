@@ -2,7 +2,9 @@
 manufacturer: Juniper
 model: PTX10K-LC1105
 part_number: PTX10K-LC1105
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[0-29]
+    position: et-{module}/0/[0-29]
+    label: et-{module}/0/[0-29]

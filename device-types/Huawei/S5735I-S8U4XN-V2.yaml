@@ -21,21 +21,21 @@ module-bays:
     name: DC2
     position: DC2
   -
-    name: SFP
+    name: 10GigabitEthernet0/0/1
     position: 10GigabitEthernet0/0/1
-    label: 10GigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet0/0/2
     position: 10GigabitEthernet0/0/2
-    label: 10GigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet0/0/3
     position: 10GigabitEthernet0/0/3
-    label: 10GigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: 10GigabitEthernet0/0/4
     position: 10GigabitEthernet0/0/4
-    label: 10GigabitEthernet0/0/4
+    label: sfp+
 interfaces:
   -
     name: MEth0/0/1

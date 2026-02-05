@@ -170,10 +170,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: port1.0.51
     position: port1.0.51
-    label: port1.0.51
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.52
     position: port1.0.52
-    label: port1.0.52
+    label: sfp+

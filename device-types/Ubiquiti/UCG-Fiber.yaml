@@ -36,10 +36,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: LAN5
     position: LAN5
-    label: LAN5
+    label: sfp+
   -
-    name: SFP
+    name: WAN2
     position: WAN2
-    label: WAN2
+    label: sfp+

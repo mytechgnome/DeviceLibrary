@@ -40,10 +40,10 @@ power-ports:
     description: 24-48 Vdc; 48-125 Vdc or 110-120 Vac; or 125-250 Vdc or 110-240 Vac.
 module-bays:
   -
-    name: SFP
+    name: Ethernet0/0
     position: Ethernet0/0
-    label: Ethernet0/0
+    label: sfp
   -
-    name: SFP
+    name: Ethernet0/1
     position: Ethernet0/1
-    label: Ethernet0/1
+    label: sfp

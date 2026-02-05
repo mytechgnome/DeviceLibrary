@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: GLC-LH-SM
+part_number: GLC-LH-SM
+comments: "Cisco 1000BASE-LX/LH SFP."
+interfaces:
+  -
+    name: {module: null}
+    type: 1000base-lx

@@ -167,18 +167,18 @@ power-ports:
 comments: '[RG-NBS3100-24GT4SFP-P Datasheet by Kolyan](https://ru.ruijienetworks.com/search_1_/?v=RG-NBS3100-24GT4SFP-P)'
 module-bays:
   -
-    name: SFP
+    name: sfp25
     position: sfp25
-    label: sfp25
+    label: sfp
   -
-    name: SFP
+    name: sfp26
     position: sfp26
-    label: sfp26
+    label: sfp
   -
-    name: SFP
+    name: sfp27
     position: sfp27
-    label: sfp27
+    label: sfp
   -
-    name: SFP
+    name: sfp28
     position: sfp28
-    label: sfp28
+    label: sfp

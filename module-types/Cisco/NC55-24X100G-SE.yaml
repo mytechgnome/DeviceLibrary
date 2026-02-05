@@ -3,76 +3,101 @@ manufacturer: Cisco
 model: NC55-24X100G-SE
 part_number: NC55-24X100G-SE
 comments: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-737779.html
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/0
+    position: Hu0/{module}/0/0
+    label: Hu0/{module}/0/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/1
+    position: Hu0/{module}/0/1
+    label: Hu0/{module}/0/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/2
+    position: Hu0/{module}/0/2
+    label: Hu0/{module}/0/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/3
+    position: Hu0/{module}/0/3
+    label: Hu0/{module}/0/3
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/4
+    position: Hu0/{module}/0/4
+    label: Hu0/{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/5
+    position: Hu0/{module}/0/5
+    label: Hu0/{module}/0/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/6
+    position: Hu0/{module}/0/6
+    label: Hu0/{module}/0/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/7
+    position: Hu0/{module}/0/7
+    label: Hu0/{module}/0/7
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/8
+    position: Hu0/{module}/0/8
+    label: Hu0/{module}/0/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/9
+    position: Hu0/{module}/0/9
+    label: Hu0/{module}/0/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/10
+    position: Hu0/{module}/0/10
+    label: Hu0/{module}/0/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/11
+    position: Hu0/{module}/0/11
+    label: Hu0/{module}/0/11
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/12
+    position: Hu0/{module}/0/12
+    label: Hu0/{module}/0/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/13
+    position: Hu0/{module}/0/13
+    label: Hu0/{module}/0/13
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/14
+    position: Hu0/{module}/0/14
+    label: Hu0/{module}/0/14
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/15
+    position: Hu0/{module}/0/15
+    label: Hu0/{module}/0/15
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/16
+    position: Hu0/{module}/0/16
+    label: Hu0/{module}/0/16
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/17
+    position: Hu0/{module}/0/17
+    label: Hu0/{module}/0/17
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/18
+    position: Hu0/{module}/0/18
+    label: Hu0/{module}/0/18
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/19
+    position: Hu0/{module}/0/19
+    label: Hu0/{module}/0/19
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/20
+    position: Hu0/{module}/0/20
+    label: Hu0/{module}/0/20
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/21
+    position: Hu0/{module}/0/21
+    label: Hu0/{module}/0/21
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/22
+    position: Hu0/{module}/0/22
+    label: Hu0/{module}/0/22
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: Hu0/{module}/0/23
+    position: Hu0/{module}/0/23
+    label: Hu0/{module}/0/23

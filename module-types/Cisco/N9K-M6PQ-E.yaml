@@ -6,22 +6,29 @@ description: Uplink Module for Nexus 9300, 6p 40G QSFP
 comments: provides up to 6 QSFP+ ports for 40 Gigabit Ethernet connectivity [Cisco Nexus 9300 Platform Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-736967.html)
 weight: 0.9
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/3
+    position: Ethernet{module}/3
+    label: Ethernet{module}/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/4
+    position: Ethernet{module}/4
+    label: Ethernet{module}/4
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/5
+    position: Ethernet{module}/5
+    label: Ethernet{module}/5
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/6
+    position: Ethernet{module}/6
+    label: Ethernet{module}/6

@@ -23,133 +23,133 @@ module-bays:
     name: PS-1
     position: '1'
   -
-    name: QSFP
+    name: HundredGigE1/0/1
     position: HundredGigE1/0/1
-    label: HundredGigE1/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/2
     position: HundredGigE1/0/2
-    label: HundredGigE1/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/3
     position: HundredGigE1/0/3
-    label: HundredGigE1/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/4
     position: HundredGigE1/0/4
-    label: HundredGigE1/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/5
     position: HundredGigE1/0/5
-    label: HundredGigE1/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/6
     position: HundredGigE1/0/6
-    label: HundredGigE1/0/6
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/7
     position: HundredGigE1/0/7
-    label: HundredGigE1/0/7
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/8
     position: HundredGigE1/0/8
-    label: HundredGigE1/0/8
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/9
     position: HundredGigE1/0/9
-    label: HundredGigE1/0/9
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/10
     position: HundredGigE1/0/10
-    label: HundredGigE1/0/10
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/11
     position: HundredGigE1/0/11
-    label: HundredGigE1/0/11
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/12
     position: HundredGigE1/0/12
-    label: HundredGigE1/0/12
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/13
     position: HundredGigE1/0/13
-    label: HundredGigE1/0/13
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/14
     position: HundredGigE1/0/14
-    label: HundredGigE1/0/14
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/15
     position: HundredGigE1/0/15
-    label: HundredGigE1/0/15
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/16
     position: HundredGigE1/0/16
-    label: HundredGigE1/0/16
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/17
     position: HundredGigE1/0/17
-    label: HundredGigE1/0/17
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/18
     position: HundredGigE1/0/18
-    label: HundredGigE1/0/18
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/19
     position: HundredGigE1/0/19
-    label: HundredGigE1/0/19
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/20
     position: HundredGigE1/0/20
-    label: HundredGigE1/0/20
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/21
     position: HundredGigE1/0/21
-    label: HundredGigE1/0/21
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/22
     position: HundredGigE1/0/22
-    label: HundredGigE1/0/22
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/23
     position: HundredGigE1/0/23
-    label: HundredGigE1/0/23
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/24
     position: HundredGigE1/0/24
-    label: HundredGigE1/0/24
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/25
     position: HundredGigE1/0/25
-    label: HundredGigE1/0/25
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/26
     position: HundredGigE1/0/26
-    label: HundredGigE1/0/26
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/27
     position: HundredGigE1/0/27
-    label: HundredGigE1/0/27
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/28
     position: HundredGigE1/0/28
-    label: HundredGigE1/0/28
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/29
     position: HundredGigE1/0/29
-    label: HundredGigE1/0/29
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/30
     position: HundredGigE1/0/30
-    label: HundredGigE1/0/30
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/31
     position: HundredGigE1/0/31
-    label: HundredGigE1/0/31
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/32
     position: HundredGigE1/0/32
-    label: HundredGigE1/0/32
+    label: qsfp
 interfaces:
   -
     name: GigabitEthernet0/0

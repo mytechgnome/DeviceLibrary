@@ -20,98 +20,98 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: g1
     position: g1
-    label: g1
+    label: sfp
   -
-    name: SFP
+    name: g2
     position: g2
-    label: g2
+    label: sfp
   -
-    name: SFP
+    name: g3
     position: g3
-    label: g3
+    label: sfp
   -
-    name: SFP
+    name: g4
     position: g4
-    label: g4
+    label: sfp
   -
-    name: SFP
+    name: g5
     position: g5
-    label: g5
+    label: sfp
   -
-    name: SFP
+    name: g6
     position: g6
-    label: g6
+    label: sfp
   -
-    name: SFP
+    name: g7
     position: g7
-    label: g7
+    label: sfp
   -
-    name: SFP
+    name: g8
     position: g8
-    label: g8
+    label: sfp
   -
-    name: SFP
+    name: g9
     position: g9
-    label: g9
+    label: sfp
   -
-    name: SFP
+    name: g10
     position: g10
-    label: g10
+    label: sfp
   -
-    name: SFP
+    name: g11
     position: g11
-    label: g11
+    label: sfp
   -
-    name: SFP
+    name: g12
     position: g12
-    label: g12
+    label: sfp
   -
-    name: SFP
+    name: g13
     position: g13
-    label: g13
+    label: sfp
   -
-    name: SFP
+    name: g14
     position: g14
-    label: g14
+    label: sfp
   -
-    name: SFP
+    name: g15
     position: g15
-    label: g15
+    label: sfp
   -
-    name: SFP
+    name: g16
     position: g16
-    label: g16
+    label: sfp
   -
-    name: SFP
+    name: g17
     position: g17
-    label: g17
+    label: sfp
   -
-    name: SFP
+    name: g18
     position: g18
-    label: g18
+    label: sfp
   -
-    name: SFP
+    name: g19
     position: g19
-    label: g19
+    label: sfp
   -
-    name: SFP
+    name: g20
     position: g20
-    label: g20
+    label: sfp
   -
-    name: SFP
+    name: g21
     position: g21
-    label: g21
+    label: sfp
   -
-    name: SFP
+    name: g22
     position: g22
-    label: g22
+    label: sfp
   -
-    name: SFP
+    name: g23
     position: g23
-    label: g23
+    label: sfp
   -
-    name: SFP
+    name: g24
     position: g24
-    label: g24
+    label: sfp

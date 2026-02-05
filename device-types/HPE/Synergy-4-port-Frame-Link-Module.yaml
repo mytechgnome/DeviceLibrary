@@ -16,18 +16,18 @@ console-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: MGMT
     position: MGMT
-    label: MGMT
+    label: sfp+
   -
-    name: SFP
+    name: LINK
     position: LINK
-    label: LINK
+    label: sfp+
   -
-    name: SFP
+    name: Appliance 1
     position: Appliance 1
-    label: Appliance 1
+    label: sfp+
   -
-    name: SFP
+    name: Appliance 2
     position: Appliance 2
-    label: Appliance 2
+    label: sfp+

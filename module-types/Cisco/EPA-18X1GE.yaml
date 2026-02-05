@@ -2,58 +2,77 @@
 manufacturer: Cisco
 model: EPA-18X1GE
 part_number: EPA-18X1GE
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/0
+    position: GigabitEthernet{module}/0
+    label: GigabitEthernet{module}/0
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/1
+    position: GigabitEthernet{module}/1
+    label: GigabitEthernet{module}/1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/2
+    position: GigabitEthernet{module}/2
+    label: GigabitEthernet{module}/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/3
+    position: GigabitEthernet{module}/3
+    label: GigabitEthernet{module}/3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/4
+    position: GigabitEthernet{module}/4
+    label: GigabitEthernet{module}/4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/5
+    position: GigabitEthernet{module}/5
+    label: GigabitEthernet{module}/5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/6
+    position: GigabitEthernet{module}/6
+    label: GigabitEthernet{module}/6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/7
+    position: GigabitEthernet{module}/7
+    label: GigabitEthernet{module}/7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/8
+    position: GigabitEthernet{module}/8
+    label: GigabitEthernet{module}/8
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/9
+    position: GigabitEthernet{module}/9
+    label: GigabitEthernet{module}/9
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/10
+    position: GigabitEthernet{module}/10
+    label: GigabitEthernet{module}/10
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/11
+    position: GigabitEthernet{module}/11
+    label: GigabitEthernet{module}/11
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/12
+    position: GigabitEthernet{module}/12
+    label: GigabitEthernet{module}/12
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/13
+    position: GigabitEthernet{module}/13
+    label: GigabitEthernet{module}/13
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/14
+    position: GigabitEthernet{module}/14
+    label: GigabitEthernet{module}/14
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/15
+    position: GigabitEthernet{module}/15
+    label: GigabitEthernet{module}/15
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/16
+    position: GigabitEthernet{module}/16
+    label: GigabitEthernet{module}/16
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet{module}/17
+    position: GigabitEthernet{module}/17
+    label: GigabitEthernet{module}/17

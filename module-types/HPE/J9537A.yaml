@@ -3,76 +3,101 @@ manufacturer: HPE
 model: HP 24-port SFP v2 zl Module
 part_number: J9537A
 comments: HP J9537A 24-port SFP v2 zl Module
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}1'
+    position: '{module}1'
+    label: '{module}1'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}2'
+    position: '{module}2'
+    label: '{module}2'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}3'
+    position: '{module}3'
+    label: '{module}3'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}4'
+    position: '{module}4'
+    label: '{module}4'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}5'
+    position: '{module}5'
+    label: '{module}5'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}6'
+    position: '{module}6'
+    label: '{module}6'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}7'
+    position: '{module}7'
+    label: '{module}7'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}8'
+    position: '{module}8'
+    label: '{module}8'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}9'
+    position: '{module}9'
+    label: '{module}9'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}10'
+    position: '{module}10'
+    label: '{module}10'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}11'
+    position: '{module}11'
+    label: '{module}11'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}12'
+    position: '{module}12'
+    label: '{module}12'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}13'
+    position: '{module}13'
+    label: '{module}13'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}14'
+    position: '{module}14'
+    label: '{module}14'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}15'
+    position: '{module}15'
+    label: '{module}15'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}16'
+    position: '{module}16'
+    label: '{module}16'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}17'
+    position: '{module}17'
+    label: '{module}17'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}18'
+    position: '{module}18'
+    label: '{module}18'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}19'
+    position: '{module}19'
+    label: '{module}19'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}20'
+    position: '{module}20'
+    label: '{module}20'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}21'
+    position: '{module}21'
+    label: '{module}21'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}22'
+    position: '{module}22'
+    label: '{module}22'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}23'
+    position: '{module}23'
+    label: '{module}23'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}24'
+    position: '{module}24'
+    label: '{module}24'

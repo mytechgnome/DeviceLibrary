@@ -31,6 +31,6 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: SFP
+    name: eth3
     position: eth3
-    label: eth3
+    label: sfp

@@ -88,10 +88,10 @@ interfaces:
   # combo port, it's possible to use either 23 or 25 at a time
 module-bays:
   -
-    name: SFP
+    name: '25'
     position: '25'
-    label: '25'
+    label: sfp
   -
-    name: SFP
+    name: '26'
     position: '26'
-    label: '26'
+    label: sfp

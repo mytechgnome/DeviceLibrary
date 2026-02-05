@@ -41,9 +41,9 @@ module-bays:
     name: Cellular
     position: '1'
   -
-    name: SFP
+    name: GigabitEthernet0/0/0
     position: GigabitEthernet0/0/0
-    label: GigabitEthernet0/0/0
+    label: sfp
 console-ports:
   -
     name: con 0

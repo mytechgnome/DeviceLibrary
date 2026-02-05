@@ -27,34 +27,34 @@ module-bays:
     position: power2
     description: Power module
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus2
     position: sfp-sfpplus2
-    label: sfp-sfpplus2
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus3
     position: sfp-sfpplus3
-    label: sfp-sfpplus3
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus4
     position: sfp-sfpplus4
-    label: sfp-sfpplus4
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus5
     position: sfp-sfpplus5
-    label: sfp-sfpplus5
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus6
     position: sfp-sfpplus6
-    label: sfp-sfpplus6
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus7
     position: sfp-sfpplus7
-    label: sfp-sfpplus7
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus8
     position: sfp-sfpplus8
-    label: sfp-sfpplus8
+    label: sfp+

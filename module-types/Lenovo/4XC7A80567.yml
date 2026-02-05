@@ -3,16 +3,21 @@ manufacturer: Lenovo
 model: 4XC7A80567
 part_number: 4XC7A80567
 comments: '[ThinkSystem Broadcom 57504 10/25GbE SFP28 4-Port OCP Ethernet Adapter](https://lenovopress.lenovo.com/lp1652-thinksystem-broadcom-57504-25gbe-ethernet-adapters)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: 25GE1/{module}/1
+    position: 25GE1/{module}/1
+    label: 25GE1/{module}/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: 25GE1/{module}/2
+    position: 25GE1/{module}/2
+    label: 25GE1/{module}/2
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: 25GE1/{module}/3
+    position: 25GE1/{module}/3
+    label: 25GE1/{module}/3
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: 25GE1/{module}/4
+    position: 25GE1/{module}/4
+    label: 25GE1/{module}/4

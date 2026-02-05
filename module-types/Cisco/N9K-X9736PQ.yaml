@@ -6,112 +6,149 @@ description: Cisco Nexus 9500 36p 40G QSFP ACI Spine line card
 comments: '[Cisco Nexus 9500 Classic Line Cards and Fabric Modules Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-741336.html)'
 weight: 5.08
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/3
+    position: Ethernet{module}/3
+    label: Ethernet{module}/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/4
+    position: Ethernet{module}/4
+    label: Ethernet{module}/4
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/5
+    position: Ethernet{module}/5
+    label: Ethernet{module}/5
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/6
+    position: Ethernet{module}/6
+    label: Ethernet{module}/6
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/7
+    position: Ethernet{module}/7
+    label: Ethernet{module}/7
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/8
+    position: Ethernet{module}/8
+    label: Ethernet{module}/8
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/9
+    position: Ethernet{module}/9
+    label: Ethernet{module}/9
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/10
+    position: Ethernet{module}/10
+    label: Ethernet{module}/10
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/11
+    position: Ethernet{module}/11
+    label: Ethernet{module}/11
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/12
+    position: Ethernet{module}/12
+    label: Ethernet{module}/12
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/13
+    position: Ethernet{module}/13
+    label: Ethernet{module}/13
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/14
+    position: Ethernet{module}/14
+    label: Ethernet{module}/14
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/15
+    position: Ethernet{module}/15
+    label: Ethernet{module}/15
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/16
+    position: Ethernet{module}/16
+    label: Ethernet{module}/16
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/17
+    position: Ethernet{module}/17
+    label: Ethernet{module}/17
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/18
+    position: Ethernet{module}/18
+    label: Ethernet{module}/18
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/19
+    position: Ethernet{module}/19
+    label: Ethernet{module}/19
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/20
+    position: Ethernet{module}/20
+    label: Ethernet{module}/20
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/21
+    position: Ethernet{module}/21
+    label: Ethernet{module}/21
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/22
+    position: Ethernet{module}/22
+    label: Ethernet{module}/22
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/23
+    position: Ethernet{module}/23
+    label: Ethernet{module}/23
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/24
+    position: Ethernet{module}/24
+    label: Ethernet{module}/24
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/25
+    position: Ethernet{module}/25
+    label: Ethernet{module}/25
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/26
+    position: Ethernet{module}/26
+    label: Ethernet{module}/26
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/27
+    position: Ethernet{module}/27
+    label: Ethernet{module}/27
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/28
+    position: Ethernet{module}/28
+    label: Ethernet{module}/28
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/29
+    position: Ethernet{module}/29
+    label: Ethernet{module}/29
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/30
+    position: Ethernet{module}/30
+    label: Ethernet{module}/30
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/31
+    position: Ethernet{module}/31
+    label: Ethernet{module}/31
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/32
+    position: Ethernet{module}/32
+    label: Ethernet{module}/32
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/33
+    position: Ethernet{module}/33
+    label: Ethernet{module}/33
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/34
+    position: Ethernet{module}/34
+    label: Ethernet{module}/34
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/35
+    position: Ethernet{module}/35
+    label: Ethernet{module}/35
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/36
+    position: Ethernet{module}/36
+    label: Ethernet{module}/36

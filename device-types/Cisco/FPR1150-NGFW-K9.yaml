@@ -52,18 +52,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Ethernet1/9
     position: Ethernet1/9
-    label: Ethernet1/9
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/10
     position: Ethernet1/10
-    label: Ethernet1/10
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/11
     position: Ethernet1/11
-    label: Ethernet1/11
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/12
     position: Ethernet1/12
-    label: Ethernet1/12
+    label: sfp+

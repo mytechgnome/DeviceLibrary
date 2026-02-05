@@ -63,13 +63,13 @@ module-bays:
     name: A
     position: A
   -
-    name: SFP
+    name: PortF1
     position: PortF1
-    label: PortF1
+    label: sfp
   -
-    name: SFP
+    name: PortF2
     position: PortF2
-    label: PortF2
+    label: sfp
 power-ports:
   -
     name: DC In 1

@@ -64,9 +64,12 @@ interfaces:
   -
     name: '{module}20'
     type: 1000base-t
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: '{module}21'
+    position: '{module}21'
+    label: '{module}21'
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: '{module}22'
+    position: '{module}22'
+    label: '{module}22'

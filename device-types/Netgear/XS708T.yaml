@@ -48,10 +48,10 @@ interfaces:
     label: 8T
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet/7F
     position: TenGigabitEthernet/7F
-    label: TenGigabitEthernet/7F
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet/8F
     position: TenGigabitEthernet/8F
-    label: TenGigabitEthernet/8F
+    label: sfp+

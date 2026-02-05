@@ -23,149 +23,149 @@ module-bays:
     name: PWR2
     position: '2'
   -
-    name: QSFP
+    name: 100GE1/0/1
     position: 100GE1/0/1
-    label: 100GE1/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/2
     position: 100GE1/0/2
-    label: 100GE1/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/3
     position: 100GE1/0/3
-    label: 100GE1/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/4
     position: 100GE1/0/4
-    label: 100GE1/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/5
     position: 100GE1/0/5
-    label: 100GE1/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/6
     position: 100GE1/0/6
-    label: 100GE1/0/6
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/7
     position: 100GE1/0/7
-    label: 100GE1/0/7
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/8
     position: 100GE1/0/8
-    label: 100GE1/0/8
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/9
     position: 100GE1/0/9
-    label: 100GE1/0/9
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/10
     position: 100GE1/0/10
-    label: 100GE1/0/10
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/11
     position: 100GE1/0/11
-    label: 100GE1/0/11
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/12
     position: 100GE1/0/12
-    label: 100GE1/0/12
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/13
     position: 100GE1/0/13
-    label: 100GE1/0/13
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/14
     position: 100GE1/0/14
-    label: 100GE1/0/14
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/15
     position: 100GE1/0/15
-    label: 100GE1/0/15
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/16
     position: 100GE1/0/16
-    label: 100GE1/0/16
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/17
     position: 100GE1/0/17
-    label: 100GE1/0/17
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/18
     position: 100GE1/0/18
-    label: 100GE1/0/18
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/19
     position: 100GE1/0/19
-    label: 100GE1/0/19
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/20
     position: 100GE1/0/20
-    label: 100GE1/0/20
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/21
     position: 100GE1/0/21
-    label: 100GE1/0/21
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/22
     position: 100GE1/0/22
-    label: 100GE1/0/22
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/23
     position: 100GE1/0/23
-    label: 100GE1/0/23
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/24
     position: 100GE1/0/24
-    label: 100GE1/0/24
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/25
     position: 100GE1/0/25
-    label: 100GE1/0/25
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/26
     position: 100GE1/0/26
-    label: 100GE1/0/26
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/27
     position: 100GE1/0/27
-    label: 100GE1/0/27
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/28
     position: 100GE1/0/28
-    label: 100GE1/0/28
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/29
     position: 100GE1/0/29
-    label: 100GE1/0/29
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/30
     position: 100GE1/0/30
-    label: 100GE1/0/30
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/31
     position: 100GE1/0/31
-    label: 100GE1/0/31
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/32
     position: 100GE1/0/32
-    label: 100GE1/0/32
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/33
     position: 100GE1/0/33
-    label: 100GE1/0/33
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/34
     position: 100GE1/0/34
-    label: 100GE1/0/34
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/35
     position: 100GE1/0/35
-    label: 100GE1/0/35
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE1/0/36
     position: 100GE1/0/36
-    label: 100GE1/0/36
+    label: qsfp
 interfaces:
   -
     name: MEth0/0/0

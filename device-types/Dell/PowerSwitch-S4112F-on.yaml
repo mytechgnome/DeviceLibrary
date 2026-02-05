@@ -24,62 +24,62 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Ethernet 1/1/1
     position: Ethernet 1/1/1
-    label: Ethernet 1/1/1
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/2
     position: Ethernet 1/1/2
-    label: Ethernet 1/1/2
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/3
     position: Ethernet 1/1/3
-    label: Ethernet 1/1/3
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/4
     position: Ethernet 1/1/4
-    label: Ethernet 1/1/4
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/5
     position: Ethernet 1/1/5
-    label: Ethernet 1/1/5
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/6
     position: Ethernet 1/1/6
-    label: Ethernet 1/1/6
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/7
     position: Ethernet 1/1/7
-    label: Ethernet 1/1/7
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/8
     position: Ethernet 1/1/8
-    label: Ethernet 1/1/8
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/9
     position: Ethernet 1/1/9
-    label: Ethernet 1/1/9
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/10
     position: Ethernet 1/1/10
-    label: Ethernet 1/1/10
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/11
     position: Ethernet 1/1/11
-    label: Ethernet 1/1/11
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 1/1/12
     position: Ethernet 1/1/12
-    label: Ethernet 1/1/12
+    label: sfp+
   -
-    name: QSFP
+    name: Ethernet 1/1/13
     position: Ethernet 1/1/13
-    label: Ethernet 1/1/13
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 1/1/14
     position: Ethernet 1/1/14
-    label: Ethernet 1/1/14
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 1/1/15
     position: Ethernet 1/1/15
-    label: Ethernet 1/1/15
+    label: qsfp

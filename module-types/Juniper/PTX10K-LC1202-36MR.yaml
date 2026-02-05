@@ -2,31 +2,41 @@
 manufacturer: Juniper
 model: PTX10K-LC1202-36MR
 part_number: PTX10K-LC1202-36MR
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[0-3]
+    position: et-{module}/0/[0-3]
+    label: et-{module}/0/[0-3]
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/4
+    position: et-{module}/0/4
+    label: et-{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[5-9]
+    position: et-{module}/0/[5-9]
+    label: et-{module}/0/[5-9]
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/10
+    position: et-{module}/0/10
+    label: et-{module}/0/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[11-23]
+    position: et-{module}/0/[11-23]
+    label: et-{module}/0/[11-23]
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/24
+    position: et-{module}/0/24
+    label: et-{module}/0/24
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[25-29]
+    position: et-{module}/0/[25-29]
+    label: et-{module}/0/[25-29]
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/30
+    position: et-{module}/0/30
+    label: et-{module}/0/30
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: et-{module}/0/[31-35]
+    position: et-{module}/0/[31-35]
+    label: et-{module}/0/[31-35]

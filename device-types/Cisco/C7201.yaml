@@ -25,18 +25,18 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: GigabitEthernet0/0
     position: GigabitEthernet0/0
-    label: GigabitEthernet0/0
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/1
     position: GigabitEthernet0/1
-    label: GigabitEthernet0/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/2
     position: GigabitEthernet0/2
-    label: GigabitEthernet0/2
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/3
     position: GigabitEthernet0/3
-    label: GigabitEthernet0/3
+    label: sfp

@@ -258,21 +258,21 @@ module-bays:
     name: PSU B
     position: B
   -
-    name: SFP
+    name: port1.0.49
     position: port1.0.49
-    label: port1.0.49
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.50
     position: port1.0.50
-    label: port1.0.50
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.51
     position: port1.0.51
-    label: port1.0.51
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.52
     position: port1.0.52
-    label: port1.0.52
+    label: sfp+
 inventory-items:
   -
     name: Fan-Module

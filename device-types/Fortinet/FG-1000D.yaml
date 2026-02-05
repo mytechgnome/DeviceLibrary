@@ -31,77 +31,77 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: port1
     position: port1
-    label: port1
+    label: sfp
   -
-    name: SFP
+    name: port2
     position: port2
-    label: port2
+    label: sfp
   -
-    name: SFP
+    name: port3
     position: port3
-    label: port3
+    label: sfp
   -
-    name: SFP
+    name: port4
     position: port4
-    label: port4
+    label: sfp
   -
-    name: SFP
+    name: port5
     position: port5
-    label: port5
+    label: sfp
   -
-    name: SFP
+    name: port6
     position: port6
-    label: port6
+    label: sfp
   -
-    name: SFP
+    name: port7
     position: port7
-    label: port7
+    label: sfp
   -
-    name: SFP
+    name: port8
     position: port8
-    label: port8
+    label: sfp
   -
-    name: SFP
+    name: port17
     position: port17
-    label: port17
+    label: sfp
   -
-    name: SFP
+    name: port18
     position: port18
-    label: port18
+    label: sfp
   -
-    name: SFP
+    name: port19
     position: port19
-    label: port19
+    label: sfp
   -
-    name: SFP
+    name: port20
     position: port20
-    label: port20
+    label: sfp
   -
-    name: SFP
+    name: port21
     position: port21
-    label: port21
+    label: sfp
   -
-    name: SFP
+    name: port22
     position: port22
-    label: port22
+    label: sfp
   -
-    name: SFP
+    name: port23
     position: port23
-    label: port23
+    label: sfp
   -
-    name: SFP
+    name: port24
     position: port24
-    label: port24
+    label: sfp
   -
-    name: SFP
+    name: portA
     position: portA
-    label: portA
+    label: sfp+
   -
-    name: SFP
+    name: portB
     position: portB
-    label: portB
+    label: sfp+
 interfaces:
   -
     name: mgmt1

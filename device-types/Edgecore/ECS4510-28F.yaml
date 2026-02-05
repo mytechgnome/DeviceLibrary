@@ -31,106 +31,106 @@ interfaces:
     description: RJ-45/SFP Combo
 module-bays:
   -
-    name: SFP
+    name: Eth 1/1
     position: Eth 1/1
-    label: Eth 1/1
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/2
     position: Eth 1/2
-    label: Eth 1/2
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/3
     position: Eth 1/3
-    label: Eth 1/3
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/4
     position: Eth 1/4
-    label: Eth 1/4
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/5
     position: Eth 1/5
-    label: Eth 1/5
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/6
     position: Eth 1/6
-    label: Eth 1/6
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/7
     position: Eth 1/7
-    label: Eth 1/7
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/8
     position: Eth 1/8
-    label: Eth 1/8
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/9
     position: Eth 1/9
-    label: Eth 1/9
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/10
     position: Eth 1/10
-    label: Eth 1/10
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/11
     position: Eth 1/11
-    label: Eth 1/11
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/12
     position: Eth 1/12
-    label: Eth 1/12
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/13
     position: Eth 1/13
-    label: Eth 1/13
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/14
     position: Eth 1/14
-    label: Eth 1/14
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/15
     position: Eth 1/15
-    label: Eth 1/15
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/16
     position: Eth 1/16
-    label: Eth 1/16
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/17
     position: Eth 1/17
-    label: Eth 1/17
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/18
     position: Eth 1/18
-    label: Eth 1/18
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/19
     position: Eth 1/19
-    label: Eth 1/19
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/20
     position: Eth 1/20
-    label: Eth 1/20
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/21
     position: Eth 1/21
-    label: Eth 1/21
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/22
     position: Eth 1/22
-    label: Eth 1/22
+    label: sfp
   -
-    name: SFP
+    name: Eth 1/25
     position: Eth 1/25
-    label: Eth 1/25
+    label: sfp+
   -
-    name: SFP
+    name: Eth 1/26
     position: Eth 1/26
-    label: Eth 1/26
+    label: sfp+
   -
-    name: SFP
+    name: Eth 1/27
     position: Eth 1/27
-    label: Eth 1/27
+    label: sfp+
   -
-    name: SFP
+    name: Eth 1/28
     position: Eth 1/28
-    label: Eth 1/28
+    label: sfp+

@@ -28,102 +28,102 @@ module-bays:
     label: '2'
     position: '2'
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/1
     position: hundred-gigabit-ethernet 1/1/1
-    label: hundred-gigabit-ethernet 1/1/1
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/2
     position: hundred-gigabit-ethernet 1/1/2
-    label: hundred-gigabit-ethernet 1/1/2
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/3
     position: hundred-gigabit-ethernet 1/1/3
-    label: hundred-gigabit-ethernet 1/1/3
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/4
     position: hundred-gigabit-ethernet 1/1/4
-    label: hundred-gigabit-ethernet 1/1/4
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/5
     position: hundred-gigabit-ethernet 1/1/5
-    label: hundred-gigabit-ethernet 1/1/5
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/6
     position: hundred-gigabit-ethernet 1/1/6
-    label: hundred-gigabit-ethernet 1/1/6
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/7
     position: hundred-gigabit-ethernet 1/1/7
-    label: hundred-gigabit-ethernet 1/1/7
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/8
     position: hundred-gigabit-ethernet 1/1/8
-    label: hundred-gigabit-ethernet 1/1/8
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/9
     position: hundred-gigabit-ethernet 1/1/9
-    label: hundred-gigabit-ethernet 1/1/9
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/10
     position: hundred-gigabit-ethernet 1/1/10
-    label: hundred-gigabit-ethernet 1/1/10
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/11
     position: hundred-gigabit-ethernet 1/1/11
-    label: hundred-gigabit-ethernet 1/1/11
+    label: qsfp
     description: 100gbase-x-qsfp28
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/12
     position: hundred-gigabit-ethernet 1/1/12
-    label: hundred-gigabit-ethernet 1/1/12
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/13
     position: hundred-gigabit-ethernet 1/1/13
-    label: hundred-gigabit-ethernet 1/1/13
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/14
     position: hundred-gigabit-ethernet 1/1/14
-    label: hundred-gigabit-ethernet 1/1/14
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/15
     position: hundred-gigabit-ethernet 1/1/15
-    label: hundred-gigabit-ethernet 1/1/15
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: QSFP
+    name: hundred-gigabit-ethernet 1/1/16
     position: hundred-gigabit-ethernet 1/1/16
-    label: hundred-gigabit-ethernet 1/1/16
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
-    name: SFP
+    name: twenty-five-gigabit-ethernet 1/1/1
     position: twenty-five-gigabit-ethernet 1/1/1
-    label: twenty-five-gigabit-ethernet 1/1/1
+    label: sfp28
     description: 25G/10G Base-X (SFP28)
   -
-    name: SFP
+    name: twenty-five-gigabit-ethernet 1/1/2
     position: twenty-five-gigabit-ethernet 1/1/2
-    label: twenty-five-gigabit-ethernet 1/1/2
+    label: sfp28
     description: 25G/10G Base-X (SFP28)
   -
-    name: SFP
+    name: twenty-five-gigabit-ethernet 1/1/3
     position: twenty-five-gigabit-ethernet 1/1/3
-    label: twenty-five-gigabit-ethernet 1/1/3
+    label: sfp28
     description: 25G/10G Base-X (SFP28)
   -
-    name: SFP
+    name: twenty-five-gigabit-ethernet 1/1/4
     position: twenty-five-gigabit-ethernet 1/1/4
-    label: twenty-five-gigabit-ethernet 1/1/4
+    label: sfp28
     description: 25G/10G Base-X (SFP28)

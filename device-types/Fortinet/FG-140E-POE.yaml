@@ -199,10 +199,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: dmz1
     position: dmz1
-    label: dmz1
+    label: sfp
   -
-    name: SFP
+    name: dmz2
     position: dmz2
-    label: dmz2
+    label: sfp

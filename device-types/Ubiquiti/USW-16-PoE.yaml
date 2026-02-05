@@ -68,10 +68,10 @@ power-ports:
     maximum_draw: 60
 module-bays:
   -
-    name: SFP
+    name: SFP 1
     position: SFP 1
-    label: SFP 1
+    label: sfp
   -
-    name: SFP
+    name: SFP 2
     position: SFP 2
-    label: SFP 2
+    label: sfp

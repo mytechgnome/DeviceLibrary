@@ -59,6 +59,6 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: SFP
+    name: E3
     position: E3
-    label: E3
+    label: sfp

@@ -2,16 +2,21 @@
 manufacturer: Juniper
 model: QFX-EM-4Q
 part_number: QFX-EM-4Q
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/0
+    position: et-{module}/0/0
+    label: et-{module}/0/0
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/1
+    position: et-{module}/0/1
+    label: et-{module}/0/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/2
+    position: et-{module}/0/2
+    label: et-{module}/0/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: et-{module}/0/3
+    position: et-{module}/0/3
+    label: et-{module}/0/3

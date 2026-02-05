@@ -75,10 +75,10 @@ module-bays:
     name: DIMM B2
     position: '4'
   -
-    name: SFP
+    name: Gig-E 7
     position: Gig-E 7
-    label: Gig-E 7
+    label: sfp+
   -
-    name: SFP
+    name: Gig-E 8
     position: Gig-E 8
-    label: Gig-E 8
+    label: sfp+

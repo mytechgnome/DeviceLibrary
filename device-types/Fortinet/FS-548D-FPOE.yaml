@@ -20,29 +20,29 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: port49
     position: port49
-    label: port49
+    label: sfp+
   -
-    name: SFP
+    name: port50
     position: port50
-    label: port50
+    label: sfp+
   -
-    name: SFP
+    name: port51
     position: port51
-    label: port51
+    label: sfp+
   -
-    name: SFP
+    name: port52
     position: port52
-    label: port52
+    label: sfp+
   -
-    name: QSFP
+    name: port53
     position: port53
-    label: port53
+    label: qsfp
   -
-    name: QSFP
+    name: port54
     position: port54
-    label: port54
+    label: qsfp
 interfaces:
   -
     name: port1

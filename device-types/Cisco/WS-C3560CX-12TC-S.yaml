@@ -62,10 +62,10 @@ power-ports:
     type: iec-60320-c16
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/0/15
     position: GigabitEthernet1/0/15
-    label: GigabitEthernet1/0/15
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/16
     position: GigabitEthernet1/0/16
-    label: GigabitEthernet1/0/16
+    label: sfp

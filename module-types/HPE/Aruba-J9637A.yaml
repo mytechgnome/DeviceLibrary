@@ -40,39 +40,52 @@ interfaces:
   -
     name: '{module}12'
     type: 1000base-t
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}13'
+    position: '{module}13'
+    label: '{module}13'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}14'
+    position: '{module}14'
+    label: '{module}14'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}15'
+    position: '{module}15'
+    label: '{module}15'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}16'
+    position: '{module}16'
+    label: '{module}16'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}17'
+    position: '{module}17'
+    label: '{module}17'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}18'
+    position: '{module}18'
+    label: '{module}18'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}19'
+    position: '{module}19'
+    label: '{module}19'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}20'
+    position: '{module}20'
+    label: '{module}20'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}21'
+    position: '{module}21'
+    label: '{module}21'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}22'
+    position: '{module}22'
+    label: '{module}22'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}23'
+    position: '{module}23'
+    label: '{module}23'
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: '{module}24'
+    position: '{module}24'
+    label: '{module}24'

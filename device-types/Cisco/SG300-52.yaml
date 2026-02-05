@@ -172,10 +172,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet51
     position: GigabitEthernet51
-    label: GigabitEthernet51
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet52
     position: GigabitEthernet52
-    label: GigabitEthernet52
+    label: sfp

@@ -35,26 +35,26 @@ module-bays:
     name: psu2
     position: '2'
   -
-    name: SFP
+    name: '1.0'
     position: '1.0'
-    label: '1.0'
+    label: sfp
   -
-    name: SFP
+    name: '2.0'
     position: '2.0'
-    label: '2.0'
+    label: sfp
   -
-    name: SFP
+    name: '3.0'
     position: '3.0'
-    label: '3.0'
+    label: sfp
   -
-    name: SFP
+    name: '4.0'
     position: '4.0'
-    label: '4.0'
+    label: sfp
   -
-    name: SFP
+    name: '5.0'
     position: '5.0'
-    label: '5.0'
+    label: sfp+
   -
-    name: SFP
+    name: '6.0'
     position: '6.0'
-    label: '6.0'
+    label: sfp+

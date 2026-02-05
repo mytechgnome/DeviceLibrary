@@ -183,18 +183,18 @@ module-bays:
     name: Fan Tray 3
     position: '3'
   -
-    name: SFP
+    name: ethernet-1/49
     position: ethernet-1/49
-    label: ethernet-1/49
+    label: sfp+
   -
-    name: SFP
+    name: ethernet-1/50
     position: ethernet-1/50
-    label: ethernet-1/50
+    label: sfp+
   -
-    name: SFP
+    name: ethernet-1/51
     position: ethernet-1/51
-    label: ethernet-1/51
+    label: sfp+
   -
-    name: SFP
+    name: ethernet-1/52
     position: ethernet-1/52
-    label: ethernet-1/52
+    label: sfp+

@@ -32,213 +32,213 @@ module-bays:
     name: FAN3
     position: '3'
   -
-    name: SFP
+    name: 1/1/1
     position: 1/1/1
-    label: 1/1/1
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/2
     position: 1/1/2
-    label: 1/1/2
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/3
     position: 1/1/3
-    label: 1/1/3
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/4
     position: 1/1/4
-    label: 1/1/4
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/5
     position: 1/1/5
-    label: 1/1/5
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/6
     position: 1/1/6
-    label: 1/1/6
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/7
     position: 1/1/7
-    label: 1/1/7
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/8
     position: 1/1/8
-    label: 1/1/8
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/9
     position: 1/1/9
-    label: 1/1/9
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/10
     position: 1/1/10
-    label: 1/1/10
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/11
     position: 1/1/11
-    label: 1/1/11
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/12
     position: 1/1/12
-    label: 1/1/12
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/13
     position: 1/1/13
-    label: 1/1/13
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/14
     position: 1/1/14
-    label: 1/1/14
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/15
     position: 1/1/15
-    label: 1/1/15
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/16
     position: 1/1/16
-    label: 1/1/16
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/17
     position: 1/1/17
-    label: 1/1/17
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/18
     position: 1/1/18
-    label: 1/1/18
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/19
     position: 1/1/19
-    label: 1/1/19
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/20
     position: 1/1/20
-    label: 1/1/20
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/21
     position: 1/1/21
-    label: 1/1/21
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/22
     position: 1/1/22
-    label: 1/1/22
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/23
     position: 1/1/23
-    label: 1/1/23
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/24
     position: 1/1/24
-    label: 1/1/24
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/25
     position: 1/1/25
-    label: 1/1/25
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/26
     position: 1/1/26
-    label: 1/1/26
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/27
     position: 1/1/27
-    label: 1/1/27
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/28
     position: 1/1/28
-    label: 1/1/28
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/29
     position: 1/1/29
-    label: 1/1/29
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/30
     position: 1/1/30
-    label: 1/1/30
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/31
     position: 1/1/31
-    label: 1/1/31
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/32
     position: 1/1/32
-    label: 1/1/32
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/33
     position: 1/1/33
-    label: 1/1/33
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/34
     position: 1/1/34
-    label: 1/1/34
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/35
     position: 1/1/35
-    label: 1/1/35
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/36
     position: 1/1/36
-    label: 1/1/36
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/37
     position: 1/1/37
-    label: 1/1/37
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/38
     position: 1/1/38
-    label: 1/1/38
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/39
     position: 1/1/39
-    label: 1/1/39
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/40
     position: 1/1/40
-    label: 1/1/40
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/41
     position: 1/1/41
-    label: 1/1/41
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/42
     position: 1/1/42
-    label: 1/1/42
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/43
     position: 1/1/43
-    label: 1/1/43
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/44
     position: 1/1/44
-    label: 1/1/44
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/45
     position: 1/1/45
-    label: 1/1/45
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/46
     position: 1/1/46
-    label: 1/1/46
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/47
     position: 1/1/47
-    label: 1/1/47
+    label: sfp+
   -
-    name: SFP
+    name: 1/1/48
     position: 1/1/48
-    label: 1/1/48
+    label: sfp+
   -
-    name: QSFP
+    name: 1/1/49
     position: 1/1/49
-    label: 1/1/49
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/50
     position: 1/1/50
-    label: 1/1/50
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/51
     position: 1/1/51
-    label: 1/1/51
+    label: qsfp
   -
-    name: QSFP
+    name: 1/1/52
     position: 1/1/52
-    label: 1/1/52
+    label: qsfp
 interfaces:
   -
     name: mgmt

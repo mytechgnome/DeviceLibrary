@@ -312,50 +312,50 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: QSFP
+    name: Ethernet1/97
     position: Ethernet1/97
-    label: Ethernet1/97
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/98
     position: Ethernet1/98
-    label: Ethernet1/98
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/99
     position: Ethernet1/99
-    label: Ethernet1/99
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/100
     position: Ethernet1/100
-    label: Ethernet1/100
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/101
     position: Ethernet1/101
-    label: Ethernet1/101
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/102
     position: Ethernet1/102
-    label: Ethernet1/102
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/103
     position: Ethernet1/103
-    label: Ethernet1/103
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/104
     position: Ethernet1/104
-    label: Ethernet1/104
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/105
     position: Ethernet1/105
-    label: Ethernet1/105
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/106
     position: Ethernet1/106
-    label: Ethernet1/106
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/107
     position: Ethernet1/107
-    label: Ethernet1/107
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/108
     position: Ethernet1/108
-    label: Ethernet1/108
+    label: qsfp

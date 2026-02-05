@@ -102,10 +102,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: slot0/27F
     position: slot0/27F
-    label: slot0/27F
+    label: sfp
   -
-    name: SFP
+    name: slot0/28F
     position: slot0/28F
-    label: slot0/28F
+    label: sfp

@@ -3,10 +3,13 @@ manufacturer: Cisco
 model: C9500-NM-2Q
 part_number: C9500-NM-2Q
 comments: '[Cisco Catalyst 9500 Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9500-series-switches/nb-06-cat9500-ser-data-sheet-cte-en.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet1/{module}/1
+    position: FortyGigabitEthernet1/{module}/1
+    label: FortyGigabitEthernet1/{module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: FortyGigabitEthernet1/{module}/2
+    position: FortyGigabitEthernet1/{module}/2
+    label: FortyGigabitEthernet1/{module}/2

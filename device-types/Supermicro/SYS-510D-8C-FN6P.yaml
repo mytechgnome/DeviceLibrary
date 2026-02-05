@@ -34,10 +34,10 @@ power-ports:
     maximum_draw: 200
 module-bays:
   -
-    name: SFP
+    name: LAN5
     position: LAN5
-    label: LAN5
+    label: sfp28
   -
-    name: SFP
+    name: LAN6
     position: LAN6
-    label: LAN6
+    label: sfp28

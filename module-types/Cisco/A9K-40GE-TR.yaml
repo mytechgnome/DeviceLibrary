@@ -4,124 +4,165 @@ model: A9K-40GE-TR
 part_number: A9K-40GE-TR
 description: 40-port 1GE, Packet Transport Optimized LC
 comments: '[Cisco ASR 9000 Series 40 and 56 Gigabit Ethernet Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-732877.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/0
+    position: GigabitEthernet0/{module}/0/0
+    label: GigabitEthernet0/{module}/0/0
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/1
+    position: GigabitEthernet0/{module}/0/1
+    label: GigabitEthernet0/{module}/0/1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/2
+    position: GigabitEthernet0/{module}/0/2
+    label: GigabitEthernet0/{module}/0/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/3
+    position: GigabitEthernet0/{module}/0/3
+    label: GigabitEthernet0/{module}/0/3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/4
+    position: GigabitEthernet0/{module}/0/4
+    label: GigabitEthernet0/{module}/0/4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/5
+    position: GigabitEthernet0/{module}/0/5
+    label: GigabitEthernet0/{module}/0/5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/6
+    position: GigabitEthernet0/{module}/0/6
+    label: GigabitEthernet0/{module}/0/6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/7
+    position: GigabitEthernet0/{module}/0/7
+    label: GigabitEthernet0/{module}/0/7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/8
+    position: GigabitEthernet0/{module}/0/8
+    label: GigabitEthernet0/{module}/0/8
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/9
+    position: GigabitEthernet0/{module}/0/9
+    label: GigabitEthernet0/{module}/0/9
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/10
+    position: GigabitEthernet0/{module}/0/10
+    label: GigabitEthernet0/{module}/0/10
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/11
+    position: GigabitEthernet0/{module}/0/11
+    label: GigabitEthernet0/{module}/0/11
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/12
+    position: GigabitEthernet0/{module}/0/12
+    label: GigabitEthernet0/{module}/0/12
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/13
+    position: GigabitEthernet0/{module}/0/13
+    label: GigabitEthernet0/{module}/0/13
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/14
+    position: GigabitEthernet0/{module}/0/14
+    label: GigabitEthernet0/{module}/0/14
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/15
+    position: GigabitEthernet0/{module}/0/15
+    label: GigabitEthernet0/{module}/0/15
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/16
+    position: GigabitEthernet0/{module}/0/16
+    label: GigabitEthernet0/{module}/0/16
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/17
+    position: GigabitEthernet0/{module}/0/17
+    label: GigabitEthernet0/{module}/0/17
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/18
+    position: GigabitEthernet0/{module}/0/18
+    label: GigabitEthernet0/{module}/0/18
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/19
+    position: GigabitEthernet0/{module}/0/19
+    label: GigabitEthernet0/{module}/0/19
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/20
+    position: GigabitEthernet0/{module}/0/20
+    label: GigabitEthernet0/{module}/0/20
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/21
+    position: GigabitEthernet0/{module}/0/21
+    label: GigabitEthernet0/{module}/0/21
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/22
+    position: GigabitEthernet0/{module}/0/22
+    label: GigabitEthernet0/{module}/0/22
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/23
+    position: GigabitEthernet0/{module}/0/23
+    label: GigabitEthernet0/{module}/0/23
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/24
+    position: GigabitEthernet0/{module}/0/24
+    label: GigabitEthernet0/{module}/0/24
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/25
+    position: GigabitEthernet0/{module}/0/25
+    label: GigabitEthernet0/{module}/0/25
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/26
+    position: GigabitEthernet0/{module}/0/26
+    label: GigabitEthernet0/{module}/0/26
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/27
+    position: GigabitEthernet0/{module}/0/27
+    label: GigabitEthernet0/{module}/0/27
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/28
+    position: GigabitEthernet0/{module}/0/28
+    label: GigabitEthernet0/{module}/0/28
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/29
+    position: GigabitEthernet0/{module}/0/29
+    label: GigabitEthernet0/{module}/0/29
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/30
+    position: GigabitEthernet0/{module}/0/30
+    label: GigabitEthernet0/{module}/0/30
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/31
+    position: GigabitEthernet0/{module}/0/31
+    label: GigabitEthernet0/{module}/0/31
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/32
+    position: GigabitEthernet0/{module}/0/32
+    label: GigabitEthernet0/{module}/0/32
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/33
+    position: GigabitEthernet0/{module}/0/33
+    label: GigabitEthernet0/{module}/0/33
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/34
+    position: GigabitEthernet0/{module}/0/34
+    label: GigabitEthernet0/{module}/0/34
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/35
+    position: GigabitEthernet0/{module}/0/35
+    label: GigabitEthernet0/{module}/0/35
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/36
+    position: GigabitEthernet0/{module}/0/36
+    label: GigabitEthernet0/{module}/0/36
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/37
+    position: GigabitEthernet0/{module}/0/37
+    label: GigabitEthernet0/{module}/0/37
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/38
+    position: GigabitEthernet0/{module}/0/38
+    label: GigabitEthernet0/{module}/0/38
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: GigabitEthernet0/{module}/0/39
+    position: GigabitEthernet0/{module}/0/39
+    label: GigabitEthernet0/{module}/0/39

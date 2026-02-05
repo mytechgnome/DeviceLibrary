@@ -26,517 +26,517 @@ module-bays:
     name: PSU3
     position: '3'
   -
-    name: QSFP
+    name: et-0/0/0
     position: et-0/0/0
-    label: et-0/0/0
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/1
     position: et-0/0/1
-    label: et-0/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/2
     position: et-0/0/2
-    label: et-0/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/3
     position: et-0/0/3
-    label: et-0/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/4
     position: et-0/0/4
-    label: et-0/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/5
     position: et-0/0/5
-    label: et-0/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/6
     position: et-0/0/6
-    label: et-0/0/6
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/7
     position: et-0/0/7
-    label: et-0/0/7
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/8
     position: et-0/0/8
-    label: et-0/0/8
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/9
     position: et-0/0/9
-    label: et-0/0/9
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/10
     position: et-0/0/10
-    label: et-0/0/10
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/11
     position: et-0/0/11
-    label: et-0/0/11
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/12
     position: et-0/0/12
-    label: et-0/0/12
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/13
     position: et-0/0/13
-    label: et-0/0/13
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/14
     position: et-0/0/14
-    label: et-0/0/14
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/15
     position: et-0/0/15
-    label: et-0/0/15
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/16
     position: et-0/0/16
-    label: et-0/0/16
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/17
     position: et-0/0/17
-    label: et-0/0/17
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/18
     position: et-0/0/18
-    label: et-0/0/18
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/19
     position: et-0/0/19
-    label: et-0/0/19
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/20
     position: et-0/0/20
-    label: et-0/0/20
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/21
     position: et-0/0/21
-    label: et-0/0/21
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/22
     position: et-0/0/22
-    label: et-0/0/22
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/23
     position: et-0/0/23
-    label: et-0/0/23
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/24
     position: et-0/0/24
-    label: et-0/0/24
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/25
     position: et-0/0/25
-    label: et-0/0/25
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/26
     position: et-0/0/26
-    label: et-0/0/26
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/27
     position: et-0/0/27
-    label: et-0/0/27
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/28
     position: et-0/0/28
-    label: et-0/0/28
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/29
     position: et-0/0/29
-    label: et-0/0/29
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/30
     position: et-0/0/30
-    label: et-0/0/30
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/31
     position: et-0/0/31
-    label: et-0/0/31
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/32
     position: et-0/0/32
-    label: et-0/0/32
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/33
     position: et-0/0/33
-    label: et-0/0/33
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/34
     position: et-0/0/34
-    label: et-0/0/34
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/35
     position: et-0/0/35
-    label: et-0/0/35
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/36
     position: et-0/0/36
-    label: et-0/0/36
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/37
     position: et-0/0/37
-    label: et-0/0/37
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/38
     position: et-0/0/38
-    label: et-0/0/38
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/39
     position: et-0/0/39
-    label: et-0/0/39
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/40
     position: et-0/0/40
-    label: et-0/0/40
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/41
     position: et-0/0/41
-    label: et-0/0/41
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/42
     position: et-0/0/42
-    label: et-0/0/42
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/43
     position: et-0/0/43
-    label: et-0/0/43
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/44
     position: et-0/0/44
-    label: et-0/0/44
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/45
     position: et-0/0/45
-    label: et-0/0/45
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/46
     position: et-0/0/46
-    label: et-0/0/46
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/47
     position: et-0/0/47
-    label: et-0/0/47
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/48
     position: et-0/0/48
-    label: et-0/0/48
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/49
     position: et-0/0/49
-    label: et-0/0/49
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/50
     position: et-0/0/50
-    label: et-0/0/50
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/51
     position: et-0/0/51
-    label: et-0/0/51
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/52
     position: et-0/0/52
-    label: et-0/0/52
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/53
     position: et-0/0/53
-    label: et-0/0/53
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/54
     position: et-0/0/54
-    label: et-0/0/54
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/55
     position: et-0/0/55
-    label: et-0/0/55
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/56
     position: et-0/0/56
-    label: et-0/0/56
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/57
     position: et-0/0/57
-    label: et-0/0/57
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/58
     position: et-0/0/58
-    label: et-0/0/58
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/59
     position: et-0/0/59
-    label: et-0/0/59
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/60
     position: et-0/0/60
-    label: et-0/0/60
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/61
     position: et-0/0/61
-    label: et-0/0/61
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/62
     position: et-0/0/62
-    label: et-0/0/62
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/63
     position: et-0/0/63
-    label: et-0/0/63
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/64
     position: et-0/0/64
-    label: et-0/0/64
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/65
     position: et-0/0/65
-    label: et-0/0/65
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/66
     position: et-0/0/66
-    label: et-0/0/66
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/67
     position: et-0/0/67
-    label: et-0/0/67
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/68
     position: et-0/0/68
-    label: et-0/0/68
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/69
     position: et-0/0/69
-    label: et-0/0/69
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/70
     position: et-0/0/70
-    label: et-0/0/70
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/71
     position: et-0/0/71
-    label: et-0/0/71
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/72
     position: et-0/0/72
-    label: et-0/0/72
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/73
     position: et-0/0/73
-    label: et-0/0/73
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/74
     position: et-0/0/74
-    label: et-0/0/74
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/75
     position: et-0/0/75
-    label: et-0/0/75
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/76
     position: et-0/0/76
-    label: et-0/0/76
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/77
     position: et-0/0/77
-    label: et-0/0/77
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/78
     position: et-0/0/78
-    label: et-0/0/78
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/79
     position: et-0/0/79
-    label: et-0/0/79
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/80
     position: et-0/0/80
-    label: et-0/0/80
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/81
     position: et-0/0/81
-    label: et-0/0/81
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/82
     position: et-0/0/82
-    label: et-0/0/82
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/83
     position: et-0/0/83
-    label: et-0/0/83
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/84
     position: et-0/0/84
-    label: et-0/0/84
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/85
     position: et-0/0/85
-    label: et-0/0/85
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/86
     position: et-0/0/86
-    label: et-0/0/86
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/87
     position: et-0/0/87
-    label: et-0/0/87
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/88
     position: et-0/0/88
-    label: et-0/0/88
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/89
     position: et-0/0/89
-    label: et-0/0/89
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/90
     position: et-0/0/90
-    label: et-0/0/90
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/91
     position: et-0/0/91
-    label: et-0/0/91
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/92
     position: et-0/0/92
-    label: et-0/0/92
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/93
     position: et-0/0/93
-    label: et-0/0/93
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/94
     position: et-0/0/94
-    label: et-0/0/94
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/95
     position: et-0/0/95
-    label: et-0/0/95
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/96
     position: et-0/0/96
-    label: et-0/0/96
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/97
     position: et-0/0/97
-    label: et-0/0/97
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/98
     position: et-0/0/98
-    label: et-0/0/98
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/99
     position: et-0/0/99
-    label: et-0/0/99
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/100
     position: et-0/0/100
-    label: et-0/0/100
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/101
     position: et-0/0/101
-    label: et-0/0/101
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/102
     position: et-0/0/102
-    label: et-0/0/102
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/103
     position: et-0/0/103
-    label: et-0/0/103
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/104
     position: et-0/0/104
-    label: et-0/0/104
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/105
     position: et-0/0/105
-    label: et-0/0/105
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/106
     position: et-0/0/106
-    label: et-0/0/106
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/107
     position: et-0/0/107
-    label: et-0/0/107
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/108
     position: et-0/0/108
-    label: et-0/0/108
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/109
     position: et-0/0/109
-    label: et-0/0/109
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/110
     position: et-0/0/110
-    label: et-0/0/110
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/111
     position: et-0/0/111
-    label: et-0/0/111
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/112
     position: et-0/0/112
-    label: et-0/0/112
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/113
     position: et-0/0/113
-    label: et-0/0/113
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/114
     position: et-0/0/114
-    label: et-0/0/114
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/115
     position: et-0/0/115
-    label: et-0/0/115
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/116
     position: et-0/0/116
-    label: et-0/0/116
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/117
     position: et-0/0/117
-    label: et-0/0/117
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/118
     position: et-0/0/118
-    label: et-0/0/118
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/119
     position: et-0/0/119
-    label: et-0/0/119
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/120
     position: et-0/0/120
-    label: et-0/0/120
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/121
     position: et-0/0/121
-    label: et-0/0/121
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/122
     position: et-0/0/122
-    label: et-0/0/122
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/123
     position: et-0/0/123
-    label: et-0/0/123
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/124
     position: et-0/0/124
-    label: et-0/0/124
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/125
     position: et-0/0/125
-    label: et-0/0/125
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/126
     position: et-0/0/126
-    label: et-0/0/126
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/0/127
     position: et-0/0/127
-    label: et-0/0/127
+    label: qsfp
 console-ports:
   -
     name: Console

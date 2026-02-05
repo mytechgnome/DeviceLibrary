@@ -47,34 +47,34 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: SFP
+    name: Controller-A fc2a
     position: Controller-A fc2a
-    label: Controller-A fc2a
+    label: sfp28
   -
-    name: SFP
+    name: Controller-A fc2b
     position: Controller-A fc2b
-    label: Controller-A fc2b
+    label: sfp28
   -
-    name: SFP
+    name: Controller-A fc2c
     position: Controller-A fc2c
-    label: Controller-A fc2c
+    label: sfp28
   -
-    name: SFP
+    name: Controller-A fc2d
     position: Controller-A fc2d
-    label: Controller-A fc2d
+    label: sfp28
   -
-    name: SFP
+    name: Controller-B fc2a
     position: Controller-B fc2a
-    label: Controller-B fc2a
+    label: sfp28
   -
-    name: SFP
+    name: Controller-B fc2b
     position: Controller-B fc2b
-    label: Controller-B fc2b
+    label: sfp28
   -
-    name: SFP
+    name: Controller-B fc2c
     position: Controller-B fc2c
-    label: Controller-B fc2c
+    label: sfp28
   -
-    name: SFP
+    name: Controller-B fc2d
     position: Controller-B fc2d
-    label: Controller-B fc2d
+    label: sfp28

@@ -62,6 +62,6 @@ console-ports:
     type: usb-a
 module-bays:
   -
-    name: SFP
+    name: WAN 1 (SFP)
     position: WAN 1 (SFP)
-    label: WAN 1 (SFP)
+    label: sfp

@@ -22,29 +22,29 @@ module-bays:
     position: '1'
     label: PWR1
   -
-    name: SFP
+    name: 10GE1/0/1
     position: 10GE1/0/1
-    label: 10GE1/0/1
+    label: sfp+
   -
-    name: SFP
+    name: 10GE1/0/2
     position: 10GE1/0/2
-    label: 10GE1/0/2
+    label: sfp+
   -
-    name: SFP
+    name: 10GE1/0/3
     position: 10GE1/0/3
-    label: 10GE1/0/3
+    label: sfp+
   -
-    name: SFP
+    name: 10GE1/0/4
     position: 10GE1/0/4
-    label: 10GE1/0/4
+    label: sfp+
   -
-    name: SFP
+    name: 10GE1/0/5
     position: 10GE1/0/5
-    label: 10GE1/0/5
+    label: sfp+
   -
-    name: SFP
+    name: 10GE1/0/6
     position: 10GE1/0/6
-    label: 10GE1/0/6
+    label: sfp+
 interfaces:
   -
     name: GE1/0/1

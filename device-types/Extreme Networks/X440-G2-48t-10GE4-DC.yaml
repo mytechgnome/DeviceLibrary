@@ -162,42 +162,42 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: '45'
     position: '45'
-    label: '45'
+    label: sfp
     description: Combo Port (either SFP or 1000BASE-T)
   -
-    name: SFP
+    name: '46'
     position: '46'
-    label: '46'
+    label: sfp
     description: Combo Port (either SFP or 1000BASE-T)
   -
-    name: SFP
+    name: '47'
     position: '47'
-    label: '47'
+    label: sfp
     description: Combo Port (either SFP or 1000BASE-T)
   -
-    name: SFP
+    name: '48'
     position: '48'
-    label: '48'
+    label: sfp
     description: Combo Port (either SFP or 1000BASE-T)
   -
-    name: SFP
+    name: '49'
     position: '49'
-    label: '49'
+    label: sfp+
     description: For stacking or as additional SFP+
   -
-    name: SFP
+    name: '50'
     position: '50'
-    label: '50'
+    label: sfp+
     description: For stacking or as additional SFP+
   -
-    name: SFP
+    name: '51'
     position: '51'
-    label: '51'
+    label: sfp+
     description: Combo Port (either SFP+ or 10GBASE-T)
   -
-    name: SFP
+    name: '52'
     position: '52'
-    label: '52'
+    label: sfp+
     description: Combo Port (either SFP+ or 10GBASE-T)

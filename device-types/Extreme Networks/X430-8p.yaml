@@ -64,10 +64,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: '9'
     position: '9'
-    label: '9'
+    label: sfp
   -
-    name: SFP
+    name: '10'
     position: '10'
-    label: '10'
+    label: sfp

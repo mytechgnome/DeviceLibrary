@@ -31,50 +31,50 @@ module-bays:
     label: PS2
     position: '2'
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/1
     position: FortyGigabitEthernet1/0/1
-    label: FortyGigabitEthernet1/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/2
     position: FortyGigabitEthernet1/0/2
-    label: FortyGigabitEthernet1/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/3
     position: FortyGigabitEthernet1/0/3
-    label: FortyGigabitEthernet1/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/4
     position: FortyGigabitEthernet1/0/4
-    label: FortyGigabitEthernet1/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/5
     position: FortyGigabitEthernet1/0/5
-    label: FortyGigabitEthernet1/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/6
     position: FortyGigabitEthernet1/0/6
-    label: FortyGigabitEthernet1/0/6
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/7
     position: FortyGigabitEthernet1/0/7
-    label: FortyGigabitEthernet1/0/7
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/8
     position: FortyGigabitEthernet1/0/8
-    label: FortyGigabitEthernet1/0/8
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/9
     position: FortyGigabitEthernet1/0/9
-    label: FortyGigabitEthernet1/0/9
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/10
     position: FortyGigabitEthernet1/0/10
-    label: FortyGigabitEthernet1/0/10
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/11
     position: FortyGigabitEthernet1/0/11
-    label: FortyGigabitEthernet1/0/11
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/12
     position: FortyGigabitEthernet1/0/12
-    label: FortyGigabitEthernet1/0/12
+    label: qsfp

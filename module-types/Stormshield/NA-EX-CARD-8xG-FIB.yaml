@@ -2,28 +2,37 @@
 manufacturer: Stormshield
 model: NA-EX-CARD-8xG-FIB
 part_number: NA-EX-CARD-8xG-FIB
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/1
+    position: port{module}/1
+    label: port{module}/1
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/2
+    position: port{module}/2
+    label: port{module}/2
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/3
+    position: port{module}/3
+    label: port{module}/3
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/4
+    position: port{module}/4
+    label: port{module}/4
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/5
+    position: port{module}/5
+    label: port{module}/5
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/6
+    position: port{module}/6
+    label: port{module}/6
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/7
+    position: port{module}/7
+    label: port{module}/7
   -
-    name: '{module}'
-    type: 1000base-x-sfp
+    name: port{module}/8
+    position: port{module}/8
+    label: port{module}/8

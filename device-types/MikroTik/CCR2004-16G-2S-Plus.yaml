@@ -95,11 +95,11 @@ module-bays:
     position: PSU2
     description: 100 - 240V AC
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus2
     position: sfp-sfpplus2
-    label: sfp-sfpplus2
+    label: sfp+
 comments: '[CCR2004-16G-2S+ Datasheet by Kolyan](https://mikrotik.com/product/ccr2004_16g_2splus#fndtn-specifications)'

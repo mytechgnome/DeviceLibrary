@@ -58,10 +58,10 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: SYNC1
     position: SYNC1
-    label: SYNC1
+    label: sfp28
   -
-    name: SFP
+    name: SYNC2
     position: SYNC2
-    label: SYNC2
+    label: sfp28

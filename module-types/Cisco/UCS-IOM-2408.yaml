@@ -2,28 +2,37 @@
 manufacturer: Cisco
 model: UCS-IOM-2408
 part_number: UCS-IOM-2408
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/1
+    position: Fabric {module}/1
+    label: Fabric {module}/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/2
+    position: Fabric {module}/2
+    label: Fabric {module}/2
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/3
+    position: Fabric {module}/3
+    label: Fabric {module}/3
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/4
+    position: Fabric {module}/4
+    label: Fabric {module}/4
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/5
+    position: Fabric {module}/5
+    label: Fabric {module}/5
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/6
+    position: Fabric {module}/6
+    label: Fabric {module}/6
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/7
+    position: Fabric {module}/7
+    label: Fabric {module}/7
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Fabric {module}/8
+    position: Fabric {module}/8
+    label: Fabric {module}/8

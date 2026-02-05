@@ -50,10 +50,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Port 10
     position: Port 10
-    label: Port 10
+    label: sfp
   -
-    name: SFP
+    name: Port 11
     position: Port 11
-    label: Port 11
+    label: sfp

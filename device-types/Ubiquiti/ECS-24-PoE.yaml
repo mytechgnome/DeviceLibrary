@@ -165,10 +165,10 @@ module-bays:
     name: Fan Module 4
     position: front-right
   -
-    name: SFP
+    name: SFP28 Port 25
     position: SFP28 Port 25
-    label: SFP28 Port 25
+    label: sfp28
   -
-    name: SFP
+    name: SFP28 Port 26
     position: SFP28 Port 26
-    label: SFP28 Port 26
+    label: sfp28

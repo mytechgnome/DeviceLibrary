@@ -117,34 +117,34 @@ module-bays:
     name: Fan 1
     position: '1'
   -
-    name: SFP
+    name: Ethernet1/2/1
     position: Ethernet1/2/1
-    label: Ethernet1/2/1
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/2
     position: Ethernet1/2/2
-    label: Ethernet1/2/2
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/3
     position: Ethernet1/2/3
-    label: Ethernet1/2/3
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/4
     position: Ethernet1/2/4
-    label: Ethernet1/2/4
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/5
     position: Ethernet1/2/5
-    label: Ethernet1/2/5
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/6
     position: Ethernet1/2/6
-    label: Ethernet1/2/6
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/7
     position: Ethernet1/2/7
-    label: Ethernet1/2/7
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet1/2/8
     position: Ethernet1/2/8
-    label: Ethernet1/2/8
+    label: sfp+

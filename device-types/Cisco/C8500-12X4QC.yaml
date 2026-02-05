@@ -28,62 +28,62 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/0
     position: TenGigabitEthernet0/0/0
-    label: TenGigabitEthernet0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/1
     position: TenGigabitEthernet0/0/1
-    label: TenGigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/2
     position: TenGigabitEthernet0/0/2
-    label: TenGigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/3
     position: TenGigabitEthernet0/0/3
-    label: TenGigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/4
     position: TenGigabitEthernet0/0/4
-    label: TenGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/5
     position: TenGigabitEthernet0/0/5
-    label: TenGigabitEthernet0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/6
     position: TenGigabitEthernet0/0/6
-    label: TenGigabitEthernet0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/0/7
     position: TenGigabitEthernet0/0/7
-    label: TenGigabitEthernet0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/0
     position: TenGigabitEthernet0/1/0
-    label: TenGigabitEthernet0/1/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/1
     position: TenGigabitEthernet0/1/1
-    label: TenGigabitEthernet0/1/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/2
     position: TenGigabitEthernet0/1/2
-    label: TenGigabitEthernet0/1/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/3
     position: TenGigabitEthernet0/1/3
-    label: TenGigabitEthernet0/1/3
+    label: sfp+
   -
-    name: QSFP
+    name: FortyGigabitEthernet0/2/0
     position: FortyGigabitEthernet0/2/0
-    label: FortyGigabitEthernet0/2/0
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet0/2/4
     position: FortyGigabitEthernet0/2/4
-    label: FortyGigabitEthernet0/2/4
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet0/2/8
     position: FortyGigabitEthernet0/2/8
-    label: FortyGigabitEthernet0/2/8
+    label: qsfp

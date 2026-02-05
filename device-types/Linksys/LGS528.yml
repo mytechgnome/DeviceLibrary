@@ -111,10 +111,10 @@ interfaces:
      # comments: Combo port either 1000base-x-sfp or 1000base-t
 module-bays:
   -
-    name: SFP
+    name: gi27F
     position: gi27F
-    label: gi27F
+    label: sfp
   -
-    name: SFP
+    name: gi28F
     position: gi28F
-    label: gi28F
+    label: sfp

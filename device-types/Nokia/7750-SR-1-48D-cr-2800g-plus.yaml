@@ -50,198 +50,198 @@ module-bays:
     name: Fan Tray 3
     position: '3'
   -
-    name: QSFP
+    name: 1/1/c1
     position: 1/1/c1
-    label: 1/1/c1
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c2
     position: 1/1/c2
-    label: 1/1/c2
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c3
     position: 1/1/c3
-    label: 1/1/c3
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c4
     position: 1/1/c4
-    label: 1/1/c4
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c5
     position: 1/1/c5
-    label: 1/1/c5
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c6
     position: 1/1/c6
-    label: 1/1/c6
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c7
     position: 1/1/c7
-    label: 1/1/c7
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c8
     position: 1/1/c8
-    label: 1/1/c8
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c9
     position: 1/1/c9
-    label: 1/1/c9
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c10
     position: 1/1/c10
-    label: 1/1/c10
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c11
     position: 1/1/c11
-    label: 1/1/c11
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c12
     position: 1/1/c12
-    label: 1/1/c12
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c13
     position: 1/1/c13
-    label: 1/1/c13
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c14
     position: 1/1/c14
-    label: 1/1/c14
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c15
     position: 1/1/c15
-    label: 1/1/c15
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c16
     position: 1/1/c16
-    label: 1/1/c16
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c17
     position: 1/1/c17
-    label: 1/1/c17
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c18
     position: 1/1/c18
-    label: 1/1/c18
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c19
     position: 1/1/c19
-    label: 1/1/c19
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c20
     position: 1/1/c20
-    label: 1/1/c20
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c21
     position: 1/1/c21
-    label: 1/1/c21
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c22
     position: 1/1/c22
-    label: 1/1/c22
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c23
     position: 1/1/c23
-    label: 1/1/c23
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c24
     position: 1/1/c24
-    label: 1/1/c24
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c25
     position: 1/1/c25
-    label: 1/1/c25
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c26
     position: 1/1/c26
-    label: 1/1/c26
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c27
     position: 1/1/c27
-    label: 1/1/c27
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c28
     position: 1/1/c28
-    label: 1/1/c28
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c29
     position: 1/1/c29
-    label: 1/1/c29
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c30
     position: 1/1/c30
-    label: 1/1/c30
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c31
     position: 1/1/c31
-    label: 1/1/c31
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c32
     position: 1/1/c32
-    label: 1/1/c32
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c33
     position: 1/1/c33
-    label: 1/1/c33
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c34
     position: 1/1/c34
-    label: 1/1/c34
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c35
     position: 1/1/c35
-    label: 1/1/c35
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c36
     position: 1/1/c36
-    label: 1/1/c36
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c37
     position: 1/1/c37
-    label: 1/1/c37
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c38
     position: 1/1/c38
-    label: 1/1/c38
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c39
     position: 1/1/c39
-    label: 1/1/c39
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c40
     position: 1/1/c40
-    label: 1/1/c40
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c41
     position: 1/1/c41
-    label: 1/1/c41
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c42
     position: 1/1/c42
-    label: 1/1/c42
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c43
     position: 1/1/c43
-    label: 1/1/c43
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c44
     position: 1/1/c44
-    label: 1/1/c44
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c45
     position: 1/1/c45
-    label: 1/1/c45
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c46
     position: 1/1/c46
-    label: 1/1/c46
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c47
     position: 1/1/c47
-    label: 1/1/c47
+    label: qsfp-dd
   -
-    name: QSFP
+    name: 1/1/c48
     position: 1/1/c48
-    label: 1/1/c48
+    label: qsfp-dd
   -
-    name: SFP
+    name: A/3
     position: A/3
-    label: A/3
+    label: sfp

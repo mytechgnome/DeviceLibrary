@@ -20,109 +20,109 @@ module-bays:
     name: Expansion Module
     position: '1'
   -
-    name: SFP
+    name: X0
     position: X0
-    label: X0
+    label: sfp+
   -
-    name: SFP
+    name: X1
     position: X1
-    label: X1
+    label: sfp+
   -
-    name: SFP
+    name: X2
     position: X2
-    label: X2
+    label: sfp+
   -
-    name: SFP
+    name: X3
     position: X3
-    label: X3
+    label: sfp+
   -
-    name: SFP
+    name: X4
     position: X4
-    label: X4
+    label: sfp+
   -
-    name: SFP
+    name: X5
     position: X5
-    label: X5
+    label: sfp+
   -
-    name: SFP
+    name: X6
     position: X6
-    label: X6
+    label: sfp+
   -
-    name: SFP
+    name: X7
     position: X7
-    label: X7
+    label: sfp+
   -
-    name: SFP
+    name: X8
     position: X8
-    label: X8
+    label: sfp+
   -
-    name: SFP
+    name: X9
     position: X9
-    label: X9
+    label: sfp+
   -
-    name: SFP
+    name: X10
     position: X10
-    label: X10
+    label: sfp+
   -
-    name: SFP
+    name: X11
     position: X11
-    label: X11
+    label: sfp+
   -
-    name: SFP
+    name: X12
     position: X12
-    label: X12
+    label: sfp+
   -
-    name: SFP
+    name: X13
     position: X13
-    label: X13
+    label: sfp+
   -
-    name: SFP
+    name: X14
     position: X14
-    label: X14
+    label: sfp+
   -
-    name: SFP
+    name: X15
     position: X15
-    label: X15
+    label: sfp+
   -
-    name: QSFP
+    name: X16
     position: X16
-    label: X16
+    label: qsfp
   -
-    name: QSFP
+    name: X17
     position: X17
-    label: X17
+    label: qsfp
   -
-    name: QSFP
+    name: X18
     position: X18
-    label: X18
+    label: qsfp
   -
-    name: QSFP
+    name: X19
     position: X19
-    label: X19
+    label: qsfp
   -
-    name: QSFP
+    name: X20
     position: X20
-    label: X20
+    label: qsfp
   -
-    name: QSFP
+    name: X21
     position: X21
-    label: X21
+    label: qsfp
   -
-    name: QSFP
+    name: X22
     position: X22
-    label: X22
+    label: qsfp
   -
-    name: QSFP
+    name: X23
     position: X23
-    label: X23
+    label: qsfp
   -
-    name: QSFP
+    name: X24
     position: X24
-    label: X24
+    label: qsfp
   -
-    name: QSFP
+    name: X25
     position: X25
-    label: X25
+    label: qsfp
 inventory-items:
   -
     name: Storage-Module 1

@@ -18,85 +18,85 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: SFP
+    name: eth1
     position: eth1
-    label: eth1
+    label: sfp+
   -
-    name: SFP
+    name: eth2
     position: eth2
-    label: eth2
+    label: sfp+
   -
-    name: SFP
+    name: eth3
     position: eth3
-    label: eth3
+    label: sfp+
   -
-    name: SFP
+    name: eth4
     position: eth4
-    label: eth4
+    label: sfp+
   -
-    name: SFP
+    name: eth5
     position: eth5
-    label: eth5
+    label: sfp+
   -
-    name: SFP
+    name: eth6
     position: eth6
-    label: eth6
+    label: sfp+
   -
-    name: SFP
+    name: eth7
     position: eth7
-    label: eth7
+    label: sfp+
   -
-    name: SFP
+    name: eth8
     position: eth8
-    label: eth8
+    label: sfp+
   -
-    name: SFP
+    name: eth9
     position: eth9
-    label: eth9
+    label: sfp+
   -
-    name: SFP
+    name: eth10
     position: eth10
-    label: eth10
+    label: sfp+
   -
-    name: SFP
+    name: eth11
     position: eth11
-    label: eth11
+    label: sfp+
   -
-    name: SFP
+    name: eth12
     position: eth12
-    label: eth12
+    label: sfp+
   -
-    name: SFP
+    name: eth13
     position: eth13
-    label: eth13
+    label: sfp+
   -
-    name: SFP
+    name: eth14
     position: eth14
-    label: eth14
+    label: sfp+
   -
-    name: SFP
+    name: eth15
     position: eth15
-    label: eth15
+    label: sfp+
   -
-    name: SFP
+    name: eth16
     position: eth16
-    label: eth16
+    label: sfp+
   -
-    name: QSFP
+    name: eth17
     position: eth17
-    label: eth17
+    label: qsfp
   -
-    name: QSFP
+    name: eth18
     position: eth18
-    label: eth18
+    label: qsfp
   -
-    name: QSFP
+    name: eth19
     position: eth19
-    label: eth19
+    label: qsfp
   -
-    name: QSFP
+    name: eth20
     position: eth20
-    label: eth20
+    label: qsfp
 interfaces:
   -
     name: mgmt

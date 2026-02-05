@@ -28,36 +28,36 @@ interfaces:
     type: other
 module-bays:
   -
-    name: QSFP
+    name: interconnect {module}, Q1
     position: interconnect {module}, Q1
-    label: interconnect {module}, Q1
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q2
     position: interconnect {module}, Q2
-    label: interconnect {module}, Q2
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q3
     position: interconnect {module}, Q3
-    label: interconnect {module}, Q3
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q4
     position: interconnect {module}, Q4
-    label: interconnect {module}, Q4
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q5
     position: interconnect {module}, Q5
-    label: interconnect {module}, Q5
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q6
     position: interconnect {module}, Q6
-    label: interconnect {module}, Q6
+    label: qsfp
   -
-    name: QSFP
+    name: interconnect {module}, Q7
     position: interconnect {module}, Q7
-    label: interconnect {module}, Q7
+    label: qsfp
     description: ICM Clustering or Uplink
   -
-    name: QSFP
+    name: interconnect {module}, Q8
     position: interconnect {module}, Q8
-    label: interconnect {module}, Q8
+    label: qsfp
     description: ICM Clustring or Uplink

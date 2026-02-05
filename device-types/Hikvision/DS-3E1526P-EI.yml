@@ -140,6 +140,6 @@ interfaces:
 # slots:
 module-bays:
   -
-    name: SFP
+    name: '26'
     position: '26'
-    label: '26'
+    label: sfp

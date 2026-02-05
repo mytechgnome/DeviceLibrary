@@ -29,10 +29,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: A1
     position: A1
-    label: A1
+    label: sfp+
   -
-    name: SFP
+    name: X1
     position: X1
-    label: X1
+    label: sfp+

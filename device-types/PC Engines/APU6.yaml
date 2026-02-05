@@ -38,6 +38,6 @@ power-ports:
     allocated_draw: 6
 module-bays:
   -
-    name: SFP
+    name: eth0
     position: eth0
-    label: eth0
+    label: sfp

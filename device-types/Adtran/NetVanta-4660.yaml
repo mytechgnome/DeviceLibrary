@@ -26,22 +26,22 @@ module-bays:
     name: Slot 1
     position: '1'
   -
-    name: SFP
+    name: GIG 0/1
     position: GIG 0/1
-    label: GIG 0/1
+    label: sfp
   -
-    name: SFP
+    name: GIG 0/2
     position: GIG 0/2
-    label: GIG 0/2
+    label: sfp
   -
-    name: SFP
+    name: GIG 0/3
     position: GIG 0/3
-    label: GIG 0/3
+    label: sfp
   -
-    name: SFP
+    name: GIG 0/4
     position: GIG 0/4
-    label: GIG 0/4
+    label: sfp
   -
-    name: SFP
+    name: GIG 0/5
     position: GIG 0/5
-    label: GIG 0/5
+    label: sfp

@@ -64,10 +64,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: Ethernet 9
     position: Ethernet 9
-    label: Ethernet 9
+    label: sfp
   -
-    name: SFP
+    name: Ethernet 10
     position: Ethernet 10
-    label: Ethernet 10
+    label: sfp

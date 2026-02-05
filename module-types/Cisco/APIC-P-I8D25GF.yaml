@@ -2,10 +2,13 @@
 manufacturer: Cisco
 model: APIC-P-I8D25GF
 part_number: APIC-P-I8D25GF
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Ethernet {module}/1
+    position: Ethernet {module}/1
+    label: Ethernet {module}/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Ethernet {module}/2
+    position: Ethernet {module}/2
+    label: Ethernet {module}/2

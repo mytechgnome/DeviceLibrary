@@ -21,266 +21,266 @@ module-bays:
     name: PSU1
     position: '1'
   -
-    name: SFP
+    name: FC port 0
     position: FC port 0
-    label: FC port 0
+    label: sfp+
   -
-    name: SFP
+    name: FC port 1
     position: FC port 1
-    label: FC port 1
+    label: sfp+
   -
-    name: SFP
+    name: FC port 2
     position: FC port 2
-    label: FC port 2
+    label: sfp+
   -
-    name: SFP
+    name: FC port 3
     position: FC port 3
-    label: FC port 3
+    label: sfp+
   -
-    name: SFP
+    name: FC port 4
     position: FC port 4
-    label: FC port 4
+    label: sfp+
   -
-    name: SFP
+    name: FC port 5
     position: FC port 5
-    label: FC port 5
+    label: sfp+
   -
-    name: SFP
+    name: FC port 6
     position: FC port 6
-    label: FC port 6
+    label: sfp+
   -
-    name: SFP
+    name: FC port 7
     position: FC port 7
-    label: FC port 7
+    label: sfp+
   -
-    name: SFP
+    name: FC port 8
     position: FC port 8
-    label: FC port 8
+    label: sfp+
   -
-    name: SFP
+    name: FC port 9
     position: FC port 9
-    label: FC port 9
+    label: sfp+
   -
-    name: SFP
+    name: FC port 10
     position: FC port 10
-    label: FC port 10
+    label: sfp+
   -
-    name: SFP
+    name: FC port 11
     position: FC port 11
-    label: FC port 11
+    label: sfp+
   -
-    name: SFP
+    name: FC port 12
     position: FC port 12
-    label: FC port 12
+    label: sfp+
   -
-    name: SFP
+    name: FC port 13
     position: FC port 13
-    label: FC port 13
+    label: sfp+
   -
-    name: SFP
+    name: FC port 14
     position: FC port 14
-    label: FC port 14
+    label: sfp+
   -
-    name: SFP
+    name: FC port 15
     position: FC port 15
-    label: FC port 15
+    label: sfp+
   -
-    name: SFP
+    name: FC port 16
     position: FC port 16
-    label: FC port 16
+    label: sfp+
   -
-    name: SFP
+    name: FC port 17
     position: FC port 17
-    label: FC port 17
+    label: sfp+
   -
-    name: SFP
+    name: FC port 18
     position: FC port 18
-    label: FC port 18
+    label: sfp+
   -
-    name: SFP
+    name: FC port 19
     position: FC port 19
-    label: FC port 19
+    label: sfp+
   -
-    name: SFP
+    name: FC port 20
     position: FC port 20
-    label: FC port 20
+    label: sfp+
   -
-    name: SFP
+    name: FC port 21
     position: FC port 21
-    label: FC port 21
+    label: sfp+
   -
-    name: SFP
+    name: FC port 22
     position: FC port 22
-    label: FC port 22
+    label: sfp+
   -
-    name: SFP
+    name: FC port 23
     position: FC port 23
-    label: FC port 23
+    label: sfp+
   -
-    name: SFP
+    name: FC port 24
     position: FC port 24
-    label: FC port 24
+    label: sfp+
   -
-    name: SFP
+    name: FC port 25
     position: FC port 25
-    label: FC port 25
+    label: sfp+
   -
-    name: SFP
+    name: FC port 26
     position: FC port 26
-    label: FC port 26
+    label: sfp+
   -
-    name: SFP
+    name: FC port 27
     position: FC port 27
-    label: FC port 27
+    label: sfp+
   -
-    name: SFP
+    name: FC port 28
     position: FC port 28
-    label: FC port 28
+    label: sfp+
   -
-    name: SFP
+    name: FC port 29
     position: FC port 29
-    label: FC port 29
+    label: sfp+
   -
-    name: SFP
+    name: FC port 30
     position: FC port 30
-    label: FC port 30
+    label: sfp+
   -
-    name: SFP
+    name: FC port 31
     position: FC port 31
-    label: FC port 31
+    label: sfp+
   -
-    name: SFP
+    name: FC port 32
     position: FC port 32
-    label: FC port 32
+    label: sfp+
   -
-    name: SFP
+    name: FC port 33
     position: FC port 33
-    label: FC port 33
+    label: sfp+
   -
-    name: SFP
+    name: FC port 34
     position: FC port 34
-    label: FC port 34
+    label: sfp+
   -
-    name: SFP
+    name: FC port 35
     position: FC port 35
-    label: FC port 35
+    label: sfp+
   -
-    name: SFP
+    name: FC port 36
     position: FC port 36
-    label: FC port 36
+    label: sfp+
   -
-    name: SFP
+    name: FC port 37
     position: FC port 37
-    label: FC port 37
+    label: sfp+
   -
-    name: SFP
+    name: FC port 38
     position: FC port 38
-    label: FC port 38
+    label: sfp+
   -
-    name: SFP
+    name: FC port 39
     position: FC port 39
-    label: FC port 39
+    label: sfp+
   -
-    name: SFP
+    name: FC port 40
     position: FC port 40
-    label: FC port 40
+    label: sfp+
   -
-    name: SFP
+    name: FC port 41
     position: FC port 41
-    label: FC port 41
+    label: sfp+
   -
-    name: SFP
+    name: FC port 42
     position: FC port 42
-    label: FC port 42
+    label: sfp+
   -
-    name: SFP
+    name: FC port 43
     position: FC port 43
-    label: FC port 43
+    label: sfp+
   -
-    name: SFP
+    name: FC port 44
     position: FC port 44
-    label: FC port 44
+    label: sfp+
   -
-    name: SFP
+    name: FC port 45
     position: FC port 45
-    label: FC port 45
+    label: sfp+
   -
-    name: SFP
+    name: FC port 46
     position: FC port 46
-    label: FC port 46
+    label: sfp+
   -
-    name: SFP
+    name: FC port 47
     position: FC port 47
-    label: FC port 47
+    label: sfp+
   -
-    name: SFP
+    name: FC port 48
     position: FC port 48
-    label: FC port 48
+    label: sfp
   -
-    name: SFP
+    name: FC port 49
     position: FC port 49
-    label: FC port 49
+    label: sfp
     description: Only usable with SFP-DD optic in port 48
   -
-    name: SFP
+    name: FC port 50
     position: FC port 50
-    label: FC port 50
+    label: sfp
   -
-    name: SFP
+    name: FC port 51
     position: FC port 51
-    label: FC port 51
+    label: sfp
     description: Only usable with SFP-DD optic in port 50
   -
-    name: SFP
+    name: FC port 52
     position: FC port 52
-    label: FC port 52
+    label: sfp
   -
-    name: SFP
+    name: FC port 53
     position: FC port 53
-    label: FC port 53
+    label: sfp
     description: Only usable with SFP-DD optic in port 52
   -
-    name: SFP
+    name: FC port 54
     position: FC port 54
-    label: FC port 54
+    label: sfp
   -
-    name: SFP
+    name: FC port 55
     position: FC port 55
-    label: FC port 55
+    label: sfp
     description: Only usable with SFP-DD optic in port 54
   -
-    name: SFP
+    name: FC port 56
     position: FC port 56
-    label: FC port 56
+    label: sfp
   -
-    name: SFP
+    name: FC port 57
     position: FC port 57
-    label: FC port 57
+    label: sfp
     description: Only usable with SFP-DD optic in port 56
   -
-    name: SFP
+    name: FC port 58
     position: FC port 58
-    label: FC port 58
+    label: sfp
   -
-    name: SFP
+    name: FC port 59
     position: FC port 59
-    label: FC port 59
+    label: sfp
     description: Only usable with SFP-DD optic in port 58
   -
-    name: SFP
+    name: FC port 60
     position: FC port 60
-    label: FC port 60
+    label: sfp
   -
-    name: SFP
+    name: FC port 61
     position: FC port 61
-    label: FC port 61
+    label: sfp
     description: Only usable with SFP-DD optic in port 60
   -
-    name: SFP
+    name: FC port 62
     position: FC port 62
-    label: FC port 62
+    label: sfp
   -
-    name: SFP
+    name: FC port 63
     position: FC port 63
-    label: FC port 63
+    label: sfp
     description: Only usable with SFP-DD optic in port 62

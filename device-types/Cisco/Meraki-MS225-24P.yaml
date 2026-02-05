@@ -142,26 +142,26 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Port 25
     position: Port 25
-    label: Port 25
+    label: sfp+
   -
-    name: SFP
+    name: Port 26
     position: Port 26
-    label: Port 26
+    label: sfp+
   -
-    name: SFP
+    name: Port 27
     position: Port 27
-    label: Port 27
+    label: sfp+
   -
-    name: SFP
+    name: Port 28
     position: Port 28
-    label: Port 28
+    label: sfp+
   -
-    name: QSFP
+    name: Dedicated Stack Port 1
     position: Dedicated Stack Port 1
-    label: Dedicated Stack Port 1
+    label: qsfp
   -
-    name: QSFP
+    name: Dedicated Stack Port 2
     position: Dedicated Stack Port 2
-    label: Dedicated Stack Port 2
+    label: qsfp

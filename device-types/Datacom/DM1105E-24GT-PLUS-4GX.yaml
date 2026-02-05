@@ -151,18 +151,18 @@ interfaces:
     mgmt_only: false
 module-bays:
   -
-    name: SFP
+    name: Ethernet1/0/25
     position: Ethernet1/0/25
-    label: Ethernet1/0/25
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/0/26
     position: Ethernet1/0/26
-    label: Ethernet1/0/26
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/0/27
     position: Ethernet1/0/27
-    label: Ethernet1/0/27
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/0/28
     position: Ethernet1/0/28
-    label: Ethernet1/0/28
+    label: sfp

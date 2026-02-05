@@ -101,10 +101,10 @@ power-ports:
     maximum_draw: 50
 module-bays:
   -
-    name: SFP
+    name: SFP+ 25
     position: SFP+ 25
-    label: SFP+ 25
+    label: sfp+
   -
-    name: SFP
+    name: SFP+ 26
     position: SFP+ 26
-    label: SFP+ 26
+    label: sfp+

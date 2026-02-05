@@ -39,26 +39,26 @@ power-ports:
     allocated_draw: 200
 module-bays:
   -
-    name: SFP
+    name: port5
     position: port5
-    label: port5
+    label: sfp
   -
-    name: SFP
+    name: port6
     position: port6
-    label: port6
+    label: sfp
   -
-    name: SFP
+    name: port7
     position: port7
-    label: port7
+    label: sfp
   -
-    name: SFP
+    name: port8
     position: port8
-    label: port8
+    label: sfp
   -
-    name: SFP
+    name: port9
     position: port9
-    label: port9
+    label: sfp+
   -
-    name: SFP
+    name: port10
     position: port10
-    label: port10
+    label: sfp+

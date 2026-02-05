@@ -3,40 +3,53 @@ manufacturer: Ciena
 model: 8110 8114 12x25G SFP28
 part_number: 170-0404-900
 description: 8110/8114, MODULE, (12)25G/10G SFP28,MACSEC FRU supporting up to 300 G
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/1'
+    position: '{module}/1'
+    label: '{module}/1'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/2'
+    position: '{module}/2'
+    label: '{module}/2'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/3'
+    position: '{module}/3'
+    label: '{module}/3'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/4'
+    position: '{module}/4'
+    label: '{module}/4'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/5'
+    position: '{module}/5'
+    label: '{module}/5'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/6'
+    position: '{module}/6'
+    label: '{module}/6'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/7'
+    position: '{module}/7'
+    label: '{module}/7'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/8'
+    position: '{module}/8'
+    label: '{module}/8'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/9'
+    position: '{module}/9'
+    label: '{module}/9'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/10'
+    position: '{module}/10'
+    label: '{module}/10'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/11'
+    position: '{module}/11'
+    label: '{module}/11'
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: '{module}/12'
+    position: '{module}/12'
+    label: '{module}/12'

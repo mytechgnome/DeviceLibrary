@@ -27,21 +27,21 @@ module-bays:
     name: port expansion module slot2
     position: slot2
   -
-    name: SFP
+    name: GigabitEthernet 1/0/49
     position: GigabitEthernet 1/0/49
-    label: GigabitEthernet 1/0/49
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/50
     position: GigabitEthernet 1/0/50
-    label: GigabitEthernet 1/0/50
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/51
     position: GigabitEthernet 1/0/51
-    label: GigabitEthernet 1/0/51
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet 1/0/52
     position: GigabitEthernet 1/0/52
-    label: GigabitEthernet 1/0/52
+    label: sfp
 interfaces:
   -
     name: GigabitEthernet 1/0/1

@@ -168,26 +168,26 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: ethernet 1/49
     position: ethernet 1/49
-    label: ethernet 1/49
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/50
     position: ethernet 1/50
-    label: ethernet 1/50
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/51
     position: ethernet 1/51
-    label: ethernet 1/51
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/52
     position: ethernet 1/52
-    label: ethernet 1/52
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/53
     position: ethernet 1/53
-    label: ethernet 1/53
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/54
     position: ethernet 1/54
-    label: ethernet 1/54
+    label: sfp+

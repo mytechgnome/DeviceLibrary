@@ -28,69 +28,69 @@ module-bays:
     name: PS3
     position: '3'
   -
-    name: QSFP
+    name: '1'
     position: '1'
-    label: '1'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '2'
     position: '2'
-    label: '2'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '3'
     position: '3'
-    label: '3'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '4'
     position: '4'
-    label: '4'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '5'
     position: '5'
-    label: '5'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '6'
     position: '6'
-    label: '6'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '7'
     position: '7'
-    label: '7'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '8'
     position: '8'
-    label: '8'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '9'
     position: '9'
-    label: '9'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '10'
     position: '10'
-    label: '10'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '11'
     position: '11'
-    label: '11'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '12'
     position: '12'
-    label: '12'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '13'
     position: '13'
-    label: '13'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '14'
     position: '14'
-    label: '14'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '15'
     position: '15'
-    label: '15'
+    label: qsfp-dd
   -
-    name: QSFP
+    name: '16'
     position: '16'
-    label: '16'
+    label: qsfp-dd
 interfaces:
   -
     name: MGMT

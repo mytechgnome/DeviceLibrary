@@ -43,19 +43,19 @@ module-bays:
     name: '6'
     position: Bottom 3
   -
-    name: SFP
+    name: 0/1
     position: 0/1
-    label: 0/1
+    label: sfp+
   -
-    name: SFP
+    name: 0/2
     position: 0/2
-    label: 0/2
+    label: sfp+
   -
-    name: SFP
+    name: 0/3
     position: 0/3
-    label: 0/3
+    label: sfp+
   -
-    name: SFP
+    name: 0/4
     position: 0/4
-    label: 0/4
+    label: sfp+
 interfaces: []

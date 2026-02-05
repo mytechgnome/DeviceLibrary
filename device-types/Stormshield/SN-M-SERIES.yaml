@@ -21,13 +21,13 @@ module-bays:
     name: Module 1
     position: '1'
   -
-    name: SFP
+    name: port9
     position: port9
-    label: port9
+    label: sfp+
   -
-    name: SFP
+    name: port10
     position: port10
-    label: port10
+    label: sfp+
 power-ports:
   -
     name: PS1

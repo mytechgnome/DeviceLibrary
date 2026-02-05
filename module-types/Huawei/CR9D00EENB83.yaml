@@ -6,64 +6,85 @@ description: NE9000 LPUI-2T-CM 20x100GBase-QSFP28
 comments: '[Huawei 20-Port 100GE-QSFP28 FlexE/MACSec Integrated Line Process Unit CM (LPUI-2T-CM)](https://info.support.huawei.com/info-finder/enterprisesearch/en?keyword=CR9D00EENB83)'
 weight: 12.7
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/0
+    position: 100GE{module}/0/0
+    label: 100GE{module}/0/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/1
+    position: 100GE{module}/0/1
+    label: 100GE{module}/0/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/2
+    position: 100GE{module}/0/2
+    label: 100GE{module}/0/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/3
+    position: 100GE{module}/0/3
+    label: 100GE{module}/0/3
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/4
+    position: 100GE{module}/0/4
+    label: 100GE{module}/0/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/5
+    position: 100GE{module}/0/5
+    label: 100GE{module}/0/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/6
+    position: 100GE{module}/0/6
+    label: 100GE{module}/0/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/7
+    position: 100GE{module}/0/7
+    label: 100GE{module}/0/7
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/8
+    position: 100GE{module}/0/8
+    label: 100GE{module}/0/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/9
+    position: 100GE{module}/0/9
+    label: 100GE{module}/0/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/10
+    position: 100GE{module}/0/10
+    label: 100GE{module}/0/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/11
+    position: 100GE{module}/0/11
+    label: 100GE{module}/0/11
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/12
+    position: 100GE{module}/0/12
+    label: 100GE{module}/0/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/13
+    position: 100GE{module}/0/13
+    label: 100GE{module}/0/13
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/14
+    position: 100GE{module}/0/14
+    label: 100GE{module}/0/14
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/15
+    position: 100GE{module}/0/15
+    label: 100GE{module}/0/15
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/16
+    position: 100GE{module}/0/16
+    label: 100GE{module}/0/16
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/17
+    position: 100GE{module}/0/17
+    label: 100GE{module}/0/17
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/18
+    position: 100GE{module}/0/18
+    label: 100GE{module}/0/18
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: 100GE{module}/0/19
+    position: 100GE{module}/0/19
+    label: 100GE{module}/0/19

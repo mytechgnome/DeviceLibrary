@@ -77,70 +77,70 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: port17
     position: port17
-    label: port17
+    label: sfp
   -
-    name: SFP
+    name: port18
     position: port18
-    label: port18
+    label: sfp
   -
-    name: SFP
+    name: port19
     position: port19
-    label: port19
+    label: sfp
   -
-    name: SFP
+    name: port20
     position: port20
-    label: port20
+    label: sfp
   -
-    name: SFP
+    name: port21
     position: port21
-    label: port21
+    label: sfp
   -
-    name: SFP
+    name: port22
     position: port22
-    label: port22
+    label: sfp
   -
-    name: SFP
+    name: port23
     position: port23
-    label: port23
+    label: sfp
   -
-    name: SFP
+    name: port24
     position: port24
-    label: port24
+    label: sfp
   -
-    name: SFP
+    name: X1
     position: X1
-    label: X1
+    label: sfp+
   -
-    name: SFP
+    name: X2
     position: X2
-    label: X2
+    label: sfp+
   -
-    name: SFP
+    name: X3
     position: X3
-    label: X3
+    label: sfp+
   -
-    name: SFP
+    name: X4
     position: X4
-    label: X4
+    label: sfp+
   -
-    name: SFP
+    name: X5
     position: X5
-    label: X5
+    label: sfp28
     description: ULL (ultra-low latency)
   -
-    name: SFP
+    name: X6
     position: X6
-    label: X6
+    label: sfp28
     description: ULL (ultra-low latency)
   -
-    name: SFP
+    name: X7
     position: X7
-    label: X7
+    label: sfp28
     description: ULL (ultra-low latency)
   -
-    name: SFP
+    name: X8
     position: X8
-    label: X8
+    label: sfp28
     description: ULL (ultra-low latency)

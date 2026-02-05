@@ -14,141 +14,141 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: Port 1
     position: Port 1
-    label: Port 1
+    label: sfp+
   -
-    name: SFP
+    name: Port 2
     position: Port 2
-    label: Port 2
+    label: sfp+
   -
-    name: SFP
+    name: Port 3
     position: Port 3
-    label: Port 3
+    label: sfp+
   -
-    name: SFP
+    name: Port 4
     position: Port 4
-    label: Port 4
+    label: sfp+
   -
-    name: SFP
+    name: Port 5
     position: Port 5
-    label: Port 5
+    label: sfp+
   -
-    name: SFP
+    name: Port 6
     position: Port 6
-    label: Port 6
+    label: sfp+
   -
-    name: SFP
+    name: Port 7
     position: Port 7
-    label: Port 7
+    label: sfp+
   -
-    name: SFP
+    name: Port 8
     position: Port 8
-    label: Port 8
+    label: sfp+
   -
-    name: SFP
+    name: Port 9
     position: Port 9
-    label: Port 9
+    label: sfp+
   -
-    name: SFP
+    name: Port 10
     position: Port 10
-    label: Port 10
+    label: sfp+
   -
-    name: SFP
+    name: Port 11
     position: Port 11
-    label: Port 11
+    label: sfp+
   -
-    name: SFP
+    name: Port 12
     position: Port 12
-    label: Port 12
+    label: sfp+
   -
-    name: SFP
+    name: Port 13
     position: Port 13
-    label: Port 13
+    label: sfp+
   -
-    name: SFP
+    name: Port 14
     position: Port 14
-    label: Port 14
+    label: sfp+
   -
-    name: SFP
+    name: Port 15
     position: Port 15
-    label: Port 15
+    label: sfp+
   -
-    name: SFP
+    name: Port 16
     position: Port 16
-    label: Port 16
+    label: sfp+
   -
-    name: SFP
+    name: Port 17
     position: Port 17
-    label: Port 17
+    label: sfp+
   -
-    name: SFP
+    name: Port 18
     position: Port 18
-    label: Port 18
+    label: sfp+
   -
-    name: SFP
+    name: Port 19
     position: Port 19
-    label: Port 19
+    label: sfp+
   -
-    name: SFP
+    name: Port 20
     position: Port 20
-    label: Port 20
+    label: sfp+
   -
-    name: SFP
+    name: Port 21
     position: Port 21
-    label: Port 21
+    label: sfp+
   -
-    name: SFP
+    name: Port 22
     position: Port 22
-    label: Port 22
+    label: sfp+
   -
-    name: SFP
+    name: Port 23
     position: Port 23
-    label: Port 23
+    label: sfp+
   -
-    name: SFP
+    name: Port 24
     position: Port 24
-    label: Port 24
+    label: sfp+
   -
-    name: SFP
+    name: Port 25
     position: Port 25
-    label: Port 25
+    label: sfp+
   -
-    name: SFP
+    name: Port 26
     position: Port 26
-    label: Port 26
+    label: sfp+
   -
-    name: SFP
+    name: Port 27
     position: Port 27
-    label: Port 27
+    label: sfp+
   -
-    name: SFP
+    name: Port 28
     position: Port 28
-    label: Port 28
+    label: sfp+
   -
-    name: SFP
+    name: Port 29
     position: Port 29
-    label: Port 29
+    label: sfp+
   -
-    name: SFP
+    name: Port 30
     position: Port 30
-    label: Port 30
+    label: sfp+
   -
-    name: SFP
+    name: Port 31
     position: Port 31
-    label: Port 31
+    label: sfp+
   -
-    name: SFP
+    name: Port 32
     position: Port 32
-    label: Port 32
+    label: sfp+
   -
-    name: QSFP
+    name: Port 33
     position: Port 33
-    label: Port 33
+    label: qsfp
   -
-    name: QSFP
+    name: Port 34
     position: Port 34
-    label: Port 34
+    label: qsfp
 interfaces:
   -
     name: Management

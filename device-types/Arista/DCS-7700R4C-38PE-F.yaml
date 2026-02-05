@@ -20,157 +20,157 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: Host1
     position: Host1
-    label: Host1
+    label: sfp
   -
-    name: SFP
+    name: Host2
     position: Host2
-    label: Host2
+    label: sfp
   -
-    name: SFP
+    name: Host3
     position: Host3
-    label: Host3
+    label: sfp
   -
-    name: SFP
+    name: Host4
     position: Host4
-    label: Host4
+    label: sfp
   -
-    name: SFP
+    name: Host5
     position: Host5
-    label: Host5
+    label: sfp
   -
-    name: SFP
+    name: Host6
     position: Host6
-    label: Host6
+    label: sfp
   -
-    name: SFP
+    name: Host7
     position: Host7
-    label: Host7
+    label: sfp
   -
-    name: SFP
+    name: Host8
     position: Host8
-    label: Host8
+    label: sfp
   -
-    name: SFP
+    name: Host9
     position: Host9
-    label: Host9
+    label: sfp
   -
-    name: SFP
+    name: Host10
     position: Host10
-    label: Host10
+    label: sfp
   -
-    name: SFP
+    name: Host11
     position: Host11
-    label: Host11
+    label: sfp
   -
-    name: SFP
+    name: Host12
     position: Host12
-    label: Host12
+    label: sfp
   -
-    name: SFP
+    name: Host13
     position: Host13
-    label: Host13
+    label: sfp
   -
-    name: SFP
+    name: Host14
     position: Host14
-    label: Host14
+    label: sfp
   -
-    name: SFP
+    name: Host15
     position: Host15
-    label: Host15
+    label: sfp
   -
-    name: SFP
+    name: Host16
     position: Host16
-    label: Host16
+    label: sfp
   -
-    name: SFP
+    name: Host17
     position: Host17
-    label: Host17
+    label: sfp
   -
-    name: SFP
+    name: Host18
     position: Host18
-    label: Host18
+    label: sfp
   -
-    name: SFP
+    name: Fabric1
     position: Fabric1
-    label: Fabric1
+    label: sfp
   -
-    name: SFP
+    name: Fabric2
     position: Fabric2
-    label: Fabric2
+    label: sfp
   -
-    name: SFP
+    name: Fabric3
     position: Fabric3
-    label: Fabric3
+    label: sfp
   -
-    name: SFP
+    name: Fabric4
     position: Fabric4
-    label: Fabric4
+    label: sfp
   -
-    name: SFP
+    name: Fabric5
     position: Fabric5
-    label: Fabric5
+    label: sfp
   -
-    name: SFP
+    name: Fabric6
     position: Fabric6
-    label: Fabric6
+    label: sfp
   -
-    name: SFP
+    name: Fabric7
     position: Fabric7
-    label: Fabric7
+    label: sfp
   -
-    name: SFP
+    name: Fabric8
     position: Fabric8
-    label: Fabric8
+    label: sfp
   -
-    name: SFP
+    name: Fabric9
     position: Fabric9
-    label: Fabric9
+    label: sfp
   -
-    name: SFP
+    name: Fabric10
     position: Fabric10
-    label: Fabric10
+    label: sfp
   -
-    name: SFP
+    name: Fabric11
     position: Fabric11
-    label: Fabric11
+    label: sfp
   -
-    name: SFP
+    name: Fabric12
     position: Fabric12
-    label: Fabric12
+    label: sfp
   -
-    name: SFP
+    name: Fabric13
     position: Fabric13
-    label: Fabric13
+    label: sfp
   -
-    name: SFP
+    name: Fabric14
     position: Fabric14
-    label: Fabric14
+    label: sfp
   -
-    name: SFP
+    name: Fabric15
     position: Fabric15
-    label: Fabric15
+    label: sfp
   -
-    name: SFP
+    name: Fabric16
     position: Fabric16
-    label: Fabric16
+    label: sfp
   -
-    name: SFP
+    name: Fabric17
     position: Fabric17
-    label: Fabric17
+    label: sfp
   -
-    name: SFP
+    name: Fabric18
     position: Fabric18
-    label: Fabric18
+    label: sfp
   -
-    name: SFP
+    name: Fabric19
     position: Fabric19
-    label: Fabric19
+    label: sfp
   -
-    name: SFP
+    name: Fabric20
     position: Fabric20
-    label: Fabric20
+    label: sfp
 console-ports:
   -
     name: Console

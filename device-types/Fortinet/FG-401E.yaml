@@ -21,69 +21,69 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: SFP
+    name: port17
     position: port17
-    label: port17
+    label: sfp
   -
-    name: SFP
+    name: port18
     position: port18
-    label: port18
+    label: sfp
   -
-    name: SFP
+    name: port19
     position: port19
-    label: port19
+    label: sfp
   -
-    name: SFP
+    name: port20
     position: port20
-    label: port20
+    label: sfp
   -
-    name: SFP
+    name: port21
     position: port21
-    label: port21
+    label: sfp
   -
-    name: SFP
+    name: port22
     position: port22
-    label: port22
+    label: sfp
   -
-    name: SFP
+    name: port23
     position: port23
-    label: port23
+    label: sfp
   -
-    name: SFP
+    name: port24
     position: port24
-    label: port24
+    label: sfp
   -
-    name: SFP
+    name: port25
     position: port25
-    label: port25
+    label: sfp
   -
-    name: SFP
+    name: port26
     position: port26
-    label: port26
+    label: sfp
   -
-    name: SFP
+    name: port27
     position: port27
-    label: port27
+    label: sfp
   -
-    name: SFP
+    name: port28
     position: port28
-    label: port28
+    label: sfp
   -
-    name: SFP
+    name: s1
     position: s1
-    label: s1
+    label: sfp
   -
-    name: SFP
+    name: s2
     position: s2
-    label: s2
+    label: sfp
   -
-    name: SFP
+    name: vw1
     position: vw1
-    label: vw1
+    label: sfp
   -
-    name: SFP
+    name: vw2
     position: vw2
-    label: vw2
+    label: sfp
 interfaces:
   -
     name: ha

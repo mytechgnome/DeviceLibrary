@@ -2,16 +2,21 @@
 manufacturer: Cisco
 model: UCS-IOM-2304
 part_number: UCS-IOM-2304
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Fabric {module}/1
+    position: Fabric {module}/1
+    label: Fabric {module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Fabric {module}/2
+    position: Fabric {module}/2
+    label: Fabric {module}/2
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Fabric {module}/3
+    position: Fabric {module}/3
+    label: Fabric {module}/3
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Fabric {module}/4
+    position: Fabric {module}/4
+    label: Fabric {module}/4

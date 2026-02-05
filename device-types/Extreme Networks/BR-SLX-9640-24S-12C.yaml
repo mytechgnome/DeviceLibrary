@@ -25,146 +25,146 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: Ethernet 0/1
     position: Ethernet 0/1
-    label: Ethernet 0/1
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/2
     position: Ethernet 0/2
-    label: Ethernet 0/2
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/3
     position: Ethernet 0/3
-    label: Ethernet 0/3
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/4
     position: Ethernet 0/4
-    label: Ethernet 0/4
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/5
     position: Ethernet 0/5
-    label: Ethernet 0/5
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/6
     position: Ethernet 0/6
-    label: Ethernet 0/6
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/7
     position: Ethernet 0/7
-    label: Ethernet 0/7
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/8
     position: Ethernet 0/8
-    label: Ethernet 0/8
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/9
     position: Ethernet 0/9
-    label: Ethernet 0/9
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/10
     position: Ethernet 0/10
-    label: Ethernet 0/10
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/11
     position: Ethernet 0/11
-    label: Ethernet 0/11
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/12
     position: Ethernet 0/12
-    label: Ethernet 0/12
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/13
     position: Ethernet 0/13
-    label: Ethernet 0/13
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/14
     position: Ethernet 0/14
-    label: Ethernet 0/14
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/15
     position: Ethernet 0/15
-    label: Ethernet 0/15
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/16
     position: Ethernet 0/16
-    label: Ethernet 0/16
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/17
     position: Ethernet 0/17
-    label: Ethernet 0/17
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/18
     position: Ethernet 0/18
-    label: Ethernet 0/18
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/19
     position: Ethernet 0/19
-    label: Ethernet 0/19
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/20
     position: Ethernet 0/20
-    label: Ethernet 0/20
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/21
     position: Ethernet 0/21
-    label: Ethernet 0/21
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/22
     position: Ethernet 0/22
-    label: Ethernet 0/22
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/23
     position: Ethernet 0/23
-    label: Ethernet 0/23
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet 0/24
     position: Ethernet 0/24
-    label: Ethernet 0/24
+    label: sfp+
   -
-    name: QSFP
+    name: Ethernet 0/25
     position: Ethernet 0/25
-    label: Ethernet 0/25
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/26
     position: Ethernet 0/26
-    label: Ethernet 0/26
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/27
     position: Ethernet 0/27
-    label: Ethernet 0/27
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/28
     position: Ethernet 0/28
-    label: Ethernet 0/28
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/29
     position: Ethernet 0/29
-    label: Ethernet 0/29
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/30
     position: Ethernet 0/30
-    label: Ethernet 0/30
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/31
     position: Ethernet 0/31
-    label: Ethernet 0/31
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/32
     position: Ethernet 0/32
-    label: Ethernet 0/32
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/33
     position: Ethernet 0/33
-    label: Ethernet 0/33
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/34
     position: Ethernet 0/34
-    label: Ethernet 0/34
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/35
     position: Ethernet 0/35
-    label: Ethernet 0/35
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet 0/36
     position: Ethernet 0/36
-    label: Ethernet 0/36
+    label: qsfp

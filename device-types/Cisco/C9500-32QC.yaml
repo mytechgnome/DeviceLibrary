@@ -28,194 +28,194 @@ module-bays:
     name: PS-1
     position: '1'
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/1
     position: FortyGigabitEthernet1/0/1
-    label: FortyGigabitEthernet1/0/1
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/2
     position: FortyGigabitEthernet1/0/2
-    label: FortyGigabitEthernet1/0/2
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/3
     position: FortyGigabitEthernet1/0/3
-    label: FortyGigabitEthernet1/0/3
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/4
     position: FortyGigabitEthernet1/0/4
-    label: FortyGigabitEthernet1/0/4
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/5
     position: FortyGigabitEthernet1/0/5
-    label: FortyGigabitEthernet1/0/5
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/6
     position: FortyGigabitEthernet1/0/6
-    label: FortyGigabitEthernet1/0/6
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/7
     position: FortyGigabitEthernet1/0/7
-    label: FortyGigabitEthernet1/0/7
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/8
     position: FortyGigabitEthernet1/0/8
-    label: FortyGigabitEthernet1/0/8
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/9
     position: FortyGigabitEthernet1/0/9
-    label: FortyGigabitEthernet1/0/9
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/10
     position: FortyGigabitEthernet1/0/10
-    label: FortyGigabitEthernet1/0/10
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/11
     position: FortyGigabitEthernet1/0/11
-    label: FortyGigabitEthernet1/0/11
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/12
     position: FortyGigabitEthernet1/0/12
-    label: FortyGigabitEthernet1/0/12
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/13
     position: FortyGigabitEthernet1/0/13
-    label: FortyGigabitEthernet1/0/13
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/14
     position: FortyGigabitEthernet1/0/14
-    label: FortyGigabitEthernet1/0/14
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/15
     position: FortyGigabitEthernet1/0/15
-    label: FortyGigabitEthernet1/0/15
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/16
     position: FortyGigabitEthernet1/0/16
-    label: FortyGigabitEthernet1/0/16
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/17
     position: FortyGigabitEthernet1/0/17
-    label: FortyGigabitEthernet1/0/17
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/18
     position: FortyGigabitEthernet1/0/18
-    label: FortyGigabitEthernet1/0/18
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/19
     position: FortyGigabitEthernet1/0/19
-    label: FortyGigabitEthernet1/0/19
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/20
     position: FortyGigabitEthernet1/0/20
-    label: FortyGigabitEthernet1/0/20
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/21
     position: FortyGigabitEthernet1/0/21
-    label: FortyGigabitEthernet1/0/21
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/22
     position: FortyGigabitEthernet1/0/22
-    label: FortyGigabitEthernet1/0/22
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/23
     position: FortyGigabitEthernet1/0/23
-    label: FortyGigabitEthernet1/0/23
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/24
     position: FortyGigabitEthernet1/0/24
-    label: FortyGigabitEthernet1/0/24
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/25
     position: FortyGigabitEthernet1/0/25
-    label: FortyGigabitEthernet1/0/25
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/26
     position: FortyGigabitEthernet1/0/26
-    label: FortyGigabitEthernet1/0/26
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/27
     position: FortyGigabitEthernet1/0/27
-    label: FortyGigabitEthernet1/0/27
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/28
     position: FortyGigabitEthernet1/0/28
-    label: FortyGigabitEthernet1/0/28
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/29
     position: FortyGigabitEthernet1/0/29
-    label: FortyGigabitEthernet1/0/29
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/30
     position: FortyGigabitEthernet1/0/30
-    label: FortyGigabitEthernet1/0/30
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/31
     position: FortyGigabitEthernet1/0/31
-    label: FortyGigabitEthernet1/0/31
+    label: qsfp
   -
-    name: QSFP
+    name: FortyGigabitEthernet1/0/32
     position: FortyGigabitEthernet1/0/32
-    label: FortyGigabitEthernet1/0/32
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/33
     position: HundredGigE1/0/33
-    label: HundredGigE1/0/33
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/34
     position: HundredGigE1/0/34
-    label: HundredGigE1/0/34
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/35
     position: HundredGigE1/0/35
-    label: HundredGigE1/0/35
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/36
     position: HundredGigE1/0/36
-    label: HundredGigE1/0/36
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/37
     position: HundredGigE1/0/37
-    label: HundredGigE1/0/37
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/38
     position: HundredGigE1/0/38
-    label: HundredGigE1/0/38
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/39
     position: HundredGigE1/0/39
-    label: HundredGigE1/0/39
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/40
     position: HundredGigE1/0/40
-    label: HundredGigE1/0/40
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/41
     position: HundredGigE1/0/41
-    label: HundredGigE1/0/41
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/42
     position: HundredGigE1/0/42
-    label: HundredGigE1/0/42
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/43
     position: HundredGigE1/0/43
-    label: HundredGigE1/0/43
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/44
     position: HundredGigE1/0/44
-    label: HundredGigE1/0/44
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/45
     position: HundredGigE1/0/45
-    label: HundredGigE1/0/45
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/46
     position: HundredGigE1/0/46
-    label: HundredGigE1/0/46
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/47
     position: HundredGigE1/0/47
-    label: HundredGigE1/0/47
+    label: qsfp
   -
-    name: QSFP
+    name: HundredGigE1/0/48
     position: HundredGigE1/0/48
-    label: HundredGigE1/0/48
+    label: qsfp

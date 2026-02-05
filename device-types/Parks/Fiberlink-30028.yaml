@@ -50,42 +50,42 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: gpon1/1
     position: gpon1/1
-    label: gpon1/1
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/2
     position: gpon1/2
-    label: gpon1/2
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/3
     position: gpon1/3
-    label: gpon1/3
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/4
     position: gpon1/4
-    label: gpon1/4
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/5
     position: gpon1/5
-    label: gpon1/5
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/6
     position: gpon1/6
-    label: gpon1/6
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/7
     position: gpon1/7
-    label: gpon1/7
+    label: sfp+
   -
-    name: SFP
+    name: gpon1/8
     position: gpon1/8
-    label: gpon1/8
+    label: sfp+
   -
-    name: SFP
+    name: 10giga-ethernet0/0
     position: 10giga-ethernet0/0
-    label: 10giga-ethernet0/0
+    label: sfp+
   -
-    name: SFP
+    name: 10giga-ethernet0/1
     position: 10giga-ethernet0/1
-    label: 10giga-ethernet0/1
+    label: sfp+

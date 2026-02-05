@@ -30,54 +30,54 @@ power-outlets:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp
   -
-    name: SFP
+    name: sfp2
     position: sfp2
-    label: sfp2
+    label: sfp
   -
-    name: SFP
+    name: sfp3
     position: sfp3
-    label: sfp3
+    label: sfp
   -
-    name: SFP
+    name: sfp4
     position: sfp4
-    label: sfp4
+    label: sfp
   -
-    name: SFP
+    name: sfp5
     position: sfp5
-    label: sfp5
+    label: sfp
   -
-    name: SFP
+    name: sfp6
     position: sfp6
-    label: sfp6
+    label: sfp
   -
-    name: SFP
+    name: sfp7
     position: sfp7
-    label: sfp7
+    label: sfp
   -
-    name: SFP
+    name: sfp8
     position: sfp8
-    label: sfp8
+    label: sfp
   -
-    name: SFP
+    name: sfp9
     position: sfp9
-    label: sfp9
+    label: sfp
   -
-    name: SFP
+    name: sfp10
     position: sfp10
-    label: sfp10
+    label: sfp
   -
-    name: SFP
+    name: sfp11
     position: sfp11
-    label: sfp11
+    label: sfp
   -
-    name: SFP
+    name: sfp12
     position: sfp12
-    label: sfp12
+    label: sfp
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+

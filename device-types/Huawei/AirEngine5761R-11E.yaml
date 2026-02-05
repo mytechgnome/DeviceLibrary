@@ -30,6 +30,6 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: GE1
     position: GE1
-    label: GE1
+    label: sfp

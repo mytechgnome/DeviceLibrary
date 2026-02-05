@@ -152,18 +152,18 @@ module-bays:
     name: PSU Slot 2
     position: '2'
   -
-    name: SFP
+    name: Ethernet25
     position: Ethernet25
-    label: Ethernet25
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet26
     position: Ethernet26
-    label: Ethernet26
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet27
     position: Ethernet27
-    label: Ethernet27
+    label: sfp+
   -
-    name: SFP
+    name: Ethernet28
     position: Ethernet28
-    label: Ethernet28
+    label: sfp+

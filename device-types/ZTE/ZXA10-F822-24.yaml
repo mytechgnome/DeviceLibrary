@@ -90,6 +90,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: gei_0/3/1
     position: gei_0/3/1
-    label: gei_0/3/1
+    label: sfp

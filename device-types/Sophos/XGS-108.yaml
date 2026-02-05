@@ -47,6 +47,6 @@ power-ports:
     allocated_draw: 22
 module-bays:
   -
-    name: SFP
+    name: PortF1
     position: PortF1
-    label: PortF1
+    label: sfp

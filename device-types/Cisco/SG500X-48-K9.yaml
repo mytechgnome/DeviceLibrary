@@ -264,18 +264,18 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet1/1
     position: TenGigabitEthernet1/1
-    label: TenGigabitEthernet1/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/2
     position: TenGigabitEthernet1/2
-    label: TenGigabitEthernet1/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/3
     position: TenGigabitEthernet1/3
-    label: TenGigabitEthernet1/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/4
     position: TenGigabitEthernet1/4
-    label: TenGigabitEthernet1/4
+    label: sfp+

@@ -3,10 +3,13 @@ manufacturer: Huawei
 model: XC383
 part_number: XC383-BC53ETHG-OCP
 comments: OCP3.0 Mellanox Ethernet Card-10GE Dual Port SFP+ PCIE 3.0 X8
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2

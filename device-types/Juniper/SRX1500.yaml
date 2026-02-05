@@ -63,34 +63,34 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: SFP
+    name: ge-0/0/12
     position: ge-0/0/12
-    label: ge-0/0/12
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/13
     position: ge-0/0/13
-    label: ge-0/0/13
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/14
     position: ge-0/0/14
-    label: ge-0/0/14
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/15
     position: ge-0/0/15
-    label: ge-0/0/15
+    label: sfp
   -
-    name: SFP
+    name: xe-0/0/16
     position: xe-0/0/16
-    label: xe-0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/17
     position: xe-0/0/17
-    label: xe-0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/18
     position: xe-0/0/18
-    label: xe-0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: xe-0/0/19
     position: xe-0/0/19
-    label: xe-0/0/19
+    label: sfp+

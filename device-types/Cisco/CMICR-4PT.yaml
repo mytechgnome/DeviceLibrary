@@ -48,6 +48,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/0/7
     position: GigabitEthernet1/0/7
-    label: GigabitEthernet1/0/7
+    label: sfp

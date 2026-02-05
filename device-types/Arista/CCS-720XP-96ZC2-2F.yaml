@@ -21,29 +21,29 @@ module-bays:
     name: PS2
     position: '1'
   -
-    name: SFP
+    name: Ethernet97
     position: Ethernet97
-    label: Ethernet97
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet98
     position: Ethernet98
-    label: Ethernet98
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet99
     position: Ethernet99
-    label: Ethernet99
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet100
     position: Ethernet100
-    label: Ethernet100
+    label: sfp28
   -
-    name: QSFP
+    name: Ethernet101/1
     position: Ethernet101/1
-    label: Ethernet101/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet102/1
     position: Ethernet102/1
-    label: Ethernet102/1
+    label: qsfp
 front_image: true
 rear_image: false
 interfaces:

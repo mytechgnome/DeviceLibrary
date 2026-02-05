@@ -141,18 +141,18 @@ power-ports:
     maximum_draw: 445
 module-bays:
   -
-    name: SFP
+    name: tengigabitethernet1/0/1
     position: tengigabitethernet1/0/1
-    label: tengigabitethernet1/0/1
+    label: sfp+
   -
-    name: SFP
+    name: tengigabitethernet1/0/2
     position: tengigabitethernet1/0/2
-    label: tengigabitethernet1/0/2
+    label: sfp+
   -
-    name: SFP
+    name: tengigabitethernet1/0/3
     position: tengigabitethernet1/0/3
-    label: tengigabitethernet1/0/3
+    label: sfp+
   -
-    name: SFP
+    name: tengigabitethernet1/0/4
     position: tengigabitethernet1/0/4
-    label: tengigabitethernet1/0/4
+    label: sfp+

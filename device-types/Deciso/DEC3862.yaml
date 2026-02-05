@@ -38,10 +38,10 @@ power-ports:
     allocated_draw: 45
 module-bays:
   -
-    name: SFP
+    name: ax0
     position: ax0
-    label: ax0
+    label: sfp+
   -
-    name: SFP
+    name: ax1
     position: ax1
-    label: ax1
+    label: sfp+

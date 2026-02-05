@@ -228,12 +228,12 @@ console-server-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: eth1
     position: eth1
-    label: eth1
+    label: sfp
     description: 1G SFP and RJ-45 combo uplink
   -
-    name: SFP
+    name: eth2
     position: eth2
-    label: eth2
+    label: sfp
     description: 1G SFP and RJ-45 combo uplink

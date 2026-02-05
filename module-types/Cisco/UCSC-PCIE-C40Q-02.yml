@@ -3,10 +3,13 @@ manufacturer: Cisco
 model: UCSC-PCIE-C40Q-02
 part_number: UCSC-PCIE-C40Q-02
 comments: (Cisco VIC 1285 Dual Port 40 Gb QSFP CNA)[https://www.cdw.com/product/cisco-ucs-virtual-interface-card-1285-network-adapter-pcie-40-gigabit/3418042]
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 40gbase-x-qsfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2

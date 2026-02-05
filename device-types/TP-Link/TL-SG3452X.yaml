@@ -261,18 +261,18 @@ interfaces:
     label: '48'
 module-bays:
   -
-    name: SFP
+    name: ten-gigabitEthernet 1/0/49
     position: ten-gigabitEthernet 1/0/49
-    label: ten-gigabitEthernet 1/0/49
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabitEthernet 1/0/50
     position: ten-gigabitEthernet 1/0/50
-    label: ten-gigabitEthernet 1/0/50
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabitEthernet 1/0/51
     position: ten-gigabitEthernet 1/0/51
-    label: ten-gigabitEthernet 1/0/51
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabitEthernet 1/0/52
     position: ten-gigabitEthernet 1/0/52
-    label: ten-gigabitEthernet 1/0/52
+    label: sfp+

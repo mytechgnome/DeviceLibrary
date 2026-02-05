@@ -3,10 +3,13 @@ manufacturer: Ciena
 model: 8110 8114 2x400G QSFPDD MACSec
 part_number: 170-0339-901
 description: 8110/8114, MODULE, (2) QSFP-DD MACsec FRU supporting up to 800 G
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: '{module}/1'
+    position: '{module}/1'
+    label: '{module}/1'
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: '{module}/2'
+    position: '{module}/2'
+    label: '{module}/2'

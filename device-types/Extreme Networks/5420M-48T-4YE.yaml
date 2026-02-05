@@ -16,30 +16,30 @@ module-bays:
     name: PS#2
     position: '2'
   -
-    name: SFP
+    name: '49'
     position: '49'
-    label: '49'
+    label: sfp28
   -
-    name: SFP
+    name: '50'
     position: '50'
-    label: '50'
+    label: sfp28
   -
-    name: SFP
+    name: '51'
     position: '51'
-    label: '51'
+    label: sfp28
   -
-    name: SFP
+    name: '52'
     position: '52'
-    label: '52'
+    label: sfp28
   -
-    name: SFP
+    name: U1
     position: U1
-    label: U1
+    label: sfp
     description: Can be used for stacking or 2x 10Gb ethernet
   -
-    name: SFP
+    name: U2
     position: U2
-    label: U2
+    label: sfp
     description: Can be used for stacking or 2x 10Gb ethernet
 console-ports:
   -

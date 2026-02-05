@@ -24,226 +24,226 @@ module-bays:
     name: PSU 2
     position: '2'
   -
-    name: SFP
+    name: XGigabitEthernet0/0/0
     position: XGigabitEthernet0/0/0
-    label: XGigabitEthernet0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/1
     position: XGigabitEthernet0/0/1
-    label: XGigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/2
     position: XGigabitEthernet0/0/2
-    label: XGigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/3
     position: XGigabitEthernet0/0/3
-    label: XGigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/4
     position: XGigabitEthernet0/0/4
-    label: XGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/5
     position: XGigabitEthernet0/0/5
-    label: XGigabitEthernet0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/6
     position: XGigabitEthernet0/0/6
-    label: XGigabitEthernet0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/7
     position: XGigabitEthernet0/0/7
-    label: XGigabitEthernet0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/8
     position: XGigabitEthernet0/0/8
-    label: XGigabitEthernet0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/9
     position: XGigabitEthernet0/0/9
-    label: XGigabitEthernet0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/10
     position: XGigabitEthernet0/0/10
-    label: XGigabitEthernet0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/11
     position: XGigabitEthernet0/0/11
-    label: XGigabitEthernet0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/12
     position: XGigabitEthernet0/0/12
-    label: XGigabitEthernet0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/13
     position: XGigabitEthernet0/0/13
-    label: XGigabitEthernet0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/14
     position: XGigabitEthernet0/0/14
-    label: XGigabitEthernet0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/15
     position: XGigabitEthernet0/0/15
-    label: XGigabitEthernet0/0/15
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/16
     position: XGigabitEthernet0/0/16
-    label: XGigabitEthernet0/0/16
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/17
     position: XGigabitEthernet0/0/17
-    label: XGigabitEthernet0/0/17
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/18
     position: XGigabitEthernet0/0/18
-    label: XGigabitEthernet0/0/18
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/19
     position: XGigabitEthernet0/0/19
-    label: XGigabitEthernet0/0/19
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/20
     position: XGigabitEthernet0/0/20
-    label: XGigabitEthernet0/0/20
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/21
     position: XGigabitEthernet0/0/21
-    label: XGigabitEthernet0/0/21
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/22
     position: XGigabitEthernet0/0/22
-    label: XGigabitEthernet0/0/22
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/23
     position: XGigabitEthernet0/0/23
-    label: XGigabitEthernet0/0/23
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/24
     position: XGigabitEthernet0/0/24
-    label: XGigabitEthernet0/0/24
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/25
     position: XGigabitEthernet0/0/25
-    label: XGigabitEthernet0/0/25
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/26
     position: XGigabitEthernet0/0/26
-    label: XGigabitEthernet0/0/26
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/27
     position: XGigabitEthernet0/0/27
-    label: XGigabitEthernet0/0/27
+    label: sfp+
   -
-    name: SFP
+    name: 25GE0/0/28
     position: 25GE0/0/28
-    label: 25GE0/0/28
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/29
     position: 25GE0/0/29
-    label: 25GE0/0/29
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/30
     position: 25GE0/0/30
-    label: 25GE0/0/30
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/31
     position: 25GE0/0/31
-    label: 25GE0/0/31
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/32
     position: 25GE0/0/32
-    label: 25GE0/0/32
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/33
     position: 25GE0/0/33
-    label: 25GE0/0/33
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/34
     position: 25GE0/0/34
-    label: 25GE0/0/34
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/35
     position: 25GE0/0/35
-    label: 25GE0/0/35
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/36
     position: 25GE0/0/36
-    label: 25GE0/0/36
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/37
     position: 25GE0/0/37
-    label: 25GE0/0/37
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/38
     position: 25GE0/0/38
-    label: 25GE0/0/38
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/39
     position: 25GE0/0/39
-    label: 25GE0/0/39
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/40
     position: 25GE0/0/40
-    label: 25GE0/0/40
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/41
     position: 25GE0/0/41
-    label: 25GE0/0/41
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/42
     position: 25GE0/0/42
-    label: 25GE0/0/42
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/43
     position: 25GE0/0/43
-    label: 25GE0/0/43
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/44
     position: 25GE0/0/44
-    label: 25GE0/0/44
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/45
     position: 25GE0/0/45
-    label: 25GE0/0/45
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/46
     position: 25GE0/0/46
-    label: 25GE0/0/46
+    label: sfp28
   -
-    name: SFP
+    name: 25GE0/0/47
     position: 25GE0/0/47
-    label: 25GE0/0/47
+    label: sfp28
   -
-    name: QSFP
+    name: 100GE0/0/48
     position: 100GE0/0/48
-    label: 100GE0/0/48
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/49
     position: 100GE0/0/49
-    label: 100GE0/0/49
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/50
     position: 100GE0/0/50
-    label: 100GE0/0/50
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/51
     position: 100GE0/0/51
-    label: 100GE0/0/51
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/52
     position: 100GE0/0/52
-    label: 100GE0/0/52
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/53
     position: 100GE0/0/53
-    label: 100GE0/0/53
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/54
     position: 100GE0/0/54
-    label: 100GE0/0/54
+    label: qsfp
   -
-    name: QSFP
+    name: 100GE0/0/55
     position: 100GE0/0/55
-    label: 100GE0/0/55
+    label: qsfp

@@ -3,64 +3,85 @@ manufacturer: Cisco
 model: A9K-MPA-20X10GE
 part_number: A9K-MPA-20X10GE
 description: ASR 9000 20-port 10GE Modular Port Adapter
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/0
+    position: TenGigE0/{module}/{module}/0
+    label: TenGigE0/{module}/{module}/0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/1
+    position: TenGigE0/{module}/{module}/1
+    label: TenGigE0/{module}/{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/2
+    position: TenGigE0/{module}/{module}/2
+    label: TenGigE0/{module}/{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/3
+    position: TenGigE0/{module}/{module}/3
+    label: TenGigE0/{module}/{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/4
+    position: TenGigE0/{module}/{module}/4
+    label: TenGigE0/{module}/{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/5
+    position: TenGigE0/{module}/{module}/5
+    label: TenGigE0/{module}/{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/6
+    position: TenGigE0/{module}/{module}/6
+    label: TenGigE0/{module}/{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/7
+    position: TenGigE0/{module}/{module}/7
+    label: TenGigE0/{module}/{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/8
+    position: TenGigE0/{module}/{module}/8
+    label: TenGigE0/{module}/{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/9
+    position: TenGigE0/{module}/{module}/9
+    label: TenGigE0/{module}/{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/10
+    position: TenGigE0/{module}/{module}/10
+    label: TenGigE0/{module}/{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/11
+    position: TenGigE0/{module}/{module}/11
+    label: TenGigE0/{module}/{module}/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/12
+    position: TenGigE0/{module}/{module}/12
+    label: TenGigE0/{module}/{module}/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/13
+    position: TenGigE0/{module}/{module}/13
+    label: TenGigE0/{module}/{module}/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/14
+    position: TenGigE0/{module}/{module}/14
+    label: TenGigE0/{module}/{module}/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/15
+    position: TenGigE0/{module}/{module}/15
+    label: TenGigE0/{module}/{module}/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/16
+    position: TenGigE0/{module}/{module}/16
+    label: TenGigE0/{module}/{module}/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/17
+    position: TenGigE0/{module}/{module}/17
+    label: TenGigE0/{module}/{module}/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/18
+    position: TenGigE0/{module}/{module}/18
+    label: TenGigE0/{module}/{module}/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: TenGigE0/{module}/{module}/19
+    position: TenGigE0/{module}/{module}/19
+    label: TenGigE0/{module}/{module}/19

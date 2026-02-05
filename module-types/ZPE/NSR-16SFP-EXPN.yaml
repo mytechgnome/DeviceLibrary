@@ -4,68 +4,69 @@ model: NSR-16SFP-EXPN
 part_number: NSR-16SFP-EXPN
 description: NSR 16-Port 1GbE SFP Expansion Card
 comments: '[ZPE Nodegrid Net SR Data Sheet](https://go.zpesystems.com/rs/004-BTR-463/images/Datasheet-Nodegrid-Net-SR.pdf)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    label: '1'
-    type: 1000base-x-sfp
+    name: netS{module}-1
+    position: netS{module}-1
+    label: netS{module}-1
   -
-    name: '{module}'
-    label: '2'
-    type: 1000base-x-sfp
+    name: netS{module}-2
+    position: netS{module}-2
+    label: netS{module}-2
   -
-    name: '{module}'
-    label: '3'
-    type: 1000base-x-sfp
+    name: netS{module}-3
+    position: netS{module}-3
+    label: netS{module}-3
   -
-    name: '{module}'
-    label: '4'
-    type: 1000base-x-sfp
+    name: netS{module}-4
+    position: netS{module}-4
+    label: netS{module}-4
   -
-    name: '{module}'
-    label: '5'
-    type: 1000base-x-sfp
+    name: netS{module}-5
+    position: netS{module}-5
+    label: netS{module}-5
   -
-    name: '{module}'
-    label: '6'
-    type: 1000base-x-sfp
+    name: netS{module}-6
+    position: netS{module}-6
+    label: netS{module}-6
   -
-    name: '{module}'
-    label: '7'
-    type: 1000base-x-sfp
+    name: netS{module}-7
+    position: netS{module}-7
+    label: netS{module}-7
   -
-    name: '{module}'
-    label: '8'
-    type: 1000base-x-sfp
+    name: netS{module}-8
+    position: netS{module}-8
+    label: netS{module}-8
   -
-    name: '{module}'
-    label: '9'
-    type: 1000base-x-sfp
+    name: netS{module}-9
+    position: netS{module}-9
+    label: netS{module}-9
   -
-    name: '{module}'
-    label: '10'
-    type: 1000base-x-sfp
+    name: netS{module}-10
+    position: netS{module}-10
+    label: netS{module}-10
   -
-    name: '{module}'
-    label: '11'
-    type: 1000base-x-sfp
+    name: netS{module}-11
+    position: netS{module}-11
+    label: netS{module}-11
   -
-    name: '{module}'
-    label: '12'
-    type: 1000base-x-sfp
+    name: netS{module}-12
+    position: netS{module}-12
+    label: netS{module}-12
   -
-    name: '{module}'
-    label: '13'
-    type: 1000base-x-sfp
+    name: netS{module}-13
+    position: netS{module}-13
+    label: netS{module}-13
   -
-    name: '{module}'
-    label: '14'
-    type: 1000base-x-sfp
+    name: netS{module}-14
+    position: netS{module}-14
+    label: netS{module}-14
   -
-    name: '{module}'
-    label: '15'
-    type: 1000base-x-sfp
+    name: netS{module}-15
+    position: netS{module}-15
+    label: netS{module}-15
   -
-    name: '{module}'
-    label: '16'
-    type: 1000base-x-sfp
+    name: netS{module}-16
+    position: netS{module}-16
+    label: netS{module}-16

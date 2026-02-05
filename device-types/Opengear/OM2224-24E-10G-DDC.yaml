@@ -207,10 +207,10 @@ power-ports:
     allocated_draw: 30
 module-bays:
   -
-    name: SFP
+    name: eth0
     position: eth0
-    label: eth0
+    label: sfp+
   -
-    name: SFP
+    name: eth1
     position: eth1
-    label: eth1
+    label: sfp+

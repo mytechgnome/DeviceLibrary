@@ -38,50 +38,50 @@ module-bays:
     name: Fan1
     description: Hot-swappable fan tray
   -
-    name: QSFP
+    name: Ethernet1/1
     position: Ethernet1/1
-    label: Ethernet1/1
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/2
     position: Ethernet1/2
-    label: Ethernet1/2
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/3
     position: Ethernet1/3
-    label: Ethernet1/3
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/4
     position: Ethernet1/4
-    label: Ethernet1/4
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/5
     position: Ethernet1/5
-    label: Ethernet1/5
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/6
     position: Ethernet1/6
-    label: Ethernet1/6
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/7
     position: Ethernet1/7
-    label: Ethernet1/7
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/8
     position: Ethernet1/8
-    label: Ethernet1/8
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/9
     position: Ethernet1/9
-    label: Ethernet1/9
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/10
     position: Ethernet1/10
-    label: Ethernet1/10
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/11
     position: Ethernet1/11
-    label: Ethernet1/11
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/12
     position: Ethernet1/12
-    label: Ethernet1/12
+    label: qsfp

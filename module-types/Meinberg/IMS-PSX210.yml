@@ -2,10 +2,13 @@
 manufacturer: Meinberg
 description: 2x10G SFP Interface PTP Master Clock
 model: IMS-PSX210
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: LAN0
+    position: LAN0
+    label: LAN0
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: LAN1
+    position: LAN1
+    label: LAN1

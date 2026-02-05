@@ -11,26 +11,26 @@ power-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp
   -
-    name: SFP
+    name: sfp2
     position: sfp2
-    label: sfp2
+    label: sfp
   -
-    name: SFP
+    name: sfp3
     position: sfp3
-    label: sfp3
+    label: sfp
   -
-    name: SFP
+    name: sfp4
     position: sfp4
-    label: sfp4
+    label: sfp
   -
-    name: SFP
+    name: sfp5
     position: sfp5
-    label: sfp5
+    label: sfp
   -
-    name: SFP
+    name: combo1
     position: combo1
-    label: combo1
+    label: sfp

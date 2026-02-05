@@ -32,10 +32,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: eth4
     position: eth4
-    label: eth4
+    label: sfp+
   -
-    name: SFP
+    name: eth5
     position: eth5
-    label: eth5
+    label: sfp+

@@ -21,90 +21,90 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: swp1
     position: swp1
-    label: swp1
+    label: sfp28
   -
-    name: SFP
+    name: swp2
     position: swp2
-    label: swp2
+    label: sfp28
   -
-    name: SFP
+    name: swp3
     position: swp3
-    label: swp3
+    label: sfp28
   -
-    name: SFP
+    name: swp4
     position: swp4
-    label: swp4
+    label: sfp28
   -
-    name: SFP
+    name: swp5
     position: swp5
-    label: swp5
+    label: sfp28
   -
-    name: SFP
+    name: swp6
     position: swp6
-    label: swp6
+    label: sfp28
   -
-    name: SFP
+    name: swp7
     position: swp7
-    label: swp7
+    label: sfp28
   -
-    name: SFP
+    name: swp8
     position: swp8
-    label: swp8
+    label: sfp28
   -
-    name: SFP
+    name: swp9
     position: swp9
-    label: swp9
+    label: sfp28
   -
-    name: SFP
+    name: swp10
     position: swp10
-    label: swp10
+    label: sfp28
   -
-    name: SFP
+    name: swp11
     position: swp11
-    label: swp11
+    label: sfp28
   -
-    name: SFP
+    name: swp12
     position: swp12
-    label: swp12
+    label: sfp28
   -
-    name: SFP
+    name: swp13
     position: swp13
-    label: swp13
+    label: sfp28
   -
-    name: SFP
+    name: swp14
     position: swp14
-    label: swp14
+    label: sfp28
   -
-    name: SFP
+    name: swp15
     position: swp15
-    label: swp15
+    label: sfp28
   -
-    name: SFP
+    name: swp16
     position: swp16
-    label: swp16
+    label: sfp28
   -
-    name: SFP
+    name: swp17
     position: swp17
-    label: swp17
+    label: sfp28
   -
-    name: SFP
+    name: swp18
     position: swp18
-    label: swp18
+    label: sfp28
   -
-    name: QSFP
+    name: swp19
     position: swp19
-    label: swp19
+    label: qsfp
   -
-    name: QSFP
+    name: swp20
     position: swp20
-    label: swp20
+    label: qsfp
   -
-    name: QSFP
+    name: swp21
     position: swp21
-    label: swp21
+    label: qsfp
   -
-    name: QSFP
+    name: swp22
     position: swp22
-    label: swp22
+    label: qsfp

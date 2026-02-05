@@ -2,28 +2,37 @@
 manufacturer: ZTE
 model: 59-8XG-SF
 comments: 8-port 10GE optical interface Ethernet uplink card; fits into the dedicated expansion slot of a ZXR10 5950 Series.
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/1
+    position: xgei_1/{module}/1
+    label: xgei_1/{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/2
+    position: xgei_1/{module}/2
+    label: xgei_1/{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/3
+    position: xgei_1/{module}/3
+    label: xgei_1/{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/4
+    position: xgei_1/{module}/4
+    label: xgei_1/{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/5
+    position: xgei_1/{module}/5
+    label: xgei_1/{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/6
+    position: xgei_1/{module}/6
+    label: xgei_1/{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/7
+    position: xgei_1/{module}/7
+    label: xgei_1/{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: xgei_1/{module}/8
+    position: xgei_1/{module}/8
+    label: xgei_1/{module}/8

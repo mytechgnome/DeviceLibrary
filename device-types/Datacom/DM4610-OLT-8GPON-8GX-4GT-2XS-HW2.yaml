@@ -67,42 +67,42 @@ module-bays:
     label: '2'
     position: '2'
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/1
     position: gigabit-ethernet-1/1/1
-    label: gigabit-ethernet-1/1/1
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/2
     position: gigabit-ethernet-1/1/2
-    label: gigabit-ethernet-1/1/2
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/3
     position: gigabit-ethernet-1/1/3
-    label: gigabit-ethernet-1/1/3
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/4
     position: gigabit-ethernet-1/1/4
-    label: gigabit-ethernet-1/1/4
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/5
     position: gigabit-ethernet-1/1/5
-    label: gigabit-ethernet-1/1/5
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/6
     position: gigabit-ethernet-1/1/6
-    label: gigabit-ethernet-1/1/6
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/7
     position: gigabit-ethernet-1/1/7
-    label: gigabit-ethernet-1/1/7
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/8
     position: gigabit-ethernet-1/1/8
-    label: gigabit-ethernet-1/1/8
+    label: sfp
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/1
     position: ten-gigabit-ethernet-1/1/1
-    label: ten-gigabit-ethernet-1/1/1
+    label: sfp+
   -
-    name: SFP
+    name: ten-gigabit-ethernet-1/1/2
     position: ten-gigabit-ethernet-1/1/2
-    label: ten-gigabit-ethernet-1/1/2
+    label: sfp+

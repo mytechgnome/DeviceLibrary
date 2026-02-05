@@ -20,229 +20,229 @@ module-bays:
     name: Power2
     position: '2'
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp28
   -
-    name: SFP
+    name: sfp2
     position: sfp2
-    label: sfp2
+    label: sfp28
   -
-    name: SFP
+    name: sfp3
     position: sfp3
-    label: sfp3
+    label: sfp28
   -
-    name: SFP
+    name: sfp4
     position: sfp4
-    label: sfp4
+    label: sfp28
   -
-    name: SFP
+    name: sfp5
     position: sfp5
-    label: sfp5
+    label: sfp28
   -
-    name: SFP
+    name: sfp6
     position: sfp6
-    label: sfp6
+    label: sfp28
   -
-    name: SFP
+    name: sfp7
     position: sfp7
-    label: sfp7
+    label: sfp28
   -
-    name: SFP
+    name: sfp8
     position: sfp8
-    label: sfp8
+    label: sfp28
   -
-    name: SFP
+    name: sfp9
     position: sfp9
-    label: sfp9
+    label: sfp28
   -
-    name: SFP
+    name: sfp10
     position: sfp10
-    label: sfp10
+    label: sfp28
   -
-    name: SFP
+    name: sfp11
     position: sfp11
-    label: sfp11
+    label: sfp28
   -
-    name: SFP
+    name: sfp12
     position: sfp12
-    label: sfp12
+    label: sfp28
   -
-    name: SFP
+    name: sfp13
     position: sfp13
-    label: sfp13
+    label: sfp28
   -
-    name: SFP
+    name: sfp14
     position: sfp14
-    label: sfp14
+    label: sfp28
   -
-    name: SFP
+    name: sfp15
     position: sfp15
-    label: sfp15
+    label: sfp28
   -
-    name: SFP
+    name: sfp16
     position: sfp16
-    label: sfp16
+    label: sfp28
   -
-    name: SFP
+    name: sfp17
     position: sfp17
-    label: sfp17
+    label: sfp28
   -
-    name: SFP
+    name: sfp18
     position: sfp18
-    label: sfp18
+    label: sfp28
   -
-    name: SFP
+    name: sfp19
     position: sfp19
-    label: sfp19
+    label: sfp28
   -
-    name: SFP
+    name: sfp20
     position: sfp20
-    label: sfp20
+    label: sfp28
   -
-    name: SFP
+    name: sfp21
     position: sfp21
-    label: sfp21
+    label: sfp28
   -
-    name: SFP
+    name: sfp22
     position: sfp22
-    label: sfp22
+    label: sfp28
   -
-    name: SFP
+    name: sfp23
     position: sfp23
-    label: sfp23
+    label: sfp28
   -
-    name: SFP
+    name: sfp24
     position: sfp24
-    label: sfp24
+    label: sfp28
   -
-    name: SFP
+    name: sfp25
     position: sfp25
-    label: sfp25
+    label: sfp28
   -
-    name: SFP
+    name: sfp26
     position: sfp26
-    label: sfp26
+    label: sfp28
   -
-    name: SFP
+    name: sfp27
     position: sfp27
-    label: sfp27
+    label: sfp28
   -
-    name: SFP
+    name: sfp28
     position: sfp28
     label: sfp28
   -
-    name: SFP
+    name: sfp29
     position: sfp29
-    label: sfp29
+    label: sfp28
   -
-    name: SFP
+    name: sfp30
     position: sfp30
-    label: sfp30
+    label: sfp28
   -
-    name: SFP
+    name: sfp31
     position: sfp31
-    label: sfp31
+    label: sfp28
   -
-    name: SFP
+    name: sfp32
     position: sfp32
-    label: sfp32
+    label: sfp28
   -
-    name: SFP
+    name: sfp33
     position: sfp33
-    label: sfp33
+    label: sfp28
   -
-    name: SFP
+    name: sfp34
     position: sfp34
-    label: sfp34
+    label: sfp28
   -
-    name: SFP
+    name: sfp35
     position: sfp35
-    label: sfp35
+    label: sfp28
   -
-    name: SFP
+    name: sfp36
     position: sfp36
-    label: sfp36
+    label: sfp28
   -
-    name: SFP
+    name: sfp37
     position: sfp37
-    label: sfp37
+    label: sfp28
   -
-    name: SFP
+    name: sfp38
     position: sfp38
-    label: sfp38
+    label: sfp28
   -
-    name: SFP
+    name: sfp39
     position: sfp39
-    label: sfp39
+    label: sfp28
   -
-    name: SFP
+    name: sfp40
     position: sfp40
-    label: sfp40
+    label: sfp28
   -
-    name: SFP
+    name: sfp41
     position: sfp41
-    label: sfp41
+    label: sfp28
   -
-    name: SFP
+    name: sfp42
     position: sfp42
-    label: sfp42
+    label: sfp28
   -
-    name: SFP
+    name: sfp43
     position: sfp43
-    label: sfp43
+    label: sfp28
   -
-    name: SFP
+    name: sfp44
     position: sfp44
-    label: sfp44
+    label: sfp28
   -
-    name: SFP
+    name: sfp45
     position: sfp45
-    label: sfp45
+    label: sfp28
   -
-    name: SFP
+    name: sfp46
     position: sfp46
-    label: sfp46
+    label: sfp28
   -
-    name: SFP
+    name: sfp47
     position: sfp47
-    label: sfp47
+    label: sfp28
   -
-    name: SFP
+    name: sfp48
     position: sfp48
-    label: sfp48
+    label: sfp28
   -
-    name: QSFP
+    name: qsfp49
     position: qsfp49
-    label: qsfp49
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp50
     position: qsfp50
-    label: qsfp50
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp51
     position: qsfp51
-    label: qsfp51
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp52
     position: qsfp52
-    label: qsfp52
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp53
     position: qsfp53
-    label: qsfp53
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp54
     position: qsfp54
-    label: qsfp54
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp55
     position: qsfp55
-    label: qsfp55
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp56
     position: qsfp56
-    label: qsfp56
+    label: qsfp
 interfaces:
   -
     name: '0'

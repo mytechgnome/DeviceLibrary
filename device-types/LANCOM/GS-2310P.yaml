@@ -47,10 +47,10 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: SFP
+    name: Port 9B
     position: Port 9B
-    label: Port 9B
+    label: sfp
   -
-    name: SFP
+    name: Port 10B
     position: Port 10B
-    label: Port 10B
+    label: sfp

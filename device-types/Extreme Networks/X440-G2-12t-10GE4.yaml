@@ -66,20 +66,20 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: '13'
     position: '13'
-    label: '13'
+    label: sfp+
   -
-    name: SFP
+    name: '14'
     position: '14'
-    label: '14'
+    label: sfp+
   -
-    name: SFP
+    name: '15'
     position: '15'
-    label: '15'
+    label: sfp+
     description: For stacking or as additional SFP+
   -
-    name: SFP
+    name: '16'
     position: '16'
-    label: '16'
+    label: sfp+
     description: For stacking or as additional SFP+

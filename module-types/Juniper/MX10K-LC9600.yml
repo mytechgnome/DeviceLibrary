@@ -35,76 +35,101 @@ comments: |
     - JNP10004-FTC3
     - JNP10004-FAN2
     - JNP10004-FTC2
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/0
+    position: et-{module}/0/0
+    label: et-{module}/0/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/1
+    position: et-{module}/0/1
+    label: et-{module}/0/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/2
+    position: et-{module}/0/2
+    label: et-{module}/0/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/0/3
+    position: et-{module}/0/3
+    label: et-{module}/0/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/1/0
+    position: et-{module}/1/0
+    label: et-{module}/1/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/1/1
+    position: et-{module}/1/1
+    label: et-{module}/1/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/1/2
+    position: et-{module}/1/2
+    label: et-{module}/1/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/1/3
+    position: et-{module}/1/3
+    label: et-{module}/1/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/2/0
+    position: et-{module}/2/0
+    label: et-{module}/2/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/2/1
+    position: et-{module}/2/1
+    label: et-{module}/2/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/2/2
+    position: et-{module}/2/2
+    label: et-{module}/2/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/2/3
+    position: et-{module}/2/3
+    label: et-{module}/2/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/3/0
+    position: et-{module}/3/0
+    label: et-{module}/3/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/3/1
+    position: et-{module}/3/1
+    label: et-{module}/3/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/3/2
+    position: et-{module}/3/2
+    label: et-{module}/3/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/3/3
+    position: et-{module}/3/3
+    label: et-{module}/3/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/4/0
+    position: et-{module}/4/0
+    label: et-{module}/4/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/4/1
+    position: et-{module}/4/1
+    label: et-{module}/4/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/4/2
+    position: et-{module}/4/2
+    label: et-{module}/4/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/4/3
+    position: et-{module}/4/3
+    label: et-{module}/4/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/5/0
+    position: et-{module}/5/0
+    label: et-{module}/5/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/5/1
+    position: et-{module}/5/1
+    label: et-{module}/5/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/5/2
+    position: et-{module}/5/2
+    label: et-{module}/5/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-{module}/5/3
+    position: et-{module}/5/3
+    label: et-{module}/5/3

@@ -25,274 +25,274 @@ power-ports:
     maximum_draw: 250
 module-bays:
   -
-    name: SFP
+    name: ethernet 1/1/1
     position: ethernet 1/1/1
-    label: ethernet 1/1/1
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/2
     position: ethernet 1/1/2
-    label: ethernet 1/1/2
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/3
     position: ethernet 1/1/3
-    label: ethernet 1/1/3
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/4
     position: ethernet 1/1/4
-    label: ethernet 1/1/4
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/5
     position: ethernet 1/1/5
-    label: ethernet 1/1/5
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/6
     position: ethernet 1/1/6
-    label: ethernet 1/1/6
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/7
     position: ethernet 1/1/7
-    label: ethernet 1/1/7
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/8
     position: ethernet 1/1/8
-    label: ethernet 1/1/8
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/9
     position: ethernet 1/1/9
-    label: ethernet 1/1/9
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/10
     position: ethernet 1/1/10
-    label: ethernet 1/1/10
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/11
     position: ethernet 1/1/11
-    label: ethernet 1/1/11
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/12
     position: ethernet 1/1/12
-    label: ethernet 1/1/12
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/13
     position: ethernet 1/1/13
-    label: ethernet 1/1/13
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/14
     position: ethernet 1/1/14
-    label: ethernet 1/1/14
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/15
     position: ethernet 1/1/15
-    label: ethernet 1/1/15
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/16
     position: ethernet 1/1/16
-    label: ethernet 1/1/16
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/17
     position: ethernet 1/1/17
-    label: ethernet 1/1/17
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/18
     position: ethernet 1/1/18
-    label: ethernet 1/1/18
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/19
     position: ethernet 1/1/19
-    label: ethernet 1/1/19
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/20
     position: ethernet 1/1/20
-    label: ethernet 1/1/20
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/21
     position: ethernet 1/1/21
-    label: ethernet 1/1/21
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/22
     position: ethernet 1/1/22
-    label: ethernet 1/1/22
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/23
     position: ethernet 1/1/23
-    label: ethernet 1/1/23
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/24
     position: ethernet 1/1/24
-    label: ethernet 1/1/24
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/25
     position: ethernet 1/1/25
-    label: ethernet 1/1/25
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/26
     position: ethernet 1/1/26
-    label: ethernet 1/1/26
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/27
     position: ethernet 1/1/27
-    label: ethernet 1/1/27
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/28
     position: ethernet 1/1/28
-    label: ethernet 1/1/28
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/29
     position: ethernet 1/1/29
-    label: ethernet 1/1/29
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/30
     position: ethernet 1/1/30
-    label: ethernet 1/1/30
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/31
     position: ethernet 1/1/31
-    label: ethernet 1/1/31
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/32
     position: ethernet 1/1/32
-    label: ethernet 1/1/32
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/33
     position: ethernet 1/1/33
-    label: ethernet 1/1/33
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/34
     position: ethernet 1/1/34
-    label: ethernet 1/1/34
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/35
     position: ethernet 1/1/35
-    label: ethernet 1/1/35
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/36
     position: ethernet 1/1/36
-    label: ethernet 1/1/36
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/37
     position: ethernet 1/1/37
-    label: ethernet 1/1/37
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/38
     position: ethernet 1/1/38
-    label: ethernet 1/1/38
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/39
     position: ethernet 1/1/39
-    label: ethernet 1/1/39
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/40
     position: ethernet 1/1/40
-    label: ethernet 1/1/40
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/41
     position: ethernet 1/1/41
-    label: ethernet 1/1/41
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/42
     position: ethernet 1/1/42
-    label: ethernet 1/1/42
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/43
     position: ethernet 1/1/43
-    label: ethernet 1/1/43
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/44
     position: ethernet 1/1/44
-    label: ethernet 1/1/44
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/45
     position: ethernet 1/1/45
-    label: ethernet 1/1/45
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/46
     position: ethernet 1/1/46
-    label: ethernet 1/1/46
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/47
     position: ethernet 1/1/47
-    label: ethernet 1/1/47
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/48
     position: ethernet 1/1/48
-    label: ethernet 1/1/48
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/49
     position: ethernet 1/1/49
-    label: ethernet 1/1/49
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/50
     position: ethernet 1/1/50
-    label: ethernet 1/1/50
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/51
     position: ethernet 1/1/51
-    label: ethernet 1/1/51
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/52
     position: ethernet 1/1/52
-    label: ethernet 1/1/52
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/53
     position: ethernet 1/1/53
-    label: ethernet 1/1/53
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/54
     position: ethernet 1/1/54
-    label: ethernet 1/1/54
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/55
     position: ethernet 1/1/55
-    label: ethernet 1/1/55
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/1/56
     position: ethernet 1/1/56
-    label: ethernet 1/1/56
+    label: sfp+
   -
-    name: QSFP
+    name: ethernet 1/2/1
     position: ethernet 1/2/1
-    label: ethernet 1/2/1
+    label: qsfp
   -
-    name: QSFP
+    name: ethernet 1/2/2
     position: ethernet 1/2/2
-    label: ethernet 1/2/2
+    label: qsfp
   -
-    name: QSFP
+    name: ethernet 1/2/3
     position: ethernet 1/2/3
-    label: ethernet 1/2/3
+    label: qsfp
   -
-    name: QSFP
+    name: ethernet 1/2/4
     position: ethernet 1/2/4
-    label: ethernet 1/2/4
+    label: qsfp
   -
-    name: SFP
+    name: ethernet 1/3/1
     position: ethernet 1/3/1
-    label: ethernet 1/3/1
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/2
     position: ethernet 1/3/2
-    label: ethernet 1/3/2
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/3
     position: ethernet 1/3/3
-    label: ethernet 1/3/3
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/4
     position: ethernet 1/3/4
-    label: ethernet 1/3/4
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/5
     position: ethernet 1/3/5
-    label: ethernet 1/3/5
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/6
     position: ethernet 1/3/6
-    label: ethernet 1/3/6
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/7
     position: ethernet 1/3/7
-    label: ethernet 1/3/7
+    label: sfp+
   -
-    name: SFP
+    name: ethernet 1/3/8
     position: ethernet 1/3/8
-    label: ethernet 1/3/8
+    label: sfp+

@@ -69,34 +69,34 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: SFP
+    name: ethernet1/13
     position: ethernet1/13
-    label: ethernet1/13
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/14
     position: ethernet1/14
-    label: ethernet1/14
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/15
     position: ethernet1/15
-    label: ethernet1/15
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/16
     position: ethernet1/16
-    label: ethernet1/16
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/17
     position: ethernet1/17
-    label: ethernet1/17
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/18
     position: ethernet1/18
-    label: ethernet1/18
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/19
     position: ethernet1/19
-    label: ethernet1/19
+    label: sfp
   -
-    name: SFP
+    name: ethernet1/20
     position: ethernet1/20
-    label: ethernet1/20
+    label: sfp

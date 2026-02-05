@@ -65,6 +65,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: port1.0.17
     position: port1.0.17
-    label: port1.0.17
+    label: sfp

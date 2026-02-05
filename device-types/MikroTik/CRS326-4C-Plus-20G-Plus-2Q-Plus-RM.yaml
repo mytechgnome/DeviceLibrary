@@ -101,26 +101,26 @@ power-ports:
     maximum_draw: 70
 module-bays:
   -
-    name: SFP
+    name: combo1
     position: combo1
-    label: combo1
+    label: sfp+
   -
-    name: SFP
+    name: combo2
     position: combo2
-    label: combo2
+    label: sfp+
   -
-    name: SFP
+    name: combo3
     position: combo3
-    label: combo3
+    label: sfp+
   -
-    name: SFP
+    name: combo4
     position: combo4
-    label: combo4
+    label: sfp+
   -
-    name: QSFP
+    name: qsfp-qsfpplus1
     position: qsfp-qsfpplus1
-    label: qsfp-qsfpplus1
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp-qsfpplus2
     position: qsfp-qsfpplus2
-    label: qsfp-qsfpplus2
+    label: qsfp

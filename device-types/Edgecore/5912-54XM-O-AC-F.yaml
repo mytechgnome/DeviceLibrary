@@ -25,218 +25,218 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP
+    name: xe1
     position: xe1
-    label: xe1
+    label: sfp+
   -
-    name: SFP
+    name: xe2
     position: xe2
-    label: xe2
+    label: sfp+
   -
-    name: SFP
+    name: xe3
     position: xe3
-    label: xe3
+    label: sfp+
   -
-    name: SFP
+    name: xe4
     position: xe4
-    label: xe4
+    label: sfp+
   -
-    name: SFP
+    name: xe5
     position: xe5
-    label: xe5
+    label: sfp+
   -
-    name: SFP
+    name: xe6
     position: xe6
-    label: xe6
+    label: sfp+
   -
-    name: SFP
+    name: xe7
     position: xe7
-    label: xe7
+    label: sfp+
   -
-    name: SFP
+    name: xe8
     position: xe8
-    label: xe8
+    label: sfp+
   -
-    name: SFP
+    name: xe9
     position: xe9
-    label: xe9
+    label: sfp+
   -
-    name: SFP
+    name: xe10
     position: xe10
-    label: xe10
+    label: sfp+
   -
-    name: SFP
+    name: xe11
     position: xe11
-    label: xe11
+    label: sfp+
   -
-    name: SFP
+    name: xe12
     position: xe12
-    label: xe12
+    label: sfp+
   -
-    name: SFP
+    name: xe13
     position: xe13
-    label: xe13
+    label: sfp+
   -
-    name: SFP
+    name: xe14
     position: xe14
-    label: xe14
+    label: sfp+
   -
-    name: SFP
+    name: xe15
     position: xe15
-    label: xe15
+    label: sfp+
   -
-    name: SFP
+    name: xe16
     position: xe16
-    label: xe16
+    label: sfp+
   -
-    name: SFP
+    name: xe17
     position: xe17
-    label: xe17
+    label: sfp+
   -
-    name: SFP
+    name: xe18
     position: xe18
-    label: xe18
+    label: sfp+
   -
-    name: SFP
+    name: xe19
     position: xe19
-    label: xe19
+    label: sfp+
   -
-    name: SFP
+    name: xe20
     position: xe20
-    label: xe20
+    label: sfp+
   -
-    name: SFP
+    name: xe21
     position: xe21
-    label: xe21
+    label: sfp+
   -
-    name: SFP
+    name: xe22
     position: xe22
-    label: xe22
+    label: sfp+
   -
-    name: SFP
+    name: xe23
     position: xe23
-    label: xe23
+    label: sfp+
   -
-    name: SFP
+    name: xe24
     position: xe24
-    label: xe24
+    label: sfp+
   -
-    name: SFP
+    name: xe25
     position: xe25
-    label: xe25
+    label: sfp+
   -
-    name: SFP
+    name: xe26
     position: xe26
-    label: xe26
+    label: sfp+
   -
-    name: SFP
+    name: xe27
     position: xe27
-    label: xe27
+    label: sfp+
   -
-    name: SFP
+    name: xe28
     position: xe28
-    label: xe28
+    label: sfp+
   -
-    name: SFP
+    name: xe29
     position: xe29
-    label: xe29
+    label: sfp+
   -
-    name: SFP
+    name: xe30
     position: xe30
-    label: xe30
+    label: sfp+
   -
-    name: SFP
+    name: xe31
     position: xe31
-    label: xe31
+    label: sfp+
   -
-    name: SFP
+    name: xe32
     position: xe32
-    label: xe32
+    label: sfp+
   -
-    name: SFP
+    name: xe33
     position: xe33
-    label: xe33
+    label: sfp+
   -
-    name: SFP
+    name: xe34
     position: xe34
-    label: xe34
+    label: sfp+
   -
-    name: SFP
+    name: xe35
     position: xe35
-    label: xe35
+    label: sfp+
   -
-    name: SFP
+    name: xe36
     position: xe36
-    label: xe36
+    label: sfp+
   -
-    name: SFP
+    name: xe37
     position: xe37
-    label: xe37
+    label: sfp+
   -
-    name: SFP
+    name: xe38
     position: xe38
-    label: xe38
+    label: sfp+
   -
-    name: SFP
+    name: xe39
     position: xe39
-    label: xe39
+    label: sfp+
   -
-    name: SFP
+    name: xe40
     position: xe40
-    label: xe40
+    label: sfp+
   -
-    name: SFP
+    name: xe41
     position: xe41
-    label: xe41
+    label: sfp+
   -
-    name: SFP
+    name: xe42
     position: xe42
-    label: xe42
+    label: sfp+
   -
-    name: SFP
+    name: xe43
     position: xe43
-    label: xe43
+    label: sfp+
   -
-    name: SFP
+    name: xe44
     position: xe44
-    label: xe44
+    label: sfp+
   -
-    name: SFP
+    name: xe45
     position: xe45
-    label: xe45
+    label: sfp+
   -
-    name: SFP
+    name: xe46
     position: xe46
-    label: xe46
+    label: sfp+
   -
-    name: SFP
+    name: xe47
     position: xe47
-    label: xe47
+    label: sfp+
   -
-    name: SFP
+    name: xe48
     position: xe48
-    label: xe48
+    label: sfp+
   -
-    name: QSFP
+    name: ce49
     position: ce49
-    label: ce49
+    label: qsfp
   -
-    name: QSFP
+    name: ce50
     position: ce50
-    label: ce50
+    label: qsfp
   -
-    name: QSFP
+    name: ce51
     position: ce51
-    label: ce51
+    label: qsfp
   -
-    name: QSFP
+    name: ce52
     position: ce52
-    label: ce52
+    label: qsfp
   -
-    name: QSFP
+    name: ce53
     position: ce53
-    label: ce53
+    label: qsfp
   -
-    name: QSFP
+    name: ce54
     position: ce54
-    label: ce54
+    label: qsfp

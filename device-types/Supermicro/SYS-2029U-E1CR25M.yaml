@@ -60,10 +60,10 @@ module-bays:
     position: '8'
     description: PCI-E 3.0 x8 (FH, 10.5"L)
   -
-    name: SFP
+    name: Gig-E 1
     position: Gig-E 1
-    label: Gig-E 1
+    label: sfp28
   -
-    name: SFP
+    name: Gig-E 2
     position: Gig-E 2
-    label: Gig-E 2
+    label: sfp28

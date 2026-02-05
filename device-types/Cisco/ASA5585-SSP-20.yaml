@@ -20,13 +20,13 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: TenGigabitEthernet0/8
     position: TenGigabitEthernet0/8
-    label: TenGigabitEthernet0/8
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/9
     position: TenGigabitEthernet0/9
-    label: TenGigabitEthernet0/9
+    label: sfp+
 interfaces:
   -
     name: GigabitEthernet0/0

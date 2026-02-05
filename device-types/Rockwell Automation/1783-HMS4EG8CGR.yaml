@@ -59,10 +59,10 @@ power-ports:
     allocated_draw: 164
 module-bays:
   -
-    name: SFP
+    name: GigabitEthernet1/1
     position: GigabitEthernet1/1
-    label: GigabitEthernet1/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/2
     position: GigabitEthernet1/2
-    label: GigabitEthernet1/2
+    label: sfp

@@ -36,6 +36,6 @@ interfaces:
     label: LAN4
 module-bays:
   -
-    name: SFP
+    name: eth4
     position: eth4
-    label: eth4
+    label: sfp+

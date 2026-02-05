@@ -17,213 +17,213 @@ module-bays:
     name: PSU B
     position: B
   -
-    name: SFP
+    name: port1.0.1
     position: port1.0.1
-    label: port1.0.1
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.2
     position: port1.0.2
-    label: port1.0.2
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.3
     position: port1.0.3
-    label: port1.0.3
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.4
     position: port1.0.4
-    label: port1.0.4
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.5
     position: port1.0.5
-    label: port1.0.5
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.6
     position: port1.0.6
-    label: port1.0.6
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.7
     position: port1.0.7
-    label: port1.0.7
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.8
     position: port1.0.8
-    label: port1.0.8
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.9
     position: port1.0.9
-    label: port1.0.9
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.10
     position: port1.0.10
-    label: port1.0.10
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.11
     position: port1.0.11
-    label: port1.0.11
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.12
     position: port1.0.12
-    label: port1.0.12
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.13
     position: port1.0.13
-    label: port1.0.13
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.14
     position: port1.0.14
-    label: port1.0.14
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.15
     position: port1.0.15
-    label: port1.0.15
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.16
     position: port1.0.16
-    label: port1.0.16
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.17
     position: port1.0.17
-    label: port1.0.17
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.18
     position: port1.0.18
-    label: port1.0.18
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.19
     position: port1.0.19
-    label: port1.0.19
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.20
     position: port1.0.20
-    label: port1.0.20
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.21
     position: port1.0.21
-    label: port1.0.21
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.22
     position: port1.0.22
-    label: port1.0.22
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.23
     position: port1.0.23
-    label: port1.0.23
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.24
     position: port1.0.24
-    label: port1.0.24
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.25
     position: port1.0.25
-    label: port1.0.25
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.26
     position: port1.0.26
-    label: port1.0.26
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.27
     position: port1.0.27
-    label: port1.0.27
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.28
     position: port1.0.28
-    label: port1.0.28
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.29
     position: port1.0.29
-    label: port1.0.29
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.30
     position: port1.0.30
-    label: port1.0.30
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.31
     position: port1.0.31
-    label: port1.0.31
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.32
     position: port1.0.32
-    label: port1.0.32
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.33
     position: port1.0.33
-    label: port1.0.33
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.34
     position: port1.0.34
-    label: port1.0.34
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.35
     position: port1.0.35
-    label: port1.0.35
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.36
     position: port1.0.36
-    label: port1.0.36
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.37
     position: port1.0.37
-    label: port1.0.37
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.38
     position: port1.0.38
-    label: port1.0.38
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.39
     position: port1.0.39
-    label: port1.0.39
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.40
     position: port1.0.40
-    label: port1.0.40
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.41
     position: port1.0.41
-    label: port1.0.41
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.42
     position: port1.0.42
-    label: port1.0.42
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.43
     position: port1.0.43
-    label: port1.0.43
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.44
     position: port1.0.44
-    label: port1.0.44
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.45
     position: port1.0.45
-    label: port1.0.45
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.46
     position: port1.0.46
-    label: port1.0.46
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.47
     position: port1.0.47
-    label: port1.0.47
+    label: sfp+
   -
-    name: SFP
+    name: port1.0.48
     position: port1.0.48
-    label: port1.0.48
+    label: sfp+
   -
-    name: QSFP
+    name: port1.0.49
     position: port1.0.49
-    label: port1.0.49
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.53
     position: port1.0.53
-    label: port1.0.53
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.57
     position: port1.0.57
-    label: port1.0.57
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.61
     position: port1.0.61
-    label: port1.0.61
+    label: qsfp
 interfaces:
   -
     name: eth0

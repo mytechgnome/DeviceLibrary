@@ -38,10 +38,10 @@ console-ports:
     type: usb-mini-b
 module-bays:
   -
-    name: SFP
+    name: gigabitethernet 0/0/4
     position: gigabitethernet 0/0/4
-    label: gigabitethernet 0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/5
     position: gigabitethernet 0/0/5
-    label: gigabitethernet 0/0/5
+    label: sfp+

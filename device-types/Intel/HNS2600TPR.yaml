@@ -36,6 +36,6 @@ module-bays:
     label: PCIe Riser 2
     position: '2'
   -
-    name: QSFP
+    name: QSFPPlus
     position: QSFPPlus
-    label: QSFPPlus
+    label: qsfp

@@ -20,29 +20,29 @@ module-bays:
     label: PSU Slot 2
     position: '2'
   -
-    name: SFP
+    name: FC-1
     position: FC-1
-    label: FC-1
+    label: sfp28
   -
-    name: SFP
+    name: FC-2
     position: FC-2
-    label: FC-2
+    label: sfp28
   -
-    name: SFP
+    name: FC-3
     position: FC-3
-    label: FC-3
+    label: sfp28
   -
-    name: SFP
+    name: FC-4
     position: FC-4
-    label: FC-4
+    label: sfp28
   -
-    name: QSFP
+    name: p1p1
     position: p1p1
-    label: p1p1
+    label: qsfp
   -
-    name: QSFP
+    name: p1p2
     position: p1p2
-    label: p1p2
+    label: qsfp
 interfaces:
   -
     name: em1

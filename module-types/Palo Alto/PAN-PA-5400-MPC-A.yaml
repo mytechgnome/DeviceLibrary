@@ -2,38 +2,37 @@
 manufacturer: Palo Alto
 model: PAN-PA-5400-MPC-A
 part_number: PAN-PA-5400-MPC-A
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: HA1-A
+    position: HA1-A
     label: HA1-A
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: HA1-B
+    position: HA1-B
     label: HA1-B
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HSCI-A
+    position: HSCI-A
     label: HSCI-A
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HSCI-B
+    position: HSCI-B
     label: HSCI-B
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: LOG-1
+    position: LOG-1
     label: LOG-1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: LOG-2
+    position: LOG-2
     label: LOG-2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-    mgmt_only: true
+    name: MGT-A
+    position: MGT-A
     label: MGT-A
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-    mgmt_only: true
+    name: MGT-B
+    position: MGT-B
     label: MGT-B

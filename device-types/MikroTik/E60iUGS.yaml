@@ -37,6 +37,6 @@ power-ports:
     description: DC jack input 12-57V
 module-bays:
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp+

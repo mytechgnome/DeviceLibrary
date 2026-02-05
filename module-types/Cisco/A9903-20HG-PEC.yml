@@ -3,64 +3,85 @@ manufacturer: Cisco
 model: A9903-20HG-PEC
 part_number: A9903-20HG-PEC
 comments: '[Cisco ASR 9000 Series Aggregation Services Routers Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744035.html)'
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: HundredGigE{module}/0
+    position: HundredGigE{module}/0
+    label: HundredGigE{module}/0
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/1
+    position: HundredGigE{module}/1
+    label: HundredGigE{module}/1
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/2
+    position: HundredGigE{module}/2
+    label: HundredGigE{module}/2
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/3
+    position: HundredGigE{module}/3
+    label: HundredGigE{module}/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: HundredGigE{module}/4
+    position: HundredGigE{module}/4
+    label: HundredGigE{module}/4
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/5
+    position: HundredGigE{module}/5
+    label: HundredGigE{module}/5
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/6
+    position: HundredGigE{module}/6
+    label: HundredGigE{module}/6
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/7
+    position: HundredGigE{module}/7
+    label: HundredGigE{module}/7
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: HundredGigE{module}/8
+    position: HundredGigE{module}/8
+    label: HundredGigE{module}/8
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/9
+    position: HundredGigE{module}/9
+    label: HundredGigE{module}/9
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/10
+    position: HundredGigE{module}/10
+    label: HundredGigE{module}/10
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/11
+    position: HundredGigE{module}/11
+    label: HundredGigE{module}/11
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: HundredGigE{module}/12
+    position: HundredGigE{module}/12
+    label: HundredGigE{module}/12
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/13
+    position: HundredGigE{module}/13
+    label: HundredGigE{module}/13
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/14
+    position: HundredGigE{module}/14
+    label: HundredGigE{module}/14
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/15
+    position: HundredGigE{module}/15
+    label: HundredGigE{module}/15
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: HundredGigE{module}/16
+    position: HundredGigE{module}/16
+    label: HundredGigE{module}/16
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/17
+    position: HundredGigE{module}/17
+    label: HundredGigE{module}/17
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/18
+    position: HundredGigE{module}/18
+    label: HundredGigE{module}/18
   -
-    name: '{module}'
-    type: 100gbase-x-qsfp28
+    name: HundredGigE{module}/19
+    position: HundredGigE{module}/19
+    label: HundredGigE{module}/19

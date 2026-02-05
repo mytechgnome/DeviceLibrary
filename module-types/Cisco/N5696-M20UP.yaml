@@ -4,64 +4,85 @@ model: N5696-M20UP
 part_number: N5696-M20UP
 description: 20-Port 10-Gbps Unified Port Line-Card Expansion Module
 comments: supports 1 and 10 Gigabit Ethernet SFP+, Fibre Channel at 8/4/2 Gbps, and 10-Gbps FCoE [Cisco Nexus 5600 Platform 40-Gbps Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5624q-switch/datasheet-c78-733100.html)
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/3
+    position: Ethernet{module}/3
+    label: Ethernet{module}/3
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/4
+    position: Ethernet{module}/4
+    label: Ethernet{module}/4
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/5
+    position: Ethernet{module}/5
+    label: Ethernet{module}/5
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/6
+    position: Ethernet{module}/6
+    label: Ethernet{module}/6
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/7
+    position: Ethernet{module}/7
+    label: Ethernet{module}/7
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/8
+    position: Ethernet{module}/8
+    label: Ethernet{module}/8
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/9
+    position: Ethernet{module}/9
+    label: Ethernet{module}/9
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/10
+    position: Ethernet{module}/10
+    label: Ethernet{module}/10
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/11
+    position: Ethernet{module}/11
+    label: Ethernet{module}/11
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/12
+    position: Ethernet{module}/12
+    label: Ethernet{module}/12
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/13
+    position: Ethernet{module}/13
+    label: Ethernet{module}/13
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/14
+    position: Ethernet{module}/14
+    label: Ethernet{module}/14
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/15
+    position: Ethernet{module}/15
+    label: Ethernet{module}/15
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/16
+    position: Ethernet{module}/16
+    label: Ethernet{module}/16
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/17
+    position: Ethernet{module}/17
+    label: Ethernet{module}/17
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/18
+    position: Ethernet{module}/18
+    label: Ethernet{module}/18
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/19
+    position: Ethernet{module}/19
+    label: Ethernet{module}/19
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/20
+    position: Ethernet{module}/20
+    label: Ethernet{module}/20

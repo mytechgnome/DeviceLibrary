@@ -3,10 +3,13 @@ manufacturer: Huawei
 model: XP380
 part_number: 0231Y984
 comments: Mellanox CX-4 Lx BC5M13ETHE1 Ethernet Card-25GE Dual Port SFP28 PCIE 3.0 X8
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 25gbase-x-sfp28
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2

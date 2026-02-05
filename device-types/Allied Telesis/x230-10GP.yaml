@@ -57,10 +57,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: port1.0.9
     position: port1.0.9
-    label: port1.0.9
+    label: sfp
   -
-    name: SFP
+    name: port1.0.10
     position: port1.0.10
-    label: port1.0.10
+    label: sfp

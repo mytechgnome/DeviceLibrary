@@ -25,29 +25,29 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: XGigabitEthernet0/0/1
     position: XGigabitEthernet0/0/1
-    label: XGigabitEthernet0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/2
     position: XGigabitEthernet0/0/2
-    label: XGigabitEthernet0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/3
     position: XGigabitEthernet0/0/3
-    label: XGigabitEthernet0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/4
     position: XGigabitEthernet0/0/4
-    label: XGigabitEthernet0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/5
     position: XGigabitEthernet0/0/5
-    label: XGigabitEthernet0/0/5
+    label: sfp+
   -
-    name: SFP
+    name: XGigabitEthernet0/0/6
     position: XGigabitEthernet0/0/6
-    label: XGigabitEthernet0/0/6
+    label: sfp+
 interfaces:
   -
     name: MEth0/0/1

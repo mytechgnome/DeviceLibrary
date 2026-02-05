@@ -54,14 +54,14 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: DMZ
     position: DMZ
-    label: DMZ
+    label: sfp
   -
-    name: SFP
+    name: X1
     position: X1
-    label: X1
+    label: sfp+
   -
-    name: SFP
+    name: X2
     position: X2
-    label: X2
+    label: sfp+

@@ -4,42 +4,6 @@ model: M4300-12X12F
 comments: 'Documentation: [https://www.netgear.it/support/product/m4300-12x12f.aspx](https://www.netgear.it/support/product/m4300-12x12f.aspx)'
 interfaces:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
-    name: '{module}'
-    type: 10gbase-x-sfpp
-  -
     name: '{module}/0/13'
     type: 10gbase-t
   -
@@ -75,3 +39,52 @@ interfaces:
   -
     name: '{module}/0/24'
     type: 10gbase-t
+module-bays:
+  -
+    name: '{module}/0/1'
+    position: '{module}/0/1'
+    label: '{module}/0/1'
+  -
+    name: '{module}/0/2'
+    position: '{module}/0/2'
+    label: '{module}/0/2'
+  -
+    name: '{module}/0/3'
+    position: '{module}/0/3'
+    label: '{module}/0/3'
+  -
+    name: '{module}/0/4'
+    position: '{module}/0/4'
+    label: '{module}/0/4'
+  -
+    name: '{module}/0/5'
+    position: '{module}/0/5'
+    label: '{module}/0/5'
+  -
+    name: '{module}/0/6'
+    position: '{module}/0/6'
+    label: '{module}/0/6'
+  -
+    name: '{module}/0/7'
+    position: '{module}/0/7'
+    label: '{module}/0/7'
+  -
+    name: '{module}/0/8'
+    position: '{module}/0/8'
+    label: '{module}/0/8'
+  -
+    name: '{module}/0/9'
+    position: '{module}/0/9'
+    label: '{module}/0/9'
+  -
+    name: '{module}/0/10'
+    position: '{module}/0/10'
+    label: '{module}/0/10'
+  -
+    name: '{module}/0/11'
+    position: '{module}/0/11'
+    label: '{module}/0/11'
+  -
+    name: '{module}/0/12'
+    position: '{module}/0/12'
+    label: '{module}/0/12'

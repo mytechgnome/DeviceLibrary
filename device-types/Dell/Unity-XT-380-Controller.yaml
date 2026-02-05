@@ -25,10 +25,10 @@ module-bays:
     name: I/O 2
     position: '2'
   -
-    name: SFP
+    name: SP-A ETH4
     position: SP-A ETH4
-    label: SP-A ETH4
+    label: sfp+
   -
-    name: SFP
+    name: SP-A ETH5
     position: SP-A ETH5
-    label: SP-A ETH5
+    label: sfp+

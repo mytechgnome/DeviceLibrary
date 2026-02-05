@@ -61,6 +61,6 @@ interfaces:
     type: ieee802.11g
 module-bays:
   -
-    name: SFP
+    name: Sfp-1
     position: Sfp-1
-    label: Sfp-1
+    label: sfp

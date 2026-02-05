@@ -51,10 +51,10 @@ module-bays:
     name: VPM slot 1
     position: VPM-1
   -
-    name: SFP
+    name: GigabitEthernet1/0/4
     position: GigabitEthernet1/0/4
-    label: GigabitEthernet1/0/4
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet1/0/5
     position: GigabitEthernet1/0/5
-    label: GigabitEthernet1/0/5
+    label: sfp

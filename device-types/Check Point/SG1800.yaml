@@ -112,14 +112,14 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: DMZ-SFPPlus
     position: DMZ-SFPPlus
-    label: DMZ-SFPPlus
+    label: sfp+
   -
-    name: SFP
+    name: WAN1-SFP
     position: WAN1-SFP
-    label: WAN1-SFP
+    label: sfp
   -
-    name: SFP
+    name: WAN2-SFP
     position: WAN2-SFP
-    label: WAN2-SFP
+    label: sfp

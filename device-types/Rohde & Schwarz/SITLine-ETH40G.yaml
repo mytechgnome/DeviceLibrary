@@ -19,38 +19,38 @@ power-ports:
 interfaces: []
 module-bays:
   -
-    name: SFP
+    name: A1
     position: A1
-    label: A1
+    label: sfp+
   -
-    name: SFP
+    name: A2
     position: A2
-    label: A2
+    label: sfp+
   -
-    name: SFP
+    name: A3
     position: A3
-    label: A3
+    label: sfp+
   -
-    name: SFP
+    name: A4
     position: A4
-    label: A4
+    label: sfp+
   -
-    name: SFP
+    name: X1
     position: X1
-    label: X1
+    label: sfp+
   -
-    name: SFP
+    name: X2
     position: X2
-    label: X2
+    label: sfp+
   -
-    name: SFP
+    name: X3
     position: X3
-    label: X3
+    label: sfp+
   -
-    name: SFP
+    name: X4
     position: X4
-    label: X4
+    label: sfp+
   -
-    name: SFP
+    name: SMS
     position: SMS
-    label: SMS
+    label: sfp

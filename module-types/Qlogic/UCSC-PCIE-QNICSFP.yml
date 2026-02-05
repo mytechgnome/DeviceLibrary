@@ -3,10 +3,13 @@ manufacturer: Qlogic
 model: UCSC-PCIE-QNICSFP
 part_number: UCSC-PCIE-QNICSFP
 comments: QLogic QLE8442 dual-port 10G SFP+ NIC
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/1
+    position: Ethernet{module}/1
+    label: Ethernet{module}/1
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Ethernet{module}/2
+    position: Ethernet{module}/2
+    label: Ethernet{module}/2

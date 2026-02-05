@@ -91,10 +91,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Port 25 SFP
     position: Port 25 SFP
-    label: Port 25 SFP
+    label: sfp
   -
-    name: SFP
+    name: Port 26 SFP
     position: Port 26 SFP
-    label: Port 26 SFP
+    label: sfp

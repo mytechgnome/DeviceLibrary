@@ -29,58 +29,58 @@ power-ports:
     maximum_draw: 49
 module-bays:
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus2
     position: sfp-sfpplus2
-    label: sfp-sfpplus2
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus3
     position: sfp-sfpplus3
-    label: sfp-sfpplus3
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus4
     position: sfp-sfpplus4
-    label: sfp-sfpplus4
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus5
     position: sfp-sfpplus5
-    label: sfp-sfpplus5
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus6
     position: sfp-sfpplus6
-    label: sfp-sfpplus6
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus7
     position: sfp-sfpplus7
-    label: sfp-sfpplus7
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus8
     position: sfp-sfpplus8
-    label: sfp-sfpplus8
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus9
     position: sfp-sfpplus9
-    label: sfp-sfpplus9
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus10
     position: sfp-sfpplus10
-    label: sfp-sfpplus10
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus11
     position: sfp-sfpplus11
-    label: sfp-sfpplus11
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus12
     position: sfp-sfpplus12
-    label: sfp-sfpplus12
+    label: sfp+
   -
-    name: SFP
+    name: sfp28-1
     position: sfp28-1
-    label: sfp28-1
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-2
     position: sfp28-2
-    label: sfp28-2
+    label: sfp28

@@ -38,18 +38,18 @@ module-bays:
     name: PSU 2
     position: right
   -
-    name: SFP
+    name: Port 3
     position: Port 3
-    label: Port 3
+    label: sfp+
   -
-    name: SFP
+    name: Port 4
     position: Port 4
-    label: Port 4
+    label: sfp+
   -
-    name: SFP
+    name: Port 5
     position: Port 5
-    label: Port 5
+    label: sfp28
   -
-    name: SFP
+    name: Port 6
     position: Port 6
-    label: Port 6
+    label: sfp28

@@ -38,86 +38,86 @@ interfaces:
     description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
 module-bays:
   -
-    name: QSFP
+    name: TN/IDL A
     position: TN/IDL A
-    label: TN/IDL A
+    label: qsfp
   -
-    name: SFP
+    name: TN/IDL B
     position: TN/IDL B
-    label: TN/IDL B
+    label: sfp+
   -
-    name: SFP
+    name: TN/IDL C
     position: TN/IDL C
-    label: TN/IDL C
+    label: sfp+
   -
-    name: SFP
+    name: TN/IDL D
     position: TN/IDL D
-    label: TN/IDL D
+    label: sfp+
   -
-    name: SFP
+    name: DOT A
     position: DOT A
-    label: DOT A
+    label: sfp+
   -
-    name: SFP
+    name: DOT B
     position: DOT B
-    label: DOT B
+    label: sfp+
   -
-    name: SFP
+    name: DOT C
     position: DOT C
-    label: DOT C
+    label: sfp+
   -
-    name: SFP
+    name: DOT D
     position: DOT D
-    label: DOT D
+    label: sfp+
   -
-    name: SFP
+    name: DOT E
     position: DOT E
-    label: DOT E
+    label: sfp+
   -
-    name: SFP
+    name: DOT F
     position: DOT F
-    label: DOT F
+    label: sfp+
   -
-    name: SFP
+    name: DOT G
     position: DOT G
-    label: DOT G
+    label: sfp+
   -
-    name: SFP
+    name: DOT H
     position: DOT H
-    label: DOT H
+    label: sfp+
   -
-    name: SFP
+    name: DOT I
     position: DOT I
-    label: DOT I
+    label: sfp+
   -
-    name: SFP
+    name: DOT J
     position: DOT J
-    label: DOT J
+    label: sfp+
   -
-    name: SFP
+    name: DOT K
     position: DOT K
-    label: DOT K
+    label: sfp+
   -
-    name: SFP
+    name: DOT L
     position: DOT L
-    label: DOT L
+    label: sfp+
   -
-    name: SFP
+    name: DOT M
     position: DOT M
-    label: DOT M
+    label: sfp+
   -
-    name: SFP
+    name: DOT N
     position: DOT N
-    label: DOT N
+    label: sfp+
   -
-    name: SFP
+    name: DOT O
     position: DOT O
-    label: DOT O
+    label: sfp+
   -
-    name: SFP
+    name: DOT P
     position: DOT P
-    label: DOT P
+    label: sfp+
   -
-    name: SFP
+    name: DOT Q
     position: DOT Q
-    label: DOT Q
+    label: sfp+

@@ -73,22 +73,22 @@ module-bays:
     name: HMIM slot 4
     position: HMIM-4
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/9
     position: Ten-GigabitEthernet1/0/9
-    label: Ten-GigabitEthernet1/0/9
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/10
     position: Ten-GigabitEthernet1/0/10
-    label: Ten-GigabitEthernet1/0/10
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/11
     position: Ten-GigabitEthernet1/0/11
-    label: Ten-GigabitEthernet1/0/11
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/12
     position: Ten-GigabitEthernet1/0/12
-    label: Ten-GigabitEthernet1/0/12
+    label: sfp+
   -
-    name: SFP
+    name: Ten-GigabitEthernet1/0/13
     position: Ten-GigabitEthernet1/0/13
-    label: Ten-GigabitEthernet1/0/13
+    label: sfp+

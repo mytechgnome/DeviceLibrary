@@ -104,20 +104,20 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: '17'
     position: '17'
-    label: '17'
+    label: sfp+
   -
-    name: SFP
+    name: '18'
     position: '18'
-    label: '18'
+    label: sfp+
   -
-    name: SFP
+    name: '19'
     position: '19'
-    label: '19'
+    label: sfp+
     description: Can be used for stacking in Switch Engine
   -
-    name: SFP
+    name: '20'
     position: '20'
-    label: '20'
+    label: sfp+
     description: Can be used for stacking in Switch Engine

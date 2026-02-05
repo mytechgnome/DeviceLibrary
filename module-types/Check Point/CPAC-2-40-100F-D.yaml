@@ -3,12 +3,13 @@ manufacturer: Check Point
 model: CPAC-2-40/100F-D
 part_number: CPAC-2-40/100F-D
 comments: 2 Port 10/25/40/100G Base-F QSFP28 interface card for 19000/29000 appliances
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    label: '1'
-    type: 100gbase-x-qsfp28
+    name: eth{module}-01
+    position: eth{module}-01
+    label: eth{module}-01
   -
-    name: '{module}'
-    label: '2'
-    type: 100gbase-x-qsfp28
+    name: eth{module}-02
+    position: eth{module}-02
+    label: eth{module}-02

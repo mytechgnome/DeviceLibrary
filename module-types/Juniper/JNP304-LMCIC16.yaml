@@ -4,52 +4,69 @@ model: JNP304-LMCIC16
 part_number: 750-122718
 weight: 2
 weight_unit: kg
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/0
+    position: et-0/{module}/0
+    label: et-0/{module}/0
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/1
+    position: et-0/{module}/1
+    label: et-0/{module}/1
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/2
+    position: et-0/{module}/2
+    label: et-0/{module}/2
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/3
+    position: et-0/{module}/3
+    label: et-0/{module}/3
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/4
+    position: et-0/{module}/4
+    label: et-0/{module}/4
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/5
+    position: et-0/{module}/5
+    label: et-0/{module}/5
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/6
+    position: et-0/{module}/6
+    label: et-0/{module}/6
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/7
+    position: et-0/{module}/7
+    label: et-0/{module}/7
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/8
+    position: et-0/{module}/8
+    label: et-0/{module}/8
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/9
+    position: et-0/{module}/9
+    label: et-0/{module}/9
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/10
+    position: et-0/{module}/10
+    label: et-0/{module}/10
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/11
+    position: et-0/{module}/11
+    label: et-0/{module}/11
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/12
+    position: et-0/{module}/12
+    label: et-0/{module}/12
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/13
+    position: et-0/{module}/13
+    label: et-0/{module}/13
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/14
+    position: et-0/{module}/14
+    label: et-0/{module}/14
   -
-    name: '{module}'
-    type: 400gbase-x-qsfpdd
+    name: et-0/{module}/15
+    position: et-0/{module}/15
+    label: et-0/{module}/15

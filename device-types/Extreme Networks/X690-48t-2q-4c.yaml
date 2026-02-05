@@ -168,26 +168,26 @@ module-bays:
     name: PSU-2
     position: PSU-2
   -
-    name: QSFP
+    name: '49'
     position: '49'
-    label: '49'
+    label: qsfp
   -
-    name: QSFP
+    name: '53'
     position: '53'
-    label: '53'
+    label: qsfp
   -
-    name: QSFP
+    name: '57'
     position: '57'
-    label: '57'
+    label: qsfp
   -
-    name: QSFP
+    name: '61'
     position: '61'
-    label: '61'
+    label: qsfp
   -
-    name: QSFP
+    name: '65'
     position: '65'
-    label: '65'
+    label: qsfp
   -
-    name: QSFP
+    name: '69'
     position: '69'
-    label: '69'
+    label: qsfp

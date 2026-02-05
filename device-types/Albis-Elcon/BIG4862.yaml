@@ -38,66 +38,66 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: WAN1S
     position: WAN1S
-    label: WAN1S
+    label: sfp+
   -
-    name: SFP
+    name: WAN2S
     position: WAN2S
-    label: WAN2S
+    label: sfp+
   -
-    name: SFP
+    name: LAN1S
     position: LAN1S
-    label: LAN1S
+    label: sfp+
   -
-    name: SFP
+    name: LAN2S
     position: LAN2S
-    label: LAN2S
+    label: sfp+
   -
-    name: SFP
+    name: LAN3S
     position: LAN3S
-    label: LAN3S
+    label: sfp
   -
-    name: SFP
+    name: LAN4S
     position: LAN4S
-    label: LAN4S
+    label: sfp
   -
-    name: SFP
+    name: LAN5S
     position: LAN5S
-    label: LAN5S
+    label: sfp
   -
-    name: SFP
+    name: LAN6S
     position: LAN6S
-    label: LAN6S
+    label: sfp
   -
-    name: SFP
+    name: LAN7S
     position: LAN7S
-    label: LAN7S
+    label: sfp
   -
-    name: SFP
+    name: LAN8S
     position: LAN8S
-    label: LAN8S
+    label: sfp
   -
-    name: SFP
+    name: LAN9S
     position: LAN9S
-    label: LAN9S
+    label: sfp
   -
-    name: SFP
+    name: LAN10S
     position: LAN10S
-    label: LAN10S
+    label: sfp
   -
-    name: SFP
+    name: LAN11S
     position: LAN11S
-    label: LAN11S
+    label: sfp
   -
-    name: SFP
+    name: LAN12S
     position: LAN12S
-    label: LAN12S
+    label: sfp
   -
-    name: SFP
+    name: LAN13S
     position: LAN13S
-    label: LAN13S
+    label: sfp
   -
-    name: SFP
+    name: LAN14S
     position: LAN14S
-    label: LAN14S
+    label: sfp

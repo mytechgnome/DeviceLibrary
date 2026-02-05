@@ -72,21 +72,21 @@ module-bays:
     label: Power Supply 1
     position: PSU1
   -
-    name: SFP
+    name: ge-0/0/6
     position: ge-0/0/6
-    label: ge-0/0/6
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/7
     position: ge-0/0/7
-    label: ge-0/0/7
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/8
     position: ge-0/0/8
-    label: ge-0/0/8
+    label: sfp
   -
-    name: SFP
+    name: ge-0/0/9
     position: ge-0/0/9
-    label: ge-0/0/9
+    label: sfp
 console-ports:
   -
     name: Console

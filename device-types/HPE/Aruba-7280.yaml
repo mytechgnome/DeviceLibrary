@@ -29,62 +29,62 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: SFP
+    name: gigabitethernet 0/0/0
     position: gigabitethernet 0/0/0
-    label: gigabitethernet 0/0/0
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/1
     position: gigabitethernet 0/0/1
-    label: gigabitethernet 0/0/1
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/2
     position: gigabitethernet 0/0/2
-    label: gigabitethernet 0/0/2
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/3
     position: gigabitethernet 0/0/3
-    label: gigabitethernet 0/0/3
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/4
     position: gigabitethernet 0/0/4
-    label: gigabitethernet 0/0/4
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/6
     position: gigabitethernet 0/0/6
-    label: gigabitethernet 0/0/6
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/7
     position: gigabitethernet 0/0/7
-    label: gigabitethernet 0/0/7
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/8
     position: gigabitethernet 0/0/8
-    label: gigabitethernet 0/0/8
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/9
     position: gigabitethernet 0/0/9
-    label: gigabitethernet 0/0/9
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/10
     position: gigabitethernet 0/0/10
-    label: gigabitethernet 0/0/10
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/11
     position: gigabitethernet 0/0/11
-    label: gigabitethernet 0/0/11
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/12
     position: gigabitethernet 0/0/12
-    label: gigabitethernet 0/0/12
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/13
     position: gigabitethernet 0/0/13
-    label: gigabitethernet 0/0/13
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/14
     position: gigabitethernet 0/0/14
-    label: gigabitethernet 0/0/14
+    label: sfp+
   -
-    name: SFP
+    name: gigabitethernet 0/0/15
     position: gigabitethernet 0/0/15
-    label: gigabitethernet 0/0/15
+    label: sfp+

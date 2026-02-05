@@ -52,10 +52,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Port 11
     position: Port 11
-    label: Port 11
+    label: sfp
   -
-    name: SFP
+    name: Port 12
     position: Port 12
-    label: Port 12
+    label: sfp

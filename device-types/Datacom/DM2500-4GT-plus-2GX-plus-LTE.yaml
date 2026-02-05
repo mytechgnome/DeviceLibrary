@@ -41,10 +41,10 @@ interfaces:
     type: lte
 module-bays:
   -
-    name: SFP
+    name: eth2
     position: eth2
-    label: eth2
+    label: sfp
   -
-    name: SFP
+    name: eth3
     position: eth3
-    label: eth3
+    label: sfp

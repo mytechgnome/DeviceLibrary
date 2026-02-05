@@ -41,6 +41,6 @@ interfaces:
     type: 100base-tx
 module-bays:
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp

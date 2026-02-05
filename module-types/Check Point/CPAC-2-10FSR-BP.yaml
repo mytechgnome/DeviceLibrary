@@ -3,12 +3,13 @@ manufacturer: Check Point
 model: CPAC-2-10FSR-BP
 part_number: CPAC-2-10FSR-BP
 comments: 2 Port 10G Base-SFP+ fail-open network I/O module interface card
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    label: '1'
-    type: 10gbase-x-sfpp
+    name: eth{module}-01
+    position: eth{module}-01
+    label: eth{module}-01
   -
-    name: '{module}'
-    label: '2'
-    type: 10gbase-x-sfpp
+    name: eth{module}-02
+    position: eth{module}-02
+    label: eth{module}-02

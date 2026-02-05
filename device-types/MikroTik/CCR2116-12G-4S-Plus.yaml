@@ -65,18 +65,18 @@ power-ports:
     maximum_draw: 72
 module-bays:
   -
-    name: SFP
+    name: sfp-sfpplus1
     position: sfp-sfpplus1
-    label: sfp-sfpplus1
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus2
     position: sfp-sfpplus2
-    label: sfp-sfpplus2
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus3
     position: sfp-sfpplus3
-    label: sfp-sfpplus3
+    label: sfp+
   -
-    name: SFP
+    name: sfp-sfpplus4
     position: sfp-sfpplus4
-    label: sfp-sfpplus4
+    label: sfp+

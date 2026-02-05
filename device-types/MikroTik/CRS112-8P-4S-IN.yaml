@@ -83,18 +83,18 @@ power-ports:
 comments: '[CRS112-8P-4S-IN Datasheet by Kolyan](https://mikrotik.com/product/crs112_8p_4s_in#fndtn-specifications)'
 module-bays:
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp
   -
-    name: SFP
+    name: sfp2
     position: sfp2
-    label: sfp2
+    label: sfp
   -
-    name: SFP
+    name: sfp3
     position: sfp3
-    label: sfp3
+    label: sfp
   -
-    name: SFP
+    name: sfp4
     position: sfp4
-    label: sfp4
+    label: sfp

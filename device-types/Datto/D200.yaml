@@ -42,6 +42,6 @@ interfaces:
     poe_type: passive-24v-4pair
 module-bays:
   -
-    name: SFP
+    name: SFP1
     position: SFP1
-    label: SFP1
+    label: sfp

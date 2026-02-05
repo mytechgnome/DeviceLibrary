@@ -3,10 +3,13 @@ manufacturer: Sophos
 model: XGCZTCHF2
 part_number: XGCZTCHF2
 comments: 2 port 10GbE SFP+ Flexi Port module - For XG 750 and SG/XG 550/650 rev.2 only
-interfaces:
+interfaces: []
+module-bays:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: '{module}-1'
+    position: '{module}-1'
+    label: '{module}-1'
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: '{module}-2'
+    position: '{module}-2'
+    label: '{module}-2'

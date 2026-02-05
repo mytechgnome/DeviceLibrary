@@ -36,26 +36,26 @@ module-bays:
     position: '2'
     label: PS2
   -
-    name: SFP
+    name: tlan0
     position: tlan0
-    label: tlan0
+    label: sfp+
   -
-    name: SFP
+    name: twan0
     position: twan0
-    label: twan0
+    label: sfp+
   -
-    name: SFP
+    name: tlan1
     position: tlan1
-    label: tlan1
+    label: sfp+
   -
-    name: SFP
+    name: twan1
     position: twan1
-    label: twan1
+    label: sfp+
   -
-    name: SFP
+    name: tlan2
     position: tlan2
-    label: tlan2
+    label: sfp+
   -
-    name: SFP
+    name: twan2
     position: twan2
-    label: twan2
+    label: sfp+

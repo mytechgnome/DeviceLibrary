@@ -44,10 +44,10 @@ power-ports:
     maximum_draw: 85
 module-bays:
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/0
     position: TenGigabitEthernet0/1/0
-    label: TenGigabitEthernet0/1/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/1
     position: TenGigabitEthernet0/1/1
-    label: TenGigabitEthernet0/1/1
+    label: sfp+

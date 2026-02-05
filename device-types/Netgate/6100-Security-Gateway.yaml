@@ -45,18 +45,18 @@ interfaces:
     label: LAN4
 module-bays:
   -
-    name: SFP
+    name: ix3
     position: ix3
-    label: ix3
+    label: sfp
   -
-    name: SFP
+    name: ix2
     position: ix2
-    label: ix2
+    label: sfp
   -
-    name: SFP
+    name: ix0
     position: ix0
-    label: ix0
+    label: sfp+
   -
-    name: SFP
+    name: ix1
     position: ix1
-    label: ix1
+    label: sfp+

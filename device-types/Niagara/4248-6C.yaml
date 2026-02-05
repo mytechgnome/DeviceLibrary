@@ -26,218 +26,218 @@ module-bays:
     name: PS B
     position: B
   -
-    name: SFP
+    name: ExtremeEthernet0/1
     position: ExtremeEthernet0/1
-    label: ExtremeEthernet0/1
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/2
     position: ExtremeEthernet0/2
-    label: ExtremeEthernet0/2
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/3
     position: ExtremeEthernet0/3
-    label: ExtremeEthernet0/3
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/4
     position: ExtremeEthernet0/4
-    label: ExtremeEthernet0/4
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/5
     position: ExtremeEthernet0/5
-    label: ExtremeEthernet0/5
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/6
     position: ExtremeEthernet0/6
-    label: ExtremeEthernet0/6
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/7
     position: ExtremeEthernet0/7
-    label: ExtremeEthernet0/7
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/8
     position: ExtremeEthernet0/8
-    label: ExtremeEthernet0/8
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/9
     position: ExtremeEthernet0/9
-    label: ExtremeEthernet0/9
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/10
     position: ExtremeEthernet0/10
-    label: ExtremeEthernet0/10
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/11
     position: ExtremeEthernet0/11
-    label: ExtremeEthernet0/11
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/12
     position: ExtremeEthernet0/12
-    label: ExtremeEthernet0/12
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/13
     position: ExtremeEthernet0/13
-    label: ExtremeEthernet0/13
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/14
     position: ExtremeEthernet0/14
-    label: ExtremeEthernet0/14
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/15
     position: ExtremeEthernet0/15
-    label: ExtremeEthernet0/15
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/16
     position: ExtremeEthernet0/16
-    label: ExtremeEthernet0/16
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/17
     position: ExtremeEthernet0/17
-    label: ExtremeEthernet0/17
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/18
     position: ExtremeEthernet0/18
-    label: ExtremeEthernet0/18
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/19
     position: ExtremeEthernet0/19
-    label: ExtremeEthernet0/19
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/20
     position: ExtremeEthernet0/20
-    label: ExtremeEthernet0/20
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/21
     position: ExtremeEthernet0/21
-    label: ExtremeEthernet0/21
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/22
     position: ExtremeEthernet0/22
-    label: ExtremeEthernet0/22
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/23
     position: ExtremeEthernet0/23
-    label: ExtremeEthernet0/23
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/24
     position: ExtremeEthernet0/24
-    label: ExtremeEthernet0/24
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/25
     position: ExtremeEthernet0/25
-    label: ExtremeEthernet0/25
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/26
     position: ExtremeEthernet0/26
-    label: ExtremeEthernet0/26
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/27
     position: ExtremeEthernet0/27
-    label: ExtremeEthernet0/27
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/28
     position: ExtremeEthernet0/28
-    label: ExtremeEthernet0/28
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/29
     position: ExtremeEthernet0/29
-    label: ExtremeEthernet0/29
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/30
     position: ExtremeEthernet0/30
-    label: ExtremeEthernet0/30
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/31
     position: ExtremeEthernet0/31
-    label: ExtremeEthernet0/31
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/32
     position: ExtremeEthernet0/32
-    label: ExtremeEthernet0/32
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/33
     position: ExtremeEthernet0/33
-    label: ExtremeEthernet0/33
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/34
     position: ExtremeEthernet0/34
-    label: ExtremeEthernet0/34
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/35
     position: ExtremeEthernet0/35
-    label: ExtremeEthernet0/35
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/36
     position: ExtremeEthernet0/36
-    label: ExtremeEthernet0/36
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/37
     position: ExtremeEthernet0/37
-    label: ExtremeEthernet0/37
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/38
     position: ExtremeEthernet0/38
-    label: ExtremeEthernet0/38
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/39
     position: ExtremeEthernet0/39
-    label: ExtremeEthernet0/39
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/40
     position: ExtremeEthernet0/40
-    label: ExtremeEthernet0/40
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/41
     position: ExtremeEthernet0/41
-    label: ExtremeEthernet0/41
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/42
     position: ExtremeEthernet0/42
-    label: ExtremeEthernet0/42
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/43
     position: ExtremeEthernet0/43
-    label: ExtremeEthernet0/43
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/44
     position: ExtremeEthernet0/44
-    label: ExtremeEthernet0/44
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/45
     position: ExtremeEthernet0/45
-    label: ExtremeEthernet0/45
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/46
     position: ExtremeEthernet0/46
-    label: ExtremeEthernet0/46
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/47
     position: ExtremeEthernet0/47
-    label: ExtremeEthernet0/47
+    label: sfp28
   -
-    name: SFP
+    name: ExtremeEthernet0/48
     position: ExtremeEthernet0/48
-    label: ExtremeEthernet0/48
+    label: sfp28
   -
-    name: QSFP
+    name: ExtremeEthernet0/49
     position: ExtremeEthernet0/49
-    label: ExtremeEthernet0/49
+    label: qsfp
   -
-    name: QSFP
+    name: ExtremeEthernet0/50
     position: ExtremeEthernet0/50
-    label: ExtremeEthernet0/50
+    label: qsfp
   -
-    name: QSFP
+    name: ExtremeEthernet0/51
     position: ExtremeEthernet0/51
-    label: ExtremeEthernet0/51
+    label: qsfp
   -
-    name: QSFP
+    name: ExtremeEthernet0/52
     position: ExtremeEthernet0/52
-    label: ExtremeEthernet0/52
+    label: qsfp
   -
-    name: QSFP
+    name: ExtremeEthernet0/53
     position: ExtremeEthernet0/53
-    label: ExtremeEthernet0/53
+    label: qsfp
   -
-    name: QSFP
+    name: ExtremeEthernet0/54
     position: ExtremeEthernet0/54
-    label: ExtremeEthernet0/54
+    label: qsfp

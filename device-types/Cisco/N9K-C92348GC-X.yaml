@@ -166,26 +166,26 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: Ethernet1/49
     position: Ethernet1/49
-    label: Ethernet1/49
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet1/50
     position: Ethernet1/50
-    label: Ethernet1/50
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet1/51
     position: Ethernet1/51
-    label: Ethernet1/51
+    label: sfp28
   -
-    name: SFP
+    name: Ethernet1/52
     position: Ethernet1/52
-    label: Ethernet1/52
+    label: sfp28
   -
-    name: QSFP
+    name: Ethernet1/53
     position: Ethernet1/53
-    label: Ethernet1/53
+    label: qsfp
   -
-    name: QSFP
+    name: Ethernet1/54
     position: Ethernet1/54
-    label: Ethernet1/54
+    label: qsfp

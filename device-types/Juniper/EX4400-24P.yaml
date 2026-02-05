@@ -158,10 +158,10 @@ module-bays:
     name: PSU1
     position: '1'
   -
-    name: QSFP
+    name: et-0/1/0
     position: et-0/1/0
-    label: et-0/1/0
+    label: qsfp
   -
-    name: QSFP
+    name: et-0/1/1
     position: et-0/1/1
-    label: et-0/1/1
+    label: qsfp

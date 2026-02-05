@@ -92,22 +92,22 @@ interfaces:
     type: 100base-tx
 module-bays:
   -
-    name: SFP
+    name: '25'
     position: '25'
-    label: '25'
+    label: sfp
     description: RJ-45/SFP COMBO
   -
-    name: SFP
+    name: '26'
     position: '26'
-    label: '26'
+    label: sfp
     description: RJ-45/SFP COMBO
   -
-    name: SFP
+    name: '27'
     position: '27'
-    label: '27'
+    label: sfp
     description: RJ-45/SFP COMBO
   -
-    name: SFP
+    name: '28'
     position: '28'
-    label: '28'
+    label: sfp
     description: RJ-45/SFP COMBO

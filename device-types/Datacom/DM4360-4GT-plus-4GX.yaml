@@ -42,22 +42,22 @@ interfaces:
     type: 100base-tx
 module-bays:
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/4
     position: gigabit-ethernet-1/1/4
-    label: gigabit-ethernet-1/1/4
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/5
     position: gigabit-ethernet-1/1/5
-    label: gigabit-ethernet-1/1/5
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/6
     position: gigabit-ethernet-1/1/6
-    label: gigabit-ethernet-1/1/6
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/7
     position: gigabit-ethernet-1/1/7
-    label: gigabit-ethernet-1/1/7
+    label: sfp
   -
-    name: SFP
+    name: gigabit-ethernet-1/1/8
     position: gigabit-ethernet-1/1/8
-    label: gigabit-ethernet-1/1/8
+    label: sfp

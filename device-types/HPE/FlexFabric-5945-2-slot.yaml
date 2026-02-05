@@ -34,6 +34,6 @@ module-bays:
     name: Module2
     position: '2'
   -
-    name: SFP
+    name: Management2
     position: Management2
-    label: Management2
+    label: sfp

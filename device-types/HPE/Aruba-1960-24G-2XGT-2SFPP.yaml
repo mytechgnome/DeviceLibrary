@@ -95,10 +95,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: '27'
     position: '27'
-    label: '27'
+    label: sfp+
   -
-    name: SFP
+    name: '28'
     position: '28'
-    label: '28'
+    label: sfp+

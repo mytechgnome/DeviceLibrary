@@ -46,58 +46,58 @@ module-bays:
     position: '4'
     description: Fan tray
   -
-    name: SFP
+    name: sfp28-1
     position: sfp28-1
-    label: sfp28-1
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-2
     position: sfp28-2
-    label: sfp28-2
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-3
     position: sfp28-3
-    label: sfp28-3
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-4
     position: sfp28-4
-    label: sfp28-4
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-5
     position: sfp28-5
-    label: sfp28-5
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-6
     position: sfp28-6
-    label: sfp28-6
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-7
     position: sfp28-7
-    label: sfp28-7
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-8
     position: sfp28-8
-    label: sfp28-8
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-9
     position: sfp28-9
-    label: sfp28-9
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-10
     position: sfp28-10
-    label: sfp28-10
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-11
     position: sfp28-11
-    label: sfp28-11
+    label: sfp28
   -
-    name: SFP
+    name: sfp28-12
     position: sfp28-12
-    label: sfp28-12
+    label: sfp28
   -
-    name: QSFP
+    name: qsfp28-1-1
     position: qsfp28-1-1
-    label: qsfp28-1-1
+    label: qsfp
   -
-    name: QSFP
+    name: qsfp28-2-1
     position: qsfp28-2-1
-    label: qsfp28-2-1
+    label: qsfp

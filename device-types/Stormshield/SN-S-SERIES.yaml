@@ -47,6 +47,6 @@ interfaces:
     type: 2.5gbase-t
 module-bays:
   -
-    name: SFP
+    name: port9
     position: port9
-    label: port9
+    label: sfp

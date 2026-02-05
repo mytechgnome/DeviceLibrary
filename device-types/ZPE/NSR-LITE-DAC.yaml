@@ -92,10 +92,10 @@ module-bays:
 
   # The integrated storage is in a mSATA slot
   -
-    name: SFP
+    name: sfp0
     position: sfp0
-    label: sfp0
+    label: sfp+
   -
-    name: SFP
+    name: sfp1
     position: sfp1
-    label: sfp1
+    label: sfp+

@@ -33,50 +33,50 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: SFP
+    name: interface 0/1
     position: interface 0/1
-    label: interface 0/1
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/2
     position: interface 0/2
-    label: interface 0/2
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/3
     position: interface 0/3
-    label: interface 0/3
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/4
     position: interface 0/4
-    label: interface 0/4
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/5
     position: interface 0/5
-    label: interface 0/5
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/6
     position: interface 0/6
-    label: interface 0/6
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/7
     position: interface 0/7
-    label: interface 0/7
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/8
     position: interface 0/8
-    label: interface 0/8
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/9
     position: interface 0/9
-    label: interface 0/9
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/10
     position: interface 0/10
-    label: interface 0/10
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/11
     position: interface 0/11
-    label: interface 0/11
+    label: sfp+
   -
-    name: SFP
+    name: interface 0/12
     position: interface 0/12
-    label: interface 0/12
+    label: sfp+

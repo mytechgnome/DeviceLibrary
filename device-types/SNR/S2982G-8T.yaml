@@ -46,10 +46,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: SFP
+    name: Ethernet1/0/9
     position: Ethernet1/0/9
-    label: Ethernet1/0/9
+    label: sfp
   -
-    name: SFP
+    name: Ethernet1/0/10
     position: Ethernet1/0/10
-    label: Ethernet1/0/10
+    label: sfp

@@ -40,114 +40,114 @@ module-bays:
     name: Fan tray 4
     position: '4'
   -
-    name: QSFP
+    name: cd0
     position: cd0
-    label: cd0
+    label: qsfp-dd
   -
-    name: QSFP
+    name: cd1
     position: cd1
-    label: cd1
+    label: qsfp-dd
   -
-    name: QSFP
+    name: ce2
     position: ce2
-    label: ce2
+    label: qsfp
   -
-    name: QSFP
+    name: ce3
     position: ce3
-    label: ce3
+    label: qsfp
   -
-    name: SFP
+    name: xe4
     position: xe4
-    label: xe4
+    label: sfp28
   -
-    name: SFP
+    name: xe5
     position: xe5
-    label: xe5
+    label: sfp28
   -
-    name: SFP
+    name: xe6
     position: xe6
-    label: xe6
+    label: sfp28
   -
-    name: SFP
+    name: xe7
     position: xe7
-    label: xe7
+    label: sfp28
   -
-    name: SFP
+    name: xe8
     position: xe8
-    label: xe8
+    label: sfp28
   -
-    name: SFP
+    name: xe9
     position: xe9
-    label: xe9
+    label: sfp28
   -
-    name: SFP
+    name: xe10
     position: xe10
-    label: xe10
+    label: sfp28
   -
-    name: SFP
+    name: xe11
     position: xe11
-    label: xe11
+    label: sfp28
   -
-    name: SFP
+    name: xe12
     position: xe12
-    label: xe12
+    label: sfp28
   -
-    name: SFP
+    name: xe13
     position: xe13
-    label: xe13
+    label: sfp28
   -
-    name: SFP
+    name: xe14
     position: xe14
-    label: xe14
+    label: sfp28
   -
-    name: SFP
+    name: xe15
     position: xe15
-    label: xe15
+    label: sfp28
   -
-    name: SFP
+    name: xe16
     position: xe16
-    label: xe16
+    label: sfp28
   -
-    name: SFP
+    name: xe17
     position: xe17
-    label: xe17
+    label: sfp28
   -
-    name: SFP
+    name: xe18
     position: xe18
-    label: xe18
+    label: sfp28
   -
-    name: SFP
+    name: xe19
     position: xe19
-    label: xe19
+    label: sfp28
   -
-    name: SFP
+    name: xe20
     position: xe20
-    label: xe20
+    label: sfp28
   -
-    name: SFP
+    name: xe21
     position: xe21
-    label: xe21
+    label: sfp28
   -
-    name: SFP
+    name: xe22
     position: xe22
-    label: xe22
+    label: sfp28
   -
-    name: SFP
+    name: xe23
     position: xe23
-    label: xe23
+    label: sfp28
   -
-    name: SFP
+    name: xe24
     position: xe24
-    label: xe24
+    label: sfp28
   -
-    name: SFP
+    name: xe25
     position: xe25
-    label: xe25
+    label: sfp28
   -
-    name: SFP
+    name: xe26
     position: xe26
-    label: xe26
+    label: sfp28
   -
-    name: SFP
+    name: xe27
     position: xe27
-    label: xe27
+    label: sfp28

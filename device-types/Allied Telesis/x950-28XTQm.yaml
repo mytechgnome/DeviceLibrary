@@ -97,21 +97,21 @@ module-bays:
     name: Slot 1
     position: '1'
   -
-    name: QSFP
+    name: port1.0.25
     position: port1.0.25
-    label: port1.0.25
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.29
     position: port1.0.29
-    label: port1.0.29
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.33
     position: port1.0.33
-    label: port1.0.33
+    label: qsfp
   -
-    name: QSFP
+    name: port1.0.37
     position: port1.0.37
-    label: port1.0.37
+    label: qsfp
 inventory-items:
   -
     name: Fan-Module A

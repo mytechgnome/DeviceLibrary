@@ -22,69 +22,69 @@ module-bays:
     position: '1'
     description: Power module
   -
-    name: SFP
+    name: GigabitEthernet0/0/0
     position: GigabitEthernet0/0/0
-    label: GigabitEthernet0/0/0
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/1
     position: GigabitEthernet0/0/1
-    label: GigabitEthernet0/0/1
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/2
     position: GigabitEthernet0/0/2
-    label: GigabitEthernet0/0/2
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/3
     position: GigabitEthernet0/0/3
-    label: GigabitEthernet0/0/3
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/4
     position: GigabitEthernet0/0/4
-    label: GigabitEthernet0/0/4
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/5
     position: GigabitEthernet0/0/5
-    label: GigabitEthernet0/0/5
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/6
     position: GigabitEthernet0/0/6
-    label: GigabitEthernet0/0/6
+    label: sfp
   -
-    name: SFP
+    name: GigabitEthernet0/0/7
     position: GigabitEthernet0/0/7
-    label: GigabitEthernet0/0/7
+    label: sfp
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/0
     position: TenGigabitEthernet0/1/0
-    label: TenGigabitEthernet0/1/0
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/1
     position: TenGigabitEthernet0/1/1
-    label: TenGigabitEthernet0/1/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/2
     position: TenGigabitEthernet0/1/2
-    label: TenGigabitEthernet0/1/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/3
     position: TenGigabitEthernet0/1/3
-    label: TenGigabitEthernet0/1/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/4
     position: TenGigabitEthernet0/1/4
-    label: TenGigabitEthernet0/1/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/5
     position: TenGigabitEthernet0/1/5
-    label: TenGigabitEthernet0/1/5
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/6
     position: TenGigabitEthernet0/1/6
-    label: TenGigabitEthernet0/1/6
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet0/1/7
     position: TenGigabitEthernet0/1/7
-    label: TenGigabitEthernet0/1/7
+    label: sfp+
 console-ports:
   -
     name: con 0

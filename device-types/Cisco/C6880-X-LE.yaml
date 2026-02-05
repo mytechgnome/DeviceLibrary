@@ -41,66 +41,66 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/1
     position: TenGigabitEthernet1/5/1
-    label: TenGigabitEthernet1/5/1
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/2
     position: TenGigabitEthernet1/5/2
-    label: TenGigabitEthernet1/5/2
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/3
     position: TenGigabitEthernet1/5/3
-    label: TenGigabitEthernet1/5/3
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/4
     position: TenGigabitEthernet1/5/4
-    label: TenGigabitEthernet1/5/4
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/5
     position: TenGigabitEthernet1/5/5
-    label: TenGigabitEthernet1/5/5
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/6
     position: TenGigabitEthernet1/5/6
-    label: TenGigabitEthernet1/5/6
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/7
     position: TenGigabitEthernet1/5/7
-    label: TenGigabitEthernet1/5/7
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/8
     position: TenGigabitEthernet1/5/8
-    label: TenGigabitEthernet1/5/8
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/9
     position: TenGigabitEthernet1/5/9
-    label: TenGigabitEthernet1/5/9
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/10
     position: TenGigabitEthernet1/5/10
-    label: TenGigabitEthernet1/5/10
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/11
     position: TenGigabitEthernet1/5/11
-    label: TenGigabitEthernet1/5/11
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/12
     position: TenGigabitEthernet1/5/12
-    label: TenGigabitEthernet1/5/12
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/13
     position: TenGigabitEthernet1/5/13
-    label: TenGigabitEthernet1/5/13
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/14
     position: TenGigabitEthernet1/5/14
-    label: TenGigabitEthernet1/5/14
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/15
     position: TenGigabitEthernet1/5/15
-    label: TenGigabitEthernet1/5/15
+    label: sfp+
   -
-    name: SFP
+    name: TenGigabitEthernet1/5/16
     position: TenGigabitEthernet1/5/16
-    label: TenGigabitEthernet1/5/16
+    label: sfp+

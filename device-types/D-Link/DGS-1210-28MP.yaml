@@ -151,18 +151,18 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP
+    name: Port 25 (RJ45/SFP Combo)
     position: Port 25 (RJ45/SFP Combo)
-    label: Port 25 (RJ45/SFP Combo)
+    label: sfp
   -
-    name: SFP
+    name: Port 26 (RJ45/SFP Combo)
     position: Port 26 (RJ45/SFP Combo)
-    label: Port 26 (RJ45/SFP Combo)
+    label: sfp
   -
-    name: SFP
+    name: Port 27 (RJ45/SFP Combo)
     position: Port 27 (RJ45/SFP Combo)
-    label: Port 27 (RJ45/SFP Combo)
+    label: sfp
   -
-    name: SFP
+    name: Port 28 (RJ45/SFP Combo)
     position: Port 28 (RJ45/SFP Combo)
-    label: Port 28 (RJ45/SFP Combo)
+    label: sfp
