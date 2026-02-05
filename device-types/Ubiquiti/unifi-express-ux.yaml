@@ -12,15 +12,21 @@ comments: >
   UniFi Express (UX) is a compact cloud gateway with an integrated Wi-Fi 6 access point,
   designed for small networks. It supports advanced firewall, VPN, and UniFi OS with WAN+LAN Gigabit ports.
 power-ports:
-  - name: USB-C Power
+  -
+    name: USB-C Power
     type: usb-c
     maximum_draw: 10
 interfaces:
-  - name: WAN
+  -
+    name: WAN
     type: 1000base-t
-  - name: LAN
+  -
+    name: LAN
     type: 1000base-t
-  - name: WLAN 2.4GHz
+  -
+    name: WLAN 2.4GHz
     type: ieee802.11ax
-  - name: WLAN 5GHz
+  -
+    name: WLAN 5GHz
     type: ieee802.11ax
+module-bays: []

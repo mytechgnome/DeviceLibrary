@@ -10,3 +10,5 @@ comments: '[Cisco UCS X210c M6 Compute Node Data Sheet](https://www.cisco.com/c/
 airflow: front-to-rear
 weight: 5.83
 weight_unit: kg
+module-bays: []
+interfaces: []

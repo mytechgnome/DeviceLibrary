@@ -7,23 +7,34 @@ u_height: 2
 is_full_depth: false
 is_powered: true
 module-bays:
-  - name: Slot A
+  -
+    name: Slot A
     position: A
-  - name: Slot B
+  -
+    name: Slot B
     position: B
-  - name: Slot C
+  -
+    name: Slot C
     position: C
-  - name: Slot D
+  -
+    name: Slot D
     position: D
-  - name: Slot E
+  -
+    name: Slot E
     position: E
-  - name: Slot F
+  -
+    name: Slot F
     position: F
-  - name: Slot G
+  -
+    name: Slot G
     position: G
-  - name: Slot H
+  -
+    name: Slot H
     position: H
-  - name: Slot I
+  -
+    name: Slot I
     position: I
-  - name: Slot J
+  -
+    name: Slot J
     position: J
+interfaces: []

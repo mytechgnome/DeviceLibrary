@@ -50,6 +50,6 @@ interfaces:
     label: '8'
 module-bays:
   -
-    name: eth8
-    label: '9'
-    position: '8'
+    name: SFP
+    position: eth8
+    label: eth8

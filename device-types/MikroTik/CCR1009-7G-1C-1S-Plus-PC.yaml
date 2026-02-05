@@ -49,9 +49,10 @@ power-ports:
     description: Barrel Jack DC In
 module-bays:
   -
-    name: sfp-sfpplus1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: combo1
-    label: SFP/ETH
-    position: '1'
+    name: SFP
+    position: combo1
+    label: combo1

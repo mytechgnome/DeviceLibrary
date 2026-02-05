@@ -9,39 +9,53 @@ weight_unit: kg
 is_full_depth: false
 comments: IBM 00P3663 200-240v AC Type 7 Power Distribution Unit 1-ph Side Mount
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: nema-l6-30p
 power-outlets:
-  - name: Outlet R1
+  -
+    name: Outlet R1
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R2
+  -
+    name: Outlet R2
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R3
+  -
+    name: Outlet R3
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R4
+  -
+    name: Outlet R4
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R5
+  -
+    name: Outlet R5
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R6
+  -
+    name: Outlet R6
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R7
+  -
+    name: Outlet R7
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R8
+  -
+    name: Outlet R8
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R9
+  -
+    name: Outlet R9
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet R10
+  -
+    name: Outlet R10
     type: iec-60320-c19
     power_port: Power Port 1
-  - name: Outlet R11
+  -
+    name: Outlet R11
     type: iec-60320-c19
     power_port: Power Port 1
+module-bays: []
+interfaces: []

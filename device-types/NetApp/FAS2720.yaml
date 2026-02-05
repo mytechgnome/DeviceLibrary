@@ -13,10 +13,15 @@ weight: 27.4
 weight_unit: kg
 subdevice_role: parent
 device-bays:
-  - name: A
-  - name: B
+  -
+    name: A
+  -
+    name: B
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2
+interfaces: []

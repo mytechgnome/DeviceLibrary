@@ -29,5 +29,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: sfp-wan/lan1
-    position: '1'
+    name: SFP
+    position: sfp-wan/lan1
+    label: sfp-wan/lan1

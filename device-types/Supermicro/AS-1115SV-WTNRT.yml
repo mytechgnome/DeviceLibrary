@@ -10,30 +10,39 @@ weight: 9.53
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI LAN port
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 10gbase-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 10gbase-t
 module-bays:
-  - name: Slot 1
+  -
+    name: Slot 1
     position: '1'
     description: PCIe 5.0 x16 slot (full-height, full-length)
-  - name: Slot 2
+  -
+    name: Slot 2
     position: '2'
     description: PCIe 5.0 x16 slot (full-height, full-length)
-  - name: Slot 3
+  -
+    name: Slot 3
     position: '3'
     description: PCIe 5.0 x16 slot (low profile)
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
     description: Left power supply unit
-  - name: PSU2
+  -
+    name: PSU2
     position: '2'
     description: Right power supply unit

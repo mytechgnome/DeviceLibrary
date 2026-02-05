@@ -36,8 +36,10 @@ interfaces:
     type: e1
 module-bays:
   -
-    name: port0
-    position: '0'
+    name: SFP
+    position: port0
+    label: port0
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1

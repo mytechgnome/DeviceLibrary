@@ -10,3 +10,5 @@ airflow: front-to-rear
 weight: 544.0
 weight_unit: g
 is_powered: false
+module-bays: []
+interfaces: []

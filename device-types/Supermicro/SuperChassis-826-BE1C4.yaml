@@ -11,10 +11,14 @@ subdevice_role: parent
 weight: 18.1
 weight_unit: kg
 module-bays:
-  - name: PSU0
+  -
+    name: PSU0
     position: PSU 0
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU 1
 device-bays:
-  - name: System Board
+  -
+    name: System Board
     label: System Board
+interfaces: []

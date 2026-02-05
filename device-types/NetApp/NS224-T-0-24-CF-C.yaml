@@ -20,14 +20,18 @@ module-bays:
     name: PSU 2
     position: '2'
   -
-    name: a-e0a
-    position: '0'
+    name: QSFP
+    position: a-e0a
+    label: a-e0a
   -
-    name: a-e0b
-    position: '0'
+    name: QSFP
+    position: a-e0b
+    label: a-e0b
   -
-    name: b-e0a
-    position: '0'
+    name: QSFP
+    position: b-e0a
+    label: b-e0a
   -
-    name: b-e0b
-    position: '0'
+    name: QSFP
+    position: b-e0b
+    label: b-e0b

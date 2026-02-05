@@ -27,75 +27,100 @@ comments: |
 
   The MX10008 router is available in both base and redundant configurations for both AC and DC operation. MX10008 features front to back airflow (also know as airflow out or AFO).
 module-bays:
-  - name: CB0
+  -
+    name: CB0
     label: Routing Engine 0
     position: re0
-  - name: CB1
+  -
+    name: CB1
     label: Routing Engine 1
     position: re1
-  - name: FPC 0
+  -
+    name: FPC 0
     label: FPC 0
     position: '0'
-  - name: FPC 1
+  -
+    name: FPC 1
     label: FPC 1
     position: '1'
-  - name: FPC 2
+  -
+    name: FPC 2
     label: FPC 2
     position: '2'
-  - name: FPC 3
+  -
+    name: FPC 3
     label: FPC 3
     position: '3'
-  - name: FPC 4
+  -
+    name: FPC 4
     label: FPC 4
     position: '4'
-  - name: FPC 5
+  -
+    name: FPC 5
     label: FPC 5
     position: '5'
-  - name: FPC 6
+  -
+    name: FPC 6
     label: FPC 6
     position: '6'
-  - name: FPC 7
+  -
+    name: FPC 7
     label: FPC 7
     position: '7'
-  - name: PEM0
+  -
+    name: PEM0
     label: PSU 0
     position: '0'
-  - name: PEM1
+  -
+    name: PEM1
     label: PSU 1
     position: '1'
-  - name: PEM2
+  -
+    name: PEM2
     label: PSU 2
     position: '2'
-  - name: PEM3
+  -
+    name: PEM3
     label: PSU 3
     position: '3'
-  - name: PEM4
+  -
+    name: PEM4
     label: PSU 4
     position: '4'
-  - name: PEM5
+  -
+    name: PEM5
     label: PSU 5
     position: '5'
-  - name: Fan Tray 0
+  -
+    name: Fan Tray 0
     label: Fan Tray 0
     position: FanTray0
-  - name: Fan Tray 1
+  -
+    name: Fan Tray 1
     label: Fan Tray 1
     position: FanTray1
-  - name: SFB0
+  -
+    name: SFB0
     label: SFB 0
     position: SFB0
-  - name: SFB1
+  -
+    name: SFB1
     label: SFB 1
     position: SFB1
-  - name: SFB2
+  -
+    name: SFB2
     label: SFB 2
     position: SFB2
-  - name: SFB3
+  -
+    name: SFB3
     label: SFB 3
     position: SFB3
-  - name: SFB4
+  -
+    name: SFB4
     label: SFB 4
     position: SFB4
-  - name: SFB5
+  -
+    name: SFB5
     label: SFB 5
     position: SFB5
+interfaces: []

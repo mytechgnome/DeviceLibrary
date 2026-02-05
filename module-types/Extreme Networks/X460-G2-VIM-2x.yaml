@@ -2,11 +2,10 @@
 manufacturer: Extreme Networks
 model: X460-G2 VIM-2x
 part_number: '16711'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: 2/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: 2/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp

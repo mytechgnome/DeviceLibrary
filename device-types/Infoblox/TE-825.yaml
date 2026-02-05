@@ -9,22 +9,30 @@ airflow: front-to-rear
 is_full_depth: false
 u_height: 1
 interfaces:
-  - name: LOM
+  -
+    name: LOM
     type: 1000base-t
     mgmt_only: true
-  - name: MGMT
+  -
+    name: MGMT
     type: 1000base-t
     mgmt_only: true
-  - name: LAN1
+  -
+    name: LAN1
     type: 1000base-t
-  - name: HA
+  -
+    name: HA
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     type: 1000base-t
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 power-ports:
-  - name: PS0
+  -
+    name: PS0
     type: iec-60320-c14
     maximum_draw: 106
+module-bays: []

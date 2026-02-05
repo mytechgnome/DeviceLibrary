@@ -161,8 +161,10 @@ interfaces:
     poe_type: type4-ieee802.3bt
 module-bays:
   -
-    name: Port 27
-    position: '27'
+    name: SFP
+    position: Port 27
+    label: Port 27
   -
-    name: Port 28
-    position: '28'
+    name: SFP
+    position: Port 28
+    label: Port 28

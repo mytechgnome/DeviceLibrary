@@ -2,6 +2,7 @@
 manufacturer: Meinberg
 model: IMS-PWR-AD10
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 50

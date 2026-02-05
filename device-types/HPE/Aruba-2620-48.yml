@@ -171,8 +171,10 @@ interfaces:
 # slots:
 module-bays:
   -
-    name: '51'
+    name: SFP
     position: '51'
+    label: '51'
   -
-    name: '52'
+    name: SFP
     position: '52'
+    label: '52'

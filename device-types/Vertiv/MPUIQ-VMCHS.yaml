@@ -8,9 +8,13 @@ is_full_depth: false
 airflow: passive
 comments: MPU IQ Serial Adapter
 console-ports:
-  - name: KVM
+  -
+    name: KVM
     type: rj-45
     _is_power_source: true
 console-server-ports:
-  - name: usb0
+  -
+    name: usb0
     type: usb-a
+module-bays: []
+interfaces: []

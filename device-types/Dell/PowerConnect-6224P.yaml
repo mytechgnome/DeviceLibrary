@@ -5,113 +5,141 @@ slug: dell-powerconnect-6224p
 u_height: 1
 is_full_depth: false
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c14
     maximum_draw: 477
 interfaces:
-  - name: g1
+  -
+    name: g1
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g2
+  -
+    name: g2
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g3
+  -
+    name: g3
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g4
+  -
+    name: g4
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g5
+  -
+    name: g5
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g6
+  -
+    name: g6
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g7
+  -
+    name: g7
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g8
+  -
+    name: g8
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g9
+  -
+    name: g9
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g10
+  -
+    name: g10
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g11
+  -
+    name: g11
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g12
+  -
+    name: g12
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g13
+  -
+    name: g13
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g14
+  -
+    name: g14
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g15
+  -
+    name: g15
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g16
+  -
+    name: g16
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g17
+  -
+    name: g17
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g18
+  -
+    name: g18
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g19
+  -
+    name: g19
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g20
+  -
+    name: g20
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: g21
+  -
+    name: g21
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
     # comments: Combo port either 1000base-x-sfp or 1000base-t
-  - name: g22
+  -
+    name: g22
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
     # comments: Combo port either 1000base-x-sfp or 1000base-t
-  - name: g23
+  -
+    name: g23
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
     # comments: Combo port either 1000base-x-sfp or 1000base-t
-  - name: g24
+  -
+    name: g24
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
     # comments: Combo port either 1000base-x-sfp or 1000base-t
-  - name: Management
+  -
+    name: Management
     type: virtual
     mgmt_only: true
+module-bays: []

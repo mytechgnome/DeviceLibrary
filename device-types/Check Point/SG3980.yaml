@@ -105,50 +105,50 @@ power-ports:
     allocated_draw: 70
 module-bays:
   -
-    name: eth1
-    label: '1'
-    position: '1'
+    name: SFP
+    position: eth1
+    label: eth1
   -
-    name: eth2
-    label: '2'
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    label: '3'
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
   -
-    name: eth4
-    label: '4'
-    position: '4'
+    name: SFP
+    position: eth4
+    label: eth4
   -
-    name: eth5
-    label: '5'
-    position: '5'
+    name: SFP
+    position: eth5
+    label: eth5
   -
-    name: eth6
-    label: '6'
-    position: '6'
+    name: SFP
+    position: eth6
+    label: eth6
   -
-    name: eth7
-    label: '7'
-    position: '7'
+    name: SFP
+    position: eth7
+    label: eth7
   -
-    name: eth8
-    label: '8'
-    position: '8'
+    name: SFP
+    position: eth8
+    label: eth8
   -
-    name: eth25
-    label: '25'
-    position: '25'
+    name: SFP
+    position: eth25
+    label: eth25
   -
-    name: eth26
-    label: '26'
-    position: '26'
+    name: SFP
+    position: eth26
+    label: eth26
   -
-    name: eth27
-    label: '27'
-    position: '27'
+    name: SFP
+    position: eth27
+    label: eth27
   -
-    name: eth28
-    label: '28'
-    position: '28'
+    name: SFP
+    position: eth28
+    label: eth28

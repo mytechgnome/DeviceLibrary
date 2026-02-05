@@ -21,77 +21,76 @@ comments: |
   - EA chipsets for increased scaling for bandwidth, subscribers, and services.
   - Supports the Switch Fabric Boards, JNP10004-SF2, JNP10008-SF, JNP10008-SF2, and JNP10016-SF.
   - Supports maximum transmission units (MTUs) from 256 bytes through 16,000 bytes for transit traffic, and from 256 bytes through 9,500 bytes for host-bound packets.
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: et-{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/0/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/0/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/1/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/1/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/1/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/1/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/2/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/2/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/2/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/2/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/3/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/3/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/3/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/3/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/4/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/4/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/4/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/4/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/5/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/5/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/5/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: et-{module}/5/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

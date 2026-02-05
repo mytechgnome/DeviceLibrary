@@ -268,26 +268,34 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: xe-0/0/48
-    position: '48'
+    name: SFP
+    position: xe-0/0/48
+    label: xe-0/0/48
   -
-    name: xe-0/0/49
-    position: '49'
+    name: SFP
+    position: xe-0/0/49
+    label: xe-0/0/49
   -
-    name: xe-0/0/50
-    position: '50'
+    name: SFP
+    position: xe-0/0/50
+    label: xe-0/0/50
   -
-    name: xe-0/0/51
-    position: '51'
+    name: SFP
+    position: xe-0/0/51
+    label: xe-0/0/51
   -
-    name: xe-0/1/0
-    position: '0'
+    name: SFP
+    position: xe-0/1/0
+    label: xe-0/1/0
   -
-    name: xe-0/1/1
-    position: '1'
+    name: SFP
+    position: xe-0/1/1
+    label: xe-0/1/1
   -
-    name: xe-0/1/2
-    position: '2'
+    name: SFP
+    position: xe-0/1/2
+    label: xe-0/1/2
   -
-    name: xe-0/1/3
-    position: '3'
+    name: SFP
+    position: xe-0/1/3
+    label: xe-0/1/3

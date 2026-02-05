@@ -27,34 +27,34 @@ power-ports:
 interfaces: []
 module-bays:
   -
-    name: ten-gigabitEthernet 1/0/1
-    label: '1'
-    position: '1'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/1
+    label: ten-gigabitEthernet 1/0/1
   -
-    name: ten-gigabitEthernet 1/0/2
-    label: '2'
-    position: '2'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/2
+    label: ten-gigabitEthernet 1/0/2
   -
-    name: ten-gigabitEthernet 1/0/3
-    label: '3'
-    position: '3'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/3
+    label: ten-gigabitEthernet 1/0/3
   -
-    name: ten-gigabitEthernet 1/0/4
-    label: '4'
-    position: '4'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/4
+    label: ten-gigabitEthernet 1/0/4
   -
-    name: ten-gigabitEthernet 1/0/5
-    label: '5'
-    position: '5'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/5
+    label: ten-gigabitEthernet 1/0/5
   -
-    name: ten-gigabitEthernet 1/0/6
-    label: '6'
-    position: '6'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/6
+    label: ten-gigabitEthernet 1/0/6
   -
-    name: ten-gigabitEthernet 1/0/7
-    label: '7'
-    position: '7'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/7
+    label: ten-gigabitEthernet 1/0/7
   -
-    name: ten-gigabitEthernet 1/0/8
-    label: '8'
-    position: '8'
+    name: SFP
+    position: ten-gigabitEthernet 1/0/8
+    label: ten-gigabitEthernet 1/0/8

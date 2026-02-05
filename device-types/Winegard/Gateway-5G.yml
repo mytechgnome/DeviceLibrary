@@ -17,30 +17,40 @@ comments: |
     Dual SIM Card: Mini SIM (2FF)
     Dimensions: 8.13"l x 8.13"w x 1.68"d
 power-ports:
-  - name: PSU1
+  -
+    name: PSU1
     type: dc-terminal
     maximum_draw: 27
     label: DC+12V/1.7A
 interfaces:
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11ac
     label: Red - WiFi
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
     description: LAN or WAN
-  - name: ant3
+  -
+    name: ant3
     type: 5g
     label: Green - 5G/LTE
-  - name: ant4
+  -
+    name: ant4
     type: 5g
     label: Yellow - 5G/LTE
-  - name: ant5
+  -
+    name: ant5
     type: 5g
     label: Green - 5G/LTE
-  - name: ant6
+  -
+    name: ant6
     type: 5g
     label: Yellow - 5G/LTE
-  - name: sim0
+  -
+    name: sim0
     type: other
-  - name: sim1
+  -
+    name: sim1
     type: other
+module-bays: []

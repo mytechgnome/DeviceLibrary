@@ -15,18 +15,25 @@ comments: |
   Features 1 Gbps IPS routing, and multi-WAN load balancing.
   [Tech Specs](https://techspecs.ui.com/unifi/cloud-gateways/ucg-ultra?subcategory=all-cloud-gateways)
 power-ports:
-  - name: USB-C Power
+  -
+    name: USB-C Power
     type: usb-c
     maximum_draw: 6
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     label: WAN1
     type: 2.5gbase-t
+module-bays: []

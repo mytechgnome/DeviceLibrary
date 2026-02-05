@@ -86,14 +86,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: Port 21
-    position: '21'
+    name: SFP
+    position: Port 21
+    label: Port 21
   -
-    name: Port 22
-    position: '22'
+    name: SFP
+    position: Port 22
+    label: Port 22
   -
-    name: Port 23
-    position: '23'
+    name: SFP
+    position: Port 23
+    label: Port 23
   -
-    name: Port 24
-    position: '24'
+    name: SFP
+    position: Port 24
+    label: Port 24

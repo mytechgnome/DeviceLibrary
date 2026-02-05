@@ -6,6 +6,7 @@ part_number: JPSU-1600W-DC-AFO
 weight: 2.40
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 1600

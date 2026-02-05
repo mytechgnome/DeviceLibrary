@@ -9,24 +9,36 @@ weight: 1.15
 weight_unit: kg
 comments: Bonch Rack Automatic Transfer Switch, 1U, 8A, 230V, Dual C14 IN, 2 Shuko and 6 C13 OUT, 50/60Hz
 power-ports:
-  - name: Source A
+  -
+    name: Source A
     type: iec-60320-c14
-  - name: Source B
+  -
+    name: Source B
     type: iec-60320-c14
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: ita-f
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: ita-f
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
+module-bays: []
+interfaces: []

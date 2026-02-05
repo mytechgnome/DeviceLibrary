@@ -22,26 +22,34 @@ front_image: true
 rear_image: true
 interfaces:
   # RJ45 2.5GbE Ports (1-2)
-  - name: Port 1
-    type: 2.5gbase-t
+  -
+    name: Port 1 type: 2.5gbase-t
     label: Default WAN 1
-  - name: Port 2
+  -
+    name: Port 2
     type: 2.5gbase-t
 
   # SFP+ 10GbE Ports (3-4)
-  - name: Port 3
-    type: 10gbase-x-sfpp
-  - name: Port 4
-    type: 10gbase-x-sfpp
-
-  # SFP28 25GbE Ports (5-6)
-  - name: Port 5
-    type: 25gbase-x-sfp28
-    label: Default WAN 2
-  - name: Port 6
-    type: 25gbase-x-sfp28
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: left
-  - name: PSU 2
+  -
+    name: PSU 2
     position: right
+  -
+    name: SFP
+    position: Port 3
+    label: Port 3
+  -
+    name: SFP
+    position: Port 4
+    label: Port 4
+  -
+    name: SFP
+    position: Port 5
+    label: Port 5
+  -
+    name: SFP
+    position: Port 6
+    label: Port 6

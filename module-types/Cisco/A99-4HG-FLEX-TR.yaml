@@ -4,17 +4,16 @@ model: A99-4HG-FLEX-TR
 part_number: A99-4HG-FLEX-TR
 description: ASR 9900 400G TR combo line card
 comments: '[Cisco ASR 9000 Series 5th Generation 400 Gigabit Ethernet Multi-Rate Line Card Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744662.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: HundredGigE0/{module}/0/40
-    position: '40'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/41
-    position: '41'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/42
-    position: '42'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/43
-    position: '43'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

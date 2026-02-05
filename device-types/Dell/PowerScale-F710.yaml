@@ -25,17 +25,25 @@ module-bays:
     name: PSU-2
     position: '2'
   -
-    name: 100gige-front-end-1
-    position: '1'
+    name: QSFP
+    position: 100gige-front-end-1
+    label: 100gige-front-end-1
+    description: Front End Interface (Front End Networking)
   -
-    name: 100gige-front-end-2
-    position: '2'
+    name: QSFP
+    position: 100gige-front-end-2
+    label: 100gige-front-end-2
+    description: Front End Interface (Front End Networking)
   -
-    name: 100gige-back-end-1
-    position: '1'
+    name: QSFP
+    position: 100gige-back-end-1
+    label: 100gige-back-end-1
+    description: Backend Interface (Infrastructure Networking)
   -
-    name: 100gige-back-end-2
-    position: '2'
+    name: QSFP
+    position: 100gige-back-end-2
+    label: 100gige-back-end-2
+    description: Backend Interface (Infrastructure Networking)
 interfaces:
   -
     name: mgmt-1

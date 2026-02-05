@@ -174,8 +174,12 @@ module-bays:
     name: VIM
     position: VIM
   -
-    name: U1
-    position: '1'
+    name: QSFP
+    position: U1
+    label: U1
+    description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.
   -
-    name: U2
-    position: '2'
+    name: QSFP
+    position: U2
+    label: U2
+    description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.

@@ -7,13 +7,17 @@ comments: '[NE9000-8 Main Processing Unit R2 (MPUR2)](https://info.support.huawe
 weight: 8
 weight_unit: kg
 interfaces:
-  - name: GE0/0/0({module})
+  -
+    name: GE0/0/0({module})
     type: 1000base-t
     mgmt_only: true
 console-ports:
-  - name: Console({module})
+  -
+    name: Console({module})
     type: rj-45
-  - name: AUX({module})
+  -
+    name: AUX({module})
     type: rj-45
-  - name: USB({module})
+  -
+    name: USB({module})
     type: usb-a

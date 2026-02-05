@@ -34,17 +34,21 @@ module-bays:
     position: '1'
     description: Expansion Interface card slot 1
   -
-    name: gei_0/3/1
-    position: '1'
+    name: SFP
+    position: gei_0/3/1
+    label: gei_0/3/1
   -
-    name: gei_0/3/2
-    position: '2'
+    name: SFP
+    position: gei_0/3/2
+    label: gei_0/3/2
   -
-    name: gei_0/3/3
-    position: '3'
+    name: SFP
+    position: gei_0/3/3
+    label: gei_0/3/3
   -
-    name: gei_0/3/4
-    position: '4'
+    name: SFP
+    position: gei_0/3/4
+    label: gei_0/3/4
 interfaces:
   -
     name: mng

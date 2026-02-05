@@ -74,8 +74,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: port1.0.19
-    position: '19'
+    name: SFP
+    position: port1.0.19
+    label: port1.0.19
   -
-    name: port1.0.20
-    position: '20'
+    name: SFP
+    position: port1.0.20
+    label: port1.0.20

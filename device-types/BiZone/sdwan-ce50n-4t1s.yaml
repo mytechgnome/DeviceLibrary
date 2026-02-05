@@ -34,5 +34,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1

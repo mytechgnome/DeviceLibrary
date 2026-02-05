@@ -38,44 +38,86 @@ interfaces:
     description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
 module-bays:
   -
-    name: TN/IDL A
+    name: QSFP
+    position: TN/IDL A
+    label: TN/IDL A
   -
-    name: TN/IDL B
+    name: SFP
+    position: TN/IDL B
+    label: TN/IDL B
   -
-    name: TN/IDL C
+    name: SFP
+    position: TN/IDL C
+    label: TN/IDL C
   -
-    name: TN/IDL D
+    name: SFP
+    position: TN/IDL D
+    label: TN/IDL D
   -
-    name: DOT A
+    name: SFP
+    position: DOT A
+    label: DOT A
   -
-    name: DOT B
+    name: SFP
+    position: DOT B
+    label: DOT B
   -
-    name: DOT C
+    name: SFP
+    position: DOT C
+    label: DOT C
   -
-    name: DOT D
+    name: SFP
+    position: DOT D
+    label: DOT D
   -
-    name: DOT E
+    name: SFP
+    position: DOT E
+    label: DOT E
   -
-    name: DOT F
+    name: SFP
+    position: DOT F
+    label: DOT F
   -
-    name: DOT G
+    name: SFP
+    position: DOT G
+    label: DOT G
   -
-    name: DOT H
+    name: SFP
+    position: DOT H
+    label: DOT H
   -
-    name: DOT I
+    name: SFP
+    position: DOT I
+    label: DOT I
   -
-    name: DOT J
+    name: SFP
+    position: DOT J
+    label: DOT J
   -
-    name: DOT K
+    name: SFP
+    position: DOT K
+    label: DOT K
   -
-    name: DOT L
+    name: SFP
+    position: DOT L
+    label: DOT L
   -
-    name: DOT M
+    name: SFP
+    position: DOT M
+    label: DOT M
   -
-    name: DOT N
+    name: SFP
+    position: DOT N
+    label: DOT N
   -
-    name: DOT O
+    name: SFP
+    position: DOT O
+    label: DOT O
   -
-    name: DOT P
+    name: SFP
+    position: DOT P
+    label: DOT P
   -
-    name: DOT Q
+    name: SFP
+    position: DOT Q
+    label: DOT Q

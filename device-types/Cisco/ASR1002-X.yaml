@@ -9,37 +9,50 @@ weight: 17.36
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Con 0
+  -
+    name: Con 0
     type: rj-45
 module-bays:
-  - name: SPA0
+  -
+    name: SPA0
     label: SPA
     position: 0/1
-  - name: SPA1
+  -
+    name: SPA1
     label: SPA
     position: 0/2
-  - name: SPA2
+  -
+    name: SPA2
     label: SPA
     position: 0/3
-  - name: PSU0
+  -
+    name: PSU0
     position: '0'
     description: Power module 0
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
     description: Power module 1
 interfaces:
-  - name: GigabitEthernet0/0/0
+  -
+    name: GigabitEthernet0/0/0
     type: 1000base-t
-  - name: GigabitEthernet0/0/1
+  -
+    name: GigabitEthernet0/0/1
     type: 1000base-t
-  - name: GigabitEthernet0/0/2
+  -
+    name: GigabitEthernet0/0/2
     type: 1000base-t
-  - name: GigabitEthernet0/0/3
+  -
+    name: GigabitEthernet0/0/3
     type: 1000base-t
-  - name: GigabitEthernet0/0/4
+  -
+    name: GigabitEthernet0/0/4
     type: 1000base-t
-  - name: GigabitEthernet0/0/5
+  -
+    name: GigabitEthernet0/0/5
     type: 1000base-t
-  - name: GigabitEthernet0
+  -
+    name: GigabitEthernet0
     type: 1000base-t
     mgmt_only: true

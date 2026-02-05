@@ -10,83 +10,110 @@ comments: '[Vertiv Geist rPDU GI10022L]'
 weight: 7.26
 weight_unit: kg
 module-bays:
-  - name: IMD
+  -
+    name: IMD
     position: 0/IMD
     description: Interchangeable Monitoring Device
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60309-p-n-e-4h
     maximum_draw: 7360
 power-outlets:
-  - name: '01'
+  -
+    name: '01'
     type: iec-60320-c19
     power_port: Power
-  - name: '02'
+  -
+    name: '02'
     type: iec-60320-c13
     power_port: Power
-  - name: '03'
+  -
+    name: '03'
     type: iec-60320-c13
     power_port: Power
-  - name: '04'
+  -
+    name: '04'
     type: iec-60320-c13
     power_port: Power
-  - name: '05'
+  -
+    name: '05'
     type: iec-60320-c13
     power_port: Power
-  - name: '06'
+  -
+    name: '06'
     type: iec-60320-c13
     power_port: Power
-  - name: '07'
+  -
+    name: '07'
     type: iec-60320-c19
     power_port: Power
-  - name: 08
+  -
+    name: 08
     type: iec-60320-c13
     power_port: Power
-  - name: 09
+  -
+    name: 09
     type: iec-60320-c13
     power_port: Power
-  - name: '10'
+  -
+    name: '10'
     type: iec-60320-c13
     power_port: Power
-  - name: '11'
+  -
+    name: '11'
     type: iec-60320-c13
     power_port: Power
-  - name: '12'
+  -
+    name: '12'
     type: iec-60320-c13
     power_port: Power
-  - name: '13'
+  -
+    name: '13'
     type: iec-60320-c19
     power_port: Power
-  - name: '14'
+  -
+    name: '14'
     type: iec-60320-c13
     power_port: Power
-  - name: '15'
+  -
+    name: '15'
     type: iec-60320-c13
     power_port: Power
-  - name: '16'
+  -
+    name: '16'
     type: iec-60320-c13
     power_port: Power
-  - name: '17'
+  -
+    name: '17'
     type: iec-60320-c13
     power_port: Power
-  - name: '18'
+  -
+    name: '18'
     type: iec-60320-c13
     power_port: Power
-  - name: '19'
+  -
+    name: '19'
     type: iec-60320-c19
     power_port: Power
-  - name: '20'
+  -
+    name: '20'
     type: iec-60320-c13
     power_port: Power
-  - name: '21'
+  -
+    name: '21'
     type: iec-60320-c13
     power_port: Power
-  - name: '22'
+  -
+    name: '22'
     type: iec-60320-c13
     power_port: Power
-  - name: '23'
+  -
+    name: '23'
     type: iec-60320-c13
     power_port: Power
-  - name: '24'
+  -
+    name: '24'
     type: iec-60320-c13
     power_port: Power
+interfaces: []

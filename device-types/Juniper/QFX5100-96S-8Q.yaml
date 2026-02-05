@@ -31,608 +31,809 @@ module-bays:
     name: FAN2
     position: '2'
   -
-    name: ge-0/0/0
-    position: '0'
-  -
-    name: ge-0/0/1
-    position: '1'
-  -
-    name: ge-0/0/2
-    position: '2'
-  -
-    name: ge-0/0/3
-    position: '3'
-  -
-    name: ge-0/0/4
-    position: '4'
-  -
-    name: ge-0/0/5
-    position: '5'
-  -
-    name: ge-0/0/6
-    position: '6'
-  -
-    name: ge-0/0/7
-    position: '7'
-  -
-    name: ge-0/0/8
-    position: '8'
-  -
-    name: ge-0/0/9
-    position: '9'
-  -
-    name: ge-0/0/10
-    position: '10'
-  -
-    name: ge-0/0/11
-    position: '11'
-  -
-    name: ge-0/0/12
-    position: '12'
-  -
-    name: ge-0/0/13
-    position: '13'
-  -
-    name: ge-0/0/14
-    position: '14'
-  -
-    name: ge-0/0/15
-    position: '15'
-  -
-    name: ge-0/0/16
-    position: '16'
-  -
-    name: ge-0/0/17
-    position: '17'
-  -
-    name: ge-0/0/18
-    position: '18'
-  -
-    name: ge-0/0/19
-    position: '19'
-  -
-    name: ge-0/0/20
-    position: '20'
-  -
-    name: ge-0/0/21
-    position: '21'
-  -
-    name: ge-0/0/22
-    position: '22'
-  -
-    name: ge-0/0/23
-    position: '23'
-  -
-    name: ge-0/0/24
-    position: '24'
-  -
-    name: ge-0/0/25
-    position: '25'
-  -
-    name: ge-0/0/26
-    position: '26'
-  -
-    name: ge-0/0/27
-    position: '27'
-  -
-    name: ge-0/0/28
-    position: '28'
-  -
-    name: ge-0/0/29
-    position: '29'
-  -
-    name: ge-0/0/30
-    position: '30'
-  -
-    name: ge-0/0/31
-    position: '31'
-  -
-    name: ge-0/0/32
-    position: '32'
-  -
-    name: ge-0/0/33
-    position: '33'
-  -
-    name: ge-0/0/34
-    position: '34'
-  -
-    name: ge-0/0/35
-    position: '35'
-  -
-    name: ge-0/0/36
-    position: '36'
-  -
-    name: ge-0/0/37
-    position: '37'
-  -
-    name: ge-0/0/38
-    position: '38'
-  -
-    name: ge-0/0/39
-    position: '39'
-  -
-    name: ge-0/0/40
-    position: '40'
-  -
-    name: ge-0/0/41
-    position: '41'
-  -
-    name: ge-0/0/42
-    position: '42'
-  -
-    name: ge-0/0/43
-    position: '43'
-  -
-    name: ge-0/0/44
-    position: '44'
-  -
-    name: ge-0/0/45
-    position: '45'
-  -
-    name: ge-0/0/46
-    position: '46'
-  -
-    name: ge-0/0/47
-    position: '47'
-  -
-    name: ge-0/0/48
-    position: '48'
-  -
-    name: ge-0/0/49
-    position: '49'
-  -
-    name: ge-0/0/50
-    position: '50'
-  -
-    name: ge-0/0/51
-    position: '51'
-  -
-    name: ge-0/0/52
-    position: '52'
-  -
-    name: ge-0/0/53
-    position: '53'
-  -
-    name: ge-0/0/54
-    position: '54'
-  -
-    name: ge-0/0/55
-    position: '55'
-  -
-    name: ge-0/0/56
-    position: '56'
-  -
-    name: ge-0/0/57
-    position: '57'
-  -
-    name: ge-0/0/58
-    position: '58'
-  -
-    name: ge-0/0/59
-    position: '59'
-  -
-    name: ge-0/0/60
-    position: '60'
-  -
-    name: ge-0/0/61
-    position: '61'
-  -
-    name: ge-0/0/62
-    position: '62'
-  -
-    name: ge-0/0/63
-    position: '63'
-  -
-    name: ge-0/0/64
-    position: '64'
-  -
-    name: ge-0/0/65
-    position: '65'
-  -
-    name: ge-0/0/66
-    position: '66'
-  -
-    name: ge-0/0/67
-    position: '67'
-  -
-    name: ge-0/0/68
-    position: '68'
-  -
-    name: ge-0/0/69
-    position: '69'
-  -
-    name: ge-0/0/70
-    position: '70'
-  -
-    name: ge-0/0/71
-    position: '71'
-  -
-    name: ge-0/0/72
-    position: '72'
-  -
-    name: ge-0/0/73
-    position: '73'
-  -
-    name: ge-0/0/74
-    position: '74'
-  -
-    name: ge-0/0/75
-    position: '75'
-  -
-    name: ge-0/0/76
-    position: '76'
-  -
-    name: ge-0/0/77
-    position: '77'
-  -
-    name: ge-0/0/78
-    position: '78'
-  -
-    name: ge-0/0/79
-    position: '79'
-  -
-    name: ge-0/0/80
-    position: '80'
-  -
-    name: ge-0/0/81
-    position: '81'
-  -
-    name: ge-0/0/82
-    position: '82'
-  -
-    name: ge-0/0/83
-    position: '83'
-  -
-    name: ge-0/0/84
-    position: '84'
-  -
-    name: ge-0/0/85
-    position: '85'
-  -
-    name: ge-0/0/86
-    position: '86'
-  -
-    name: ge-0/0/87
-    position: '87'
-  -
-    name: ge-0/0/88
-    position: '88'
-  -
-    name: ge-0/0/89
-    position: '89'
-  -
-    name: ge-0/0/90
-    position: '90'
-  -
-    name: ge-0/0/91
-    position: '91'
-  -
-    name: ge-0/0/92
-    position: '92'
-  -
-    name: ge-0/0/93
-    position: '93'
-  -
-    name: ge-0/0/94
-    position: '94'
-  -
-    name: ge-0/0/95
-    position: '95'
-  -
-    name: xe-0/0/0
-    position: '0'
-  -
-    name: xe-0/0/1
-    position: '1'
-  -
-    name: xe-0/0/2
-    position: '2'
-  -
-    name: xe-0/0/3
-    position: '3'
-  -
-    name: xe-0/0/4
-    position: '4'
-  -
-    name: xe-0/0/5
-    position: '5'
-  -
-    name: xe-0/0/6
-    position: '6'
-  -
-    name: xe-0/0/7
-    position: '7'
-  -
-    name: xe-0/0/8
-    position: '8'
-  -
-    name: xe-0/0/9
-    position: '9'
-  -
-    name: xe-0/0/10
-    position: '10'
-  -
-    name: xe-0/0/11
-    position: '11'
-  -
-    name: xe-0/0/12
-    position: '12'
-  -
-    name: xe-0/0/13
-    position: '13'
-  -
-    name: xe-0/0/14
-    position: '14'
-  -
-    name: xe-0/0/15
-    position: '15'
-  -
-    name: xe-0/0/16
-    position: '16'
-  -
-    name: xe-0/0/17
-    position: '17'
-  -
-    name: xe-0/0/18
-    position: '18'
-  -
-    name: xe-0/0/19
-    position: '19'
-  -
-    name: xe-0/0/20
-    position: '20'
-  -
-    name: xe-0/0/21
-    position: '21'
-  -
-    name: xe-0/0/22
-    position: '22'
-  -
-    name: xe-0/0/23
-    position: '23'
-  -
-    name: xe-0/0/24
-    position: '24'
-  -
-    name: xe-0/0/25
-    position: '25'
-  -
-    name: xe-0/0/26
-    position: '26'
-  -
-    name: xe-0/0/27
-    position: '27'
-  -
-    name: xe-0/0/28
-    position: '28'
-  -
-    name: xe-0/0/29
-    position: '29'
-  -
-    name: xe-0/0/30
-    position: '30'
-  -
-    name: xe-0/0/31
-    position: '31'
-  -
-    name: xe-0/0/32
-    position: '32'
-  -
-    name: xe-0/0/33
-    position: '33'
-  -
-    name: xe-0/0/34
-    position: '34'
-  -
-    name: xe-0/0/35
-    position: '35'
-  -
-    name: xe-0/0/36
-    position: '36'
-  -
-    name: xe-0/0/37
-    position: '37'
-  -
-    name: xe-0/0/38
-    position: '38'
-  -
-    name: xe-0/0/39
-    position: '39'
-  -
-    name: xe-0/0/40
-    position: '40'
-  -
-    name: xe-0/0/41
-    position: '41'
-  -
-    name: xe-0/0/42
-    position: '42'
-  -
-    name: xe-0/0/43
-    position: '43'
-  -
-    name: xe-0/0/44
-    position: '44'
-  -
-    name: xe-0/0/45
-    position: '45'
-  -
-    name: xe-0/0/46
-    position: '46'
-  -
-    name: xe-0/0/47
-    position: '47'
-  -
-    name: xe-0/0/48
-    position: '48'
-  -
-    name: xe-0/0/49
-    position: '49'
-  -
-    name: xe-0/0/50
-    position: '50'
-  -
-    name: xe-0/0/51
-    position: '51'
-  -
-    name: xe-0/0/52
-    position: '52'
-  -
-    name: xe-0/0/53
-    position: '53'
-  -
-    name: xe-0/0/54
-    position: '54'
-  -
-    name: xe-0/0/55
-    position: '55'
-  -
-    name: xe-0/0/56
-    position: '56'
-  -
-    name: xe-0/0/57
-    position: '57'
-  -
-    name: xe-0/0/58
-    position: '58'
-  -
-    name: xe-0/0/59
-    position: '59'
-  -
-    name: xe-0/0/60
-    position: '60'
-  -
-    name: xe-0/0/61
-    position: '61'
-  -
-    name: xe-0/0/62
-    position: '62'
-  -
-    name: xe-0/0/63
-    position: '63'
-  -
-    name: xe-0/0/64
-    position: '64'
-  -
-    name: xe-0/0/65
-    position: '65'
-  -
-    name: xe-0/0/66
-    position: '66'
-  -
-    name: xe-0/0/67
-    position: '67'
-  -
-    name: xe-0/0/68
-    position: '68'
-  -
-    name: xe-0/0/69
-    position: '69'
-  -
-    name: xe-0/0/70
-    position: '70'
-  -
-    name: xe-0/0/71
-    position: '71'
-  -
-    name: xe-0/0/72
-    position: '72'
-  -
-    name: xe-0/0/73
-    position: '73'
-  -
-    name: xe-0/0/74
-    position: '74'
-  -
-    name: xe-0/0/75
-    position: '75'
-  -
-    name: xe-0/0/76
-    position: '76'
-  -
-    name: xe-0/0/77
-    position: '77'
-  -
-    name: xe-0/0/78
-    position: '78'
-  -
-    name: xe-0/0/79
-    position: '79'
-  -
-    name: xe-0/0/80
-    position: '80'
-  -
-    name: xe-0/0/81
-    position: '81'
-  -
-    name: xe-0/0/82
-    position: '82'
-  -
-    name: xe-0/0/83
-    position: '83'
-  -
-    name: xe-0/0/84
-    position: '84'
-  -
-    name: xe-0/0/85
-    position: '85'
-  -
-    name: xe-0/0/86
-    position: '86'
-  -
-    name: xe-0/0/87
-    position: '87'
-  -
-    name: xe-0/0/88
-    position: '88'
-  -
-    name: xe-0/0/89
-    position: '89'
-  -
-    name: xe-0/0/90
-    position: '90'
-  -
-    name: xe-0/0/91
-    position: '91'
-  -
-    name: xe-0/0/92
-    position: '92'
-  -
-    name: xe-0/0/93
-    position: '93'
-  -
-    name: xe-0/0/94
-    position: '94'
-  -
-    name: xe-0/0/95
-    position: '95'
-  -
-    name: et-0/0/96
-    position: '96'
-  -
-    name: et-0/0/97
-    position: '97'
-  -
-    name: et-0/0/98
-    position: '98'
-  -
-    name: et-0/0/99
-    position: '99'
-  -
-    name: et-0/0/100
-    position: '100'
-  -
-    name: et-0/0/101
-    position: '101'
-  -
-    name: et-0/0/102
-    position: '102'
-  -
-    name: et-0/0/103
-    position: '103'
-  -
-    name: em1
-    position: '1'
+    name: SFP
+    position: ge-0/0/0
+    label: ge-0/0/0
+  -
+    name: SFP
+    position: ge-0/0/1
+    label: ge-0/0/1
+  -
+    name: SFP
+    position: ge-0/0/2
+    label: ge-0/0/2
+  -
+    name: SFP
+    position: ge-0/0/3
+    label: ge-0/0/3
+  -
+    name: SFP
+    position: ge-0/0/4
+    label: ge-0/0/4
+  -
+    name: SFP
+    position: ge-0/0/5
+    label: ge-0/0/5
+  -
+    name: SFP
+    position: ge-0/0/6
+    label: ge-0/0/6
+  -
+    name: SFP
+    position: ge-0/0/7
+    label: ge-0/0/7
+  -
+    name: SFP
+    position: ge-0/0/8
+    label: ge-0/0/8
+  -
+    name: SFP
+    position: ge-0/0/9
+    label: ge-0/0/9
+  -
+    name: SFP
+    position: ge-0/0/10
+    label: ge-0/0/10
+  -
+    name: SFP
+    position: ge-0/0/11
+    label: ge-0/0/11
+  -
+    name: SFP
+    position: ge-0/0/12
+    label: ge-0/0/12
+  -
+    name: SFP
+    position: ge-0/0/13
+    label: ge-0/0/13
+  -
+    name: SFP
+    position: ge-0/0/14
+    label: ge-0/0/14
+  -
+    name: SFP
+    position: ge-0/0/15
+    label: ge-0/0/15
+  -
+    name: SFP
+    position: ge-0/0/16
+    label: ge-0/0/16
+  -
+    name: SFP
+    position: ge-0/0/17
+    label: ge-0/0/17
+  -
+    name: SFP
+    position: ge-0/0/18
+    label: ge-0/0/18
+  -
+    name: SFP
+    position: ge-0/0/19
+    label: ge-0/0/19
+  -
+    name: SFP
+    position: ge-0/0/20
+    label: ge-0/0/20
+  -
+    name: SFP
+    position: ge-0/0/21
+    label: ge-0/0/21
+  -
+    name: SFP
+    position: ge-0/0/22
+    label: ge-0/0/22
+  -
+    name: SFP
+    position: ge-0/0/23
+    label: ge-0/0/23
+  -
+    name: SFP
+    position: ge-0/0/24
+    label: ge-0/0/24
+  -
+    name: SFP
+    position: ge-0/0/25
+    label: ge-0/0/25
+  -
+    name: SFP
+    position: ge-0/0/26
+    label: ge-0/0/26
+  -
+    name: SFP
+    position: ge-0/0/27
+    label: ge-0/0/27
+  -
+    name: SFP
+    position: ge-0/0/28
+    label: ge-0/0/28
+  -
+    name: SFP
+    position: ge-0/0/29
+    label: ge-0/0/29
+  -
+    name: SFP
+    position: ge-0/0/30
+    label: ge-0/0/30
+  -
+    name: SFP
+    position: ge-0/0/31
+    label: ge-0/0/31
+  -
+    name: SFP
+    position: ge-0/0/32
+    label: ge-0/0/32
+  -
+    name: SFP
+    position: ge-0/0/33
+    label: ge-0/0/33
+  -
+    name: SFP
+    position: ge-0/0/34
+    label: ge-0/0/34
+  -
+    name: SFP
+    position: ge-0/0/35
+    label: ge-0/0/35
+  -
+    name: SFP
+    position: ge-0/0/36
+    label: ge-0/0/36
+  -
+    name: SFP
+    position: ge-0/0/37
+    label: ge-0/0/37
+  -
+    name: SFP
+    position: ge-0/0/38
+    label: ge-0/0/38
+  -
+    name: SFP
+    position: ge-0/0/39
+    label: ge-0/0/39
+  -
+    name: SFP
+    position: ge-0/0/40
+    label: ge-0/0/40
+  -
+    name: SFP
+    position: ge-0/0/41
+    label: ge-0/0/41
+  -
+    name: SFP
+    position: ge-0/0/42
+    label: ge-0/0/42
+  -
+    name: SFP
+    position: ge-0/0/43
+    label: ge-0/0/43
+  -
+    name: SFP
+    position: ge-0/0/44
+    label: ge-0/0/44
+  -
+    name: SFP
+    position: ge-0/0/45
+    label: ge-0/0/45
+  -
+    name: SFP
+    position: ge-0/0/46
+    label: ge-0/0/46
+  -
+    name: SFP
+    position: ge-0/0/47
+    label: ge-0/0/47
+  -
+    name: SFP
+    position: ge-0/0/48
+    label: ge-0/0/48
+  -
+    name: SFP
+    position: ge-0/0/49
+    label: ge-0/0/49
+  -
+    name: SFP
+    position: ge-0/0/50
+    label: ge-0/0/50
+  -
+    name: SFP
+    position: ge-0/0/51
+    label: ge-0/0/51
+  -
+    name: SFP
+    position: ge-0/0/52
+    label: ge-0/0/52
+  -
+    name: SFP
+    position: ge-0/0/53
+    label: ge-0/0/53
+  -
+    name: SFP
+    position: ge-0/0/54
+    label: ge-0/0/54
+  -
+    name: SFP
+    position: ge-0/0/55
+    label: ge-0/0/55
+  -
+    name: SFP
+    position: ge-0/0/56
+    label: ge-0/0/56
+  -
+    name: SFP
+    position: ge-0/0/57
+    label: ge-0/0/57
+  -
+    name: SFP
+    position: ge-0/0/58
+    label: ge-0/0/58
+  -
+    name: SFP
+    position: ge-0/0/59
+    label: ge-0/0/59
+  -
+    name: SFP
+    position: ge-0/0/60
+    label: ge-0/0/60
+  -
+    name: SFP
+    position: ge-0/0/61
+    label: ge-0/0/61
+  -
+    name: SFP
+    position: ge-0/0/62
+    label: ge-0/0/62
+  -
+    name: SFP
+    position: ge-0/0/63
+    label: ge-0/0/63
+  -
+    name: SFP
+    position: ge-0/0/64
+    label: ge-0/0/64
+  -
+    name: SFP
+    position: ge-0/0/65
+    label: ge-0/0/65
+  -
+    name: SFP
+    position: ge-0/0/66
+    label: ge-0/0/66
+  -
+    name: SFP
+    position: ge-0/0/67
+    label: ge-0/0/67
+  -
+    name: SFP
+    position: ge-0/0/68
+    label: ge-0/0/68
+  -
+    name: SFP
+    position: ge-0/0/69
+    label: ge-0/0/69
+  -
+    name: SFP
+    position: ge-0/0/70
+    label: ge-0/0/70
+  -
+    name: SFP
+    position: ge-0/0/71
+    label: ge-0/0/71
+  -
+    name: SFP
+    position: ge-0/0/72
+    label: ge-0/0/72
+  -
+    name: SFP
+    position: ge-0/0/73
+    label: ge-0/0/73
+  -
+    name: SFP
+    position: ge-0/0/74
+    label: ge-0/0/74
+  -
+    name: SFP
+    position: ge-0/0/75
+    label: ge-0/0/75
+  -
+    name: SFP
+    position: ge-0/0/76
+    label: ge-0/0/76
+  -
+    name: SFP
+    position: ge-0/0/77
+    label: ge-0/0/77
+  -
+    name: SFP
+    position: ge-0/0/78
+    label: ge-0/0/78
+  -
+    name: SFP
+    position: ge-0/0/79
+    label: ge-0/0/79
+  -
+    name: SFP
+    position: ge-0/0/80
+    label: ge-0/0/80
+  -
+    name: SFP
+    position: ge-0/0/81
+    label: ge-0/0/81
+  -
+    name: SFP
+    position: ge-0/0/82
+    label: ge-0/0/82
+  -
+    name: SFP
+    position: ge-0/0/83
+    label: ge-0/0/83
+  -
+    name: SFP
+    position: ge-0/0/84
+    label: ge-0/0/84
+  -
+    name: SFP
+    position: ge-0/0/85
+    label: ge-0/0/85
+  -
+    name: SFP
+    position: ge-0/0/86
+    label: ge-0/0/86
+  -
+    name: SFP
+    position: ge-0/0/87
+    label: ge-0/0/87
+  -
+    name: SFP
+    position: ge-0/0/88
+    label: ge-0/0/88
+  -
+    name: SFP
+    position: ge-0/0/89
+    label: ge-0/0/89
+  -
+    name: SFP
+    position: ge-0/0/90
+    label: ge-0/0/90
+  -
+    name: SFP
+    position: ge-0/0/91
+    label: ge-0/0/91
+  -
+    name: SFP
+    position: ge-0/0/92
+    label: ge-0/0/92
+  -
+    name: SFP
+    position: ge-0/0/93
+    label: ge-0/0/93
+  -
+    name: SFP
+    position: ge-0/0/94
+    label: ge-0/0/94
+  -
+    name: SFP
+    position: ge-0/0/95
+    label: ge-0/0/95
+  -
+    name: SFP
+    position: xe-0/0/0
+    label: xe-0/0/0
+  -
+    name: SFP
+    position: xe-0/0/1
+    label: xe-0/0/1
+  -
+    name: SFP
+    position: xe-0/0/2
+    label: xe-0/0/2
+  -
+    name: SFP
+    position: xe-0/0/3
+    label: xe-0/0/3
+  -
+    name: SFP
+    position: xe-0/0/4
+    label: xe-0/0/4
+  -
+    name: SFP
+    position: xe-0/0/5
+    label: xe-0/0/5
+  -
+    name: SFP
+    position: xe-0/0/6
+    label: xe-0/0/6
+  -
+    name: SFP
+    position: xe-0/0/7
+    label: xe-0/0/7
+  -
+    name: SFP
+    position: xe-0/0/8
+    label: xe-0/0/8
+  -
+    name: SFP
+    position: xe-0/0/9
+    label: xe-0/0/9
+  -
+    name: SFP
+    position: xe-0/0/10
+    label: xe-0/0/10
+  -
+    name: SFP
+    position: xe-0/0/11
+    label: xe-0/0/11
+  -
+    name: SFP
+    position: xe-0/0/12
+    label: xe-0/0/12
+  -
+    name: SFP
+    position: xe-0/0/13
+    label: xe-0/0/13
+  -
+    name: SFP
+    position: xe-0/0/14
+    label: xe-0/0/14
+  -
+    name: SFP
+    position: xe-0/0/15
+    label: xe-0/0/15
+  -
+    name: SFP
+    position: xe-0/0/16
+    label: xe-0/0/16
+  -
+    name: SFP
+    position: xe-0/0/17
+    label: xe-0/0/17
+  -
+    name: SFP
+    position: xe-0/0/18
+    label: xe-0/0/18
+  -
+    name: SFP
+    position: xe-0/0/19
+    label: xe-0/0/19
+  -
+    name: SFP
+    position: xe-0/0/20
+    label: xe-0/0/20
+  -
+    name: SFP
+    position: xe-0/0/21
+    label: xe-0/0/21
+  -
+    name: SFP
+    position: xe-0/0/22
+    label: xe-0/0/22
+  -
+    name: SFP
+    position: xe-0/0/23
+    label: xe-0/0/23
+  -
+    name: SFP
+    position: xe-0/0/24
+    label: xe-0/0/24
+  -
+    name: SFP
+    position: xe-0/0/25
+    label: xe-0/0/25
+  -
+    name: SFP
+    position: xe-0/0/26
+    label: xe-0/0/26
+  -
+    name: SFP
+    position: xe-0/0/27
+    label: xe-0/0/27
+  -
+    name: SFP
+    position: xe-0/0/28
+    label: xe-0/0/28
+  -
+    name: SFP
+    position: xe-0/0/29
+    label: xe-0/0/29
+  -
+    name: SFP
+    position: xe-0/0/30
+    label: xe-0/0/30
+  -
+    name: SFP
+    position: xe-0/0/31
+    label: xe-0/0/31
+  -
+    name: SFP
+    position: xe-0/0/32
+    label: xe-0/0/32
+  -
+    name: SFP
+    position: xe-0/0/33
+    label: xe-0/0/33
+  -
+    name: SFP
+    position: xe-0/0/34
+    label: xe-0/0/34
+  -
+    name: SFP
+    position: xe-0/0/35
+    label: xe-0/0/35
+  -
+    name: SFP
+    position: xe-0/0/36
+    label: xe-0/0/36
+  -
+    name: SFP
+    position: xe-0/0/37
+    label: xe-0/0/37
+  -
+    name: SFP
+    position: xe-0/0/38
+    label: xe-0/0/38
+  -
+    name: SFP
+    position: xe-0/0/39
+    label: xe-0/0/39
+  -
+    name: SFP
+    position: xe-0/0/40
+    label: xe-0/0/40
+  -
+    name: SFP
+    position: xe-0/0/41
+    label: xe-0/0/41
+  -
+    name: SFP
+    position: xe-0/0/42
+    label: xe-0/0/42
+  -
+    name: SFP
+    position: xe-0/0/43
+    label: xe-0/0/43
+  -
+    name: SFP
+    position: xe-0/0/44
+    label: xe-0/0/44
+  -
+    name: SFP
+    position: xe-0/0/45
+    label: xe-0/0/45
+  -
+    name: SFP
+    position: xe-0/0/46
+    label: xe-0/0/46
+  -
+    name: SFP
+    position: xe-0/0/47
+    label: xe-0/0/47
+  -
+    name: SFP
+    position: xe-0/0/48
+    label: xe-0/0/48
+  -
+    name: SFP
+    position: xe-0/0/49
+    label: xe-0/0/49
+  -
+    name: SFP
+    position: xe-0/0/50
+    label: xe-0/0/50
+  -
+    name: SFP
+    position: xe-0/0/51
+    label: xe-0/0/51
+  -
+    name: SFP
+    position: xe-0/0/52
+    label: xe-0/0/52
+  -
+    name: SFP
+    position: xe-0/0/53
+    label: xe-0/0/53
+  -
+    name: SFP
+    position: xe-0/0/54
+    label: xe-0/0/54
+  -
+    name: SFP
+    position: xe-0/0/55
+    label: xe-0/0/55
+  -
+    name: SFP
+    position: xe-0/0/56
+    label: xe-0/0/56
+  -
+    name: SFP
+    position: xe-0/0/57
+    label: xe-0/0/57
+  -
+    name: SFP
+    position: xe-0/0/58
+    label: xe-0/0/58
+  -
+    name: SFP
+    position: xe-0/0/59
+    label: xe-0/0/59
+  -
+    name: SFP
+    position: xe-0/0/60
+    label: xe-0/0/60
+  -
+    name: SFP
+    position: xe-0/0/61
+    label: xe-0/0/61
+  -
+    name: SFP
+    position: xe-0/0/62
+    label: xe-0/0/62
+  -
+    name: SFP
+    position: xe-0/0/63
+    label: xe-0/0/63
+  -
+    name: SFP
+    position: xe-0/0/64
+    label: xe-0/0/64
+  -
+    name: SFP
+    position: xe-0/0/65
+    label: xe-0/0/65
+  -
+    name: SFP
+    position: xe-0/0/66
+    label: xe-0/0/66
+  -
+    name: SFP
+    position: xe-0/0/67
+    label: xe-0/0/67
+  -
+    name: SFP
+    position: xe-0/0/68
+    label: xe-0/0/68
+  -
+    name: SFP
+    position: xe-0/0/69
+    label: xe-0/0/69
+  -
+    name: SFP
+    position: xe-0/0/70
+    label: xe-0/0/70
+  -
+    name: SFP
+    position: xe-0/0/71
+    label: xe-0/0/71
+  -
+    name: SFP
+    position: xe-0/0/72
+    label: xe-0/0/72
+  -
+    name: SFP
+    position: xe-0/0/73
+    label: xe-0/0/73
+  -
+    name: SFP
+    position: xe-0/0/74
+    label: xe-0/0/74
+  -
+    name: SFP
+    position: xe-0/0/75
+    label: xe-0/0/75
+  -
+    name: SFP
+    position: xe-0/0/76
+    label: xe-0/0/76
+  -
+    name: SFP
+    position: xe-0/0/77
+    label: xe-0/0/77
+  -
+    name: SFP
+    position: xe-0/0/78
+    label: xe-0/0/78
+  -
+    name: SFP
+    position: xe-0/0/79
+    label: xe-0/0/79
+  -
+    name: SFP
+    position: xe-0/0/80
+    label: xe-0/0/80
+  -
+    name: SFP
+    position: xe-0/0/81
+    label: xe-0/0/81
+  -
+    name: SFP
+    position: xe-0/0/82
+    label: xe-0/0/82
+  -
+    name: SFP
+    position: xe-0/0/83
+    label: xe-0/0/83
+  -
+    name: SFP
+    position: xe-0/0/84
+    label: xe-0/0/84
+  -
+    name: SFP
+    position: xe-0/0/85
+    label: xe-0/0/85
+  -
+    name: SFP
+    position: xe-0/0/86
+    label: xe-0/0/86
+  -
+    name: SFP
+    position: xe-0/0/87
+    label: xe-0/0/87
+  -
+    name: SFP
+    position: xe-0/0/88
+    label: xe-0/0/88
+  -
+    name: SFP
+    position: xe-0/0/89
+    label: xe-0/0/89
+  -
+    name: SFP
+    position: xe-0/0/90
+    label: xe-0/0/90
+  -
+    name: SFP
+    position: xe-0/0/91
+    label: xe-0/0/91
+  -
+    name: SFP
+    position: xe-0/0/92
+    label: xe-0/0/92
+  -
+    name: SFP
+    position: xe-0/0/93
+    label: xe-0/0/93
+  -
+    name: SFP
+    position: xe-0/0/94
+    label: xe-0/0/94
+  -
+    name: SFP
+    position: xe-0/0/95
+    label: xe-0/0/95
+  -
+    name: QSFP
+    position: et-0/0/96
+    label: et-0/0/96
+  -
+    name: QSFP
+    position: et-0/0/97
+    label: et-0/0/97
+  -
+    name: QSFP
+    position: et-0/0/98
+    label: et-0/0/98
+  -
+    name: QSFP
+    position: et-0/0/99
+    label: et-0/0/99
+  -
+    name: QSFP
+    position: et-0/0/100
+    label: et-0/0/100
+  -
+    name: QSFP
+    position: et-0/0/101
+    label: et-0/0/101
+  -
+    name: QSFP
+    position: et-0/0/102
+    label: et-0/0/102
+  -
+    name: QSFP
+    position: et-0/0/103
+    label: et-0/0/103
+  -
+    name: SFP
+    position: em1
+    label: em1
 console-ports:
   -
     name: console

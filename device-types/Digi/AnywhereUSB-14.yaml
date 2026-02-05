@@ -9,46 +9,66 @@ weight: 1.2
 weight_unit: kg
 airflow: passive
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: de-9
 console-server-ports:
-  - name: USB_1
+  -
+    name: USB_1
     type: usb-a
-  - name: USB_2
+  -
+    name: USB_2
     type: usb-a
-  - name: USB_3
+  -
+    name: USB_3
     type: usb-a
-  - name: USB_4
+  -
+    name: USB_4
     type: usb-a
-  - name: USB_5
+  -
+    name: USB_5
     type: usb-a
-  - name: USB_6
+  -
+    name: USB_6
     type: usb-a
-  - name: USB_7
+  -
+    name: USB_7
     type: usb-a
-  - name: USB_8
+  -
+    name: USB_8
     type: usb-a
-  - name: USB_9
+  -
+    name: USB_9
     type: usb-a
-  - name: USB_10
+  -
+    name: USB_10
     type: usb-a
-  - name: USB_11
+  -
+    name: USB_11
     type: usb-a
-  - name: USB_12
+  -
+    name: USB_12
     type: usb-a
-  - name: USB_13
+  -
+    name: USB_13
     type: usb-a
-  - name: USB_14
+  -
+    name: USB_14
     type: usb-a
 power-ports:
-  - name: PSU1
+  -
+    name: PSU1
     type: iec-60320-c14
     maximum_draw: 160
-  - name: PSU2
+  -
+    name: PSU2
     type: iec-60320-c14
     maximum_draw: 160
 interfaces:
-  - name: ETH1
+  -
+    name: ETH1
     type: 100base-tx
-  - name: ETH2
+  -
+    name: ETH2
     type: 100base-tx
+module-bays: []

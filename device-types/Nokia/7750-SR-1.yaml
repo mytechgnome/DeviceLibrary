@@ -11,30 +11,42 @@ weight_unit: lb
 front_image: true
 rear_image: true
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 interfaces:
-  - name: A/1
+  -
+    name: A/1
     type: 1000base-t
     mgmt_only: true
-  - name: A/3
+  -
+    name: A/3
     type: 1000base-t
-  - name: A/4
+  -
+    name: A/4
     type: 1000base-t
 module-bays:
-  - name: Slot 1 - MDA 1
+  -
+    name: Slot 1 - MDA 1
     position: 1/1
-  - name: Slot 1 - MDA 2
+  -
+    name: Slot 1 - MDA 2
     position: 1/2
-  - name: PS1
+  -
+    name: PS1
     position: '1'
-  - name: PS2
+  -
+    name: PS2
     position: '2'
-  - name: Fan Tray 1
+  -
+    name: Fan Tray 1
     position: '1'
-  - name: Fan Tray 2
+  -
+    name: Fan Tray 2
     position: '2'
-  - name: Fan Tray 3
+  -
+    name: Fan Tray 3
     position: '3'
-  - name: Fan Tray 4
+  -
+    name: Fan Tray 4
     position: '4'

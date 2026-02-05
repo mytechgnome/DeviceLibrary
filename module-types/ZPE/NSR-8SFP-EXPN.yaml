@@ -4,37 +4,36 @@ model: NSR-8SFP-EXPN
 part_number: NSR-8SFP-EXPN
 description: NSR 8-Port 10GbE SFP Expansion Card
 comments: '[ZPE Nodegrid Net SR Data Sheet](https://go.zpesystems.com/rs/004-BTR-463/images/Datasheet-Nodegrid-Net-SR.pdf)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: netS{module}-1
+    name: '{module}'
     label: '1'
-    position: '1'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-2
+    name: '{module}'
     label: '2'
-    position: '2'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-3
+    name: '{module}'
     label: '3'
-    position: '3'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-4
+    name: '{module}'
     label: '4'
-    position: '4'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-5
+    name: '{module}'
     label: '5'
-    position: '5'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-6
+    name: '{module}'
     label: '6'
-    position: '6'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-7
+    name: '{module}'
     label: '7'
-    position: '7'
+    type: 10gbase-x-sfpp
   -
-    name: netS{module}-8
+    name: '{module}'
     label: '8'
-    position: '8'
+    type: 10gbase-x-sfpp

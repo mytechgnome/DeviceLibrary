@@ -18,17 +18,21 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: qx-ethernet 0/1
-    position: '1'
+    name: QSFP
+    position: qx-ethernet 0/1
+    label: qx-ethernet 0/1
   -
-    name: qx-ethernet 0/2
-    position: '2'
+    name: QSFP
+    position: qx-ethernet 0/2
+    label: qx-ethernet 0/2
   -
-    name: qx-ethernet 0/3
-    position: '3'
+    name: QSFP
+    position: qx-ethernet 0/3
+    label: qx-ethernet 0/3
   -
-    name: qx-ethernet 0/4
-    position: '4'
+    name: QSFP
+    position: qx-ethernet 0/4
+    label: qx-ethernet 0/4
 interfaces:
   -
     name: extreme-ethernet 0/1

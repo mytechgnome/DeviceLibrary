@@ -18,35 +18,46 @@ power-ports:
     type: dc-terminal
 module-bays:
   -
-    name: sfp1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1
   -
-    name: sfp2
-    position: '2'
+    name: SFP
+    position: sfp2
+    label: sfp2
   -
-    name: sfp3
-    position: '3'
+    name: SFP
+    position: sfp3
+    label: sfp3
   -
-    name: sfp4
-    position: '4'
+    name: SFP
+    position: sfp4
+    label: sfp4
   -
-    name: sfp5
-    position: '5'
+    name: SFP
+    position: sfp5
+    label: sfp5
   -
-    name: sfp6
-    position: '6'
+    name: SFP
+    position: sfp6
+    label: sfp6
   -
-    name: sfp7
-    position: '7'
+    name: SFP
+    position: sfp7
+    label: sfp7
   -
-    name: sfp8
-    position: '8'
+    name: SFP
+    position: sfp8
+    label: sfp8
   -
-    name: sfp9
-    position: '9'
+    name: SFP
+    position: sfp9
+    label: sfp9
   -
-    name: sfp10
-    position: '10'
+    name: SFP
+    position: sfp10
+    label: sfp10
   -
-    name: sfp-sfpplus1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1

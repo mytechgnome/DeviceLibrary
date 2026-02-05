@@ -41,8 +41,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: sfp-sfpplus1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: sfp1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1

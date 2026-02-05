@@ -69,14 +69,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: '17'
+    name: SFP
     position: '17'
+    label: '17'
   -
-    name: '18'
+    name: SFP
     position: '18'
+    label: '18'
   -
-    name: '19'
+    name: SFP
     position: '19'
+    label: '19'
   -
-    name: '20'
+    name: SFP
     position: '20'
+    label: '20'

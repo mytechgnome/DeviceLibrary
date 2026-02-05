@@ -35,8 +35,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: GigabitEthernet1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet1
+    label: GigabitEthernet1
   -
-    name: GigabitEthernet2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet2
+    label: GigabitEthernet2

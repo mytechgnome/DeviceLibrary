@@ -62,18 +62,18 @@ interfaces:
     label: GE8
 module-bays:
   -
-    name: gigabitethernet 0/1
-    label: GE1
-    position: '1'
+    name: SFP
+    position: gigabitethernet 0/1
+    label: gigabitethernet 0/1
   -
-    name: gigabitethernet 0/2
-    label: GE2
-    position: '2'
+    name: SFP
+    position: gigabitethernet 0/2
+    label: gigabitethernet 0/2
   -
-    name: gigabitethernet 0/3
-    label: GE3
-    position: '3'
+    name: SFP
+    position: gigabitethernet 0/3
+    label: gigabitethernet 0/3
   -
-    name: gigabitethernet 0/4
-    label: GE4
-    position: '4'
+    name: SFP
+    position: gigabitethernet 0/4
+    label: gigabitethernet 0/4

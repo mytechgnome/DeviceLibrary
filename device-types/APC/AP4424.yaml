@@ -10,87 +10,110 @@ weight: 6.94
 weight_unit: kg
 comments: APC - Rack ATS - 230V - 32A - IEC309 in - (16) C13 (2) C19 out
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-12
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60309-2p-e-6h
-  - name: Power Port 2
+  -
+    name: Power Port 2
     type: iec-60309-2p-e-6h
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c19
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 10
+  -
+    name: Outlet 10
     type: iec-60320-c19
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 11
+  -
+    name: Outlet 11
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 12
+  -
+    name: Outlet 12
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 13
+  -
+    name: Outlet 13
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 14
+  -
+    name: Outlet 14
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 15
+  -
+    name: Outlet 15
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 16
+  -
+    name: Outlet 16
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 17
+  -
+    name: Outlet 17
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 18
+  -
+    name: Outlet 18
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
 interfaces:
-  - name: Network
+  -
+    name: Network
     type: 100base-tx
     mgmt_only: true
+module-bays: []

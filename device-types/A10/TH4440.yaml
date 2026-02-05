@@ -19,89 +19,117 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: eth1
-    position: '1'
+    name: SFP
+    position: eth1
+    label: eth1
   -
-    name: eth2
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
   -
-    name: eth4
-    position: '4'
+    name: SFP
+    position: eth4
+    label: eth4
   -
-    name: eth5
-    position: '5'
+    name: SFP
+    position: eth5
+    label: eth5
   -
-    name: eth6
-    position: '6'
+    name: SFP
+    position: eth6
+    label: eth6
   -
-    name: eth7
-    position: '7'
+    name: SFP
+    position: eth7
+    label: eth7
   -
-    name: eth8
-    position: '8'
+    name: SFP
+    position: eth8
+    label: eth8
   -
-    name: eth9
-    position: '9'
+    name: SFP
+    position: eth9
+    label: eth9
   -
-    name: eth10
-    position: '10'
+    name: SFP
+    position: eth10
+    label: eth10
   -
-    name: eth11
-    position: '11'
+    name: SFP
+    position: eth11
+    label: eth11
   -
-    name: eth12
-    position: '12'
+    name: SFP
+    position: eth12
+    label: eth12
   -
-    name: eth13
-    position: '13'
+    name: SFP
+    position: eth13
+    label: eth13
   -
-    name: eth14
-    position: '14'
+    name: SFP
+    position: eth14
+    label: eth14
   -
-    name: eth15
-    position: '15'
+    name: SFP
+    position: eth15
+    label: eth15
   -
-    name: eth16
-    position: '16'
+    name: SFP
+    position: eth16
+    label: eth16
   -
-    name: eth17
-    position: '17'
+    name: SFP
+    position: eth17
+    label: eth17
   -
-    name: eth18
-    position: '18'
+    name: SFP
+    position: eth18
+    label: eth18
   -
-    name: eth19
-    position: '19'
+    name: SFP
+    position: eth19
+    label: eth19
   -
-    name: eth20
-    position: '20'
+    name: SFP
+    position: eth20
+    label: eth20
   -
-    name: eth21
-    position: '21'
+    name: SFP
+    position: eth21
+    label: eth21
   -
-    name: eth22
-    position: '22'
+    name: SFP
+    position: eth22
+    label: eth22
   -
-    name: eth23
-    position: '23'
+    name: SFP
+    position: eth23
+    label: eth23
   -
-    name: eth24
-    position: '24'
+    name: SFP
+    position: eth24
+    label: eth24
   -
-    name: eth25
-    position: '25'
+    name: QSFP
+    position: eth25
+    label: eth25
   -
-    name: eth26
-    position: '26'
+    name: QSFP
+    position: eth26
+    label: eth26
   -
-    name: eth27
-    position: '27'
+    name: QSFP
+    position: eth27
+    label: eth27
   -
-    name: eth28
-    position: '28'
+    name: QSFP
+    position: eth28
+    label: eth28
 interfaces:
   -
     name: mgmt

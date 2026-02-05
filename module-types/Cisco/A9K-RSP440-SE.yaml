@@ -18,6 +18,16 @@ interfaces:
     name: RSP{module}/External USB2 class-A port
     type: other
     mgmt_only: true
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    description: Virtualization Cluster Port
+    mgmt_only: true
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: true
+    description: Virtualization Cluster Port
 console-ports:
   -
     name: con0/RSP{module}/CPU0
@@ -25,10 +35,3 @@ console-ports:
   -
     name: aux0/RSP{module}/CPU0
     type: rj-45
-module-bays:
-  -
-    name: RSP{module}/SFP+_00_10GE
-    position: '10'
-  -
-    name: RSP{module}/SFP+_01_10GE
-    position: '10'

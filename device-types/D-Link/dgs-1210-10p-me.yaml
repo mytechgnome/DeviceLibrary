@@ -70,8 +70,10 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: Port 9
-    position: '9'
+    name: SFP
+    position: Port 9
+    label: Port 9
   -
-    name: Port 10
-    position: '10'
+    name: SFP
+    position: Port 10
+    label: Port 10

@@ -6,19 +6,26 @@ slug: deciso-dec690
 is_full_depth: false
 u_height: 1
 interfaces:
-  - name: igb0
+  -
+    name: igb0
     type: 1000base-t
-  - name: igb1
+  -
+    name: igb1
     type: 1000base-t
-  - name: igb2
+  -
+    name: igb2
     type: 1000base-t
-  - name: igb3
+  -
+    name: igb3
     type: 1000base-t
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: usb-mini-b
 power-ports:
-  - name: pwr
+  -
+    name: pwr
     type: dc-terminal
     maximum_draw: 184
     allocated_draw: 25
+module-bays: []

@@ -11,21 +11,30 @@ airflow: passive
 front_image: true
 rear_image: true
 power-ports:
-  - name: 12V-2A
+  -
+    name: 12V-2A
     type: dc-terminal
     maximum_draw: 24
 interfaces:
-  - name: Eth1
+  -
+    name: Eth1
     type: 1000base-t
-  - name: Eth2
+  -
+    name: Eth2
     type: 1000base-t
-  - name: Eth3
+  -
+    name: Eth3
     type: 1000base-t
-  - name: Eth4
+  -
+    name: Eth4
     type: 1000base-t
-  - name: GPON
+  -
+    name: GPON
     type: gpon
-  - name: wlan24
+  -
+    name: wlan24
     type: ieee802.11n
-  - name: wlan50
+  -
+    name: wlan50
     type: ieee802.11ac
+module-bays: []

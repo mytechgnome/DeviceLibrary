@@ -22,37 +22,37 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: ice0
-    label: P0
-    position: '0'
+    name: SFP
+    position: ice0
+    label: ice0
   -
-    name: ice1
-    label: P1
-    position: '1'
+    name: SFP
+    position: ice1
+    label: ice1
   -
-    name: ice2
-    label: P2
-    position: '2'
+    name: SFP
+    position: ice2
+    label: ice2
   -
-    name: ice3
-    label: P3
-    position: '3'
+    name: SFP
+    position: ice3
+    label: ice3
   -
-    name: ice4
-    label: P4
-    position: '4'
+    name: SFP
+    position: ice4
+    label: ice4
   -
-    name: ice5
-    label: P5
-    position: '5'
+    name: SFP
+    position: ice5
+    label: ice5
   -
-    name: ice6
-    label: P5
-    position: '6'
+    name: SFP
+    position: ice6
+    label: ice6
   -
-    name: ice7
-    label: P6
-    position: '7'
+    name: SFP
+    position: ice7
+    label: ice7
 interfaces:
   -
     name: igc2

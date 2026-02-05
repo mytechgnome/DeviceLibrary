@@ -29,47 +29,62 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: gigabitethernet 0/0/0
-    position: '0'
+    name: SFP
+    position: gigabitethernet 0/0/0
+    label: gigabitethernet 0/0/0
   -
-    name: gigabitethernet 0/0/1
-    position: '1'
+    name: SFP
+    position: gigabitethernet 0/0/1
+    label: gigabitethernet 0/0/1
   -
-    name: gigabitethernet 0/0/2
-    position: '2'
+    name: SFP
+    position: gigabitethernet 0/0/2
+    label: gigabitethernet 0/0/2
   -
-    name: gigabitethernet 0/0/3
-    position: '3'
+    name: SFP
+    position: gigabitethernet 0/0/3
+    label: gigabitethernet 0/0/3
   -
-    name: gigabitethernet 0/0/4
-    position: '4'
+    name: SFP
+    position: gigabitethernet 0/0/4
+    label: gigabitethernet 0/0/4
   -
-    name: gigabitethernet 0/0/6
-    position: '6'
+    name: SFP
+    position: gigabitethernet 0/0/6
+    label: gigabitethernet 0/0/6
   -
-    name: gigabitethernet 0/0/7
-    position: '7'
+    name: SFP
+    position: gigabitethernet 0/0/7
+    label: gigabitethernet 0/0/7
   -
-    name: gigabitethernet 0/0/8
-    position: '8'
+    name: SFP
+    position: gigabitethernet 0/0/8
+    label: gigabitethernet 0/0/8
   -
-    name: gigabitethernet 0/0/9
-    position: '9'
+    name: SFP
+    position: gigabitethernet 0/0/9
+    label: gigabitethernet 0/0/9
   -
-    name: gigabitethernet 0/0/10
-    position: '10'
+    name: SFP
+    position: gigabitethernet 0/0/10
+    label: gigabitethernet 0/0/10
   -
-    name: gigabitethernet 0/0/11
-    position: '11'
+    name: SFP
+    position: gigabitethernet 0/0/11
+    label: gigabitethernet 0/0/11
   -
-    name: gigabitethernet 0/0/12
-    position: '12'
+    name: SFP
+    position: gigabitethernet 0/0/12
+    label: gigabitethernet 0/0/12
   -
-    name: gigabitethernet 0/0/13
-    position: '13'
+    name: SFP
+    position: gigabitethernet 0/0/13
+    label: gigabitethernet 0/0/13
   -
-    name: gigabitethernet 0/0/14
-    position: '14'
+    name: SFP
+    position: gigabitethernet 0/0/14
+    label: gigabitethernet 0/0/14
   -
-    name: gigabitethernet 0/0/15
-    position: '15'
+    name: SFP
+    position: gigabitethernet 0/0/15
+    label: gigabitethernet 0/0/15

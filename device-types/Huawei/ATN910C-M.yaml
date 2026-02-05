@@ -27,101 +27,101 @@ module-bays:
     name: PWR2
     position: '2'
   -
-    name: GigabitEthernet0/2/0
-    label: 10GE/GE/FE 0
-    position: '0'
+    name: SFP
+    position: GigabitEthernet0/2/0
+    label: GigabitEthernet0/2/0
   -
-    name: GigabitEthernet0/2/1
-    label: 10GE/GE/FE 1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet0/2/1
+    label: GigabitEthernet0/2/1
   -
-    name: GigabitEthernet0/2/2
-    label: 10GE/GE/FE 2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet0/2/2
+    label: GigabitEthernet0/2/2
   -
-    name: GigabitEthernet0/2/3
-    label: 10GE/GE/FE 3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet0/2/3
+    label: GigabitEthernet0/2/3
   -
-    name: GigabitEthernet0/2/4
-    label: 10GE/GE/FE 4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet0/2/4
+    label: GigabitEthernet0/2/4
   -
-    name: GigabitEthernet0/2/5
-    label: 10GE/GE/FE 5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet0/2/5
+    label: GigabitEthernet0/2/5
   -
-    name: GigabitEthernet0/2/6
-    label: 10GE/GE/FE 6
-    position: '6'
+    name: SFP
+    position: GigabitEthernet0/2/6
+    label: GigabitEthernet0/2/6
   -
-    name: GigabitEthernet0/2/7
-    label: 10GE/GE/FE 7
-    position: '7'
+    name: SFP
+    position: GigabitEthernet0/2/7
+    label: GigabitEthernet0/2/7
   -
-    name: GigabitEthernet0/2/8
-    label: 10GE/GE/FE 8
-    position: '8'
+    name: SFP
+    position: GigabitEthernet0/2/8
+    label: GigabitEthernet0/2/8
   -
-    name: GigabitEthernet0/2/9
-    label: 10GE/GE/FE 9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet0/2/9
+    label: GigabitEthernet0/2/9
   -
-    name: GigabitEthernet0/2/10
-    label: 10GE/GE/FE 10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet0/2/10
+    label: GigabitEthernet0/2/10
   -
-    name: GigabitEthernet0/2/11
-    label: 10GE/GE/FE 11
-    position: '11'
+    name: SFP
+    position: GigabitEthernet0/2/11
+    label: GigabitEthernet0/2/11
   -
-    name: GigabitEthernet0/2/12
-    label: 10GE/GE/FE 12
-    position: '12'
+    name: SFP
+    position: GigabitEthernet0/2/12
+    label: GigabitEthernet0/2/12
   -
-    name: GigabitEthernet0/2/13
-    label: 10GE/GE/FE 13
-    position: '13'
+    name: SFP
+    position: GigabitEthernet0/2/13
+    label: GigabitEthernet0/2/13
   -
-    name: GigabitEthernet0/2/14
-    label: 10GE/GE/FE 14
-    position: '14'
+    name: SFP
+    position: GigabitEthernet0/2/14
+    label: GigabitEthernet0/2/14
   -
-    name: GigabitEthernet0/2/15
-    label: 10GE/GE/FE 15
-    position: '15'
+    name: SFP
+    position: GigabitEthernet0/2/15
+    label: GigabitEthernet0/2/15
   -
-    name: GigabitEthernet0/2/16
-    label: GE/FE 16
-    position: '16'
+    name: SFP
+    position: GigabitEthernet0/2/16
+    label: GigabitEthernet0/2/16
   -
-    name: GigabitEthernet0/2/17
-    label: GE/FE 17
-    position: '17'
+    name: SFP
+    position: GigabitEthernet0/2/17
+    label: GigabitEthernet0/2/17
   -
-    name: GigabitEthernet0/2/18
-    label: GE/FE 18
-    position: '18'
+    name: SFP
+    position: GigabitEthernet0/2/18
+    label: GigabitEthernet0/2/18
   -
-    name: GigabitEthernet0/2/19
-    label: GE/FE 19
-    position: '19'
+    name: SFP
+    position: GigabitEthernet0/2/19
+    label: GigabitEthernet0/2/19
   -
-    name: GigabitEthernet0/2/20
-    label: GE/FE 20
-    position: '20'
+    name: SFP
+    position: GigabitEthernet0/2/20
+    label: GigabitEthernet0/2/20
   -
-    name: GigabitEthernet0/2/21
-    label: GE/FE 21
-    position: '21'
+    name: SFP
+    position: GigabitEthernet0/2/21
+    label: GigabitEthernet0/2/21
   -
-    name: GigabitEthernet0/2/22
-    label: GE/FE 22
-    position: '22'
+    name: SFP
+    position: GigabitEthernet0/2/22
+    label: GigabitEthernet0/2/22
   -
-    name: GigabitEthernet0/2/23
-    label: GE/FE 23
-    position: '23'
+    name: SFP
+    position: GigabitEthernet0/2/23
+    label: GigabitEthernet0/2/23
 interfaces:
   -
     name: MEthernet0/0/0

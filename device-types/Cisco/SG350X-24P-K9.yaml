@@ -166,14 +166,18 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: TengigabitEthernet1/0/1
-    position: '1'
+    name: SFP
+    position: TengigabitEthernet1/0/1
+    label: TengigabitEthernet1/0/1
   -
-    name: TengigabitEthernet1/0/2
-    position: '2'
+    name: SFP
+    position: TengigabitEthernet1/0/2
+    label: TengigabitEthernet1/0/2
   -
-    name: TengigabitEthernet1/0/3
-    position: '3'
+    name: SFP
+    position: TengigabitEthernet1/0/3
+    label: TengigabitEthernet1/0/3
   -
-    name: TengigabitEthernet1/0/4
-    position: '4'
+    name: SFP
+    position: TengigabitEthernet1/0/4
+    label: TengigabitEthernet1/0/4

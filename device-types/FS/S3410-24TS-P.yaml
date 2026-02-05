@@ -177,10 +177,10 @@ module-bays:
     name: PSU 2
     position: '2'
   -
-    name: TenGigabitEthernet 0/25
-    label: '25'
-    position: '25'
+    name: SFP
+    position: TenGigabitEthernet 0/25
+    label: TenGigabitEthernet 0/25
   -
-    name: TenGigabitEthernet 0/26
-    label: '26'
-    position: '26'
+    name: SFP
+    position: TenGigabitEthernet 0/26
+    label: TenGigabitEthernet 0/26

@@ -21,323 +21,429 @@ module-bays:
     name: PSU 1
     position: '1'
   -
-    name: Ethernet1
-    position: '1'
-  -
-    name: Ethernet2
-    position: '2'
-  -
-    name: Ethernet3
-    position: '3'
-  -
-    name: Ethernet4
-    position: '4'
-  -
-    name: Ethernet5
-    position: '5'
-  -
-    name: Ethernet6
-    position: '6'
-  -
-    name: Ethernet7
-    position: '7'
-  -
-    name: Ethernet8
-    position: '8'
-  -
-    name: Ethernet9
-    position: '9'
-  -
-    name: Ethernet10
-    position: '10'
-  -
-    name: Ethernet11
-    position: '11'
-  -
-    name: Ethernet12
-    position: '12'
-  -
-    name: Ethernet13
-    position: '13'
-  -
-    name: Ethernet14
-    position: '14'
-  -
-    name: Ethernet15
-    position: '15'
-  -
-    name: Ethernet16
-    position: '16'
-  -
-    name: Ethernet17
-    position: '17'
-  -
-    name: Ethernet18
-    position: '18'
-  -
-    name: Ethernet19
-    position: '19'
-  -
-    name: Ethernet20
-    position: '20'
-  -
-    name: Ethernet21
-    position: '21'
-  -
-    name: Ethernet22
-    position: '22'
-  -
-    name: Ethernet23
-    position: '23'
-  -
-    name: Ethernet24
-    position: '24'
-  -
-    name: Ethernet25
-    position: '25'
-  -
-    name: Ethernet26
-    position: '26'
-  -
-    name: Ethernet27
-    position: '27'
-  -
-    name: Ethernet28
-    position: '28'
-  -
-    name: Ethernet29
-    position: '29'
-  -
-    name: Ethernet30
-    position: '30'
-  -
-    name: Ethernet31
-    position: '31'
-  -
-    name: Ethernet32
-    position: '32'
-  -
-    name: Ethernet33
-    position: '33'
-  -
-    name: Ethernet34
-    position: '34'
-  -
-    name: Ethernet35
-    position: '35'
-  -
-    name: Ethernet36
-    position: '36'
-  -
-    name: Ethernet37
-    position: '37'
-  -
-    name: Ethernet38
-    position: '38'
-  -
-    name: Ethernet39
-    position: '39'
-  -
-    name: Ethernet40
-    position: '40'
-  -
-    name: Ethernet41
-    position: '41'
-  -
-    name: Ethernet42
-    position: '42'
-  -
-    name: Ethernet43
-    position: '43'
-  -
-    name: Ethernet44
-    position: '44'
-  -
-    name: Ethernet45
-    position: '45'
-  -
-    name: Ethernet46
-    position: '46'
-  -
-    name: Ethernet47
-    position: '47'
-  -
-    name: Ethernet48
-    position: '48'
-  -
-    name: Ethernet49
-    position: '49'
-  -
-    name: Ethernet50
-    position: '50'
-  -
-    name: Ethernet51
-    position: '51'
-  -
-    name: Ethernet52
-    position: '52'
-  -
-    name: Ethernet53
-    position: '53'
-  -
-    name: Ethernet54
-    position: '54'
-  -
-    name: Ethernet55
-    position: '55'
-  -
-    name: Ethernet56
-    position: '56'
-  -
-    name: Ethernet57
-    position: '57'
-  -
-    name: Ethernet58
-    position: '58'
-  -
-    name: Ethernet59
-    position: '59'
-  -
-    name: Ethernet60
-    position: '60'
-  -
-    name: Ethernet61
-    position: '61'
-  -
-    name: Ethernet62
-    position: '62'
-  -
-    name: Ethernet63
-    position: '63'
-  -
-    name: Ethernet64
-    position: '64'
-  -
-    name: Ethernet65
-    position: '65'
-  -
-    name: Ethernet66
-    position: '66'
-  -
-    name: Ethernet67
-    position: '67'
-  -
-    name: Ethernet68
-    position: '68'
-  -
-    name: Ethernet69
-    position: '69'
-  -
-    name: Ethernet70
-    position: '70'
-  -
-    name: Ethernet71
-    position: '71'
-  -
-    name: Ethernet72
-    position: '72'
-  -
-    name: Ethernet73
-    position: '73'
-  -
-    name: Ethernet74
-    position: '74'
-  -
-    name: Ethernet75
-    position: '75'
-  -
-    name: Ethernet76
-    position: '76'
-  -
-    name: Ethernet77
-    position: '77'
-  -
-    name: Ethernet78
-    position: '78'
-  -
-    name: Ethernet79
-    position: '79'
-  -
-    name: Ethernet80
-    position: '80'
-  -
-    name: Ethernet81
-    position: '81'
-  -
-    name: Ethernet82
-    position: '82'
-  -
-    name: Ethernet83
-    position: '83'
-  -
-    name: Ethernet84
-    position: '84'
-  -
-    name: Ethernet85
-    position: '85'
-  -
-    name: Ethernet86
-    position: '86'
-  -
-    name: Ethernet87
-    position: '87'
-  -
-    name: Ethernet88
-    position: '88'
-  -
-    name: Ethernet89
-    position: '89'
-  -
-    name: Ethernet90
-    position: '90'
-  -
-    name: Ethernet91
-    position: '91'
-  -
-    name: Ethernet92
-    position: '92'
-  -
-    name: Ethernet93
-    position: '93'
-  -
-    name: Ethernet94
-    position: '94'
-  -
-    name: Ethernet95
-    position: '95'
-  -
-    name: Ethernet96
-    position: '96'
-  -
-    name: Ethernet97/1
-    position: '1'
-  -
-    name: Ethernet98/1
-    position: '1'
-  -
-    name: Ethernet99/1
-    position: '1'
-  -
-    name: Ethernet100/1
-    position: '1'
-  -
-    name: Ethernet101/1
-    position: '1'
-  -
-    name: Ethernet102/1
-    position: '1'
-  -
-    name: Ethernet103/1
-    position: '1'
-  -
-    name: Ethernet104/1
-    position: '1'
-  -
-    name: Ethernet105
-    position: '105'
-  -
-    name: Ethernet106
-    position: '106'
+    name: SFP
+    position: Ethernet1
+    label: Ethernet1
+  -
+    name: SFP
+    position: Ethernet2
+    label: Ethernet2
+  -
+    name: SFP
+    position: Ethernet3
+    label: Ethernet3
+  -
+    name: SFP
+    position: Ethernet4
+    label: Ethernet4
+  -
+    name: SFP
+    position: Ethernet5
+    label: Ethernet5
+  -
+    name: SFP
+    position: Ethernet6
+    label: Ethernet6
+  -
+    name: SFP
+    position: Ethernet7
+    label: Ethernet7
+  -
+    name: SFP
+    position: Ethernet8
+    label: Ethernet8
+  -
+    name: SFP
+    position: Ethernet9
+    label: Ethernet9
+  -
+    name: SFP
+    position: Ethernet10
+    label: Ethernet10
+  -
+    name: SFP
+    position: Ethernet11
+    label: Ethernet11
+  -
+    name: SFP
+    position: Ethernet12
+    label: Ethernet12
+  -
+    name: SFP
+    position: Ethernet13
+    label: Ethernet13
+  -
+    name: SFP
+    position: Ethernet14
+    label: Ethernet14
+  -
+    name: SFP
+    position: Ethernet15
+    label: Ethernet15
+  -
+    name: SFP
+    position: Ethernet16
+    label: Ethernet16
+  -
+    name: SFP
+    position: Ethernet17
+    label: Ethernet17
+  -
+    name: SFP
+    position: Ethernet18
+    label: Ethernet18
+  -
+    name: SFP
+    position: Ethernet19
+    label: Ethernet19
+  -
+    name: SFP
+    position: Ethernet20
+    label: Ethernet20
+  -
+    name: SFP
+    position: Ethernet21
+    label: Ethernet21
+  -
+    name: SFP
+    position: Ethernet22
+    label: Ethernet22
+  -
+    name: SFP
+    position: Ethernet23
+    label: Ethernet23
+  -
+    name: SFP
+    position: Ethernet24
+    label: Ethernet24
+  -
+    name: SFP
+    position: Ethernet25
+    label: Ethernet25
+  -
+    name: SFP
+    position: Ethernet26
+    label: Ethernet26
+  -
+    name: SFP
+    position: Ethernet27
+    label: Ethernet27
+  -
+    name: SFP
+    position: Ethernet28
+    label: Ethernet28
+  -
+    name: SFP
+    position: Ethernet29
+    label: Ethernet29
+  -
+    name: SFP
+    position: Ethernet30
+    label: Ethernet30
+  -
+    name: SFP
+    position: Ethernet31
+    label: Ethernet31
+  -
+    name: SFP
+    position: Ethernet32
+    label: Ethernet32
+  -
+    name: SFP
+    position: Ethernet33
+    label: Ethernet33
+  -
+    name: SFP
+    position: Ethernet34
+    label: Ethernet34
+  -
+    name: SFP
+    position: Ethernet35
+    label: Ethernet35
+  -
+    name: SFP
+    position: Ethernet36
+    label: Ethernet36
+  -
+    name: SFP
+    position: Ethernet37
+    label: Ethernet37
+  -
+    name: SFP
+    position: Ethernet38
+    label: Ethernet38
+  -
+    name: SFP
+    position: Ethernet39
+    label: Ethernet39
+  -
+    name: SFP
+    position: Ethernet40
+    label: Ethernet40
+  -
+    name: SFP
+    position: Ethernet41
+    label: Ethernet41
+  -
+    name: SFP
+    position: Ethernet42
+    label: Ethernet42
+  -
+    name: SFP
+    position: Ethernet43
+    label: Ethernet43
+  -
+    name: SFP
+    position: Ethernet44
+    label: Ethernet44
+  -
+    name: SFP
+    position: Ethernet45
+    label: Ethernet45
+  -
+    name: SFP
+    position: Ethernet46
+    label: Ethernet46
+  -
+    name: SFP
+    position: Ethernet47
+    label: Ethernet47
+  -
+    name: SFP
+    position: Ethernet48
+    label: Ethernet48
+  -
+    name: SFP
+    position: Ethernet49
+    label: Ethernet49
+  -
+    name: SFP
+    position: Ethernet50
+    label: Ethernet50
+  -
+    name: SFP
+    position: Ethernet51
+    label: Ethernet51
+  -
+    name: SFP
+    position: Ethernet52
+    label: Ethernet52
+  -
+    name: SFP
+    position: Ethernet53
+    label: Ethernet53
+  -
+    name: SFP
+    position: Ethernet54
+    label: Ethernet54
+  -
+    name: SFP
+    position: Ethernet55
+    label: Ethernet55
+  -
+    name: SFP
+    position: Ethernet56
+    label: Ethernet56
+  -
+    name: SFP
+    position: Ethernet57
+    label: Ethernet57
+  -
+    name: SFP
+    position: Ethernet58
+    label: Ethernet58
+  -
+    name: SFP
+    position: Ethernet59
+    label: Ethernet59
+  -
+    name: SFP
+    position: Ethernet60
+    label: Ethernet60
+  -
+    name: SFP
+    position: Ethernet61
+    label: Ethernet61
+  -
+    name: SFP
+    position: Ethernet62
+    label: Ethernet62
+  -
+    name: SFP
+    position: Ethernet63
+    label: Ethernet63
+  -
+    name: SFP
+    position: Ethernet64
+    label: Ethernet64
+  -
+    name: SFP
+    position: Ethernet65
+    label: Ethernet65
+  -
+    name: SFP
+    position: Ethernet66
+    label: Ethernet66
+  -
+    name: SFP
+    position: Ethernet67
+    label: Ethernet67
+  -
+    name: SFP
+    position: Ethernet68
+    label: Ethernet68
+  -
+    name: SFP
+    position: Ethernet69
+    label: Ethernet69
+  -
+    name: SFP
+    position: Ethernet70
+    label: Ethernet70
+  -
+    name: SFP
+    position: Ethernet71
+    label: Ethernet71
+  -
+    name: SFP
+    position: Ethernet72
+    label: Ethernet72
+  -
+    name: SFP
+    position: Ethernet73
+    label: Ethernet73
+  -
+    name: SFP
+    position: Ethernet74
+    label: Ethernet74
+  -
+    name: SFP
+    position: Ethernet75
+    label: Ethernet75
+  -
+    name: SFP
+    position: Ethernet76
+    label: Ethernet76
+  -
+    name: SFP
+    position: Ethernet77
+    label: Ethernet77
+  -
+    name: SFP
+    position: Ethernet78
+    label: Ethernet78
+  -
+    name: SFP
+    position: Ethernet79
+    label: Ethernet79
+  -
+    name: SFP
+    position: Ethernet80
+    label: Ethernet80
+  -
+    name: SFP
+    position: Ethernet81
+    label: Ethernet81
+  -
+    name: SFP
+    position: Ethernet82
+    label: Ethernet82
+  -
+    name: SFP
+    position: Ethernet83
+    label: Ethernet83
+  -
+    name: SFP
+    position: Ethernet84
+    label: Ethernet84
+  -
+    name: SFP
+    position: Ethernet85
+    label: Ethernet85
+  -
+    name: SFP
+    position: Ethernet86
+    label: Ethernet86
+  -
+    name: SFP
+    position: Ethernet87
+    label: Ethernet87
+  -
+    name: SFP
+    position: Ethernet88
+    label: Ethernet88
+  -
+    name: SFP
+    position: Ethernet89
+    label: Ethernet89
+  -
+    name: SFP
+    position: Ethernet90
+    label: Ethernet90
+  -
+    name: SFP
+    position: Ethernet91
+    label: Ethernet91
+  -
+    name: SFP
+    position: Ethernet92
+    label: Ethernet92
+  -
+    name: SFP
+    position: Ethernet93
+    label: Ethernet93
+  -
+    name: SFP
+    position: Ethernet94
+    label: Ethernet94
+  -
+    name: SFP
+    position: Ethernet95
+    label: Ethernet95
+  -
+    name: SFP
+    position: Ethernet96
+    label: Ethernet96
+  -
+    name: QSFP
+    position: Ethernet97/1
+    label: Ethernet97/1
+  -
+    name: QSFP
+    position: Ethernet98/1
+    label: Ethernet98/1
+  -
+    name: QSFP
+    position: Ethernet99/1
+    label: Ethernet99/1
+  -
+    name: QSFP
+    position: Ethernet100/1
+    label: Ethernet100/1
+  -
+    name: QSFP
+    position: Ethernet101/1
+    label: Ethernet101/1
+  -
+    name: QSFP
+    position: Ethernet102/1
+    label: Ethernet102/1
+  -
+    name: QSFP
+    position: Ethernet103/1
+    label: Ethernet103/1
+  -
+    name: QSFP
+    position: Ethernet104/1
+    label: Ethernet104/1
+  -
+    name: SFP
+    position: Ethernet105
+    label: Ethernet105
+  -
+    name: SFP
+    position: Ethernet106
+    label: Ethernet106
 front_image: true
 rear_image: false
 interfaces:

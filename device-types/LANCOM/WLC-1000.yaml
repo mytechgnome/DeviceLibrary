@@ -32,14 +32,18 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: ETH-1 SFP
-    position: '1'
+    name: SFP
+    position: ETH-1 SFP
+    label: ETH-1 SFP
   -
-    name: ETH-2 SFP
-    position: '2'
+    name: SFP
+    position: ETH-2 SFP
+    label: ETH-2 SFP
   -
-    name: ETH-3 SFP
-    position: '3'
+    name: SFP
+    position: ETH-3 SFP
+    label: ETH-3 SFP
   -
-    name: ETH-4 SFP
-    position: '4'
+    name: SFP
+    position: ETH-4 SFP
+    label: ETH-4 SFP

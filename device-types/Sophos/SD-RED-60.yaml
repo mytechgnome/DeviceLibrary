@@ -42,8 +42,9 @@ module-bays:
     name: A
     position: A
   -
-    name: WAN1 SFP
-    position: '1'
+    name: SFP
+    position: WAN1 SFP
+    label: WAN1 SFP
 power-ports:
   -
     name: DC In 1

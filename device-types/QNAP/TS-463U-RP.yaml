@@ -17,9 +17,9 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: eth4
-    label: '5'
-    position: '4'
+    name: SFP
+    position: eth4
+    label: eth4
 interfaces:
   -
     name: eth0

@@ -6,10 +6,14 @@ part_number: AIR-BR1310G-E-K9-R
 u_height: 0
 is_full_depth: false
 interfaces:
-  - name: FastEthernet0
+  -
+    name: FastEthernet0
     type: 100base-tx
-  - name: Dot11Radio0
+  -
+    name: Dot11Radio0
     type: ieee802.11g
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
+module-bays: []

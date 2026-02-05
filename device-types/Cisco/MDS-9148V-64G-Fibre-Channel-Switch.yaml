@@ -34,149 +34,197 @@ module-bays:
     position: '2'
     description: Chassis Power Supply
   -
-    name: fc1/1
-    position: '1'
+    name: SFP
+    position: fc1/1
+    label: fc1/1
   -
-    name: fc1/2
-    position: '2'
+    name: SFP
+    position: fc1/2
+    label: fc1/2
   -
-    name: fc1/3
-    position: '3'
+    name: SFP
+    position: fc1/3
+    label: fc1/3
   -
-    name: fc1/4
-    position: '4'
+    name: SFP
+    position: fc1/4
+    label: fc1/4
   -
-    name: fc1/5
-    position: '5'
+    name: SFP
+    position: fc1/5
+    label: fc1/5
   -
-    name: fc1/6
-    position: '6'
+    name: SFP
+    position: fc1/6
+    label: fc1/6
   -
-    name: fc1/7
-    position: '7'
+    name: SFP
+    position: fc1/7
+    label: fc1/7
   -
-    name: fc1/8
-    position: '8'
+    name: SFP
+    position: fc1/8
+    label: fc1/8
   -
-    name: fc1/9
-    position: '9'
+    name: SFP
+    position: fc1/9
+    label: fc1/9
   -
-    name: fc1/10
-    position: '10'
+    name: SFP
+    position: fc1/10
+    label: fc1/10
   -
-    name: fc1/11
-    position: '11'
+    name: SFP
+    position: fc1/11
+    label: fc1/11
   -
-    name: fc1/12
-    position: '12'
+    name: SFP
+    position: fc1/12
+    label: fc1/12
   -
-    name: fc1/13
-    position: '13'
+    name: SFP
+    position: fc1/13
+    label: fc1/13
   -
-    name: fc1/14
-    position: '14'
+    name: SFP
+    position: fc1/14
+    label: fc1/14
   -
-    name: fc1/15
-    position: '15'
+    name: SFP
+    position: fc1/15
+    label: fc1/15
   -
-    name: fc1/16
-    position: '16'
+    name: SFP
+    position: fc1/16
+    label: fc1/16
   -
-    name: fc1/17
-    position: '17'
+    name: SFP
+    position: fc1/17
+    label: fc1/17
   -
-    name: fc1/18
-    position: '18'
+    name: SFP
+    position: fc1/18
+    label: fc1/18
   -
-    name: fc1/19
-    position: '19'
+    name: SFP
+    position: fc1/19
+    label: fc1/19
   -
-    name: fc1/20
-    position: '20'
+    name: SFP
+    position: fc1/20
+    label: fc1/20
   -
-    name: fc1/21
-    position: '21'
+    name: SFP
+    position: fc1/21
+    label: fc1/21
   -
-    name: fc1/22
-    position: '22'
+    name: SFP
+    position: fc1/22
+    label: fc1/22
   -
-    name: fc1/23
-    position: '23'
+    name: SFP
+    position: fc1/23
+    label: fc1/23
   -
-    name: fc1/24
-    position: '24'
+    name: SFP
+    position: fc1/24
+    label: fc1/24
   -
-    name: fc1/25
-    position: '25'
+    name: SFP
+    position: fc1/25
+    label: fc1/25
   -
-    name: fc1/26
-    position: '26'
+    name: SFP
+    position: fc1/26
+    label: fc1/26
   -
-    name: fc1/27
-    position: '27'
+    name: SFP
+    position: fc1/27
+    label: fc1/27
   -
-    name: fc1/28
-    position: '28'
+    name: SFP
+    position: fc1/28
+    label: fc1/28
   -
-    name: fc1/29
-    position: '29'
+    name: SFP
+    position: fc1/29
+    label: fc1/29
   -
-    name: fc1/30
-    position: '30'
+    name: SFP
+    position: fc1/30
+    label: fc1/30
   -
-    name: fc1/31
-    position: '31'
+    name: SFP
+    position: fc1/31
+    label: fc1/31
   -
-    name: fc1/32
-    position: '32'
+    name: SFP
+    position: fc1/32
+    label: fc1/32
   -
-    name: fc1/33
-    position: '33'
+    name: SFP
+    position: fc1/33
+    label: fc1/33
   -
-    name: fc1/34
-    position: '34'
+    name: SFP
+    position: fc1/34
+    label: fc1/34
   -
-    name: fc1/35
-    position: '35'
+    name: SFP
+    position: fc1/35
+    label: fc1/35
   -
-    name: fc1/36
-    position: '36'
+    name: SFP
+    position: fc1/36
+    label: fc1/36
   -
-    name: fc1/37
-    position: '37'
+    name: SFP
+    position: fc1/37
+    label: fc1/37
   -
-    name: fc1/38
-    position: '38'
+    name: SFP
+    position: fc1/38
+    label: fc1/38
   -
-    name: fc1/39
-    position: '39'
+    name: SFP
+    position: fc1/39
+    label: fc1/39
   -
-    name: fc1/40
-    position: '40'
+    name: SFP
+    position: fc1/40
+    label: fc1/40
   -
-    name: fc1/41
-    position: '41'
+    name: SFP
+    position: fc1/41
+    label: fc1/41
   -
-    name: fc1/42
-    position: '42'
+    name: SFP
+    position: fc1/42
+    label: fc1/42
   -
-    name: fc1/43
-    position: '43'
+    name: SFP
+    position: fc1/43
+    label: fc1/43
   -
-    name: fc1/44
-    position: '44'
+    name: SFP
+    position: fc1/44
+    label: fc1/44
   -
-    name: fc1/45
-    position: '45'
+    name: SFP
+    position: fc1/45
+    label: fc1/45
   -
-    name: fc1/46
-    position: '46'
+    name: SFP
+    position: fc1/46
+    label: fc1/46
   -
-    name: fc1/47
-    position: '47'
+    name: SFP
+    position: fc1/47
+    label: fc1/47
   -
-    name: fc1/48
-    position: '48'
+    name: SFP
+    position: fc1/48
+    label: fc1/48
 interfaces:
   -
     name: mgmt0

@@ -12,37 +12,50 @@ front_image: false
 rear_image: false
 comments: Rack PDU, Basic, 1U, 30A, 120V, (10)5-20
 power-ports:
-  - name: Source
+  -
+    name: Source
     type: nema-l5-30p
     description: 12ft cord
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: nema-5-20r
     power_port: Source
-  - name: Outlet 10
+  -
+    name: Outlet 10
     type: nema-5-20r
     power_port: Source
+module-bays: []
+interfaces: []

@@ -7,6 +7,7 @@ weight: 1.82
 weight_unit: lb
 comments: HPE Aruba Networking X372 54V DC **680W** 100-240V AC Power Supply.
 power-ports:
-  - name: PS {module}
+  -
+    name: PS {module}
     type: iec-60320-c14
     maximum_draw: 680

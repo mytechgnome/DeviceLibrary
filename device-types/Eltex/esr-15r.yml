@@ -32,8 +32,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: gi1/0/5
-    position: '5'
+    name: SFP
+    position: gi1/0/5
+    label: gi1/0/5
   -
-    name: gi1/0/6
-    position: '6'
+    name: SFP
+    position: gi1/0/6
+    label: gi1/0/6

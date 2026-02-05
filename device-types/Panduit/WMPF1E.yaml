@@ -7,3 +7,5 @@ u_height: 2
 is_full_depth: false
 is_powered: false
 front_image: true
+module-bays: []
+interfaces: []

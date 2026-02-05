@@ -6,6 +6,7 @@ description: Cisco Nexus 2200 DC Power supply (Std airflow, port side exhaust)
 weight: 1
 weight_unit: kg
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: dc-terminal
     maximum_draw: 400

@@ -201,18 +201,18 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: Ethernet1/0/25
-    label: '25'
-    position: '25'
+    name: SFP
+    position: Ethernet1/0/25
+    label: Ethernet1/0/25
   -
-    name: Ethernet1/0/26
-    label: '26'
-    position: '26'
+    name: SFP
+    position: Ethernet1/0/26
+    label: Ethernet1/0/26
   -
-    name: Ethernet1/0/27
-    label: '27'
-    position: '27'
+    name: SFP
+    position: Ethernet1/0/27
+    label: Ethernet1/0/27
   -
-    name: Ethernet1/0/28
-    label: '28'
-    position: '28'
+    name: SFP
+    position: Ethernet1/0/28
+    label: Ethernet1/0/28

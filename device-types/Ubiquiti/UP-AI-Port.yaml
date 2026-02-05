@@ -10,13 +10,15 @@ subdevice_role: child
 weight: 258.3
 weight_unit: g
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     label: PoE IN
     type: 1000base-tx
     poe_mode: pd
     poe_type: type3-ieee802.3bt
     mgmt_only: false
-  - name: eth1
+  -
+    name: eth1
     label: PoE OUT
     type: 1000base-tx
     poe_mode: pse
@@ -36,3 +38,4 @@ comments: |
     Without mount: 258.3 g (9.1 oz)
     With mount: 294 g (10.4 oz)
   Certifications: FCC, IC, CE
+module-bays: []

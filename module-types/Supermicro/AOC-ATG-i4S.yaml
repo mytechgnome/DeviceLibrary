@@ -4,17 +4,16 @@ model: Add-on Card AOC-ATG-i4S
 part_number: AOC-ATG-i4S
 description: Intel XL710-BM1 controller - Advanced I/O Module (AIOM) Form Factor
 comments: 1U height bracket (https://www.supermicro.com/en/products/accessories/addon/AOC-ATG-i4S.php)
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: Gig-E 1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Gig-E 2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Gig-E 3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Gig-E 4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp

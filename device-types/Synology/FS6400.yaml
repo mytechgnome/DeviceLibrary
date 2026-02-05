@@ -12,25 +12,34 @@ comments: '[Synology FS6400 Datasheet](https://global.synologydownload.com/downl
 front_image: true
 rear_image: true
 module-bays:
-  - name: PSU-1
+  -
+    name: PSU-1
     label: '1'
     position: PSU-1
-  - name: PSU-2
+  -
+    name: PSU-2
     label: '2'
     position: PSU-2
-  - name: PCIe Slot 1
+  -
+    name: PCIe Slot 1
     position: '1'
-  - name: PCIe Slot 2
+  -
+    name: PCIe Slot 2
     position: '2'
 interfaces:
-  - name: LAN1
+  -
+    name: LAN1
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     type: 1000base-t
-  - name: LAN3
+  -
+    name: LAN3
     type: 10gbase-t
-  - name: LAN4
+  -
+    name: LAN4
     type: 10gbase-t
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: de-9

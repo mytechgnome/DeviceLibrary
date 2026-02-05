@@ -33,8 +33,10 @@ interfaces:
     type: 100base-tx
 module-bays:
   -
-    name: port1.0.5
-    position: '5'
+    name: SFP
+    position: port1.0.5
+    label: port1.0.5
   -
-    name: port1.0.6
-    position: '6'
+    name: SFP
+    position: port1.0.6
+    label: port1.0.6

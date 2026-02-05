@@ -10,23 +10,32 @@ is_full_depth: false
 airflow: passive
 comments: Built in LTE modem (3 antenna), PoE-capable, Wall-mount.
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
 interfaces:
-  - name: wan
+  -
+    name: wan
     type: 1000base-t
-  - name: port1
+  -
+    name: port1
     type: 1000base-t
-  - name: port2
+  -
+    name: port2
     type: 1000base-t
-  - name: port3
+  -
+    name: port3
     type: 1000base-t
-  - name: port4
+  -
+    name: port4
     type: 1000base-t
     poe_mode: pd
     poe_type: type1-ieee802.3af
-  - name: LTE
+  -
+    name: LTE
     type: lte
+module-bays: []

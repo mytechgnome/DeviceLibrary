@@ -12,14 +12,19 @@ front_image: false
 rear_image: false
 comments: DS-520AN USB2.0 [DS-520AN Product Brochure](https://www.silextechnology.com/hubfs/Resource%20PDF/DS-520AN%20Product%20Brochure%20.pdf)
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
     maximum_draw: 6
 interfaces:
-  - name: ETH1
+  -
+    name: ETH1
     type: 1000base-t
-  - name: WLAN0
+  -
+    name: WLAN0
     type: ieee802.11ac
 console-server-ports:
-  - name: USB1
+  -
+    name: USB1
     type: usb-a
+module-bays: []

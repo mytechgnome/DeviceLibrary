@@ -8,23 +8,31 @@ airflow: front-to-rear
 weight: 8.65
 weight_unit: kg
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: Gig-E 3
+  -
+    name: Gig-E 3
     type: 1000base-t
-  - name: Gig-E 4
+  -
+    name: Gig-E 4
     type: 1000base-t
 module-bays:
-  - name: PCIe1
+  -
+    name: PCIe1
     position: PCIe1
-  - name: PCIe2
+  -
+    name: PCIe2
     position: PCIe2
-  - name: iLO/M.2/Serial port
+  -
+    name: iLO/M.2/Serial port
     position: iLO/M.2/Serial port
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: dc-terminal
     maximum_draw: 180
 description: HPE ProLiant MicroServer Gen11

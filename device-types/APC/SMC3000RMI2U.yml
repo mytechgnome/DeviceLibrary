@@ -10,42 +10,56 @@ comments: '[Quickspecs](https://www.apc.com/my/en/product/SMC3000RMI2U/smartups-
 weight: 41
 weight_unit: kg
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-45
-  - name: USB
+  -
+    name: USB
     type: usb-b
 power-ports:
-  - name: Inlet
+  -
+    name: Inlet
     type: iec-60320-c20
     maximum_draw: 2100
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Inlet
-  - name: 16A Outlet 1
+  -
+    name: 16A Outlet 1
     type: iec-60320-c19
     power_port: Inlet
 module-bays:
-  - name: SmartSlot
+  -
+    name: SmartSlot
     position: SmartSlot
+interfaces: []

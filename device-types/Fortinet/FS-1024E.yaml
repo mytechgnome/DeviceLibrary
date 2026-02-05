@@ -23,83 +23,109 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1
   -
-    name: port2
-    position: '2'
+    name: SFP
+    position: port2
+    label: port2
   -
-    name: port3
-    position: '3'
+    name: SFP
+    position: port3
+    label: port3
   -
-    name: port4
-    position: '4'
+    name: SFP
+    position: port4
+    label: port4
   -
-    name: port5
-    position: '5'
+    name: SFP
+    position: port5
+    label: port5
   -
-    name: port6
-    position: '6'
+    name: SFP
+    position: port6
+    label: port6
   -
-    name: port7
-    position: '7'
+    name: SFP
+    position: port7
+    label: port7
   -
-    name: port8
-    position: '8'
+    name: SFP
+    position: port8
+    label: port8
   -
-    name: port9
-    position: '9'
+    name: SFP
+    position: port9
+    label: port9
   -
-    name: port10
-    position: '10'
+    name: SFP
+    position: port10
+    label: port10
   -
-    name: port11
-    position: '11'
+    name: SFP
+    position: port11
+    label: port11
   -
-    name: port12
-    position: '12'
+    name: SFP
+    position: port12
+    label: port12
   -
-    name: port13
-    position: '13'
+    name: SFP
+    position: port13
+    label: port13
   -
-    name: port14
-    position: '14'
+    name: SFP
+    position: port14
+    label: port14
   -
-    name: port15
-    position: '15'
+    name: SFP
+    position: port15
+    label: port15
   -
-    name: port16
-    position: '16'
+    name: SFP
+    position: port16
+    label: port16
   -
-    name: port17
-    position: '17'
+    name: SFP
+    position: port17
+    label: port17
   -
-    name: port18
-    position: '18'
+    name: SFP
+    position: port18
+    label: port18
   -
-    name: port19
-    position: '19'
+    name: SFP
+    position: port19
+    label: port19
   -
-    name: port20
-    position: '20'
+    name: SFP
+    position: port20
+    label: port20
   -
-    name: port21
-    position: '21'
+    name: SFP
+    position: port21
+    label: port21
   -
-    name: port22
-    position: '22'
+    name: SFP
+    position: port22
+    label: port22
   -
-    name: port23
-    position: '23'
+    name: SFP
+    position: port23
+    label: port23
   -
-    name: port24
-    position: '24'
+    name: SFP
+    position: port24
+    label: port24
   -
-    name: port25
-    position: '25'
+    name: QSFP
+    position: port25
+    label: port25
   -
-    name: port26
-    position: '26'
+    name: QSFP
+    position: port26
+    label: port26
 interfaces:
   -
     name: mgmt

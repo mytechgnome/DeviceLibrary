@@ -9,7 +9,13 @@ subdevice_role: parent
 is_powered: false
 front_image: true
 device-bays:
-  - name: A
-  - name: B
-  - name: C
-  - name: D
+  -
+    name: A
+  -
+    name: B
+  -
+    name: C
+  -
+    name: D
+module-bays: []
+interfaces: []

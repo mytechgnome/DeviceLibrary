@@ -12,7 +12,8 @@ interfaces:
     type: 1000base-t
     enabled: true
     mgmt_only: true
-module-bays:
   -
-    name: '{module}-em1'
-    position: '1'
+    name: '{module}'
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: true

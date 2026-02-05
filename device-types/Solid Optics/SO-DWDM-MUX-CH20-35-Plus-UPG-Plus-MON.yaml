@@ -6,79 +6,100 @@ u_height: 1
 is_full_depth: false
 is_powered: false
 front-ports:
-  - name: C20
+  -
+    name: C20
     type: lc
     rear_port: COM
     rear_port_position: 2
-  - name: C21
+  -
+    name: C21
     type: lc
     rear_port: COM
     rear_port_position: 3
-  - name: C22
+  -
+    name: C22
     type: lc
     rear_port: COM
     rear_port_position: 4
-  - name: C23
+  -
+    name: C23
     type: lc
     rear_port: COM
     rear_port_position: 5
-  - name: C24
+  -
+    name: C24
     type: lc
     rear_port: COM
     rear_port_position: 6
-  - name: C25
+  -
+    name: C25
     type: lc
     rear_port: COM
     rear_port_position: 7
-  - name: C26
+  -
+    name: C26
     type: lc
     rear_port: COM
     rear_port_position: 8
-  - name: C27
+  -
+    name: C27
     type: lc
     rear_port: COM
     rear_port_position: 9
-  - name: C28
+  -
+    name: C28
     type: lc
     rear_port: COM
     rear_port_position: 10
-  - name: C29
+  -
+    name: C29
     type: lc
     rear_port: COM
     rear_port_position: 11
-  - name: C30
+  -
+    name: C30
     type: lc
     rear_port: COM
     rear_port_position: 12
-  - name: C31
+  -
+    name: C31
     type: lc
     rear_port: COM
     rear_port_position: 13
-  - name: C32
+  -
+    name: C32
     type: lc
     rear_port: COM
     rear_port_position: 14
-  - name: C33
+  -
+    name: C33
     type: lc
     rear_port: COM
     rear_port_position: 15
-  - name: C34
+  -
+    name: C34
     type: lc
     rear_port: COM
     rear_port_position: 16
-  - name: C35
+  -
+    name: C35
     type: lc
     rear_port: COM
     rear_port_position: 17
-  - name: MON
+  -
+    name: MON
     type: lc
     rear_port: COM
     rear_port_position: 1
-  - name: UPG
+  -
+    name: UPG
     type: lc
     rear_port: COM
     rear_port_position: 18
 rear-ports:
-  - name: COM
+  -
+    name: COM
     type: lc
     positions: 18
+module-bays: []
+interfaces: []

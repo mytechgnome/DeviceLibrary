@@ -35,8 +35,10 @@ module-bays:
     name: PIM 1
     position: '1'
   -
-    name: GigabitEthernet0/0/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet0/0/2
+    label: GigabitEthernet0/0/2
   -
-    name: GigabitEthernet0/0/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet0/0/3
+    label: GigabitEthernet0/0/3

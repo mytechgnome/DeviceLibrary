@@ -5,16 +5,23 @@ slug: trendnet-teg-s50g
 u_height: 0
 is_full_depth: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: nema-5-15p
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     type: 1000base-t
+module-bays: []

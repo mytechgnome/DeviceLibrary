@@ -14,17 +14,24 @@ comments: >
   Includes full UniFi application suite for device management.
   [Tech Specs](https://techspecs.ui.com/unifi/unifi-cloud-gateways/ucg-max)
 power-ports:
-  - name: USB-C Power
+  -
+    name: USB-C Power
     type: usb-c
     maximum_draw: 16
 interfaces:
-  - name: WAN
+  -
+    name: WAN
     type: 2.5gbase-t
-  - name: LAN1
+  -
+    name: LAN1
     type: 2.5gbase-t
-  - name: LAN2
+  -
+    name: LAN2
     type: 2.5gbase-t
-  - name: LAN3
+  -
+    name: LAN3
     type: 2.5gbase-t
-  - name: LAN4
+  -
+    name: LAN4
     type: 2.5gbase-t
+module-bays: []

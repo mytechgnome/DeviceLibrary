@@ -80,32 +80,46 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: x1
-    position: '1'
+    name: SFP
+    position: x1
+    label: x1
   -
-    name: x2
-    position: '2'
+    name: SFP
+    position: x2
+    label: x2
   -
-    name: port13
-    position: '13'
+    name: SFP
+    position: port13
+    label: port13
   -
-    name: port14
-    position: '14'
+    name: SFP
+    position: port14
+    label: port14
   -
-    name: port15
-    position: '15'
+    name: SFP
+    position: port15
+    label: port15
   -
-    name: port16
-    position: '16'
+    name: SFP
+    position: port16
+    label: port16
   -
-    name: port17
-    position: '17'
+    name: SFP
+    position: port17
+    label: port17
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: port18
-    position: '18'
+    name: SFP
+    position: port18
+    label: port18
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: port19
-    position: '19'
+    name: SFP
+    position: port19
+    label: port19
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: port20
-    position: '20'
+    name: SFP
+    position: port20
+    label: port20
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)

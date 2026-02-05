@@ -5,8 +5,10 @@ comments: |
   Requires a Meinberg GNSS Multi-Band Antenna.
 model: IMS-GNM
 console-ports:
-  - name: COM
+  -
+    name: COM
     type: de-9
 rear-ports:
-  - name: Antenna
+  -
+    name: Antenna
     type: bnc

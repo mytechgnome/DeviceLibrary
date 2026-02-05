@@ -26,23 +26,29 @@ module-bays:
     label: PSU Slot 2
     position: '2'
   -
-    name: Tw1/0/1
-    position: '1'
+    name: SFP
+    position: Tw1/0/1
+    label: Tw1/0/1
   -
-    name: Tw1/0/2
-    position: '2'
+    name: SFP
+    position: Tw1/0/2
+    label: Tw1/0/2
   -
-    name: Tw1/0/3
-    position: '3'
+    name: SFP
+    position: Tw1/0/3
+    label: Tw1/0/3
   -
-    name: Tw1/0/4
-    position: '4'
+    name: SFP
+    position: Tw1/0/4
+    label: Tw1/0/4
   -
-    name: Fo1/0/1
-    position: '1'
+    name: QSFP
+    position: Fo1/0/1
+    label: Fo1/0/1
   -
-    name: Fo1/0/2
-    position: '2'
+    name: QSFP
+    position: Fo1/0/2
+    label: Fo1/0/2
 interfaces:
   -
     name: Gi1/0/1

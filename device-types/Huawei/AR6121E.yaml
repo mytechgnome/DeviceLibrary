@@ -50,14 +50,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: 10GE0
-    position: '0'
+    name: SFP
+    position: 10GE0
+    label: 10GE0
   -
-    name: GE8/SFP
-    position: '8'
+    name: SFP
+    position: GE8/SFP
+    label: GE8/SFP
   -
-    name: GE9/SFP
-    position: '9'
+    name: SFP
+    position: GE9/SFP
+    label: GE9/SFP
   -
-    name: GE10/SFP
-    position: '10'
+    name: SFP
+    position: GE10/SFP
+    label: GE10/SFP

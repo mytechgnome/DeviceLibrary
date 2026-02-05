@@ -215,14 +215,20 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: GigabitEthernet25
-    position: '25'
+    name: SFP
+    position: GigabitEthernet25
+    label: GigabitEthernet25
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: GigabitEthernet26
-    position: '26'
+    name: SFP
+    position: GigabitEthernet26
+    label: GigabitEthernet26
+    description: Shared media (You can use 1 of the 2 ports **WITH** this name. 1 is 1000base-x-sfp & the other is 1000base-t.)
   -
-    name: GigabitEthernet27
-    position: '27'
+    name: SFP
+    position: GigabitEthernet27
+    label: GigabitEthernet27
   -
-    name: GigabitEthernet28
-    position: '28'
+    name: SFP
+    position: GigabitEthernet28
+    label: GigabitEthernet28

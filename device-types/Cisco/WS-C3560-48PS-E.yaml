@@ -256,14 +256,18 @@ interfaces:
     poe_type: type1-ieee802.3af
 module-bays:
   -
-    name: GigabitEthernet0/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet0/1
+    label: GigabitEthernet0/1
   -
-    name: GigabitEthernet0/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet0/2
+    label: GigabitEthernet0/2
   -
-    name: GigabitEthernet0/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet0/3
+    label: GigabitEthernet0/3
   -
-    name: GigabitEthernet0/4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet0/4
+    label: GigabitEthernet0/4

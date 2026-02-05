@@ -10,19 +10,24 @@ front_image: false
 rear_image: false
 comments: '[Product Page](https://www.meinbergglobal.com/english/archive/lantime-m200.htm)'
 console-ports:
-  - name: usb0
+  -
+    name: usb0
     type: usb-b
     label: USB0
-  - name: terminal
+  -
+    name: terminal
     type: de-9
     label: Termnal
 power-ports:
-  - name: PWR1
+  -
+    name: PWR1
     type: iec-60320-c14
     maximum_draw: 20
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
     enabled: true
     mgmt_only: false
     label: ETH0
+module-bays: []

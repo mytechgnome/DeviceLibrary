@@ -24,8 +24,10 @@ power-ports:
     maximum_draw: 30
 module-bays:
   -
-    name: WAN 2
-    position: '2'
+    name: SFP
+    position: WAN 2
+    label: WAN 2
   -
-    name: Lan 2
-    position: '2'
+    name: SFP
+    position: Lan 2
+    label: Lan 2

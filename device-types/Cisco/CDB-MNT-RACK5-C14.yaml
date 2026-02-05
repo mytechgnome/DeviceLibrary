@@ -7,19 +7,31 @@ u_height: 5
 is_full_depth: false
 subdevice_role: parent
 power-ports:
-  - name: '1'
+  -
+    name: '1'
     type: iec-60320-c14
-  - name: '2'
+  -
+    name: '2'
     type: iec-60320-c14
-  - name: '3'
+  -
+    name: '3'
     type: iec-60320-c14
-  - name: '4'
+  -
+    name: '4'
     type: iec-60320-c14
-  - name: '5'
+  -
+    name: '5'
     type: iec-60320-c14
 device-bays:
-  - name: Slot 1
-  - name: Slot 2
-  - name: Slot 3
-  - name: Slot 4
-  - name: Slot 5
+  -
+    name: Slot 1
+  -
+    name: Slot 2
+  -
+    name: Slot 3
+  -
+    name: Slot 4
+  -
+    name: Slot 5
+module-bays: []
+interfaces: []

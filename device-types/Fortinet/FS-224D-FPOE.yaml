@@ -151,14 +151,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: port25
-    position: '25'
+    name: SFP
+    position: port25
+    label: port25
   -
-    name: port26
-    position: '26'
+    name: SFP
+    position: port26
+    label: port26
   -
-    name: port27
-    position: '27'
+    name: SFP
+    position: port27
+    label: port27
   -
-    name: port28
-    position: '28'
+    name: SFP
+    position: port28
+    label: port28

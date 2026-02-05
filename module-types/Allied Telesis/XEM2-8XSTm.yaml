@@ -15,16 +15,15 @@ interfaces:
   -
     name: port1.{module}.4
     type: 10gbase-t
-module-bays:
   -
-    name: port1.{module}.5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: port1.{module}.6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: port1.{module}.7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: port1.{module}.8
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp

@@ -16,54 +16,68 @@ front_image: true
 rear_image: true
 
 power-ports:
-  - name: DC In
+  -
+    name: DC In
     type: dc-terminal
     maximum_draw: 1
     description: DC 12 V
 # The device uses RS232 as the primary control but supports IR and LAN control as well.
 # I can't find precedent for an IR port, so I'm not including it here.
 console-ports:
-  - name: console
+  -
+    name: console
     label: RS232
     type: other
   # There are dedicated USB ports for keyboard and mouse
-  - name: keyboard
+  -
+    name: keyboard
     label: USB Keyboard
     type: usb-a
-  - name: mouse
+  -
+    name: mouse
     label: USB Mouse
     type: usb-a
 
 # There is a LAN por on the front that exposes the serial port over TCP/IP
 # There is no web interface to speak of.
 interfaces:
-  - name: LAN
+  -
+    name: LAN
     type: 100base-tx
     mgmt_only: true
     description: 10/100 Mbps Ethernet port for serial over IP control
 
 console-server-ports:
-  - name: KVM/1
+  -
+    name: KVM/1
     label: '1'
     type: other
-  - name: KVM/2
+  -
+    name: KVM/2
     label: '2'
     type: other
-  - name: KVM/3
+  -
+    name: KVM/3
     label: '3'
     type: other
-  - name: KVM/4
+  -
+    name: KVM/4
     label: '4'
     type: other
-  - name: KVM/5
+  -
+    name: KVM/5
     label: '5'
     type: other
-  - name: KVM/6
+  -
+    name: KVM/6
     label: '6'
     type: other
-  - name: KVM/7
+  -
+    name: KVM/7
     label: '7'
     type: other
-  - name: KVM/8
+  -
+    name: KVM/8
     label: '8'
     type: other
+module-bays: []

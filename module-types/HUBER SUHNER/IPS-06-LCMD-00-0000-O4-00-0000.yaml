@@ -7,46 +7,58 @@ part_number: '85073355'
 weight: 50
 weight_unit: g
 rear-ports:
-  - name: '{module}-REAR-01'
+  -
+    name: '{module}-REAR-01'
     type: lc-pc
     positions: 1
-  - name: '{module}-REAR-02'
+  -
+    name: '{module}-REAR-02'
     type: lc-pc
     positions: 2
-  - name: '{module}-REAR-03'
+  -
+    name: '{module}-REAR-03'
     type: lc-pc
     positions: 3
-  - name: '{module}-REAR-04'
+  -
+    name: '{module}-REAR-04'
     type: lc-pc
     positions: 4
-  - name: '{module}-REAR-05'
+  -
+    name: '{module}-REAR-05'
     type: lc-pc
     positions: 5
-  - name: '{module}-REAR-06'
+  -
+    name: '{module}-REAR-06'
     type: lc-pc
     positions: 6
 front-ports:
-  - name: '{module}-01'
+  -
+    name: '{module}-01'
     type: lc-pc
     rear_port: '{module}-REAR-01'
     rear_port_position: 1
-  - name: '{module}-02'
+  -
+    name: '{module}-02'
     type: lc-pc
     rear_port: '{module}-REAR-02'
     rear_port_position: 1
-  - name: '{module}-03'
+  -
+    name: '{module}-03'
     type: lc-pc
     rear_port: '{module}-REAR-03'
     rear_port_position: 1
-  - name: '{module}-04'
+  -
+    name: '{module}-04'
     type: lc-pc
     rear_port: '{module}-REAR-04'
     rear_port_position: 1
-  - name: '{module}-05'
+  -
+    name: '{module}-05'
     type: lc-pc
     rear_port: '{module}-REAR-05'
     rear_port_position: 1
-  - name: '{module}-06'
+  -
+    name: '{module}-06'
     type: lc-pc
     rear_port: '{module}-REAR-06'
     rear_port_position: 1

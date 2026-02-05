@@ -22,17 +22,21 @@ module-bays:
     label: PWR2
     position: '2'
   -
-    name: ethernet 1/25
-    position: '25'
+    name: SFP
+    position: ethernet 1/25
+    label: ethernet 1/25
   -
-    name: ethernet 1/26
-    position: '26'
+    name: SFP
+    position: ethernet 1/26
+    label: ethernet 1/26
   -
-    name: ethernet 1/27
-    position: '27'
+    name: SFP
+    position: ethernet 1/27
+    label: ethernet 1/27
   -
-    name: ethernet 1/28
-    position: '28'
+    name: SFP
+    position: ethernet 1/28
+    label: ethernet 1/28
 interfaces:
   -
     name: ethernet 1/1

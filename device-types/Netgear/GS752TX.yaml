@@ -168,8 +168,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: 1/0/51
-    position: '51'
+    name: SFP
+    position: 1/0/51
+    label: 1/0/51
   -
-    name: 1/0/52
-    position: '52'
+    name: SFP
+    position: 1/0/52
+    label: 1/0/52

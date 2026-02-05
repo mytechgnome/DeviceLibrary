@@ -234,18 +234,18 @@ module-bays:
     label: PWR2
     position: PWR2
   -
-    name: XGE1
-    label: '49'
-    position: '1'
+    name: SFP
+    position: XGE1
+    label: XGE1
   -
-    name: XGE2
-    label: '50'
-    position: '2'
+    name: SFP
+    position: XGE2
+    label: XGE2
   -
-    name: XGE3
-    label: '51'
-    position: '3'
+    name: SFP
+    position: XGE3
+    label: XGE3
   -
-    name: XGE4
-    label: '52'
-    position: '4'
+    name: SFP
+    position: XGE4
+    label: XGE4

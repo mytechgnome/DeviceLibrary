@@ -7,18 +7,24 @@ subdevice_role: child
 is_full_depth: true
 u_height: 0
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: other
     description: 3.5mm
 interfaces:
-  - name: eth0a
+  -
+    name: eth0a
     type: 10gbase-t
-  - name: eth0b
+  -
+    name: eth0b
     type: 10gbase-t
 module-bays:
-  - name: NIC1
+  -
+    name: NIC1
     position: '1'
-  - name: NIC2
+  -
+    name: NIC2
     position: '2'
-  - name: NIC3
+  -
+    name: NIC3
     position: '3'

@@ -90,20 +90,26 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: Port 25
-    position: '25'
+    name: SFP
+    position: Port 25
+    label: Port 25
   -
-    name: Port 26
-    position: '26'
+    name: SFP
+    position: Port 26
+    label: Port 26
   -
-    name: Port 27
-    position: '27'
+    name: SFP
+    position: Port 27
+    label: Port 27
   -
-    name: Port 28
-    position: '28'
+    name: SFP
+    position: Port 28
+    label: Port 28
   -
-    name: Dedicated Stack Port 1
-    position: '1'
+    name: QSFP
+    position: Dedicated Stack Port 1
+    label: Dedicated Stack Port 1
   -
-    name: Dedicated Stack Port 2
-    position: '2'
+    name: QSFP
+    position: Dedicated Stack Port 2
+    label: Dedicated Stack Port 2

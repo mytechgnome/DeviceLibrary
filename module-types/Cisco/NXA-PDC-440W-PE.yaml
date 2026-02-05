@@ -7,6 +7,7 @@ comments: Nexus DC 440W PSU - Port Side Exhaust / [Cisco Nexus 9300-FX Series Sw
 weight: 1.27
 weight_unit: kg
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: dc-terminal
     maximum_draw: 440

@@ -3,15 +3,21 @@ manufacturer: Cisco
 part_number: WS-X4306-GB
 model: WS-X4306-GB
 interfaces:
-  - name: GigabitEthernet{module}/1
+  -
+    name: GigabitEthernet{module}/1
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/2
+  -
+    name: GigabitEthernet{module}/2
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/3
+  -
+    name: GigabitEthernet{module}/3
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/4
+  -
+    name: GigabitEthernet{module}/4
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/5
+  -
+    name: GigabitEthernet{module}/5
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/6
+  -
+    name: GigabitEthernet{module}/6
     type: 1000base-x-gbic

@@ -10,12 +10,17 @@ weight: 2.3
 weight_unit: lb
 airflow: passive
 power-ports:
-  - name: PS
+  -
+    name: PS
     type: dc-terminal
 interfaces:
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 1000base-t
-  - name: Ethernet 2
+  -
+    name: Ethernet 2
     type: 1000base-t
-  - name: Coax 1
+  -
+    name: Coax 1
     type: docsis
+module-bays: []

@@ -12,12 +12,15 @@ subdevice_role: parent
 weight: 140
 weight_unit: g
 interfaces:
-  - name: ether1
+  -
+    name: ether1
     label: '1'
     type: 100base-tx
 power-ports:
-  - name: DC
+  -
+    name: DC
     label: DC
     type: dc-terminal
     maximum_draw: 15
     description: 12V DC, 1.2A
+module-bays: []

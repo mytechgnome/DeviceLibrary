@@ -9,27 +9,36 @@ weight: 341
 weight_unit: g
 airflow: passive
 power-ports:
-  - name: DC
+  -
+    name: DC
     type: dc-terminal
     maximum_draw: 30
 interfaces:
-  - name: DSL
+  -
+    name: DSL
     label: DSL
     type: xdsl
-  - name: LAN1
+  -
+    name: LAN1
     label: '1'
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     label: '2'
     type: 1000base-t
-  - name: LAN3
+  -
+    name: LAN3
     label: '3'
     type: 1000base-t
-  - name: LAN4
+  -
+    name: LAN4
     label: '4'
     type: 1000base-t
-  - name: Internet
+  -
+    name: Internet
     label: Internet
     type: 1000base-t
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

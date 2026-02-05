@@ -9,6 +9,8 @@ weight_unit: lb
 is_full_depth: true
 comments: '[Check Point 19200 Data Sheet](https://www.checkpoint.com/downloads/products/quantum-force-19200-datasheet.pdf)'
 airflow: side-to-rear
+front_image: true
+rear_image: true
 console-ports:
   -
     name: ttyS0
@@ -50,10 +52,10 @@ module-bays:
     name: Interface Card 4
     position: '4'
   -
-    name: Sync1
-    label: SYNC1
-    position: '1'
+    name: SFP
+    position: Sync1
+    label: Sync1
   -
-    name: Sync2
-    label: SYNC2
-    position: '2'
+    name: SFP
+    position: Sync2
+    label: Sync2

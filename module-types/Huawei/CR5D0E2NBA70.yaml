@@ -6,17 +6,16 @@ description: LPUI-242 4x50/2x100GBase-QSFP28
 comments: '[Huawei 4-Port 50G/2-Port 100GBase-QSFP28 FlexE/MACsec Integrated Line Processing Unit (LPUI-242)](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100259796)'
 weight: 8.9
 weight_unit: kg
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: 50|100GE{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: 50|100GE{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: 50|100GE{module}/0/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: 50|100GE{module}/0/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

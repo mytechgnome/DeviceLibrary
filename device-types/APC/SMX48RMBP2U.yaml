@@ -12,5 +12,8 @@ airflow: passive
 weight: 29
 weight_unit: kg
 power-ports:
-  - name: UPS Input
+  -
+    name: UPS Input
     type: other
+module-bays: []
+interfaces: []

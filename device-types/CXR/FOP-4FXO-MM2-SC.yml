@@ -11,16 +11,21 @@ u_height: 0.0
 subdevice_role: child
 comments: '[Modem Fibre Optique 4 voies FXO/SC](https://www.cxr.com/documents/brochures/fop-4fxo-mm2-sc.pdf)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c6
     maximum_draw: 5
 interfaces:
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 100base-tx
 front-ports:
-  - name: Phone
+  -
+    name: Phone
     type: 8p8c
     rear_port: LAN
 rear-ports:
-  - name: LAN
+  -
+    name: LAN
     type: sc-upc
+module-bays: []

@@ -4,53 +4,52 @@ model: A9K-16X100GE-TR
 part_number: A9K-16X100GE-TR
 description: ASR 9000 16-port 100GE TR linecard
 comments: '[Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Packet Transport Line Card Data Sheet](https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-741100.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: HundredGigE0/{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/4
-    position: '4'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/5
-    position: '5'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/6
-    position: '6'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/7
-    position: '7'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/8
-    position: '8'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/9
-    position: '9'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/10
-    position: '10'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/11
-    position: '11'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/12
-    position: '12'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/13
-    position: '13'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/14
-    position: '14'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE0/{module}/0/15
-    position: '15'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

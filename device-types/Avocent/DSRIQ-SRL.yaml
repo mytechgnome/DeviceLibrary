@@ -5,11 +5,16 @@ slug: avocent-dsriq-srl
 u_height: 0
 is_full_depth: false
 console-ports:
-  - name: DSR
+  -
+    name: DSR
     type: rj-45
 console-server-ports:
-  - name: DEVICE
+  -
+    name: DEVICE
     type: de-9
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
+module-bays: []
+interfaces: []

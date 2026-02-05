@@ -27,14 +27,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: gigabitethernet 0/1
-    position: '1'
+    name: SFP
+    position: gigabitethernet 0/1
+    label: gigabitethernet 0/1
   -
-    name: gigabitethernet 0/2
-    position: '2'
+    name: SFP
+    position: gigabitethernet 0/2
+    label: gigabitethernet 0/2
   -
-    name: epon 0/1
-    position: '1'
+    name: SFP
+    position: epon 0/1
+    label: epon 0/1
   -
-    name: epon 0/2
-    position: '2'
+    name: SFP
+    position: epon 0/2
+    label: epon 0/2

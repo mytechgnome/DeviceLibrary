@@ -164,14 +164,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: te1/0/1
-    position: '1'
+    name: SFP
+    position: te1/0/1
+    label: te1/0/1
   -
-    name: te1/0/2
-    position: '2'
+    name: SFP
+    position: te1/0/2
+    label: te1/0/2
   -
-    name: te1/0/3
-    position: '3'
+    name: SFP
+    position: te1/0/3
+    label: te1/0/3
   -
-    name: te1/0/4
-    position: '4'
+    name: SFP
+    position: te1/0/4
+    label: te1/0/4

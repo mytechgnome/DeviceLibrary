@@ -10,14 +10,18 @@ comments: "EWS 11ac Managed Indoor Access Point\r\n\r\nSpecifications: [EWS360AP
 weight: 363
 weight_unit: g
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 24
     label: 12V DC
 interfaces:
-  - name: eth
+  -
+    name: eth
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

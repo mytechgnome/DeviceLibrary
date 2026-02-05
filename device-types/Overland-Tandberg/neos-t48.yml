@@ -10,18 +10,24 @@ front_image: true
 comments: |
   [NEO Firmware and Documents](https://overlandtandberg.atlassian.net/wiki/spaces/KNOW/pages/117637153/NEO+LTO+Firmware+Driver+Links+Release+Notes)
 power-ports:
-  - name: PSU 1
+  -
+    name: PSU 1
     type: iec-60320-c14
     maximum_draw: 312
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 1000base-t
 module-bays:
-  - name: Drive 1
+  -
+    name: Drive 1
     position: '1'
-  - name: Drive 2
+  -
+    name: Drive 2
     position: '2'
-  - name: Drive 3
+  -
+    name: Drive 3
     position: '3'
-  - name: Drive 4
+  -
+    name: Drive 4
     position: '4'

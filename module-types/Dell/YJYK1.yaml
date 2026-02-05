@@ -3,13 +3,14 @@ manufacturer: Dell
 model: YJYK1
 part_number: YJYK1
 comments: Intel 2x10G SFP+ OCP 3.0
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}-10GbE-0'
+    name: '{module}'
     label: '1'
-    position: '0'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
   -
-    name: '{module}-10GbE-1'
+    name: '{module}'
     label: '2'
-    position: '1'
+    type: 10gbase-x-sfpp
+    mgmt_only: false

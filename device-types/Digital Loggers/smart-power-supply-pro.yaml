@@ -6,31 +6,44 @@ comments: '[Smart power supply Datasheet](https://www.digital-loggers.com/prospe
 u_height: 0
 is_full_depth: false
 power-outlets:
-  - name: Remotely switched - Outlet1
+  -
+    name: Remotely switched - Outlet1
     type: nema-5-15r
-  - name: Remotely switched - Outlet2
+  -
+    name: Remotely switched - Outlet2
     type: nema-5-15r
-  - name: Remotely switched - Outlet3
+  -
+    name: Remotely switched - Outlet3
     type: nema-5-15r
-  - name: Remotely switched - Outlet4
+  -
+    name: Remotely switched - Outlet4
     type: nema-5-15r
-  - name: Remotely switched - Outlet5
+  -
+    name: Remotely switched - Outlet5
     type: nema-5-15r
-  - name: Remotely switched - Outlet6
+  -
+    name: Remotely switched - Outlet6
     type: nema-5-15r
-  - name: Remotely switched - Outlet7
+  -
+    name: Remotely switched - Outlet7
     type: nema-5-15r
-  - name: Remotely switched - Outlet8
+  -
+    name: Remotely switched - Outlet8
     type: nema-5-15r
-  - name: unswitched  - Up
+  -
+    name: unswitched  - Up
     type: nema-5-15r
-  - name: unswitched  - Down
+  -
+    name: unswitched  - Down
     type: nema-5-15r
 power-ports:
-  - name: AC in
+  -
+    name: AC in
     type: iec-60320-c20
     maximum_draw: 1500
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
     mgmt_only: true
+module-bays: []

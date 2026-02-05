@@ -13,18 +13,26 @@ airflow: passive
 weight: 280
 weight_unit: g
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
 interfaces:
-  - name: lan1
+  -
+    name: lan1
     type: 1000base-t
-  - name: lan2
+  -
+    name: lan2
     type: 1000base-t
-  - name: lan3
+  -
+    name: lan3
     type: 1000base-t
-  - name: wan1
+  -
+    name: wan1
     type: 1000base-t
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
-  - name: wlan1
+  -
+    name: wlan1
     type: ieee802.11ac
+module-bays: []

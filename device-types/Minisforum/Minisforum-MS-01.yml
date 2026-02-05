@@ -23,11 +23,13 @@ module-bays:
     position: '1'
     description: PCIe 4.0 x16
   -
-    name: sfpp-1/1
-    position: '1'
+    name: SFP
+    position: sfpp-1/1
+    label: sfpp-1/1
   -
-    name: sfpp-1/2
-    position: '2'
+    name: SFP
+    position: sfpp-1/2
+    label: sfpp-1/2
 power-ports:
   -
     name: External Power Supply

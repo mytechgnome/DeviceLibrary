@@ -10,4 +10,7 @@ airflow: passive
 comments: Holds Watchguard T20, T25, T40 and T45
 front_image: true
 device-bays:
-  - name: Watchguard device
+  -
+    name: Watchguard device
+module-bays: []
+interfaces: []

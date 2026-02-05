@@ -21,29 +21,37 @@ module-bays:
     name: PSU 1
     position: '1'
   -
-    name: xe-0/0/0
-    position: '0'
+    name: SFP
+    position: xe-0/0/0
+    label: xe-0/0/0
   -
-    name: xe-0/0/1
-    position: '1'
+    name: SFP
+    position: xe-0/0/1
+    label: xe-0/0/1
   -
-    name: xe-0/0/2
-    position: '2'
+    name: SFP
+    position: xe-0/0/2
+    label: xe-0/0/2
   -
-    name: xe-0/0/3
-    position: '3'
+    name: SFP
+    position: xe-0/0/3
+    label: xe-0/0/3
   -
-    name: xe-0/0/4
-    position: '4'
+    name: SFP
+    position: xe-0/0/4
+    label: xe-0/0/4
   -
-    name: xe-0/0/5
-    position: '5'
+    name: SFP
+    position: xe-0/0/5
+    label: xe-0/0/5
   -
-    name: xe-0/0/6
-    position: '6'
+    name: SFP
+    position: xe-0/0/6
+    label: xe-0/0/6
   -
-    name: xe-0/0/7
-    position: '7'
+    name: SFP
+    position: xe-0/0/7
+    label: xe-0/0/7
 interfaces:
   -
     name: fxp0

@@ -23,29 +23,37 @@ module-bays:
     name: PS2
     position: '1'
   -
-    name: Ethernet49
-    position: '49'
+    name: SFP
+    position: Ethernet49
+    label: Ethernet49
   -
-    name: Ethernet50
-    position: '50'
+    name: SFP
+    position: Ethernet50
+    label: Ethernet50
   -
-    name: Ethernet51
-    position: '51'
+    name: SFP
+    position: Ethernet51
+    label: Ethernet51
   -
-    name: Ethernet52
-    position: '52'
+    name: SFP
+    position: Ethernet52
+    label: Ethernet52
   -
-    name: Ethernet53
-    position: '53'
+    name: SFP
+    position: Ethernet53
+    label: Ethernet53
   -
-    name: Ethernet54
-    position: '54'
+    name: SFP
+    position: Ethernet54
+    label: Ethernet54
   -
-    name: Ethernet55
-    position: '55'
+    name: SFP
+    position: Ethernet55
+    label: Ethernet55
   -
-    name: Ethernet56
-    position: '56'
+    name: SFP
+    position: Ethernet56
+    label: Ethernet56
 interfaces:
   -
     name: Management1

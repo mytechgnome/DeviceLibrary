@@ -5,5 +5,6 @@ description: |
   The SEL-2245-411 module includes the same current inputs as the SEL-2245-4 AC Metering Module with four low-voltage inputs to support low-energy
   analog (LEA) voltage measurements.
 interfaces:
-  - name: 4CT/4LEA Analog inputs
+  -
+    name: 4CT/4LEA Analog inputs
     type: other

@@ -13,17 +13,25 @@ module-bays:
     name: PCIe1
     position: PCIe1
   -
-    name: SFP-1
-    position: '1'
+    name: SFP
+    position: SFP-1
+    label: SFP-1
+    description: monitoring port
   -
-    name: SFP-2
-    position: '2'
+    name: SFP
+    position: SFP-2
+    label: SFP-2
+    description: monitoring port
   -
-    name: SFP-3
-    position: '3'
+    name: SFP
+    position: SFP-3
+    label: SFP-3
+    description: monitoring port
   -
-    name: SFP-4
-    position: '4'
+    name: SFP
+    position: SFP-4
+    label: SFP-4
+    description: monitoring/communication port
 power-ports:
   -
     name: PSU-1

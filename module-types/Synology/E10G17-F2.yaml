@@ -3,11 +3,10 @@ manufacturer: Synology
 model: E10G17-F2
 part_number: E10G17-F2
 comments: Synology E10G17-F2 - Network adapter - PCIe 3.0 x8 - 10 Gigabit SFP+ x 2
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}/LAN 1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/LAN 2'
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp

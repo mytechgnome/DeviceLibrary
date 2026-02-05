@@ -8,18 +8,24 @@ weight: 9
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: '1'
-  - name: PSU 2
+  -
+    name: PSU 2
     position: '2'
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: iDRAC
+  -
+    name: iDRAC
     type: 1000base-t
     mgmt_only: true

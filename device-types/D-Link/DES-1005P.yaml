@@ -12,22 +12,30 @@ u_height: 1
 front_image: true
 rear_image: true
 console-ports:
-  - name: console
+  -
+    name: console
     type: rj-45
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: dc-terminal
     maximum_draw: 17
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 100base-tx
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: Port 2
+  -
+    name: Port 2
     type: 100base-tx
-  - name: Port 3
+  -
+    name: Port 3
     type: 100base-tx
-  - name: Port 4
+  -
+    name: Port 4
     type: 100base-tx
-  - name: Port 5
+  -
+    name: Port 5
     type: 100base-tx
+module-bays: []

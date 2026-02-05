@@ -5,6 +5,7 @@ part_number: PWS-2K70A-1R
 description: 2700W 1U Redundant Power Supply
 comments: '[Datasheet](https://store.supermicro.com/media/wysiwyg/productspecs/PWS-2K70A-1R/PWS-2K70A-1R_datasheet_09102022.pdf)'
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: iec-60320-c20
     maximum_draw: 2700

@@ -4,6 +4,7 @@ model: CRS328-24P-4S+RM
 slug: mikrotik-crs328-24p-4s-plus-rm
 is_full_depth: false
 u_height: 1
+front_image: true
 interfaces:
   -
     name: ether1
@@ -137,14 +138,18 @@ power-ports:
     maximum_draw: 494
 module-bays:
   -
-    name: sfp-sfpplus1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: sfp-sfpplus2
-    position: '2'
+    name: SFP
+    position: sfp-sfpplus2
+    label: sfp-sfpplus2
   -
-    name: sfp-sfpplus3
-    position: '3'
+    name: SFP
+    position: sfp-sfpplus3
+    label: sfp-sfpplus3
   -
-    name: sfp-sfpplus4
-    position: '4'
+    name: SFP
+    position: sfp-sfpplus4
+    label: sfp-sfpplus4

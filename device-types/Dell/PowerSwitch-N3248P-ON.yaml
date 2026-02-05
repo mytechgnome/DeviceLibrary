@@ -274,20 +274,26 @@ module-bays:
     label: PSU Slot 2
     position: '2'
   -
-    name: Te1/0/1
-    position: '1'
+    name: SFP
+    position: Te1/0/1
+    label: Te1/0/1
   -
-    name: Te1/0/2
-    position: '2'
+    name: SFP
+    position: Te1/0/2
+    label: Te1/0/2
   -
-    name: Te1/0/3
-    position: '3'
+    name: SFP
+    position: Te1/0/3
+    label: Te1/0/3
   -
-    name: Te1/0/4
-    position: '4'
+    name: SFP
+    position: Te1/0/4
+    label: Te1/0/4
   -
-    name: Hu1/0/1
-    position: '1'
+    name: QSFP
+    position: Hu1/0/1
+    label: Hu1/0/1
   -
-    name: Hu1/0/2
-    position: '2'
+    name: QSFP
+    position: Hu1/0/2
+    label: Hu1/0/2

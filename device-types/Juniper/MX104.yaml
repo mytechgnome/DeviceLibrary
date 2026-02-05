@@ -34,14 +34,18 @@ module-bays:
     name: MIC1/1
     position: 1/1
   -
-    name: xe-2/0/0
-    position: '0'
+    name: SFP
+    position: xe-2/0/0
+    label: xe-2/0/0
   -
-    name: xe-2/0/1
-    position: '1'
+    name: SFP
+    position: xe-2/0/1
+    label: xe-2/0/1
   -
-    name: xe-2/0/2
-    position: '2'
+    name: SFP
+    position: xe-2/0/2
+    label: xe-2/0/2
   -
-    name: xe-2/0/3
-    position: '3'
+    name: SFP
+    position: xe-2/0/3
+    label: xe-2/0/3

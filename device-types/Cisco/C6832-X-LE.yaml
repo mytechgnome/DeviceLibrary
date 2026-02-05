@@ -23,98 +23,130 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: TenGigabitEthernet1/1
-    position: '1'
+    name: SFP
+    position: TenGigabitEthernet1/1
+    label: TenGigabitEthernet1/1
   -
-    name: TenGigabitEthernet1/2
-    position: '2'
+    name: SFP
+    position: TenGigabitEthernet1/2
+    label: TenGigabitEthernet1/2
   -
-    name: TenGigabitEthernet1/3
-    position: '3'
+    name: SFP
+    position: TenGigabitEthernet1/3
+    label: TenGigabitEthernet1/3
   -
-    name: TenGigabitEthernet1/4
-    position: '4'
+    name: SFP
+    position: TenGigabitEthernet1/4
+    label: TenGigabitEthernet1/4
   -
-    name: TenGigabitEthernet1/5
-    position: '5'
+    name: SFP
+    position: TenGigabitEthernet1/5
+    label: TenGigabitEthernet1/5
   -
-    name: TenGigabitEthernet1/6
-    position: '6'
+    name: SFP
+    position: TenGigabitEthernet1/6
+    label: TenGigabitEthernet1/6
   -
-    name: TenGigabitEthernet1/7
-    position: '7'
+    name: SFP
+    position: TenGigabitEthernet1/7
+    label: TenGigabitEthernet1/7
   -
-    name: TenGigabitEthernet1/8
-    position: '8'
+    name: SFP
+    position: TenGigabitEthernet1/8
+    label: TenGigabitEthernet1/8
   -
-    name: TenGigabitEthernet1/9
-    position: '9'
+    name: SFP
+    position: TenGigabitEthernet1/9
+    label: TenGigabitEthernet1/9
   -
-    name: TenGigabitEthernet1/10
-    position: '10'
+    name: SFP
+    position: TenGigabitEthernet1/10
+    label: TenGigabitEthernet1/10
   -
-    name: TenGigabitEthernet1/11
-    position: '11'
+    name: SFP
+    position: TenGigabitEthernet1/11
+    label: TenGigabitEthernet1/11
   -
-    name: TenGigabitEthernet1/12
-    position: '12'
+    name: SFP
+    position: TenGigabitEthernet1/12
+    label: TenGigabitEthernet1/12
   -
-    name: TenGigabitEthernet1/13
-    position: '13'
+    name: SFP
+    position: TenGigabitEthernet1/13
+    label: TenGigabitEthernet1/13
   -
-    name: TenGigabitEthernet1/14
-    position: '14'
+    name: SFP
+    position: TenGigabitEthernet1/14
+    label: TenGigabitEthernet1/14
   -
-    name: TenGigabitEthernet1/15
-    position: '15'
+    name: SFP
+    position: TenGigabitEthernet1/15
+    label: TenGigabitEthernet1/15
   -
-    name: TenGigabitEthernet1/16
-    position: '16'
+    name: SFP
+    position: TenGigabitEthernet1/16
+    label: TenGigabitEthernet1/16
   -
-    name: TenGigabitEthernet1/17
-    position: '17'
+    name: SFP
+    position: TenGigabitEthernet1/17
+    label: TenGigabitEthernet1/17
   -
-    name: TenGigabitEthernet1/18
-    position: '18'
+    name: SFP
+    position: TenGigabitEthernet1/18
+    label: TenGigabitEthernet1/18
   -
-    name: TenGigabitEthernet1/19
-    position: '19'
+    name: SFP
+    position: TenGigabitEthernet1/19
+    label: TenGigabitEthernet1/19
   -
-    name: TenGigabitEthernet1/20
-    position: '20'
+    name: SFP
+    position: TenGigabitEthernet1/20
+    label: TenGigabitEthernet1/20
   -
-    name: TenGigabitEthernet1/21
-    position: '21'
+    name: SFP
+    position: TenGigabitEthernet1/21
+    label: TenGigabitEthernet1/21
   -
-    name: TenGigabitEthernet1/22
-    position: '22'
+    name: SFP
+    position: TenGigabitEthernet1/22
+    label: TenGigabitEthernet1/22
   -
-    name: TenGigabitEthernet1/23
-    position: '23'
+    name: SFP
+    position: TenGigabitEthernet1/23
+    label: TenGigabitEthernet1/23
   -
-    name: TenGigabitEthernet1/24
-    position: '24'
+    name: SFP
+    position: TenGigabitEthernet1/24
+    label: TenGigabitEthernet1/24
   -
-    name: TenGigabitEthernet1/25
-    position: '25'
+    name: SFP
+    position: TenGigabitEthernet1/25
+    label: TenGigabitEthernet1/25
   -
-    name: TenGigabitEthernet1/26
-    position: '26'
+    name: SFP
+    position: TenGigabitEthernet1/26
+    label: TenGigabitEthernet1/26
   -
-    name: TenGigabitEthernet1/27
-    position: '27'
+    name: SFP
+    position: TenGigabitEthernet1/27
+    label: TenGigabitEthernet1/27
   -
-    name: TenGigabitEthernet1/28
-    position: '28'
+    name: SFP
+    position: TenGigabitEthernet1/28
+    label: TenGigabitEthernet1/28
   -
-    name: TenGigabitEthernet1/29
-    position: '29'
+    name: SFP
+    position: TenGigabitEthernet1/29
+    label: TenGigabitEthernet1/29
   -
-    name: TenGigabitEthernet1/30
-    position: '30'
+    name: SFP
+    position: TenGigabitEthernet1/30
+    label: TenGigabitEthernet1/30
   -
-    name: TenGigabitEthernet1/31
-    position: '31'
+    name: SFP
+    position: TenGigabitEthernet1/31
+    label: TenGigabitEthernet1/31
   -
-    name: TenGigabitEthernet1/32
-    position: '32'
+    name: SFP
+    position: TenGigabitEthernet1/32
+    label: TenGigabitEthernet1/32

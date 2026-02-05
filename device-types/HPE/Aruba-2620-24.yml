@@ -99,8 +99,10 @@ interfaces:
 # slots:
 module-bays:
   -
-    name: '27'
+    name: SFP
     position: '27'
+    label: '27'
   -
-    name: '28'
+    name: SFP
     position: '28'
+    label: '28'

@@ -3,11 +3,10 @@ manufacturer: HPE
 model: HPE 5130/5510 10GbE SFP+ 2-port Module
 part_number: JH157A
 comments: HPE 5130/5510 10GbE SFP+ 2-port Module
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}2'
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp

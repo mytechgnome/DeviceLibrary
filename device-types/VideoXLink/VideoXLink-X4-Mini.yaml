@@ -49,10 +49,10 @@ interfaces:
     label: MGMT
 module-bays:
   -
-    name: ETH2
-    label: '2'
-    position: '2'
+    name: SFP
+    position: ETH2
+    label: ETH2
   -
-    name: ETH3
-    label: '3'
-    position: '3'
+    name: SFP
+    position: ETH3
+    label: ETH3

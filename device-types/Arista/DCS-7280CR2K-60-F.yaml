@@ -21,185 +21,245 @@ module-bays:
     name: PSU 2
     position: '1'
   -
-    name: Ethernet1/1
-    position: '1'
+    name: QSFP
+    position: Ethernet1/1
+    label: Ethernet1/1
   -
-    name: Ethernet2/1
-    position: '1'
+    name: QSFP
+    position: Ethernet2/1
+    label: Ethernet2/1
   -
-    name: Ethernet3/1
-    position: '1'
+    name: QSFP
+    position: Ethernet3/1
+    label: Ethernet3/1
   -
-    name: Ethernet4/1
-    position: '1'
+    name: QSFP
+    position: Ethernet4/1
+    label: Ethernet4/1
   -
-    name: Ethernet5/1
-    position: '1'
+    name: QSFP
+    position: Ethernet5/1
+    label: Ethernet5/1
   -
-    name: Ethernet6/1
-    position: '1'
+    name: QSFP
+    position: Ethernet6/1
+    label: Ethernet6/1
   -
-    name: Ethernet7/1
-    position: '1'
+    name: QSFP
+    position: Ethernet7/1
+    label: Ethernet7/1
   -
-    name: Ethernet8/1
-    position: '1'
+    name: QSFP
+    position: Ethernet8/1
+    label: Ethernet8/1
   -
-    name: Ethernet9/1
-    position: '1'
+    name: QSFP
+    position: Ethernet9/1
+    label: Ethernet9/1
   -
-    name: Ethernet10/1
-    position: '1'
+    name: QSFP
+    position: Ethernet10/1
+    label: Ethernet10/1
   -
-    name: Ethernet11/1
-    position: '1'
+    name: QSFP
+    position: Ethernet11/1
+    label: Ethernet11/1
   -
-    name: Ethernet12/1
-    position: '1'
+    name: QSFP
+    position: Ethernet12/1
+    label: Ethernet12/1
   -
-    name: Ethernet13/1
-    position: '1'
+    name: QSFP
+    position: Ethernet13/1
+    label: Ethernet13/1
   -
-    name: Ethernet14/1
-    position: '1'
+    name: QSFP
+    position: Ethernet14/1
+    label: Ethernet14/1
   -
-    name: Ethernet15/1
-    position: '1'
+    name: QSFP
+    position: Ethernet15/1
+    label: Ethernet15/1
   -
-    name: Ethernet16/1
-    position: '1'
+    name: QSFP
+    position: Ethernet16/1
+    label: Ethernet16/1
   -
-    name: Ethernet17/1
-    position: '1'
+    name: QSFP
+    position: Ethernet17/1
+    label: Ethernet17/1
   -
-    name: Ethernet18/1
-    position: '1'
+    name: QSFP
+    position: Ethernet18/1
+    label: Ethernet18/1
   -
-    name: Ethernet19/1
-    position: '1'
+    name: QSFP
+    position: Ethernet19/1
+    label: Ethernet19/1
   -
-    name: Ethernet20/1
-    position: '1'
+    name: QSFP
+    position: Ethernet20/1
+    label: Ethernet20/1
   -
-    name: Ethernet21/1
-    position: '1'
+    name: QSFP
+    position: Ethernet21/1
+    label: Ethernet21/1
   -
-    name: Ethernet22/1
-    position: '1'
+    name: QSFP
+    position: Ethernet22/1
+    label: Ethernet22/1
   -
-    name: Ethernet23/1
-    position: '1'
+    name: QSFP
+    position: Ethernet23/1
+    label: Ethernet23/1
   -
-    name: Ethernet24/1
-    position: '1'
+    name: QSFP
+    position: Ethernet24/1
+    label: Ethernet24/1
   -
-    name: Ethernet25/1
-    position: '1'
+    name: QSFP
+    position: Ethernet25/1
+    label: Ethernet25/1
   -
-    name: Ethernet26/1
-    position: '1'
+    name: QSFP
+    position: Ethernet26/1
+    label: Ethernet26/1
   -
-    name: Ethernet27/1
-    position: '1'
+    name: QSFP
+    position: Ethernet27/1
+    label: Ethernet27/1
   -
-    name: Ethernet28/1
-    position: '1'
+    name: QSFP
+    position: Ethernet28/1
+    label: Ethernet28/1
   -
-    name: Ethernet29/1
-    position: '1'
+    name: QSFP
+    position: Ethernet29/1
+    label: Ethernet29/1
   -
-    name: Ethernet30/1
-    position: '1'
+    name: QSFP
+    position: Ethernet30/1
+    label: Ethernet30/1
   -
-    name: Ethernet31/1
-    position: '1'
+    name: QSFP
+    position: Ethernet31/1
+    label: Ethernet31/1
   -
-    name: Ethernet32/1
-    position: '1'
+    name: QSFP
+    position: Ethernet32/1
+    label: Ethernet32/1
   -
-    name: Ethernet33/1
-    position: '1'
+    name: QSFP
+    position: Ethernet33/1
+    label: Ethernet33/1
   -
-    name: Ethernet34/1
-    position: '1'
+    name: QSFP
+    position: Ethernet34/1
+    label: Ethernet34/1
   -
-    name: Ethernet35/1
-    position: '1'
+    name: QSFP
+    position: Ethernet35/1
+    label: Ethernet35/1
   -
-    name: Ethernet36/1
-    position: '1'
+    name: QSFP
+    position: Ethernet36/1
+    label: Ethernet36/1
   -
-    name: Ethernet37/1
-    position: '1'
+    name: QSFP
+    position: Ethernet37/1
+    label: Ethernet37/1
   -
-    name: Ethernet38/1
-    position: '1'
+    name: QSFP
+    position: Ethernet38/1
+    label: Ethernet38/1
   -
-    name: Ethernet39/1
-    position: '1'
+    name: QSFP
+    position: Ethernet39/1
+    label: Ethernet39/1
   -
-    name: Ethernet40/1
-    position: '1'
+    name: QSFP
+    position: Ethernet40/1
+    label: Ethernet40/1
   -
-    name: Ethernet41/1
-    position: '1'
+    name: QSFP
+    position: Ethernet41/1
+    label: Ethernet41/1
   -
-    name: Ethernet42/1
-    position: '1'
+    name: QSFP
+    position: Ethernet42/1
+    label: Ethernet42/1
   -
-    name: Ethernet43/1
-    position: '1'
+    name: QSFP
+    position: Ethernet43/1
+    label: Ethernet43/1
   -
-    name: Ethernet44/1
-    position: '1'
+    name: QSFP
+    position: Ethernet44/1
+    label: Ethernet44/1
   -
-    name: Ethernet45/1
-    position: '1'
+    name: QSFP
+    position: Ethernet45/1
+    label: Ethernet45/1
   -
-    name: Ethernet46/1
-    position: '1'
+    name: QSFP
+    position: Ethernet46/1
+    label: Ethernet46/1
   -
-    name: Ethernet47/1
-    position: '1'
+    name: QSFP
+    position: Ethernet47/1
+    label: Ethernet47/1
   -
-    name: Ethernet48/1
-    position: '1'
+    name: QSFP
+    position: Ethernet48/1
+    label: Ethernet48/1
   -
-    name: Ethernet49/1
-    position: '1'
+    name: QSFP
+    position: Ethernet49/1
+    label: Ethernet49/1
   -
-    name: Ethernet50/1
-    position: '1'
+    name: QSFP
+    position: Ethernet50/1
+    label: Ethernet50/1
   -
-    name: Ethernet51/1
-    position: '1'
+    name: QSFP
+    position: Ethernet51/1
+    label: Ethernet51/1
   -
-    name: Ethernet52/1
-    position: '1'
+    name: QSFP
+    position: Ethernet52/1
+    label: Ethernet52/1
   -
-    name: Ethernet53/1
-    position: '1'
+    name: QSFP
+    position: Ethernet53/1
+    label: Ethernet53/1
   -
-    name: Ethernet54/1
-    position: '1'
+    name: QSFP
+    position: Ethernet54/1
+    label: Ethernet54/1
   -
-    name: Ethernet55/1
-    position: '1'
+    name: QSFP
+    position: Ethernet55/1
+    label: Ethernet55/1
   -
-    name: Ethernet56/1
-    position: '1'
+    name: QSFP
+    position: Ethernet56/1
+    label: Ethernet56/1
   -
-    name: Ethernet57/1
-    position: '1'
+    name: QSFP
+    position: Ethernet57/1
+    label: Ethernet57/1
   -
-    name: Ethernet58/1
-    position: '1'
+    name: QSFP
+    position: Ethernet58/1
+    label: Ethernet58/1
   -
-    name: Ethernet59/1
-    position: '1'
+    name: QSFP
+    position: Ethernet59/1
+    label: Ethernet59/1
   -
-    name: Ethernet60/1
-    position: '1'
+    name: QSFP
+    position: Ethernet60/1
+    label: Ethernet60/1
 front_image: true
 rear_image: false
 interfaces:

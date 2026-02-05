@@ -94,18 +94,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: 21F
-    label: combo
-    position: '21'
+    name: SFP
+    position: 21F
+    label: 21F
   -
-    name: 22F
-    label: combo
-    position: '22'
+    name: SFP
+    position: 22F
+    label: 22F
   -
-    name: 23F
-    label: combo
-    position: '23'
+    name: SFP
+    position: 23F
+    label: 23F
   -
-    name: 24F
-    label: combo
-    position: '24'
+    name: SFP
+    position: 24F
+    label: 24F

@@ -5,17 +5,24 @@ slug: qotom-q330g4
 u_height: 0
 is_full_depth: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: nema-5-15p
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: de-9
 interfaces:
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 1000base-t
-  - name: Ethernet 2
+  -
+    name: Ethernet 2
     type: 1000base-t
-  - name: Ethernet 3
+  -
+    name: Ethernet 3
     type: 1000base-t
-  - name: Ethernet 4
+  -
+    name: Ethernet 4
     type: 1000base-t
+module-bays: []

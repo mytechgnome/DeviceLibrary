@@ -33,17 +33,21 @@ module-bays:
     name: PIM 3
     position: '5'
   -
-    name: xe-0/0/16
-    position: '16'
+    name: SFP
+    position: xe-0/0/16
+    label: xe-0/0/16
   -
-    name: xe-0/0/17
-    position: '17'
+    name: SFP
+    position: xe-0/0/17
+    label: xe-0/0/17
   -
-    name: xe-0/0/18
-    position: '18'
+    name: SFP
+    position: xe-0/0/18
+    label: xe-0/0/18
   -
-    name: xe-0/0/19
-    position: '19'
+    name: SFP
+    position: xe-0/0/19
+    label: xe-0/0/19
 interfaces:
   -
     name: fxp0

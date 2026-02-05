@@ -3,29 +3,28 @@ manufacturer: HPE
 model: Aruba J9993A
 part_number: J9993A
 comments: HPE J9993A Aruba 8p 1G/10GbE SFP+ v3 zl2 Module
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}/1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/2'
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/3'
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/4'
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/5'
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/6'
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/7'
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}/8'
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp

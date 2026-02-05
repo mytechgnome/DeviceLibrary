@@ -12,10 +12,11 @@ interfaces:
     name: '{module}-1GbE-1'
     type: 1000base-t
     mgmt_only: false
-module-bays:
   -
-    name: '{module}-10GbE-0'
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
   -
-    name: '{module}-10GbE-1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: false

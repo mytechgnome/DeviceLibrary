@@ -10,23 +10,32 @@ weight: 10.43
 weight_unit: kg
 comments: '[Ribbon Communications SBC 2000](https://ribboncommunications.com/products/enterprise-products/session-border-controllers/sbc-2000-session-border-controller)'
 module-bays:
-  - name: PSU0
+  -
+    name: PSU0
     position: '0'
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
-  - name: Module0
+  -
+    name: Module0
     position: '0'
-  - name: Module1
+  -
+    name: Module1
     position: '1'
 interfaces:
-  - name: Admin
+  -
+    name: Admin
     type: 1000base-t
     mgmt_only: true
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t

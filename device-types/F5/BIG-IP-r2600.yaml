@@ -25,17 +25,21 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: '5.0'
-    position: '0'
+    name: SFP
+    position: '5.0'
+    label: '5.0'
   -
-    name: '6.0'
-    position: '0'
+    name: SFP
+    position: '6.0'
+    label: '6.0'
   -
-    name: '7.0'
-    position: '0'
+    name: SFP
+    position: '7.0'
+    label: '7.0'
   -
-    name: '8.0'
-    position: '0'
+    name: SFP
+    position: '8.0'
+    label: '8.0'
 interfaces:
   -
     name: mgmt

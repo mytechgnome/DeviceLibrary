@@ -9,19 +9,28 @@ comments: '[Huawei CE8861-4C-EI](https://support.huawei.com/enterprise/en/doc/ED
 weight: 21.3
 weight_unit: kg
 module-bays:
-  - name: FAN1
+  -
+    name: FAN1
     position: '1'
-  - name: FAN2
+  -
+    name: FAN2
     position: '2'
-  - name: PWR1
+  -
+    name: PWR1
     position: '1'
-  - name: PWR2
+  -
+    name: PWR2
     position: '2'
-  - name: Slot 1
+  -
+    name: Slot 1
     position: '1'
-  - name: Slot 2
+  -
+    name: Slot 2
     position: '2'
-  - name: Slot 3
+  -
+    name: Slot 3
     position: '3'
-  - name: Slot 4
+  -
+    name: Slot 4
     position: '4'
+interfaces: []

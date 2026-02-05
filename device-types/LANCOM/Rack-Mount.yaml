@@ -9,4 +9,7 @@ subdevice_role: parent
 is_powered: false
 comments: '[LANCOM Rack Mount Data sheet](https://www.lancom-systems.de/fileadmin/produkte/rack_mount/Rack-Mount_DE.pdf)'
 device-bays:
-  - name: Device
+  -
+    name: Device
+module-bays: []
+interfaces: []

@@ -155,8 +155,10 @@ module-bays:
     name: PS-B
     position: B
   -
-    name: TwentyFiveGigE1/1/1
-    position: '1'
+    name: SFP
+    position: TwentyFiveGigE1/1/1
+    label: TwentyFiveGigE1/1/1
   -
-    name: TwentyFiveGigE1/1/2
-    position: '2'
+    name: SFP
+    position: TwentyFiveGigE1/1/2
+    label: TwentyFiveGigE1/1/2

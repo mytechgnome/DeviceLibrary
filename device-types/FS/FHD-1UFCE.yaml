@@ -7,11 +7,16 @@ part_number: FHD-1UFCE (#70361)
 u_height: 1
 is_full_depth: false
 module-bays:
-  - name: '1'
+  -
+    name: '1'
     position: '1'
-  - name: '2'
+  -
+    name: '2'
     position: '2'
-  - name: '3'
+  -
+    name: '3'
     position: '3'
-  - name: '4'
+  -
+    name: '4'
     position: '4'
+interfaces: []

@@ -24,118 +24,151 @@ front_image: true
 rear_image: true
 interfaces:
   # 2.5G PoE+++ RJ45 ports (1-8)
-  - name: 2.5G Port 1
+  -
+    name: 2.5G Port 1 type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type4-ieee802.3bt
+  -
+    name: 2.5G Port 2
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 2
+  -
+    name: 2.5G Port 3
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 3
+  -
+    name: 2.5G Port 4
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 4
+  -
+    name: 2.5G Port 5
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 5
+  -
+    name: 2.5G Port 6
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 6
+  -
+    name: 2.5G Port 7
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 7
-    type: 2.5gbase-t
-    poe_mode: pse
-    poe_type: type4-ieee802.3bt
-  - name: 2.5G Port 8
+  -
+    name: 2.5G Port 8
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   # 10G PoE+++ RJ45 ports (9-24)
-  - name: 10G Port 9
+  -
+    name: 10G Port 9
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 10
+  -
+    name: 10G Port 10
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 11
+  -
+    name: 10G Port 11
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 12
+  -
+    name: 10G Port 12
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 13
+  -
+    name: 10G Port 13
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 14
+  -
+    name: 10G Port 14
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 15
+  -
+    name: 10G Port 15
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 16
+  -
+    name: 10G Port 16
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 17
+  -
+    name: 10G Port 17
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 18
+  -
+    name: 10G Port 18
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 19
+  -
+    name: 10G Port 19
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 20
+  -
+    name: 10G Port 20
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 21
+  -
+    name: 10G Port 21
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 22
+  -
+    name: 10G Port 22
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 23
+  -
+    name: 10G Port 23
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: 10G Port 24
+  -
+    name: 10G Port 24
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   # 25G SFP28 ports (25-26)
-  - name: SFP28 Port 25
-    type: 25gbase-x-sfp28
-  - name: SFP28 Port 26
-    type: 25gbase-x-sfp28
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: left
-  - name: PSU 2
+  -
+    name: PSU 2
     position: right
-  - name: Fan Module 1
+  -
+    name: Fan Module 1
     position: front-left
-  - name: Fan Module 2
+  -
+    name: Fan Module 2
     position: front-center-left
-  - name: Fan Module 3
+  -
+    name: Fan Module 3
     position: front-center-right
-  - name: Fan Module 4
+  -
+    name: Fan Module 4
     position: front-right
+  -
+    name: SFP
+    position: SFP28 Port 25
+    label: SFP28 Port 25
+  -
+    name: SFP
+    position: SFP28 Port 26
+    label: SFP28 Port 26

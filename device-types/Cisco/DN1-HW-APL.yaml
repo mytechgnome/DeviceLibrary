@@ -6,27 +6,36 @@ part_number: DN1-HW-APL
 u_height: 1
 is_full_depth: true
 console-ports:
-  - name: Con
+  -
+    name: Con
     type: rj-45
 power-ports:
-  - name: PS-0
+  -
+    name: PS-0
     type: iec-60320-c14
     maximum_draw: 770
-  - name: PS-1
+  -
+    name: PS-1
     type: iec-60320-c14
     maximum_draw: 770
 interfaces:
-  - name: eno1
+  -
+    name: eno1
     type: 10gbase-t
     mgmt_only: true
-  - name: eno2
+  -
+    name: eno2
     type: 10gbase-t
-  - name: enp94s0f0
+  -
+    name: enp94s0f0
     type: 10gbase-t
     mgmt_only: true
-  - name: enp94s0f1
+  -
+    name: enp94s0f1
     type: 10gbase-t
     mgmt_only: true
-  - name: CIMC
+  -
+    name: CIMC
     type: 1000base-t
     mgmt_only: true
+module-bays: []

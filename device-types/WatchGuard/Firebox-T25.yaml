@@ -12,20 +12,28 @@ rear_image: true
 weight: 0.88
 weight_unit: kg
 console-ports:
-  - name: mgmnt
+  -
+    name: mgmnt
     type: rj-45
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: dc-terminal
     maximum_draw: 21
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: eth2
+  -
+    name: eth2
     type: 1000base-t
-  - name: eth3
+  -
+    name: eth3
     type: 1000base-t
-  - name: eth4
+  -
+    name: eth4
     type: 1000base-t
+module-bays: []

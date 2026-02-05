@@ -10,11 +10,15 @@ is_full_depth: false
 weight: 320
 weight_unit: g
 interfaces:
-  - name: WAN 1
+  -
+    name: WAN 1
     type: 1000base-t
-  - name: Lan 1
+  -
+    name: Lan 1
     type: 1000base-t
 power-ports:
-  - name: Supply
+  -
+    name: Supply
     type: usb-c
     maximum_draw: 4
+module-bays: []

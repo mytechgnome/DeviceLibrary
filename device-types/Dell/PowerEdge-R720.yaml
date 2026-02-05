@@ -10,16 +10,21 @@ airflow: front-to-rear
 front_image: true
 rear_image: true
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: '1'
-  - name: PSU 2
+  -
+    name: PSU 2
     position: '2'
-  - name: Network Daughter Card slot 1
+  -
+    name: Network Daughter Card slot 1
     position: NDC-1
 interfaces:
-  - name: iDRAC
+  -
+    name: iDRAC
     type: 1000base-t
     mgmt_only: true

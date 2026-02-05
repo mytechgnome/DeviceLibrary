@@ -12,19 +12,25 @@ subdevice_role: parent
 weight: 260
 weight_unit: g
 interfaces:
-  - name: Internet
+  -
+    name: Internet
     label: Internet
     type: 100base-tx
-  - name: ether1
+  -
+    name: ether1
     type: 100base-tx
-  - name: ether2
+  -
+    name: ether2
     type: 100base-tx
-  - name: Wireless 2.4 GHz
+  -
+    name: Wireless 2.4 GHz
     type: ieee802.11n
 power-ports:
-  - name: DC
+  -
+    name: DC
     type: dc-terminal
     maximum_draw: 5
     allocated_draw: 5
     description: 5V DC, 1A
 comments: '[Mi Router 4C Datasheet by Kolyan](https://www.mi.com/ru/mi-router-4c/specs/)'
+module-bays: []

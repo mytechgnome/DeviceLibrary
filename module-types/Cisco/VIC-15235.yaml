@@ -2,12 +2,11 @@
 manufacturer: Cisco
 part_number: UCSC-P-V5D200G-D
 model: VIC 15235
-interfaces: []
+interfaces:
+  -
+    name: '{module}'
+    type: 200gbase-x-qsfp56
+  -
+    name: '{module}'
+    type: 200gbase-x-qsfp56
 comments: Cisco UCS VIC 15235 Dual port 40/100/200G PCIe for Cisco UCS C-Series M7 rack servers
-module-bays:
-  -
-    name: Ethernet {module}/1
-    position: '1'
-  -
-    name: Ethernet {module}/2
-    position: '2'

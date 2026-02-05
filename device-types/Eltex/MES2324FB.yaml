@@ -21,86 +21,118 @@ power-ports:
     maximum_draw: 85
 module-bays:
   -
-    name: gigabitethernet1/0/1
-    position: '1'
+    name: SFP
+    position: gigabitethernet1/0/1
+    label: gigabitethernet1/0/1
   -
-    name: gigabitethernet1/0/2
-    position: '2'
+    name: SFP
+    position: gigabitethernet1/0/2
+    label: gigabitethernet1/0/2
   -
-    name: gigabitethernet1/0/3
-    position: '3'
+    name: SFP
+    position: gigabitethernet1/0/3
+    label: gigabitethernet1/0/3
   -
-    name: gigabitethernet1/0/4
-    position: '4'
+    name: SFP
+    position: gigabitethernet1/0/4
+    label: gigabitethernet1/0/4
   -
-    name: gigabitethernet1/0/5
-    position: '5'
+    name: SFP
+    position: gigabitethernet1/0/5
+    label: gigabitethernet1/0/5
   -
-    name: gigabitethernet1/0/6
-    position: '6'
+    name: SFP
+    position: gigabitethernet1/0/6
+    label: gigabitethernet1/0/6
   -
-    name: gigabitethernet1/0/7
-    position: '7'
+    name: SFP
+    position: gigabitethernet1/0/7
+    label: gigabitethernet1/0/7
   -
-    name: gigabitethernet1/0/8
-    position: '8'
+    name: SFP
+    position: gigabitethernet1/0/8
+    label: gigabitethernet1/0/8
   -
-    name: gigabitethernet1/0/9
-    position: '9'
+    name: SFP
+    position: gigabitethernet1/0/9
+    label: gigabitethernet1/0/9
   -
-    name: gigabitethernet1/0/10
-    position: '10'
+    name: SFP
+    position: gigabitethernet1/0/10
+    label: gigabitethernet1/0/10
   -
-    name: gigabitethernet1/0/11
-    position: '11'
+    name: SFP
+    position: gigabitethernet1/0/11
+    label: gigabitethernet1/0/11
+    description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: gigabitethernet1/0/12
-    position: '12'
+    name: SFP
+    position: gigabitethernet1/0/12
+    label: gigabitethernet1/0/12
+    description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: gigabitethernet1/0/13
-    position: '13'
+    name: SFP
+    position: gigabitethernet1/0/13
+    label: gigabitethernet1/0/13
   -
-    name: gigabitethernet1/0/14
-    position: '14'
+    name: SFP
+    position: gigabitethernet1/0/14
+    label: gigabitethernet1/0/14
   -
-    name: gigabitethernet1/0/15
-    position: '15'
+    name: SFP
+    position: gigabitethernet1/0/15
+    label: gigabitethernet1/0/15
   -
-    name: gigabitethernet1/0/16
-    position: '16'
+    name: SFP
+    position: gigabitethernet1/0/16
+    label: gigabitethernet1/0/16
   -
-    name: gigabitethernet1/0/17
-    position: '17'
+    name: SFP
+    position: gigabitethernet1/0/17
+    label: gigabitethernet1/0/17
   -
-    name: gigabitethernet1/0/18
-    position: '18'
+    name: SFP
+    position: gigabitethernet1/0/18
+    label: gigabitethernet1/0/18
   -
-    name: gigabitethernet1/0/19
-    position: '19'
+    name: SFP
+    position: gigabitethernet1/0/19
+    label: gigabitethernet1/0/19
   -
-    name: gigabitethernet1/0/20
-    position: '20'
+    name: SFP
+    position: gigabitethernet1/0/20
+    label: gigabitethernet1/0/20
   -
-    name: gigabitethernet1/0/21
-    position: '21'
+    name: SFP
+    position: gigabitethernet1/0/21
+    label: gigabitethernet1/0/21
   -
-    name: gigabitethernet1/0/22
-    position: '22'
+    name: SFP
+    position: gigabitethernet1/0/22
+    label: gigabitethernet1/0/22
   -
-    name: gigabitethernet1/0/23
-    position: '23'
+    name: SFP
+    position: gigabitethernet1/0/23
+    label: gigabitethernet1/0/23
+    description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: gigabitethernet1/0/24
-    position: '24'
+    name: SFP
+    position: gigabitethernet1/0/24
+    label: gigabitethernet1/0/24
+    description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: tengigabitethernet1/0/1
-    position: '1'
+    name: SFP
+    position: tengigabitethernet1/0/1
+    label: tengigabitethernet1/0/1
   -
-    name: tengigabitethernet1/0/2
-    position: '2'
+    name: SFP
+    position: tengigabitethernet1/0/2
+    label: tengigabitethernet1/0/2
   -
-    name: tengigabitethernet1/0/3
-    position: '3'
+    name: SFP
+    position: tengigabitethernet1/0/3
+    label: tengigabitethernet1/0/3
   -
-    name: tengigabitethernet1/0/4
-    position: '4'
+    name: SFP
+    position: tengigabitethernet1/0/4
+    label: tengigabitethernet1/0/4

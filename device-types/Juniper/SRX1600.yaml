@@ -72,29 +72,39 @@ module-bays:
     name: PSU 1
     position: '1'
   -
-    name: ctl0
-    position: '0'
+    name: SFP
+    position: ctl0
+    label: ctl0
+    description: Cluster Control Link
   -
-    name: ctl1
-    position: '1'
+    name: SFP
+    position: ctl1
+    label: ctl1
+    description: Cluster Control Link
   -
-    name: et-0/1/0
-    position: '0'
+    name: SFP
+    position: et-0/1/0
+    label: et-0/1/0
   -
-    name: et-0/1/1
-    position: '1'
+    name: SFP
+    position: et-0/1/1
+    label: et-0/1/1
   -
-    name: xe-0/2/0
-    position: '0'
+    name: SFP
+    position: xe-0/2/0
+    label: xe-0/2/0
   -
-    name: xe-0/2/1
-    position: '1'
+    name: SFP
+    position: xe-0/2/1
+    label: xe-0/2/1
   -
-    name: xe-0/2/2
-    position: '2'
+    name: SFP
+    position: xe-0/2/2
+    label: xe-0/2/2
   -
-    name: xe-0/2/3
-    position: '3'
+    name: SFP
+    position: xe-0/2/3
+    label: xe-0/2/3
 console-ports:
   -
     name: Console

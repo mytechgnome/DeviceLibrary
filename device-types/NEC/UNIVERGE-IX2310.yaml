@@ -11,21 +11,29 @@ comments: |
 u_height: 1
 is_full_depth: false
 console-ports:
-  - name: CONSOLE
+  -
+    name: CONSOLE
     type: rj-45
 interfaces:
-  - name: GigaEthernet0
+  -
+    name: GigaEthernet0
     type: 1000base-t
-  - name: GigaEthernet1
+  -
+    name: GigaEthernet1
     type: 1000base-t
-  - name: GigaEthernet2
+  -
+    name: GigaEthernet2
     type: 1000base-t
-  - name: GigaEthernet3
+  -
+    name: GigaEthernet3
     type: 1000base-t
-  - name: USB0
+  -
+    name: USB0
     type: other
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 50
     allocated_draw: 42
+module-bays: []

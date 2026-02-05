@@ -17,14 +17,17 @@ module-bays:
     name: PSU Slot 2
     position: '2'
   -
-    name: X16
-    position: '16'
+    name: SFP
+    position: X16
+    label: X16
   -
-    name: X17
-    position: '17'
+    name: SFP
+    position: X17
+    label: X17
   -
-    name: X18
-    position: '18'
+    name: SFP
+    position: X18
+    label: X18
 inventory-items:
   -
     name: Storage-Module

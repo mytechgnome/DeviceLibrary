@@ -20,5 +20,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: Adapter 3
-    position: '3'
+    name: SFP
+    position: Adapter 3
+    label: Adapter 3

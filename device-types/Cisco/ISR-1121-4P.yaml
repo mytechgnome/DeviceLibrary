@@ -43,5 +43,7 @@ power-ports:
     description: 12V DC input
 module-bays:
   -
-    name: GigabitEthernet0/0/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet0/0/1
+    label: GigabitEthernet0/0/1
+    description: WAN SFP (Combo with GE0/0/0)

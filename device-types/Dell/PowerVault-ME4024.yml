@@ -9,14 +9,19 @@ front_image: true
 rear_image: true
 subdevice_role: parent
 module-bays:
-  - name: '1'
+  -
+    name: '1'
     label: PSU Slot 1
     position: '1'
-  - name: '2'
+  -
+    name: '2'
     label: PSU Slot 2
     position: '2'
 device-bays:
-  - name: A
+  -
+    name: A
     label: Controller Slot A
-  - name: B
+  -
+    name: B
     label: Controller Slot B
+interfaces: []

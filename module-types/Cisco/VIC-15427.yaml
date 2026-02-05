@@ -2,18 +2,17 @@
 manufacturer: Cisco
 part_number: UCSC-M-V5Q50GV2D
 model: VIC 15427
-interfaces: []
+interfaces:
+  -
+    name: '{module}'
+    type: 50gbase-x-sfp56
+  -
+    name: '{module}'
+    type: 50gbase-x-sfp56
+  -
+    name: '{module}'
+    type: 50gbase-x-sfp56
+  -
+    name: '{module}'
+    type: 50gbase-x-sfp56
 comments: Cisco UCS VIC 15427 Quad port 10/25/50G mLOM for Cisco UCS C-Series M7 rack servers
-module-bays:
-  -
-    name: Ethernet {module}/1
-    position: '1'
-  -
-    name: Ethernet {module}/2
-    position: '2'
-  -
-    name: Ethernet {module}/3
-    position: '3'
-  -
-    name: Ethernet {module}/4
-    position: '4'

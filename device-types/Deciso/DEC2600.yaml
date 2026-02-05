@@ -6,17 +6,23 @@ slug: deciso-dec2600
 is_full_depth: false
 u_height: 1
 interfaces:
-  - name: igb0
+  -
+    name: igb0
     type: 1000base-t
-  - name: igb1
+  -
+    name: igb1
     type: 1000base-t
-  - name: igb2
+  -
+    name: igb2
     type: 1000base-t
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: usb-mini-b
 power-ports:
-  - name: PSU 1
+  -
+    name: PSU 1
     type: iec-60320-c14
     maximum_draw: 184
     allocated_draw: 15
+module-bays: []

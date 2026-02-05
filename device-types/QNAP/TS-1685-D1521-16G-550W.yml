@@ -10,29 +10,38 @@ weight: 29.52
 weight_unit: lb
 comments: '[TS-1685-D1521-16G-550W | Hardware Specs | QNAP](https://www.qnap.com/en/product/ts-1685/specs/hardware)'
 power-ports:
-  - name: PSU 1
+  -
+    name: PSU 1
     type: iec-60320-c14
     maximum_draw: 550
     allocated_draw: 250
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
     label: Adapter1
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
     label: Adapter2
-  - name: eth2
+  -
+    name: eth2
     type: 1000base-t
     label: Adapter3
-  - name: eth3
+  -
+    name: eth3
     type: 1000base-t
     label: Adapter4
-  - name: eth4
+  -
+    name: eth4
     type: 1000base-t
     label: Adapter5
-  - name: eth5
+  -
+    name: eth5
     type: 10gbase-t
     label: Adapter5
-  - name: eth6
+  -
+    name: eth6
     type: 10gbase-t
     label: Adapter6
+module-bays: []

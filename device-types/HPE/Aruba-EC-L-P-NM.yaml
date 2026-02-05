@@ -48,10 +48,10 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: tlan0
+    name: SFP
+    position: tlan0
     label: tlan0
-    position: '0'
   -
-    name: twan0
+    name: SFP
+    position: twan0
     label: twan0
-    position: '0'

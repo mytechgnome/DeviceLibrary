@@ -11,9 +11,12 @@ airflow: passive
 weight: 290.0
 weight_unit: g
 interfaces:
-  - name: lan0
+  -
+    name: lan0
     type: 100base-tx
     poe_mode: pd
     poe_type: passive-24v-2pair
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
+module-bays: []

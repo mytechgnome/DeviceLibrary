@@ -3,21 +3,20 @@ manufacturer: Check Point
 model: CPAC-4-10F
 part_number: CPAC-4-10F
 comments: 4 Port 10GBase-F SFP+ interface card
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: eth{module}-01
+    name: '{module}'
     label: '1'
-    position: '01'
+    type: 10gbase-x-sfpp
   -
-    name: eth{module}-02
+    name: '{module}'
     label: '2'
-    position: '02'
+    type: 10gbase-x-sfpp
   -
-    name: eth{module}-03
+    name: '{module}'
     label: '3'
-    position: '03'
+    type: 10gbase-x-sfpp
   -
-    name: eth{module}-04
+    name: '{module}'
     label: '4'
-    position: '04'
+    type: 10gbase-x-sfpp

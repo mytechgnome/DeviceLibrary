@@ -71,14 +71,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GE1/0/17
-    position: '17'
+    name: SFP
+    position: GE1/0/17
+    label: GE1/0/17
   -
-    name: GE1/0/18
-    position: '18'
+    name: SFP
+    position: GE1/0/18
+    label: GE1/0/18
   -
-    name: GE1/0/19
-    position: '19'
+    name: SFP
+    position: GE1/0/19
+    label: GE1/0/19
   -
-    name: GE1/0/20
-    position: '20'
+    name: SFP
+    position: GE1/0/20
+    label: GE1/0/20

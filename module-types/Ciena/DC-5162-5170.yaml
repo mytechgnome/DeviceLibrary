@@ -8,7 +8,8 @@ comments: |
   * 5162
   * 5170
 power-ports:
-  - name: PS-{module}
+  -
+    name: PS-{module}
     type: dc-terminal
     maximum_draw: 325
     allocated_draw: 169

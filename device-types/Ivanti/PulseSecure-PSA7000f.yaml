@@ -26,14 +26,18 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: internal1
-    position: '1'
+    name: SFP
+    position: internal1
+    label: internal1
   -
-    name: internal2
-    position: '2'
+    name: SFP
+    position: internal2
+    label: internal2
   -
-    name: external1
-    position: '1'
+    name: SFP
+    position: external1
+    label: external1
   -
-    name: external2
-    position: '2'
+    name: SFP
+    position: external2
+    label: external2

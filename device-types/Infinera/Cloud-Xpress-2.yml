@@ -31,38 +31,50 @@ rear-ports:
     positions: 1
 module-bays:
   -
-    name: swp1
-    position: '1'
+    name: QSFP
+    position: swp1
+    label: swp1
   -
-    name: swp2
-    position: '2'
+    name: QSFP
+    position: swp2
+    label: swp2
   -
-    name: swp3
-    position: '3'
+    name: QSFP
+    position: swp3
+    label: swp3
   -
-    name: swp4
-    position: '4'
+    name: QSFP
+    position: swp4
+    label: swp4
   -
-    name: swp5
-    position: '5'
+    name: QSFP
+    position: swp5
+    label: swp5
   -
-    name: swp6
-    position: '6'
+    name: QSFP
+    position: swp6
+    label: swp6
   -
-    name: swp7
-    position: '7'
+    name: QSFP
+    position: swp7
+    label: swp7
   -
-    name: swp8
-    position: '8'
+    name: QSFP
+    position: swp8
+    label: swp8
   -
-    name: swp9
-    position: '9'
+    name: QSFP
+    position: swp9
+    label: swp9
   -
-    name: swp10
-    position: '10'
+    name: QSFP
+    position: swp10
+    label: swp10
   -
-    name: swp11
-    position: '11'
+    name: QSFP
+    position: swp11
+    label: swp11
   -
-    name: swp12
-    position: '12'
+    name: QSFP
+    position: swp12
+    label: swp12

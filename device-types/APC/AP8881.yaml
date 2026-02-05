@@ -16,195 +16,242 @@ comments: |
 
   Ports are enumerated left to right, top to bottom, when the PDU is oriented vertically with the power cord up. Port numbers are grouped per line/phase.
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     label: Serial
     type: rj-12
-  - name: CAN Out
+  -
+    name: CAN Out
     label: Out
     type: rj-45
 console-server-ports:
-  - name: CAN In
+  -
+    name: CAN In
     label: In
     type: rj-45
 interfaces:
-  - name: Network
+  -
+    name: Network
     label: Network
     type: 100base-tx
     mgmt_only: true
 power-ports:
-  - name: Power Cord
+  -
+    name: Power Cord
     type: iec-60309-3p-n-e-6h
     # allocated_draw: Leave blank for PDUs
     # maximum_draw: Leave blank for PDUs
 power-outlets:
 # L1 - Line 1
-  - name: L1 C19 01
+  -
+    name: L1 C19 01 type: iec-60320-c19
+    feed_leg: A
+    power_port: Power Cord
+  -
+    name: L1 C19 02
     type: iec-60320-c19
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C19 02
-    type: iec-60320-c19
-    feed_leg: A
-    power_port: Power Cord
-  - name: L1 C13 01
+  -
+    name: L1 C13 01
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 02
+  -
+    name: L1 C13 02
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 03
+  -
+    name: L1 C13 03
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 04
+  -
+    name: L1 C13 04
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 05
+  -
+    name: L1 C13 05
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 06
+  -
+    name: L1 C13 06
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 07
+  -
+    name: L1 C13 07
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 08
+  -
+    name: L1 C13 08
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 09
+  -
+    name: L1 C13 09
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 10
+  -
+    name: L1 C13 10
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 11
+  -
+    name: L1 C13 11
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: L1 C13 12
+  -
+    name: L1 C13 12
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
 # L2 - Line 2
-  - name: L2 C19 01
+  -
+    name: L2 C19 01
     type: iec-60320-c19
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C19 02
+  -
+    name: L2 C19 02
     type: iec-60320-c19
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 01
+  -
+    name: L2 C13 01
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 02
+  -
+    name: L2 C13 02
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 03
+  -
+    name: L2 C13 03
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 04
+  -
+    name: L2 C13 04
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 05
+  -
+    name: L2 C13 05
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 06
+  -
+    name: L2 C13 06
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 07
+  -
+    name: L2 C13 07
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 08
+  -
+    name: L2 C13 08
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 09
+  -
+    name: L2 C13 09
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 10
+  -
+    name: L2 C13 10
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 11
+  -
+    name: L2 C13 11
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: L2 C13 12
+  -
+    name: L2 C13 12
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
 # L3 - Line 3
-  - name: L3 C19 01
+  -
+    name: L3 C19 01
     type: iec-60320-c19
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C19 02
+  -
+    name: L3 C19 02
     type: iec-60320-c19
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 01
+  -
+    name: L3 C13 01
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 02
+  -
+    name: L3 C13 02
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 03
+  -
+    name: L3 C13 03
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 04
+  -
+    name: L3 C13 04
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 05
+  -
+    name: L3 C13 05
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 06
+  -
+    name: L3 C13 06
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 07
+  -
+    name: L3 C13 07
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 08
+  -
+    name: L3 C13 08
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 09
+  -
+    name: L3 C13 09
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 10
+  -
+    name: L3 C13 10
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 11
+  -
+    name: L3 C13 11
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: L3 C13 12
+  -
+    name: L3 C13 12
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
+module-bays: []

@@ -3,17 +3,16 @@ manufacturer: HPE
 model: HP 4-Port mini-Gbic xl Module
 part_number: J4878A
 comments: HP 4-Port mini-Gbic xl Module
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}1'
-    position: '1'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: '{module}2'
-    position: '2'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: '{module}3'
-    position: '3'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: '{module}4'
-    position: '4'
+    name: '{module}'
+    type: 1000base-x-sfp

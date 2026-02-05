@@ -11,13 +11,16 @@ airflow: passive
 front_image: true
 rear_image: true
 interfaces:
-  - name: wlan
+  -
+    name: wlan
     type: ieee802.11ac
     rf_role: station
-  - name: Bluetooth
+  -
+    name: Bluetooth
     type: ieee802.15.1
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: usb-c
     maximum_draw: 7
 comments: |
@@ -39,3 +42,4 @@ comments: |
   * **Max. Power Consumption:** 7W
   * **Weight:** 180 g (6.3 oz)
   * **Certifications:** CE, FCC, IC
+module-bays: []

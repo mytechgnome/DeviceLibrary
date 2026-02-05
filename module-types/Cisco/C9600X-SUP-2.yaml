@@ -15,10 +15,11 @@ interfaces:
     name: GigabitEthernet0/0
     type: 1000base-t
     mgmt_only: true
-module-bays:
   -
-    name: TenGigabitEthernet{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: true
   -
-    name: TenGigabitEthernet{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: true

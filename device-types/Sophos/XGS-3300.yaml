@@ -48,17 +48,21 @@ module-bays:
     name: A
     position: A
   -
-    name: F1
-    position: '1'
+    name: SFP
+    position: F1
+    label: F1
   -
-    name: F2
-    position: '2'
+    name: SFP
+    position: F2
+    label: F2
   -
-    name: F3
-    position: '3'
+    name: SFP
+    position: F3
+    label: F3
   -
-    name: F4
-    position: '4'
+    name: SFP
+    position: F4
+    label: F4
 power-ports:
   -
     name: internal-PS

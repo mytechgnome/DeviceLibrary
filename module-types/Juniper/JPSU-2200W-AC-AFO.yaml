@@ -6,7 +6,8 @@ part_number: JPSU-2200W-AC-AFO
 weight: 2
 weight_unit: kg
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: saf-d-grid
     maximum_draw: 2200
     allocated_draw: 1100

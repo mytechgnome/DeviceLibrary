@@ -3,13 +3,12 @@ manufacturer: Check Point
 model: CPAC-2-40F
 part_number: CPAC-2-40F
 comments: 2 Port 40G QSFP28 interface card
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: eth{module}-01
+    name: '{module}'
     label: '1'
-    position: '01'
+    type: 40gbase-x-qsfpp
   -
-    name: eth{module}-02
+    name: '{module}'
     label: '2'
-    position: '02'
+    type: 40gbase-x-qsfpp

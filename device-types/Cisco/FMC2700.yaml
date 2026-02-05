@@ -24,11 +24,13 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: eth2
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
 interfaces:
   -
     name: CIMC

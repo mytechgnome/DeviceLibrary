@@ -23,17 +23,21 @@ module-bays:
     name: Expansion Slot
     position: '0'
   -
-    name: '2'
+    name: SFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: SFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: SFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: SFP
     position: '5'
+    label: '5'
 interfaces:
   -
     name: '0'

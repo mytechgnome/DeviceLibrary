@@ -35,35 +35,45 @@ module-bays:
     position: power2
     description: Power module
   -
-    name: sfp28-1
-    position: '1'
+    name: SFP
+    position: sfp28-1
+    label: sfp28-1
   -
-    name: sfp28-2
-    position: '2'
+    name: SFP
+    position: sfp28-2
+    label: sfp28-2
   -
-    name: sfp28-3
-    position: '3'
+    name: SFP
+    position: sfp28-3
+    label: sfp28-3
   -
-    name: sfp28-4
-    position: '4'
+    name: SFP
+    position: sfp28-4
+    label: sfp28-4
   -
-    name: sfp28-5
-    position: '5'
+    name: SFP
+    position: sfp28-5
+    label: sfp28-5
   -
-    name: sfp28-6
-    position: '6'
+    name: SFP
+    position: sfp28-6
+    label: sfp28-6
   -
-    name: sfp28-7
-    position: '7'
+    name: SFP
+    position: sfp28-7
+    label: sfp28-7
   -
-    name: sfp28-8
-    position: '8'
+    name: SFP
+    position: sfp28-8
+    label: sfp28-8
   -
-    name: qsfp28-1-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-1-1
+    label: qsfp28-1-1
   -
-    name: qsfp28-2-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-2-1
+    label: qsfp28-2-1
 power-ports:
   -
     name: power3

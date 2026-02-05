@@ -11,22 +11,28 @@ subdevice_role: parent
 weight: 650
 weight_unit: g
 device-bays:
-  - name: '1'
+  -
+    name: '1'
     label: AI Port Slot 1
     description: Slot for UP-AI-Port module
-  - name: '2'
+  -
+    name: '2'
     label: AI Port Slot 2
     description: Slot for UP-AI-Port module
-  - name: '3'
+  -
+    name: '3'
     label: AI Port Slot 3
     description: Slot for UP-AI-Port module
-  - name: '4'
+  -
+    name: '4'
     label: AI Port Slot 4
     description: Slot for UP-AI-Port module
-  - name: '5'
+  -
+    name: '5'
     label: AI Port Slot 5
     description: Slot for UP-AI-Port module
-  - name: '6'
+  -
+    name: '6'
     label: AI Port Slot 6
     description: Slot for UP-AI-Port module
 front_image: true
@@ -38,3 +44,5 @@ comments: |
 
   Dimensions: 442.4 x 158.5 x 42.8 mm (17.4 x 6.2 x 1.7")
   Weight: 650 g (1.4 lb)
+module-bays: []
+interfaces: []

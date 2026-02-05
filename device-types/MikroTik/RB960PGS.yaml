@@ -40,5 +40,6 @@ power-ports:
     allocated_draw: 10
 module-bays:
   -
-    name: sfp1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1

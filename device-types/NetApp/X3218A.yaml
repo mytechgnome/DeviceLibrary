@@ -29,20 +29,26 @@ interfaces:
     description: MiniSAS HD
 module-bays:
   -
-    name: e0a
-    position: '0'
+    name: SFP
+    position: e0a
+    label: e0a
   -
-    name: e0b
-    position: '0'
+    name: SFP
+    position: e0b
+    label: e0b
   -
-    name: e0c
-    position: '0'
+    name: SFP
+    position: e0c
+    label: e0c
   -
-    name: e0d
-    position: '0'
+    name: SFP
+    position: e0d
+    label: e0d
   -
-    name: e0e
-    position: '0'
+    name: SFP
+    position: e0e
+    label: e0e
   -
-    name: e0f
-    position: '0'
+    name: SFP
+    position: e0f
+    label: e0f

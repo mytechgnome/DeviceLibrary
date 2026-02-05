@@ -9,5 +9,8 @@ airflow: passive
 weight: 9
 weight_unit: g
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: usb-micro-b
+module-bays: []
+interfaces: []

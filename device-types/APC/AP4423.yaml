@@ -10,51 +10,65 @@ weight: 3.74
 weight_unit: kg
 comments: Rack ATS - 20A/208V - 16A/230V - C20 in - (8) C13 (1) C19 out
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-12
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60320-c20
-  - name: Power Port 2
+  -
+    name: Power Port 2
     type: iec-60320-c20
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Power Port 1
     feed_leg: A
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: iec-60320-c19
     power_port: Power Port 1
     feed_leg: A
 interfaces:
-  - name: Network
+  -
+    name: Network
     type: 100base-tx
     mgmt_only: true
+module-bays: []

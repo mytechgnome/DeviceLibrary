@@ -27,74 +27,98 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: fc0
-    position: '0'
+    name: SFP
+    position: fc0
+    label: fc0
   -
-    name: fc1
-    position: '1'
+    name: SFP
+    position: fc1
+    label: fc1
   -
-    name: fc2
-    position: '2'
+    name: SFP
+    position: fc2
+    label: fc2
   -
-    name: fc3
-    position: '3'
+    name: SFP
+    position: fc3
+    label: fc3
   -
-    name: fc4
-    position: '4'
+    name: SFP
+    position: fc4
+    label: fc4
   -
-    name: fc5
-    position: '5'
+    name: SFP
+    position: fc5
+    label: fc5
   -
-    name: fc6
-    position: '6'
+    name: SFP
+    position: fc6
+    label: fc6
   -
-    name: fc7
-    position: '7'
+    name: SFP
+    position: fc7
+    label: fc7
   -
-    name: fc8
-    position: '8'
+    name: SFP
+    position: fc8
+    label: fc8
   -
-    name: fc9
-    position: '9'
+    name: SFP
+    position: fc9
+    label: fc9
   -
-    name: fc10
-    position: '10'
+    name: SFP
+    position: fc10
+    label: fc10
   -
-    name: fc11
-    position: '11'
+    name: SFP
+    position: fc11
+    label: fc11
   -
-    name: fc12
-    position: '12'
+    name: SFP
+    position: fc12
+    label: fc12
   -
-    name: fc13
-    position: '13'
+    name: SFP
+    position: fc13
+    label: fc13
   -
-    name: fc14
-    position: '14'
+    name: SFP
+    position: fc14
+    label: fc14
   -
-    name: fc15
-    position: '15'
+    name: SFP
+    position: fc15
+    label: fc15
   -
-    name: fc16
-    position: '16'
+    name: SFP
+    position: fc16
+    label: fc16
   -
-    name: fc17
-    position: '17'
+    name: SFP
+    position: fc17
+    label: fc17
   -
-    name: fc18
-    position: '18'
+    name: SFP
+    position: fc18
+    label: fc18
   -
-    name: fc19
-    position: '19'
+    name: SFP
+    position: fc19
+    label: fc19
   -
-    name: fc20
-    position: '20'
+    name: SFP
+    position: fc20
+    label: fc20
   -
-    name: fc21
-    position: '21'
+    name: SFP
+    position: fc21
+    label: fc21
   -
-    name: fc22
-    position: '22'
+    name: SFP
+    position: fc22
+    label: fc22
   -
-    name: fc23
-    position: '23'
+    name: SFP
+    position: fc23
+    label: fc23

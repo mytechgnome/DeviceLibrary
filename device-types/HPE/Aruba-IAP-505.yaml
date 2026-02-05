@@ -10,15 +10,20 @@ weight_unit: g
 airflow: passive
 comments: '[Aruba 500 Series Datasheet](https://www.arubanetworks.com/assets/ds/DS_AP500Series.pdf)'
 console-ports:
-  - name: usb-ble
+  -
+    name: usb-ble
     type: usb-a
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ax
+module-bays: []

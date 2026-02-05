@@ -9,21 +9,28 @@ airflow: passive
 weight_unit: kg
 is_full_depth: false
 interfaces:
-  - name: FastEthernet0/0
+  -
+    name: FastEthernet0/0
     type: 100base-tx
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
-  - name: aux
+  -
+    name: aux
     type: rj-45
 module-bays:
-  - name: VIC-WIC0
+  -
+    name: VIC-WIC0
     position: '0'
-  - name: VIC-WIC1
+  -
+    name: VIC-WIC1
     position: '1'
-  - name: VIC2
+  -
+    name: VIC2
     position: '2'
 power-ports:
-  - name: External-PSU
+  -
+    name: External-PSU
     type: dc-terminal
     maximum_draw: 160

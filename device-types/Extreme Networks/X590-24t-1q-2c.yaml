@@ -22,14 +22,20 @@ module-bays:
     name: PSU-2
     position: PSU-2
   -
-    name: '25'
+    name: QSFP
     position: '25'
+    label: '25'
+    description: Only usable if ports 29 and 33 configured for stacking
   -
-    name: '29'
+    name: QSFP
     position: '29'
+    label: '29'
+    description: Can be used for stacking or as a standard port
   -
-    name: '33'
+    name: QSFP
     position: '33'
+    label: '33'
+    description: Can be used for stacking or as a standard port
 interfaces:
   -
     name: Mgmt-port

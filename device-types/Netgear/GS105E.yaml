@@ -6,16 +6,23 @@ u_height: 1
 comments: '[Gigabit Plus Switch Series GS105E](https://www.netgear.com/business/wired/switches/plus/gs105ev2/)'
 is_full_depth: false
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: dc-terminal
 interfaces:
-  - name: GigabitEthernet/1
+  -
+    name: GigabitEthernet/1
     type: 1000base-t
-  - name: GigabitEthernet/2
+  -
+    name: GigabitEthernet/2
     type: 1000base-t
-  - name: GigabitEthernet/3
+  -
+    name: GigabitEthernet/3
     type: 1000base-t
-  - name: GigabitEthernet/4
+  -
+    name: GigabitEthernet/4
     type: 1000base-t
-  - name: GigabitEthernet/5
+  -
+    name: GigabitEthernet/5
     type: 1000base-t
+module-bays: []

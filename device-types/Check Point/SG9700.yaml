@@ -62,18 +62,18 @@ module-bays:
     name: Line card 2
     position: '2'
   -
-    name: eth1
-    label: '1'
-    position: '1'
+    name: SFP
+    position: eth1
+    label: eth1
   -
-    name: eth2
-    label: '2'
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    label: '3'
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
   -
-    name: eth4
-    label: '4'
-    position: '4'
+    name: SFP
+    position: eth4
+    label: eth4

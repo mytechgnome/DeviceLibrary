@@ -271,14 +271,18 @@ module-bays:
     name: PSU-2
     position: '2'
   -
-    name: '49'
+    name: SFP
     position: '49'
+    label: '49'
   -
-    name: '50'
+    name: SFP
     position: '50'
+    label: '50'
   -
-    name: '51'
+    name: SFP
     position: '51'
+    label: '51'
   -
-    name: '52'
+    name: SFP
     position: '52'
+    label: '52'

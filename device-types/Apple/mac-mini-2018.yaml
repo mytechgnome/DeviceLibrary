@@ -10,11 +10,15 @@ weight: 2.9
 weight_unit: lb
 comments: '[Mac Mini 2018 (Macmini8,1) | hardware specs](https://support.apple.com/en-us/111912)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c8
     maximum_draw: 150
 interfaces:
-  - name: eth
+  -
+    name: eth
     type: 1000base-t
-  - name: wireless
+  -
+    name: wireless
     type: ieee802.11ac
+module-bays: []

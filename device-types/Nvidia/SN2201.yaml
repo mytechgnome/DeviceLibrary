@@ -20,17 +20,21 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: swp49
-    position: '49'
+    name: QSFP
+    position: swp49
+    label: swp49
   -
-    name: swp50
-    position: '50'
+    name: QSFP
+    position: swp50
+    label: swp50
   -
-    name: swp51
-    position: '51'
+    name: QSFP
+    position: swp51
+    label: swp51
   -
-    name: swp52
-    position: '52'
+    name: QSFP
+    position: swp52
+    label: swp52
 interfaces:
   -
     name: eth0

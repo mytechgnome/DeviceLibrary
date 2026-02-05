@@ -9,11 +9,16 @@ is_full_depth: false
 subdevice_role: parent
 airflow: passive
 module-bays:
-  - name: Slot 1
+  -
+    name: Slot 1
     position: '1'
-  - name: Slot 2
+  -
+    name: Slot 2
     position: '2'
-  - name: Slot 3
+  -
+    name: Slot 3
     position: '3'
-  - name: Slot 4
+  -
+    name: Slot 4
     position: '4'
+interfaces: []

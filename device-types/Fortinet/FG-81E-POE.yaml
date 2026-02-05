@@ -85,8 +85,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: wan1
-    position: '1'
+    name: SFP
+    position: wan1
+    label: wan1
   -
-    name: wan2
-    position: '2'
+    name: SFP
+    position: wan2
+    label: wan2

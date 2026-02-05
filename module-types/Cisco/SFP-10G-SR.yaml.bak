@@ -1,8 +1,0 @@
----
-manufacturer: Cisco
-model: SFP-10G-SR
-part_number: SFP-10G-SR
-comments: "Cisco 10GBASE-SR SFP+."
-interfaces:
-  - name: TenGigabitEthernet{module}
-    type: 10gbase-x-sfpp

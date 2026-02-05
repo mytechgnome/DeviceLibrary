@@ -39,8 +39,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: 1/0/9
-    position: '9'
+    name: SFP
+    position: 1/0/9
+    label: 1/0/9
   -
-    name: 1/0/10
-    position: '10'
+    name: SFP
+    position: 1/0/10
+    label: 1/0/10

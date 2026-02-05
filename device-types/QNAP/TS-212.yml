@@ -7,12 +7,15 @@ is_full_depth: false
 u_height: 0
 comments: '[TS-212 | Hardware Specs | QNAP](https://www.qnap.com/en/product/ts-212/specs/hardware)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     label: DC 12V
     type: dc-terminal
     maximum_draw: 60
     allocated_draw: 13
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     label: LAN
     type: 1000base-t
+module-bays: []

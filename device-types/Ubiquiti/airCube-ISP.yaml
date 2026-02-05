@@ -13,17 +13,24 @@ airflow: passive
 weight: 280
 weight_unit: g
 interfaces:
-  - name: lan1
+  -
+    name: lan1
     type: 100base-tx
-  - name: lan2
+  -
+    name: lan2
     type: 100base-tx
-  - name: lan3
+  -
+    name: lan3
     type: 100base-tx
-  - name: wan1
+  -
+    name: wan1
     type: 100base-tx
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
 power-ports:
-  - name: Input
+  -
+    name: Input
     type: usb-micro-b
     maximum_draw: 5
+module-bays: []

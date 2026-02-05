@@ -23,11 +23,13 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: Ethernet3
-    position: '3'
+    name: SFP
+    position: Ethernet3
+    label: Ethernet3
   -
-    name: Ethernet4
-    position: '4'
+    name: SFP
+    position: Ethernet4
+    label: Ethernet4
 interfaces:
   -
     name: IPMI

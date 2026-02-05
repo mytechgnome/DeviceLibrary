@@ -101,14 +101,18 @@ power-ports:
     maximum_draw: 400
 module-bays:
   -
-    name: ethernet 1/2/1
-    position: '1'
+    name: SFP
+    position: ethernet 1/2/1
+    label: ethernet 1/2/1
   -
-    name: ethernet 1/2/2
-    position: '2'
+    name: SFP
+    position: ethernet 1/2/2
+    label: ethernet 1/2/2
   -
-    name: ethernet 1/2/3
-    position: '3'
+    name: SFP
+    position: ethernet 1/2/3
+    label: ethernet 1/2/3
   -
-    name: ethernet 1/2/4
-    position: '4'
+    name: SFP
+    position: ethernet 1/2/4
+    label: ethernet 1/2/4

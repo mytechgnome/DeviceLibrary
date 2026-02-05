@@ -4,7 +4,8 @@ model: PSU6.3KW-HV
 part_number: PSU6.3KW-HV
 description: 6.3KW AC/HVAC/HVDC Power Supply
 power-ports:
-  - name: 0/PT{module}-PM{module}
+  -
+    name: 0/PT{module}-PM{module}
     type: iec-60320-c20
     maximum_draw: 6300
 comments: |

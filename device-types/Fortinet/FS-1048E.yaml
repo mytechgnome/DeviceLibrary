@@ -23,167 +23,221 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1
   -
-    name: port2
-    position: '2'
+    name: SFP
+    position: port2
+    label: port2
   -
-    name: port3
-    position: '3'
+    name: SFP
+    position: port3
+    label: port3
   -
-    name: port4
-    position: '4'
+    name: SFP
+    position: port4
+    label: port4
   -
-    name: port5
-    position: '5'
+    name: SFP
+    position: port5
+    label: port5
   -
-    name: port6
-    position: '6'
+    name: SFP
+    position: port6
+    label: port6
   -
-    name: port7
-    position: '7'
+    name: SFP
+    position: port7
+    label: port7
   -
-    name: port8
-    position: '8'
+    name: SFP
+    position: port8
+    label: port8
   -
-    name: port9
-    position: '9'
+    name: SFP
+    position: port9
+    label: port9
   -
-    name: port10
-    position: '10'
+    name: SFP
+    position: port10
+    label: port10
   -
-    name: port11
-    position: '11'
+    name: SFP
+    position: port11
+    label: port11
   -
-    name: port12
-    position: '12'
+    name: SFP
+    position: port12
+    label: port12
   -
-    name: port13
-    position: '13'
+    name: SFP
+    position: port13
+    label: port13
   -
-    name: port14
-    position: '14'
+    name: SFP
+    position: port14
+    label: port14
   -
-    name: port15
-    position: '15'
+    name: SFP
+    position: port15
+    label: port15
   -
-    name: port16
-    position: '16'
+    name: SFP
+    position: port16
+    label: port16
   -
-    name: port17
-    position: '17'
+    name: SFP
+    position: port17
+    label: port17
   -
-    name: port18
-    position: '18'
+    name: SFP
+    position: port18
+    label: port18
   -
-    name: port19
-    position: '19'
+    name: SFP
+    position: port19
+    label: port19
   -
-    name: port20
-    position: '20'
+    name: SFP
+    position: port20
+    label: port20
   -
-    name: port21
-    position: '21'
+    name: SFP
+    position: port21
+    label: port21
   -
-    name: port22
-    position: '22'
+    name: SFP
+    position: port22
+    label: port22
   -
-    name: port23
-    position: '23'
+    name: SFP
+    position: port23
+    label: port23
   -
-    name: port24
-    position: '24'
+    name: SFP
+    position: port24
+    label: port24
   -
-    name: port25
-    position: '25'
+    name: SFP
+    position: port25
+    label: port25
   -
-    name: port26
-    position: '26'
+    name: SFP
+    position: port26
+    label: port26
   -
-    name: port27
-    position: '27'
+    name: SFP
+    position: port27
+    label: port27
   -
-    name: port28
-    position: '28'
+    name: SFP
+    position: port28
+    label: port28
   -
-    name: port29
-    position: '29'
+    name: SFP
+    position: port29
+    label: port29
   -
-    name: port30
-    position: '30'
+    name: SFP
+    position: port30
+    label: port30
   -
-    name: port31
-    position: '31'
+    name: SFP
+    position: port31
+    label: port31
   -
-    name: port32
-    position: '32'
+    name: SFP
+    position: port32
+    label: port32
   -
-    name: port33
-    position: '33'
+    name: SFP
+    position: port33
+    label: port33
   -
-    name: port34
-    position: '34'
+    name: SFP
+    position: port34
+    label: port34
   -
-    name: port35
-    position: '35'
+    name: SFP
+    position: port35
+    label: port35
   -
-    name: port36
-    position: '36'
+    name: SFP
+    position: port36
+    label: port36
   -
-    name: port37
-    position: '37'
+    name: SFP
+    position: port37
+    label: port37
   -
-    name: port38
-    position: '38'
+    name: SFP
+    position: port38
+    label: port38
   -
-    name: port39
-    position: '39'
+    name: SFP
+    position: port39
+    label: port39
   -
-    name: port40
-    position: '40'
+    name: SFP
+    position: port40
+    label: port40
   -
-    name: port41
-    position: '41'
+    name: SFP
+    position: port41
+    label: port41
   -
-    name: port42
-    position: '42'
+    name: SFP
+    position: port42
+    label: port42
   -
-    name: port43
-    position: '43'
+    name: SFP
+    position: port43
+    label: port43
   -
-    name: port44
-    position: '44'
+    name: SFP
+    position: port44
+    label: port44
   -
-    name: port45
-    position: '45'
+    name: SFP
+    position: port45
+    label: port45
   -
-    name: port46
-    position: '46'
+    name: SFP
+    position: port46
+    label: port46
   -
-    name: port47
-    position: '47'
+    name: SFP
+    position: port47
+    label: port47
   -
-    name: port48
-    position: '48'
+    name: SFP
+    position: port48
+    label: port48
   -
-    name: port49
-    position: '49'
+    name: QSFP
+    position: port49
+    label: port49
   -
-    name: port50
-    position: '50'
+    name: QSFP
+    position: port50
+    label: port50
   -
-    name: port51
-    position: '51'
+    name: QSFP
+    position: port51
+    label: port51
   -
-    name: port52
-    position: '52'
+    name: QSFP
+    position: port52
+    label: port52
   -
-    name: port53
-    position: '53'
+    name: QSFP
+    position: port53
+    label: port53
   -
-    name: port54
-    position: '54'
+    name: QSFP
+    position: port54
+    label: port54
 interfaces:
   -
     name: mgmt

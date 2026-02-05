@@ -12,33 +12,46 @@ comments: '[Synology RS3621xs+ Datasheet](https://global.synologydownload.com/do
 front_image: true
 rear_image: true
 module-bays:
-  - name: PSU-1
+  -
+    name: PSU-1
     label: '1'
     position: PSU-1
-  - name: PSU-2
+  -
+    name: PSU-2
     label: '2'
     position: PSU-2
-  - name: PCIe Slot 1
+  -
+    name: PCIe Slot 1
     position: '1'
-  - name: PCIe Slot 2
+  -
+    name: PCIe Slot 2
     position: '2'
 interfaces:
-  - name: LAN1
+  -
+    name: LAN1
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     type: 1000base-t
-  - name: LAN3
+  -
+    name: LAN3
     type: 1000base-t
-  - name: LAN4
+  -
+    name: LAN4
     type: 1000base-t
-  - name: LAN5
+  -
+    name: LAN5
     type: 10gbase-t
-  - name: LAN6
+  -
+    name: LAN6
     type: 10gbase-t
-  - name: Expansion 1
+  -
+    name: Expansion 1
     type: infiniband-ndr
-  - name: Expansion 2
+  -
+    name: Expansion 2
     type: infiniband-ndr
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: de-9

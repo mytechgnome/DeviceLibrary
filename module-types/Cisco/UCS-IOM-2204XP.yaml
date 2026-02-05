@@ -2,17 +2,16 @@
 manufacturer: Cisco
 model: UCS-IOM-2204XP
 part_number: UCS-IOM-2204XP
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: Fabric {module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Fabric {module}/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Fabric {module}/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Fabric {module}/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp

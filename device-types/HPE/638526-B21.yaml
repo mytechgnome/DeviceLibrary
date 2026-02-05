@@ -10,32 +10,42 @@ is_full_depth: false
 interfaces: []
 module-bays:
   -
-    name: Port X1
-    position: '1'
+    name: SFP
+    position: Port X1
+    label: Port X1
   -
-    name: Port X2
-    position: '2'
+    name: SFP
+    position: Port X2
+    label: Port X2
   -
-    name: Port X3
-    position: '3'
+    name: SFP
+    position: Port X3
+    label: Port X3
   -
-    name: Port X4
-    position: '4'
+    name: SFP
+    position: Port X4
+    label: Port X4
   -
-    name: Port X5
-    position: '5'
+    name: SFP
+    position: Port X5
+    label: Port X5
   -
-    name: Port X6
-    position: '6'
+    name: SFP
+    position: Port X6
+    label: Port X6
   -
-    name: Port X7
-    position: '7'
+    name: SFP
+    position: Port X7
+    label: Port X7
   -
-    name: Port X8
-    position: '8'
+    name: SFP
+    position: Port X8
+    label: Port X8
   -
-    name: Port X9
-    position: '9'
+    name: SFP
+    position: Port X9
+    label: Port X9
   -
-    name: Port X10
-    position: '10'
+    name: SFP
+    position: Port X10
+    label: Port X10

@@ -10,8 +10,11 @@ weight_unit: lb
 airflow: front-to-rear
 comments: '[Barracuda Message Archiver DATASHEET](https://assets.barracuda.com/assets/docs/dms/Barracuda_Message_Archiver_DS_US.pdf)'
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
 interfaces:
-  - name: '1'
+  -
+    name: '1'
     type: 1000base-t
+module-bays: []

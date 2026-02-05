@@ -170,10 +170,10 @@ interfaces:
     label: LAN 26
 module-bays:
   -
-    name: gigabitethernet 0/27
-    label: SFP 27
-    position: '27'
+    name: SFP
+    position: gigabitethernet 0/27
+    label: gigabitethernet 0/27
   -
-    name: gigabitethernet 0/28
-    label: SFP 28
-    position: '28'
+    name: SFP
+    position: gigabitethernet 0/28
+    label: gigabitethernet 0/28

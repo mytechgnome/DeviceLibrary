@@ -175,8 +175,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: GigabitEthernet1/0/51
-    position: '51'
+    name: SFP
+    position: GigabitEthernet1/0/51
+    label: GigabitEthernet1/0/51
   -
-    name: GigabitEthernet1/0/52
-    position: '52'
+    name: SFP
+    position: GigabitEthernet1/0/52
+    label: GigabitEthernet1/0/52

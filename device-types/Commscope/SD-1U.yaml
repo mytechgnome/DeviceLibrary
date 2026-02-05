@@ -13,12 +13,16 @@ weight_unit: lb
 front_image: true
 is_powered: false
 module-bays:
-  - name: '1'
+  -
+    name: '1'
     position: '1'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '2'
+  -
+    name: '2'
     position: '2'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '3'
+  -
+    name: '3'
     position: '3'
     description: accepts LGX/1000 style splice cassettes, modules or panels
+interfaces: []

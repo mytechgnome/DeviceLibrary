@@ -3,17 +3,16 @@ manufacturer: HPE
 model: Aruba 3810M/2930M 4SFP+ MACsec Module
 part_number: JL083A
 comments: Aruba 3810M/2930M 4SFP+ MACsec Module
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}2'
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}3'
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}4'
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp

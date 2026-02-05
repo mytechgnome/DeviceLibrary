@@ -9,33 +9,46 @@ comments: 1U 19 inch Rackmount Network Appliance With AMD EPYC 9004 Series Proce
 weight: 11.3
 weight_unit: kg
 console-server-ports:
-  - name: con0
+  -
+    name: con0
     type: rj-45
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
     enabled: true
     mgmt_only: false
 module-bays:
-  - name: PSU0
+  -
+    name: PSU0
     position: '0'
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
-  - name: FAN0
+  -
+    name: FAN0
     position: '0'
-  - name: FAN1
+  -
+    name: FAN1
     position: '1'
-  - name: FAN2
+  -
+    name: FAN2
     position: '2'
-  - name: FAN3
+  -
+    name: FAN3
     position: '3'
-  - name: FAN4
+  -
+    name: FAN4
     position: '4'
-  - name: NIC Module Slot 0
+  -
+    name: NIC Module Slot 0
     position: '0'
-  - name: NIC Module Slot 1
+  -
+    name: NIC Module Slot 1
     position: '1'
-  - name: NIC Module Slot 2
+  -
+    name: NIC Module Slot 2
     position: '2'
-  - name: NIC Module Slot 3
+  -
+    name: NIC Module Slot 3
     position: '3'

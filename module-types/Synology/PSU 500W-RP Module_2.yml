@@ -10,6 +10,7 @@ comments: |
 
   for FS3410, SA6400, SA3610, SA3410, RS4021xs+, RS3621xs+, RS3621RPxs, RS2821RP+, RX1223RP.
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c14
     maximum_draw: 500

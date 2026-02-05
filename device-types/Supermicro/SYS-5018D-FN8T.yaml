@@ -56,8 +56,10 @@ module-bays:
     position: '4'
     description: M.2 PCI-E 3.0 x4 (SATA support), M Key 2242/2280/22110
   -
-    name: Gig-E 7
-    position: '7'
+    name: SFP
+    position: Gig-E 7
+    label: Gig-E 7
   -
-    name: Gig-E 8
-    position: '8'
+    name: SFP
+    position: Gig-E 8
+    label: Gig-E 8

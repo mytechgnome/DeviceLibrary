@@ -45,110 +45,146 @@ module-bays:
     name: Fan Tray 5
     position: '5'
   -
-    name: 1/1/c1
-    position: '1'
+    name: QSFP
+    position: 1/1/c1
+    label: 1/1/c1
   -
-    name: 1/1/c2
-    position: '2'
+    name: QSFP
+    position: 1/1/c2
+    label: 1/1/c2
   -
-    name: 1/1/c3
-    position: '3'
+    name: QSFP
+    position: 1/1/c3
+    label: 1/1/c3
   -
-    name: 1/1/c4
-    position: '4'
+    name: QSFP
+    position: 1/1/c4
+    label: 1/1/c4
   -
-    name: 1/1/c5
-    position: '5'
+    name: QSFP
+    position: 1/1/c5
+    label: 1/1/c5
   -
-    name: 1/1/c6
-    position: '6'
+    name: QSFP
+    position: 1/1/c6
+    label: 1/1/c6
   -
-    name: 1/1/c7
-    position: '7'
+    name: QSFP
+    position: 1/1/c7
+    label: 1/1/c7
   -
-    name: 1/1/c8
-    position: '8'
+    name: QSFP
+    position: 1/1/c8
+    label: 1/1/c8
   -
-    name: 1/1/c9
-    position: '9'
+    name: QSFP
+    position: 1/1/c9
+    label: 1/1/c9
   -
-    name: 1/1/c10
-    position: '10'
+    name: QSFP
+    position: 1/1/c10
+    label: 1/1/c10
   -
-    name: 1/1/c11
-    position: '11'
+    name: QSFP
+    position: 1/1/c11
+    label: 1/1/c11
   -
-    name: 1/1/c12
-    position: '12'
+    name: QSFP
+    position: 1/1/c12
+    label: 1/1/c12
   -
-    name: 1/1/c13
-    position: '13'
+    name: QSFP
+    position: 1/1/c13
+    label: 1/1/c13
   -
-    name: 1/1/c14
-    position: '14'
+    name: QSFP
+    position: 1/1/c14
+    label: 1/1/c14
   -
-    name: 1/1/c15
-    position: '15'
+    name: QSFP
+    position: 1/1/c15
+    label: 1/1/c15
   -
-    name: 1/1/c16
-    position: '16'
+    name: QSFP
+    position: 1/1/c16
+    label: 1/1/c16
   -
-    name: 1/1/c17
-    position: '17'
+    name: QSFP
+    position: 1/1/c17
+    label: 1/1/c17
   -
-    name: 1/1/c18
-    position: '18'
+    name: QSFP
+    position: 1/1/c18
+    label: 1/1/c18
   -
-    name: 1/1/c19
-    position: '19'
+    name: QSFP
+    position: 1/1/c19
+    label: 1/1/c19
   -
-    name: 1/1/c20
-    position: '20'
+    name: QSFP
+    position: 1/1/c20
+    label: 1/1/c20
   -
-    name: 1/1/c21
-    position: '21'
+    name: QSFP
+    position: 1/1/c21
+    label: 1/1/c21
   -
-    name: 1/1/c22
-    position: '22'
+    name: QSFP
+    position: 1/1/c22
+    label: 1/1/c22
   -
-    name: 1/1/c23
-    position: '23'
+    name: QSFP
+    position: 1/1/c23
+    label: 1/1/c23
   -
-    name: 1/1/c24
-    position: '24'
+    name: QSFP
+    position: 1/1/c24
+    label: 1/1/c24
   -
-    name: 1/1/c25
-    position: '25'
+    name: QSFP
+    position: 1/1/c25
+    label: 1/1/c25
   -
-    name: 1/1/c26
-    position: '26'
+    name: QSFP
+    position: 1/1/c26
+    label: 1/1/c26
   -
-    name: 1/1/c27
-    position: '27'
+    name: QSFP
+    position: 1/1/c27
+    label: 1/1/c27
   -
-    name: 1/1/c28
-    position: '28'
+    name: QSFP
+    position: 1/1/c28
+    label: 1/1/c28
   -
-    name: 1/1/c29
-    position: '29'
+    name: QSFP
+    position: 1/1/c29
+    label: 1/1/c29
   -
-    name: 1/1/c30
-    position: '30'
+    name: QSFP
+    position: 1/1/c30
+    label: 1/1/c30
   -
-    name: 1/1/c31
-    position: '31'
+    name: QSFP
+    position: 1/1/c31
+    label: 1/1/c31
   -
-    name: 1/1/c32
-    position: '32'
+    name: QSFP
+    position: 1/1/c32
+    label: 1/1/c32
   -
-    name: 1/1/c33
-    position: '33'
+    name: QSFP
+    position: 1/1/c33
+    label: 1/1/c33
   -
-    name: 1/1/c34
-    position: '34'
+    name: QSFP
+    position: 1/1/c34
+    label: 1/1/c34
   -
-    name: 1/1/c35
-    position: '35'
+    name: QSFP
+    position: 1/1/c35
+    label: 1/1/c35
   -
-    name: 1/1/c36
-    position: '36'
+    name: QSFP
+    position: 1/1/c36
+    label: 1/1/c36

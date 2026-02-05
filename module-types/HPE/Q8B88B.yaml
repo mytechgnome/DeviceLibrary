@@ -2,9 +2,10 @@
 manufacturer: HPE
 model: HPE Nimble Storage 2x10GbE 2-port FIO Adapter Kit
 part_number: Q8B88B
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: eth{module}a
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: eth{module}b
+    name: '{module}'
+    type: 10gbase-x-sfpp

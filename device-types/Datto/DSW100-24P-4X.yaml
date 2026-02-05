@@ -138,14 +138,18 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: SFP 1
-    position: '1'
+    name: SFP
+    position: SFP 1
+    label: SFP 1
   -
-    name: SFP 2
-    position: '2'
+    name: SFP
+    position: SFP 2
+    label: SFP 2
   -
-    name: SFP 3
-    position: '3'
+    name: SFP
+    position: SFP 3
+    label: SFP 3
   -
-    name: SFP 4
-    position: '4'
+    name: SFP
+    position: SFP 4
+    label: SFP 4

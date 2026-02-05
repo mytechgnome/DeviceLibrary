@@ -53,14 +53,18 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: '13'
+    name: SFP
     position: '13'
+    label: '13'
   -
-    name: '14'
+    name: SFP
     position: '14'
+    label: '14'
   -
-    name: '15'
+    name: SFP
     position: '15'
+    label: '15'
   -
-    name: '16'
+    name: SFP
     position: '16'
+    label: '16'

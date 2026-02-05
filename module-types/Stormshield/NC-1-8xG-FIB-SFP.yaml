@@ -1,0 +1,29 @@
+---
+manufacturer: Stormshield
+model: NC-1-8xG-FIB-SFP
+part_number: NC-1-8xG-FIB-SFP
+interfaces:
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp

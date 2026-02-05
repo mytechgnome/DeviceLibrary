@@ -12,14 +12,19 @@ front_image: true
 rear_image: true
 comments: '[Ruckus ZoneDirector 3000 Enterprise-Class Wireless LAN Controller Datasheet](https://webresources.ruckuswireless.com/pdf/datasheets/ds-zonedirector-3000.pdf)'
 console-ports:
-  - name: console
+  -
+    name: console
     type: rj-45
     label: CONSOLE
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
+module-bays: []

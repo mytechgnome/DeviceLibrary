@@ -124,18 +124,18 @@ power-ports:
 comments: '[SNR-S5210G-24TX Datasheet by Kolyan](https://shop.nag.ru/catalog/00001.kommutatory/40213.fiksirovannye-kommutatory/34613.snr-s5210g-24tx#description)'
 module-bays:
   -
-    name: xe1
+    name: SFP
+    position: xe1
     label: xe1
-    position: '1'
   -
-    name: xe2
+    name: SFP
+    position: xe2
     label: xe2
-    position: '2'
   -
-    name: xe3
+    name: SFP
+    position: xe3
     label: xe3
-    position: '3'
   -
-    name: xe4
+    name: SFP
+    position: xe4
     label: xe4
-    position: '4'

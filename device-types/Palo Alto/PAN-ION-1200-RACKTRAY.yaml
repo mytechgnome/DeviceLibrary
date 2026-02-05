@@ -9,4 +9,7 @@ is_powered: false
 airflow: passive
 comments: Holds one non-cellular ION 1200 device in a four-post rack.
 device-bays:
-  - name: ION device
+  -
+    name: ION device
+module-bays: []
+interfaces: []

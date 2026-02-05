@@ -8,16 +8,23 @@ u_height: 0
 weight: 3
 weight_unit: kg
 console-ports:
-  - name: Service
+  -
+    name: Service
     type: usb-mini-a
 interfaces:
-  - name: MGMT
+  -
+    name: MGMT
     type: 1000base-t
-  - name: SAS12g-1
+  -
+    name: SAS12g-1
     type: other
-  - name: SAS12g-2
+  -
+    name: SAS12g-2
     type: other
-  - name: SAS12g-3
+  -
+    name: SAS12g-3
     type: other
-  - name: SAS12g-4
+  -
+    name: SAS12g-4
     type: other
+module-bays: []

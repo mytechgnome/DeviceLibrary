@@ -5,38 +5,56 @@ slug: trendnet-teg-s16dg
 u_height: 1
 is_full_depth: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: nema-5-15p
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     type: 1000base-t
-  - name: Port 6
+  -
+    name: Port 6
     type: 1000base-t
-  - name: Port 7
+  -
+    name: Port 7
     type: 1000base-t
-  - name: Port 8
+  -
+    name: Port 8
     type: 1000base-t
-  - name: Port 9
+  -
+    name: Port 9
     type: 1000base-t
-  - name: Port 10
+  -
+    name: Port 10
     type: 1000base-t
-  - name: Port 11
+  -
+    name: Port 11
     type: 1000base-t
-  - name: Port 12
+  -
+    name: Port 12
     type: 1000base-t
-  - name: Port 13
+  -
+    name: Port 13
     type: 1000base-t
-  - name: Port 14
+  -
+    name: Port 14
     type: 1000base-t
-  - name: Port 15
+  -
+    name: Port 15
     type: 1000base-t
-  - name: Port 16
+  -
+    name: Port 16
     type: 1000base-t
+module-bays: []

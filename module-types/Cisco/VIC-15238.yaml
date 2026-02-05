@@ -2,12 +2,11 @@
 manufacturer: Cisco
 part_number: UCSC-M-V5D200G-D
 model: VIC 15238
-interfaces: []
+interfaces:
+  -
+    name: '{module}'
+    type: 200gbase-x-qsfp56
+  -
+    name: '{module}'
+    type: 200gbase-x-qsfp56
 comments: Cisco UCS VIC 15238 Dual port 40/100/200G mLOM for C220-M7, C240-M7
-module-bays:
-  -
-    name: Ethernet {module}/1
-    position: '1'
-  -
-    name: Ethernet {module}/2
-    position: '2'

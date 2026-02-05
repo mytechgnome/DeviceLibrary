@@ -10,27 +10,38 @@ comments: |
 u_height: 1
 is_full_depth: false
 console-ports:
-  - name: CONSOLE
+  -
+    name: CONSOLE
     type: rj-45
 interfaces:
-  - name: FastEthernet0
+  -
+    name: FastEthernet0
     type: 100base-tx
-  - name: FastEthernet1
+  -
+    name: FastEthernet1
     type: 100base-tx
-  - name: FastEthernet2 port 1
+  -
+    name: FastEthernet2 port 1
     type: 100base-tx
-  - name: FastEthernet2 port 2
+  -
+    name: FastEthernet2 port 2
     type: 100base-tx
-  - name: FastEthernet2 port 3
+  -
+    name: FastEthernet2 port 3
     type: 100base-tx
-  - name: FastEthernet2 port 4
+  -
+    name: FastEthernet2 port 4
     type: 100base-tx
-  - name: BRI0 port LINE
+  -
+    name: BRI0 port LINE
     type: other
-  - name: BRI0 port S/T
+  -
+    name: BRI0 port S/T
     type: other
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 9
     allocated_draw: 9
+module-bays: []

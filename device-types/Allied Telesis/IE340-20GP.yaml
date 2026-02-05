@@ -101,14 +101,18 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: port1.0.17
-    position: '17'
+    name: SFP
+    position: port1.0.17
+    label: port1.0.17
   -
-    name: port1.0.18
-    position: '18'
+    name: SFP
+    position: port1.0.18
+    label: port1.0.18
   -
-    name: port1.0.19
-    position: '19'
+    name: SFP
+    position: port1.0.19
+    label: port1.0.19
   -
-    name: port1.0.20
-    position: '20'
+    name: SFP
+    position: port1.0.20
+    label: port1.0.20

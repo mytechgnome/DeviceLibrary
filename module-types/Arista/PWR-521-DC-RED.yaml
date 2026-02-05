@@ -4,6 +4,7 @@ model: PWR-521-DC-RED
 part_number: PWR-521-DC-RED
 # airflow: front-to-rear
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 500

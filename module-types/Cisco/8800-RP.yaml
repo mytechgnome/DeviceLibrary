@@ -26,7 +26,7 @@ interfaces:
     name: MgmtEth0/RP{module}/CPU0/0
     type: 1000base-t
     mgmt_only: true
-module-bays:
   -
-    name: MgmtEth0/RP{module}/CPU0/1
-    position: '1'
+    name: '{module}'
+    type: 1000base-x-sfp
+    mgmt_only: true

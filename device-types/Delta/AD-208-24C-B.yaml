@@ -17,18 +17,24 @@ comments: |
 
   FB PN: 07-000866
 power-ports:
-  - name: ac-input-1
+  -
+    name: ac-input-1
     label: TOP POWER SHELF
     type: nema-l21-30p
-  - name: ac-input-2
+  -
+    name: ac-input-2
     label: BOTTOM POWER SHELF
     type: nema-l21-30p
 power-outlets:
-  - name: ac-output-1
+  -
+    name: ac-output-1
     label: TOP POWER SHELF
     type: other
     power_port: ac-input-1
-  - name: ac-output-2
+  -
+    name: ac-output-2
     label: BOTTOM POWER SHELF
     type: other
     power_port: ac-input-2
+module-bays: []
+interfaces: []

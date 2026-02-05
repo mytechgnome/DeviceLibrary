@@ -9,3 +9,5 @@ weight: 0.45
 weight_unit: kg
 u_height: 1
 is_full_depth: false
+module-bays: []
+interfaces: []

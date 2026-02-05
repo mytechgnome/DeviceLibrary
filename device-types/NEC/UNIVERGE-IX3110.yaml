@@ -13,21 +13,28 @@ weight: 5
 weight_unit: kg
 is_full_depth: false
 console-ports:
-  - name: CONSOLE
+  -
+    name: CONSOLE
     type: rj-45
 interfaces:
-  - name: GigaEthernet0
+  -
+    name: GigaEthernet0
     type: 1000base-t
-  - name: GigaEthernet1
+  -
+    name: GigaEthernet1
     type: 1000base-t
-  - name: GigaEthernet2
+  -
+    name: GigaEthernet2
     type: 1000base-t
-  - name: GigaEthernet3
+  -
+    name: GigaEthernet3
     type: 1000base-t
 module-bays:
-  - name: Power Supply Slot 0
+  -
+    name: Power Supply Slot 0
     position: '0'
     label: PSU 0
-  - name: Power Supply Slot 1
+  -
+    name: Power Supply Slot 1
     position: '1'
     label: PSU 1

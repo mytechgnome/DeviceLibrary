@@ -262,8 +262,10 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: FortyGigabitEthernet1/1/1
-    position: '1'
+    name: QSFP
+    position: FortyGigabitEthernet1/1/1
+    label: FortyGigabitEthernet1/1/1
   -
-    name: FortyGigabitEthernet1/1/2
-    position: '2'
+    name: QSFP
+    position: FortyGigabitEthernet1/1/2
+    label: FortyGigabitEthernet1/1/2

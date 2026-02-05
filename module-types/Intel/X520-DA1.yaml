@@ -3,8 +3,8 @@ manufacturer: Intel
 model: X520-DA1
 part_number: X520-DA1
 comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/68669/intel-ethernet-converged-network-adapter-x520da1.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: Ethernet/{module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: false

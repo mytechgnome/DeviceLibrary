@@ -62,26 +62,34 @@ interfaces:
     description: Bypass pair with port 7
 module-bays:
   -
-    name: Port 9
-    position: '9'
+    name: SFP
+    position: Port 9
+    label: Port 9
   -
-    name: Port 10
-    position: '10'
+    name: SFP
+    position: Port 10
+    label: Port 10
   -
-    name: Port 11
-    position: '11'
+    name: SFP
+    position: Port 11
+    label: Port 11
   -
-    name: Port 12
-    position: '12'
+    name: SFP
+    position: Port 12
+    label: Port 12
   -
-    name: Port 13
-    position: '13'
+    name: SFP
+    position: Port 13
+    label: Port 13
   -
-    name: Port 14
-    position: '14'
+    name: SFP
+    position: Port 14
+    label: Port 14
   -
-    name: Port 15
-    position: '15'
+    name: SFP
+    position: Port 15
+    label: Port 15
   -
-    name: Port 16
-    position: '16'
+    name: SFP
+    position: Port 16
+    label: Port 16

@@ -10,17 +10,24 @@ is_full_depth: false
 airflow: passive
 comments: '[RB941-2nD-TC Datasheet](https://mikrotik.com/product/RB941-2nD-TC)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: usb-micro-b
     maximum_draw: 3
 interfaces:
-  - name: Ether1
+  -
+    name: Ether1
     type: 100base-tx
-  - name: Ether2
+  -
+    name: Ether2
     type: 100base-tx
-  - name: Ether3
+  -
+    name: Ether3
     type: 100base-tx
-  - name: Ether4
+  -
+    name: Ether4
     type: 100base-tx
-  - name: Wireless 2.4 GHz
+  -
+    name: Wireless 2.4 GHz
     type: ieee802.11g
+module-bays: []

@@ -103,8 +103,10 @@ interfaces:
     poe_type: type4-ieee802.3bt
 module-bays:
   -
-    name: Ethernet17
-    position: '17'
+    name: SFP
+    position: Ethernet17
+    label: Ethernet17
   -
-    name: Ethernet18
-    position: '18'
+    name: SFP
+    position: Ethernet18
+    label: Ethernet18

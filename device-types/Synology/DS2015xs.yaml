@@ -27,10 +27,10 @@ power-ports:
     maximum_draw: 150
 module-bays:
   -
-    name: Lan 3
-    label: 10Gb SFP+ LAN Port 3
-    position: '3'
+    name: SFP
+    position: Lan 3
+    label: Lan 3
   -
-    name: Lan 4
-    label: 10Gb SFP+ LAN Port 3
-    position: '4'
+    name: SFP
+    position: Lan 4
+    label: Lan 4

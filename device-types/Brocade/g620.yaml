@@ -28,158 +28,210 @@ power-ports:
     maximum_draw: 205
 module-bays:
   -
-    name: FC port 0/0
-    position: '0'
+    name: SFP
+    position: FC port 0/0
+    label: FC port 0/0
   -
-    name: FC port 0/1
-    position: '1'
+    name: SFP
+    position: FC port 0/1
+    label: FC port 0/1
   -
-    name: FC port 0/2
-    position: '2'
+    name: SFP
+    position: FC port 0/2
+    label: FC port 0/2
   -
-    name: FC port 0/3
-    position: '3'
+    name: SFP
+    position: FC port 0/3
+    label: FC port 0/3
   -
-    name: FC port 0/4
-    position: '4'
+    name: SFP
+    position: FC port 0/4
+    label: FC port 0/4
   -
-    name: FC port 0/5
-    position: '5'
+    name: SFP
+    position: FC port 0/5
+    label: FC port 0/5
   -
-    name: FC port 0/6
-    position: '6'
+    name: SFP
+    position: FC port 0/6
+    label: FC port 0/6
   -
-    name: FC port 0/7
-    position: '7'
+    name: SFP
+    position: FC port 0/7
+    label: FC port 0/7
   -
-    name: FC port 0/8
-    position: '8'
+    name: SFP
+    position: FC port 0/8
+    label: FC port 0/8
   -
-    name: FC port 0/9
-    position: '9'
+    name: SFP
+    position: FC port 0/9
+    label: FC port 0/9
   -
-    name: FC port 0/10
-    position: '10'
+    name: SFP
+    position: FC port 0/10
+    label: FC port 0/10
   -
-    name: FC port 0/11
-    position: '11'
+    name: SFP
+    position: FC port 0/11
+    label: FC port 0/11
   -
-    name: FC port 0/12
-    position: '12'
+    name: SFP
+    position: FC port 0/12
+    label: FC port 0/12
   -
-    name: FC port 0/13
-    position: '13'
+    name: SFP
+    position: FC port 0/13
+    label: FC port 0/13
   -
-    name: FC port 0/14
-    position: '14'
+    name: SFP
+    position: FC port 0/14
+    label: FC port 0/14
   -
-    name: FC port 0/15
-    position: '15'
+    name: SFP
+    position: FC port 0/15
+    label: FC port 0/15
   -
-    name: FC port 0/16
-    position: '16'
+    name: SFP
+    position: FC port 0/16
+    label: FC port 0/16
   -
-    name: FC port 0/17
-    position: '17'
+    name: SFP
+    position: FC port 0/17
+    label: FC port 0/17
   -
-    name: FC port 0/18
-    position: '18'
+    name: SFP
+    position: FC port 0/18
+    label: FC port 0/18
   -
-    name: FC port 0/19
-    position: '19'
+    name: SFP
+    position: FC port 0/19
+    label: FC port 0/19
   -
-    name: FC port 0/20
-    position: '20'
+    name: SFP
+    position: FC port 0/20
+    label: FC port 0/20
   -
-    name: FC port 0/21
-    position: '21'
+    name: SFP
+    position: FC port 0/21
+    label: FC port 0/21
   -
-    name: FC port 0/22
-    position: '22'
+    name: SFP
+    position: FC port 0/22
+    label: FC port 0/22
   -
-    name: FC port 0/23
-    position: '23'
+    name: SFP
+    position: FC port 0/23
+    label: FC port 0/23
   -
-    name: FC port 0/24
-    position: '24'
+    name: SFP
+    position: FC port 0/24
+    label: FC port 0/24
   -
-    name: FC port 0/25
-    position: '25'
+    name: SFP
+    position: FC port 0/25
+    label: FC port 0/25
   -
-    name: FC port 0/26
-    position: '26'
+    name: SFP
+    position: FC port 0/26
+    label: FC port 0/26
   -
-    name: FC port 0/27
-    position: '27'
+    name: SFP
+    position: FC port 0/27
+    label: FC port 0/27
   -
-    name: FC port 0/28
-    position: '28'
+    name: SFP
+    position: FC port 0/28
+    label: FC port 0/28
   -
-    name: FC port 0/29
-    position: '29'
+    name: SFP
+    position: FC port 0/29
+    label: FC port 0/29
   -
-    name: FC port 0/30
-    position: '30'
+    name: SFP
+    position: FC port 0/30
+    label: FC port 0/30
   -
-    name: FC port 0/31
-    position: '31'
+    name: SFP
+    position: FC port 0/31
+    label: FC port 0/31
   -
-    name: FC port 0/32
-    position: '32'
+    name: SFP
+    position: FC port 0/32
+    label: FC port 0/32
   -
-    name: FC port 0/33
-    position: '33'
+    name: SFP
+    position: FC port 0/33
+    label: FC port 0/33
   -
-    name: FC port 0/34
-    position: '34'
+    name: SFP
+    position: FC port 0/34
+    label: FC port 0/34
   -
-    name: FC port 0/35
-    position: '35'
+    name: SFP
+    position: FC port 0/35
+    label: FC port 0/35
   -
-    name: FC port 0/36
-    position: '36'
+    name: SFP
+    position: FC port 0/36
+    label: FC port 0/36
   -
-    name: FC port 0/37
-    position: '37'
+    name: SFP
+    position: FC port 0/37
+    label: FC port 0/37
   -
-    name: FC port 0/38
-    position: '38'
+    name: SFP
+    position: FC port 0/38
+    label: FC port 0/38
   -
-    name: FC port 0/39
-    position: '39'
+    name: SFP
+    position: FC port 0/39
+    label: FC port 0/39
   -
-    name: FC port 0/40
-    position: '40'
+    name: SFP
+    position: FC port 0/40
+    label: FC port 0/40
   -
-    name: FC port 0/41
-    position: '41'
+    name: SFP
+    position: FC port 0/41
+    label: FC port 0/41
   -
-    name: FC port 0/42
-    position: '42'
+    name: SFP
+    position: FC port 0/42
+    label: FC port 0/42
   -
-    name: FC port 0/43
-    position: '43'
+    name: SFP
+    position: FC port 0/43
+    label: FC port 0/43
   -
-    name: FC port 0/44
-    position: '44'
+    name: SFP
+    position: FC port 0/44
+    label: FC port 0/44
   -
-    name: FC port 0/45
-    position: '45'
+    name: SFP
+    position: FC port 0/45
+    label: FC port 0/45
   -
-    name: FC port 0/46
-    position: '46'
+    name: SFP
+    position: FC port 0/46
+    label: FC port 0/46
   -
-    name: FC port 0/47
-    position: '47'
+    name: SFP
+    position: FC port 0/47
+    label: FC port 0/47
   -
-    name: FC port 0/48
-    position: '48'
+    name: QSFP
+    position: FC port 0/48
+    label: FC port 0/48
   -
-    name: FC port 0/49
-    position: '49'
+    name: QSFP
+    position: FC port 0/49
+    label: FC port 0/49
   -
-    name: FC port 0/50
-    position: '50'
+    name: QSFP
+    position: FC port 0/50
+    label: FC port 0/50
   -
-    name: FC port 0/51
-    position: '51'
+    name: QSFP
+    position: FC port 0/51
+    label: FC port 0/51

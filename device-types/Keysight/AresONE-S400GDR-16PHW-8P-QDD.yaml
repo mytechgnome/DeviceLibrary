@@ -28,29 +28,37 @@ module-bays:
     name: PS3
     position: '3'
   -
-    name: '1'
+    name: QSFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: QSFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: QSFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: QSFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: QSFP
     position: '5'
+    label: '5'
   -
-    name: '6'
+    name: QSFP
     position: '6'
+    label: '6'
   -
-    name: '7'
+    name: QSFP
     position: '7'
+    label: '7'
   -
-    name: '8'
+    name: QSFP
     position: '8'
+    label: '8'
 interfaces:
   -
     name: MGMT

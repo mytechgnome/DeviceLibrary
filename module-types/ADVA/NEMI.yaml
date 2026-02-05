@@ -6,8 +6,7 @@ console-ports:
   -
     name: SER
     type: rj-45
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: DCN-{module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp

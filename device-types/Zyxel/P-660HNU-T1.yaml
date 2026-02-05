@@ -11,22 +11,31 @@ airflow: passive
 rear_image: true
 comments: '[P-660HNU-T1 series specs](https://prodotti.zyxel.it/DATASHEET/ZYXPRE660HNU.pdf)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 12
     description: 12 V DC, 0.5 A
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 100base-tx
-  - name: Port 2
+  -
+    name: Port 2
     type: 100base-tx
-  - name: Port 3
+  -
+    name: Port 3
     type: 100base-tx
-  - name: Port 4
+  -
+    name: Port 4
     type: 100base-tx
-  - name: USB
+  -
+    name: USB
     type: other
-  - name: DSL
+  -
+    name: DSL
     type: xdsl
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
+module-bays: []

@@ -41,10 +41,10 @@ power-ports:
     allocated_draw: 21
 module-bays:
   -
-    name: sfp-sfpplus1
-    label: SFP+ 1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: sfp-sfpplus2
-    label: SFP+ 2
-    position: '2'
+    name: SFP
+    position: sfp-sfpplus2
+    label: sfp-sfpplus2

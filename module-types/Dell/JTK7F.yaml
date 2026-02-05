@@ -3,21 +3,24 @@ manufacturer: Dell
 model: JTK7F
 part_number: JTK7F
 comments: Broadcom 4x25G SFP28 OCP 3.0 (Gen3)
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}-25GbE-0'
+    name: '{module}'
     label: '1'
-    position: '0'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
   -
-    name: '{module}-25GbE-1'
+    name: '{module}'
     label: '2'
-    position: '1'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
   -
-    name: '{module}-25GbE-2'
+    name: '{module}'
     label: '3'
-    position: '2'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
   -
-    name: '{module}-25GbE-3'
+    name: '{module}'
     label: '4'
-    position: '3'
+    type: 25gbase-x-sfp28
+    mgmt_only: false

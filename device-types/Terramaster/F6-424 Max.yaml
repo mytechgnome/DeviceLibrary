@@ -11,11 +11,15 @@ comments: '[Terramaster F6-424 Max](https://www.terra-master.com/global/products
 front_image: true
 rear_image: true
 power-ports:
-  - name: External Power Adapter
+  -
+    name: External Power Adapter
     type: dc-terminal
     maximum_draw: 56
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 10gbase-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 10gbase-t
+module-bays: []

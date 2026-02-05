@@ -12,14 +12,18 @@ weight_unit: kg
 front_image: true
 rear_image: true
 module-bays:
-  - name: HDD1
+  -
+    name: HDD1
     position: HDD1
-  - name: HDD2
+  -
+    name: HDD2
     position: HDD2
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     allocated_draw: 11
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t

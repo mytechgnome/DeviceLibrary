@@ -14,53 +14,76 @@ comments: >
   [Arista 7388X5 Series Overview](https://www.arista.com/en/products/7388x5-series)
 
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 
 interfaces:
-  - name: Management1
+  -
+    name: Management1
     type: 1000base-t
-  - name: Management2
+  -
+    name: Management2
     type: 1000base-t
 
 module-bays:
-  - name: Linecard Slot 1
+  -
+    name: Linecard Slot 1
     position: L1
-  - name: Linecard Slot 2
+  -
+    name: Linecard Slot 2
     position: L2
-  - name: Linecard Slot 3
+  -
+    name: Linecard Slot 3
     position: L3
-  - name: Linecard Slot 4
+  -
+    name: Linecard Slot 4
     position: L4
-  - name: Linecard Slot 5
+  -
+    name: Linecard Slot 5
     position: L5
-  - name: Linecard Slot 6
+  -
+    name: Linecard Slot 6
     position: L6
-  - name: Linecard Slot 7
+  -
+    name: Linecard Slot 7
     position: L7
-  - name: Linecard Slot 8
+  -
+    name: Linecard Slot 8
     position: L8
-  - name: Supervisor Slot
+  -
+    name: Supervisor Slot
     position: '1'
-  - name: Switch Card Slot
+  -
+    name: Switch Card Slot
     position: '2'
-  - name: Fan Module Slot 1
+  -
+    name: Fan Module Slot 1
     position: '3'
-  - name: Fan Module Slot 2
+  -
+    name: Fan Module Slot 2
     position: '4'
-  - name: Fan Module Slot 3
+  -
+    name: Fan Module Slot 3
     position: '5'
-  - name: Fan Module Slot 4
+  -
+    name: Fan Module Slot 4
     position: '6'
-  - name: Fan Module Slot 5
+  -
+    name: Fan Module Slot 5
     position: '7'
-  - name: Fan Module Slot 6
+  -
+    name: Fan Module Slot 6
     position: '8'
-  - name: PSU Slot 1
+  -
+    name: PSU Slot 1
     position: '9'
-  - name: PSU Slot 2
+  -
+    name: PSU Slot 2
     position: '10'
-  - name: PSU Slot 3
+  -
+    name: PSU Slot 3
     position: '11'
-  - name: PSU Slot 4
+  -
+    name: PSU Slot 4
     position: '12'

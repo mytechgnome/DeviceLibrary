@@ -12,21 +12,27 @@ comments: |
   [TP-Link EAP245 Specifications](https://www.tp-link.com/us/business-networking/omada-sdn-access-point/eap245/#specifications)
   [TP-Link EAP245 Datasheet](https://support.omadanetworks.com/us/document/3613/)
 power-ports:
-  - name: 12VDC
+  -
+    name: 12VDC
     type: dc-terminal
     maximum_draw: 13
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: LAN 2
+  -
+    name: LAN 2
     type: 1000base-t
-  - name: Wireless AC
+  -
+    name: Wireless AC
     type: ieee802.11ac
     enabled: true
     rf_role: ap
-  - name: Wireless N
+  -
+    name: Wireless N
     type: ieee802.11n
     enabled: true
     rf_role: ap
+module-bays: []

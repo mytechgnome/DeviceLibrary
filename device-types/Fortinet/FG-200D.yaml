@@ -78,8 +78,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: dmz1
-    position: '1'
+    name: SFP
+    position: dmz1
+    label: dmz1
   -
-    name: dmz2
-    position: '2'
+    name: SFP
+    position: dmz2
+    label: dmz2

@@ -9,23 +9,32 @@ comments: '[RS1619xs+ Series Datasheet](https://www.synology.com/en-us/products/
 airflow: front-to-rear
 subdevice_role: parent
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 power-ports:
-  - name: PSU 1
+  -
+    name: PSU 1
     type: iec-60320-c14
     maximum_draw: 150
-  - name: PSU 2
+  -
+    name: PSU 2
     type: iec-60320-c14
     maximum_draw: 150
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 1000base-t
-  - name: LAN 2
+  -
+    name: LAN 2
     type: 1000base-t
-  - name: LAN 3
+  -
+    name: LAN 3
     type: 1000base-t
-  - name: LAN 4
+  -
+    name: LAN 4
     type: 1000base-t
 device-bays:
-  - name: PCIe-Gen3 1
+  -
+    name: PCIe-Gen3 1
+module-bays: []

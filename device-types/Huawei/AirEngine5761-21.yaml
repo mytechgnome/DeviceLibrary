@@ -10,19 +10,25 @@ weight: 1060
 weight_unit: g
 comments: '[AirEngine 5761-21 Access Point](https://e.huawei.com/en/products/wlan/indoor-access-points/airengine-5761-21)'
 power-ports:
-  - name: DC-12V
+  -
+    name: DC-12V
     type: dc-terminal
     maximum_draw: 17
 interfaces:
-  - name: Dot11Radio0
+  -
+    name: Dot11Radio0
     type: ieee802.11ax
-  - name: Dot11Radio1
+  -
+    name: Dot11Radio1
     type: ieee802.11ax
-  - name: GE0/PoE_IN
+  -
+    name: GE0/PoE_IN
     type: 2.5gbase-t
     enabled: true
     mgmt_only: false
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: GE1
+  -
+    name: GE1
     type: 1000base-t
+module-bays: []

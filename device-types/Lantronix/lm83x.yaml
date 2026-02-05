@@ -67,8 +67,9 @@ module-bays:
     position: '4'
     description: Expansion Module
   -
-    name: E3
-    position: '3'
+    name: SFP
+    position: E3
+    label: E3
 power-ports:
   -
     name: PS1

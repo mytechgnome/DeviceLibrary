@@ -9,37 +9,52 @@ weight: 2.75
 weight_unit: lb
 airflow: passive
 power-ports:
-  - name: DC-A
+  -
+    name: DC-A
     type: dc-terminal
     maximum_draw: 18
     allocated_draw: 14
-  - name: DC-B
+  -
+    name: DC-B
     type: dc-terminal
     maximum_draw: 18
     allocated_draw: 14
 interfaces:
-  - name: FastEthernet1/1
+  -
+    name: FastEthernet1/1
     type: 100base-tx
-  - name: FastEthernet1/2
+  -
+    name: FastEthernet1/2
     type: 100base-tx
-  - name: FastEthernet1/3
+  -
+    name: FastEthernet1/3
     type: 100base-tx
-  - name: FastEthernet1/4
+  -
+    name: FastEthernet1/4
     type: 100base-tx
-  - name: FastEthernet1/5
+  -
+    name: FastEthernet1/5
     type: 100base-tx
-  - name: FastEthernet1/6
+  -
+    name: FastEthernet1/6
     type: 100base-tx
-  - name: FastEthernet1/7
+  -
+    name: FastEthernet1/7
     type: 100base-tx
-  - name: FastEthernet1/8
+  -
+    name: FastEthernet1/8
     type: 100base-tx
-  - name: FastEthernet1/9
+  -
+    name: FastEthernet1/9
     type: 100base-tx
-  - name: FastEthernet1/10
+  -
+    name: FastEthernet1/10
     type: 100base-tx
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
-  - name: usb
+  -
+    name: usb
     type: usb-mini-b
+module-bays: []

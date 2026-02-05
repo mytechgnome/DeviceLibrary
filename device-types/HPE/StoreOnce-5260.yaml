@@ -10,21 +10,29 @@ comments: '[HPE StoreOnce QuickSpecs](https://www.hpe.com/psnow/doc/c04328820.pd
 weight: 15.1
 weight_unit: kg
 module-bays:
-  - name: OCP3
+  -
+    name: OCP3
     position: OCP3
-  - name: PCIe1
+  -
+    name: PCIe1
     position: PCIe1
-  - name: PCIe2
+  -
+    name: PCIe2
     position: PCIe2
-  - name: PCIe4
+  -
+    name: PCIe4
     position: PCIe4
-  - name: PCIe5
+  -
+    name: PCIe5
     position: PCIe5
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2
 interfaces:
-  - name: iLO
+  -
+    name: iLO
     type: 1000base-t
     mgmt_only: true

@@ -5,11 +5,16 @@ slug: avocent-dsriq-ps2
 u_height: 0
 is_full_depth: false
 console-ports:
-  - name: DSR
+  -
+    name: DSR
     type: rj-45
     _is_power_source: true
 console-server-ports:
-  - name: Keyboard
+  -
+    name: Keyboard
     type: other
-  - name: Mouse
+  -
+    name: Mouse
     type: other
+module-bays: []
+interfaces: []

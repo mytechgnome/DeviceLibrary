@@ -12,19 +12,25 @@ comments: '[GL-iNet GL-AXT1800](https://www.gl-inet.com/products/gl-axt1800/)'
 front_image: true
 rear_image: true
 power-ports:
-  - name: External Power Adapter
+  -
+    name: External Power Adapter
     type: usb-c
     maximum_draw: 9
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     label: LAN1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     label: LAN2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     label: WAN
     type: 1000base-t
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11ax
     description: IEEE 802.11a/b/g/n/ac/ax
+module-bays: []

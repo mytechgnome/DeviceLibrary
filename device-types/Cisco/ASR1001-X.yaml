@@ -49,8 +49,10 @@ module-bays:
     position: '1'
     description: Power module
   -
-    name: TenGigabitEthernet0/0/0
-    position: '0'
+    name: SFP
+    position: TenGigabitEthernet0/0/0
+    label: TenGigabitEthernet0/0/0
   -
-    name: TenGigabitEthernet0/0/1
-    position: '1'
+    name: SFP
+    position: TenGigabitEthernet0/0/1
+    label: TenGigabitEthernet0/0/1

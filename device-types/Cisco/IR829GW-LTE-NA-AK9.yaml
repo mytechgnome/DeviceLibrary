@@ -6,23 +6,33 @@ slug: cisco-ir829gw-lte-na-ak9
 u_height: 1
 is_full_depth: false
 console-ports:
-  - name: usb
+  -
+    name: usb
     type: usb-mini-b
 power-ports:
-  - name: DC-A
+  -
+    name: DC-A
     type: dc-terminal
 interfaces:
-  - name: GigabitEthernet1
+  -
+    name: GigabitEthernet1
     type: 1000base-t
-  - name: GigabitEthernet2
+  -
+    name: GigabitEthernet2
     type: 1000base-t
-  - name: GigabitEthernet3
+  -
+    name: GigabitEthernet3
     type: 1000base-t
-  - name: GigabitEthernet4
+  -
+    name: GigabitEthernet4
     type: 1000base-t
-  - name: Wlan-GigabitEthernet0
+  -
+    name: Wlan-GigabitEthernet0
     type: ieee802.11n
-  - name: cellular0
+  -
+    name: cellular0
     type: lte
-  - name: cellular1
+  -
+    name: cellular1
     type: lte
+module-bays: []

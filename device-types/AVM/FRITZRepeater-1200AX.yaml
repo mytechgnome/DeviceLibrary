@@ -6,15 +6,18 @@ part_number: '20002974'
 u_height: 0
 is_full_depth: false
 airflow: passive
-comments: '[AVM Fritz!Repeater 1200 AX Technische Daten](https://avm.de/produkte/wlan-mesh/fritzrepeater-1200-ax/technische-daten/) - [AVM FRITZ!WLAN Repeater
-  1200ax Handbuch](https://assets.avm.de/files/docs/fritzwlan/fritz-repeater-1200-ax/fritz-repeater-1200-ax_man_de_DE.pdf)'
+comments: '[AVM Fritz!Repeater 1200 AX Technische Daten](https://avm.de/produkte/wlan-mesh/fritzrepeater-1200-ax/technische-daten/) - [AVM FRITZ!WLAN Repeater 1200ax Handbuch](https://assets.avm.de/files/docs/fritzwlan/fritz-repeater-1200-ax/fritz-repeater-1200-ax_man_de_DE.pdf)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: ita-c
     maximum_draw: 4
 interfaces:
-  - name: LAN
+  -
+    name: LAN
     label: LAN
     type: 1000base-t
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

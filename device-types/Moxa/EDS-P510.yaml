@@ -62,11 +62,17 @@ interfaces:
     description: combo port with G3-sfp
 module-bays:
   -
-    name: G1-sfp
-    position: '1'
+    name: SFP
+    position: G1-sfp
+    label: G1-sfp
+    description: combo port with G1-rj45
   -
-    name: G2-sfp
-    position: '2'
+    name: SFP
+    position: G2-sfp
+    label: G2-sfp
+    description: combo port with G2-rj45
   -
-    name: G3-sfp
-    position: '3'
+    name: SFP
+    position: G3-sfp
+    label: G3-sfp
+    description: combo port with G3-rj45

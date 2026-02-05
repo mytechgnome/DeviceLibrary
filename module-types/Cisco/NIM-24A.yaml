@@ -6,51 +6,75 @@ comments: '[Cisco 24-Port Asynchronous Serial NIM](https://www.cisco.com/c/en/us
 weight: 670
 weight_unit: g
 console-server-ports:
-  - name: Async0/{module}/0
+  -
+    name: Async0/{module}/0
     type: rj-45
-  - name: Async0/{module}/1
+  -
+    name: Async0/{module}/1
     type: rj-45
-  - name: Async0/{module}/2
+  -
+    name: Async0/{module}/2
     type: rj-45
-  - name: Async0/{module}/3
+  -
+    name: Async0/{module}/3
     type: rj-45
-  - name: Async0/{module}/4
+  -
+    name: Async0/{module}/4
     type: rj-45
-  - name: Async0/{module}/5
+  -
+    name: Async0/{module}/5
     type: rj-45
-  - name: Async0/{module}/6
+  -
+    name: Async0/{module}/6
     type: rj-45
-  - name: Async0/{module}/7
+  -
+    name: Async0/{module}/7
     type: rj-45
-  - name: Async0/{module}/8
+  -
+    name: Async0/{module}/8
     type: rj-45
-  - name: Async0/{module}/9
+  -
+    name: Async0/{module}/9
     type: rj-45
-  - name: Async0/{module}/10
+  -
+    name: Async0/{module}/10
     type: rj-45
-  - name: Async0/{module}/11
+  -
+    name: Async0/{module}/11
     type: rj-45
-  - name: Async0/{module}/12
+  -
+    name: Async0/{module}/12
     type: rj-45
-  - name: Async0/{module}/13
+  -
+    name: Async0/{module}/13
     type: rj-45
-  - name: Async0/{module}/14
+  -
+    name: Async0/{module}/14
     type: rj-45
-  - name: Async0/{module}/15
+  -
+    name: Async0/{module}/15
     type: rj-45
-  - name: Async0/{module}/16
+  -
+    name: Async0/{module}/16
     type: rj-45
-  - name: Async0/{module}/17
+  -
+    name: Async0/{module}/17
     type: rj-45
-  - name: Async0/{module}/18
+  -
+    name: Async0/{module}/18
     type: rj-45
-  - name: Async0/{module}/19
+  -
+    name: Async0/{module}/19
     type: rj-45
-  - name: Async0/{module}/20
+  -
+    name: Async0/{module}/20
     type: rj-45
-  - name: Async0/{module}/21
+  -
+    name: Async0/{module}/21
     type: rj-45
-  - name: Async0/{module}/22
+  -
+    name: Async0/{module}/22
     type: rj-45
-  - name: Async0/{module}/23
+  -
+    name: Async0/{module}/23
     type: rj-45

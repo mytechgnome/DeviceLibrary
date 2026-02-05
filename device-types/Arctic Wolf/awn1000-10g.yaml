@@ -75,24 +75,32 @@ module-bays:
     name: PS-B
     position: B
   -
-    name: LAN6
-    label: '1'
-    position: '6'
+    name: SFP
+    position: LAN6
+    label: LAN6
+    description: 10G Mirror
   -
-    name: LAN7
-    label: '2'
-    position: '7'
+    name: SFP
+    position: LAN7
+    label: LAN7
+    description: 10G Mirror
   -
-    name: LAN8
-    label: '3'
-    position: '8'
+    name: SFP
+    position: LAN8
+    label: LAN8
+    description: 10G Mirror
   -
-    name: LAN9
-    label: '4'
-    position: '9'
+    name: SFP
+    position: LAN9
+    label: LAN9
+    description: 10G Mirror
   -
-    name: WAN0
-    position: '0'
+    name: SFP
+    position: WAN0
+    label: WAN0
+    description: 10G internal tap
   -
-    name: WAN1
-    position: '1'
+    name: SFP
+    position: WAN1
+    label: WAN1
+    description: 10G internal tap

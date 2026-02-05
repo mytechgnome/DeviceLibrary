@@ -28,11 +28,13 @@ module-bays:
     name: Network Module
     position: '1'
   -
-    name: User3
-    position: '3'
+    name: SFP
+    position: User3
+    label: User3
   -
-    name: User4
-    position: '4'
+    name: SFP
+    position: User4
+    label: User4
 power-ports:
   -
     name: power

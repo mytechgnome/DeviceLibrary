@@ -29,35 +29,45 @@ module-bays:
     name: Fan2
     position: Fan2
   -
-    name: Ten-GigabitEthernet1/0/33
-    position: '33'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/33
+    label: Ten-GigabitEthernet1/0/33
   -
-    name: Ten-GigabitEthernet1/0/34
-    position: '34'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/34
+    label: Ten-GigabitEthernet1/0/34
   -
-    name: Ten-GigabitEthernet1/0/35
-    position: '35'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/35
+    label: Ten-GigabitEthernet1/0/35
   -
-    name: Ten-GigabitEthernet1/0/36
-    position: '36'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/36
+    label: Ten-GigabitEthernet1/0/36
   -
-    name: Ten-GigabitEthernet1/0/37
-    position: '37'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/37
+    label: Ten-GigabitEthernet1/0/37
   -
-    name: Ten-GigabitEthernet1/0/38
-    position: '38'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/38
+    label: Ten-GigabitEthernet1/0/38
   -
-    name: Ten-GigabitEthernet1/0/39
-    position: '39'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/39
+    label: Ten-GigabitEthernet1/0/39
   -
-    name: Ten-GigabitEthernet1/0/40
-    position: '40'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/40
+    label: Ten-GigabitEthernet1/0/40
   -
-    name: FortyGigE1/0/41
-    position: '41'
+    name: QSFP
+    position: FortyGigE1/0/41
+    label: FortyGigE1/0/41
   -
-    name: FortyGigE1/0/42
-    position: '42'
+    name: QSFP
+    position: FortyGigE1/0/42
+    label: FortyGigE1/0/42
 interfaces:
   -
     name: Management

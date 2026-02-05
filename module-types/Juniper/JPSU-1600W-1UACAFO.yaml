@@ -7,6 +7,7 @@ weight: 2.33
 weight_unit: lb
 comments: AC PSM for ACX, QFX
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c16
     maximum_draw: 1600

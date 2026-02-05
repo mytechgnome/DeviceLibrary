@@ -169,14 +169,18 @@ module-bays:
     name: Rear Slot
     position: '1'
   -
-    name: port1.0.49
-    position: '49'
+    name: SFP
+    position: port1.0.49
+    label: port1.0.49
   -
-    name: port1.0.50
-    position: '50'
+    name: SFP
+    position: port1.0.50
+    label: port1.0.50
   -
-    name: port1.0.51
-    position: '51'
+    name: SFP
+    position: port1.0.51
+    label: port1.0.51
   -
-    name: port1.0.52
-    position: '52'
+    name: SFP
+    position: port1.0.52
+    label: port1.0.52

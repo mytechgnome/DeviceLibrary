@@ -9,13 +9,17 @@ weight: 0.32
 weight_unit: kg
 airflow: passive
 power-ports:
-  - name: PWR
+  -
+    name: PWR
     type: hardwired
     maximum_draw: 15
 interfaces:
-  - name: Eth
+  -
+    name: Eth
     type: 100base-tx
     poe_mode: pd
     poe_type: type1-ieee802.3af
-  - name: LTE
+  -
+    name: LTE
     type: lte
+module-bays: []

@@ -3,13 +3,14 @@ manufacturer: Dell
 model: F6FXM
 part_number: F6FXM
 comments: Mellanox ConnectX-6 DX Dual Port 100GbE QSFP56 Network Adapter, Low Profile
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}-100GbE-1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
     label: '1'
-    position: '1'
+    mgmt_only: false
   -
-    name: '{module}-100GbE-2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
     label: '2'
-    position: '2'
+    mgmt_only: false

@@ -59,20 +59,26 @@ module-bays:
     position: '2'
     description: C14 / Max Draw 300W
   -
-    name: a1
-    position: '1'
+    name: SFP
+    position: a1
+    label: a1
   -
-    name: a2
-    position: '2'
+    name: SFP
+    position: a2
+    label: a2
   -
-    name: p9
-    position: '9'
+    name: SFP
+    position: p9
+    label: p9
   -
-    name: p10
-    position: '10'
+    name: SFP
+    position: p10
+    label: p10
   -
-    name: p11
-    position: '11'
+    name: SFP
+    position: p11
+    label: p11
   -
-    name: p12
-    position: '12'
+    name: SFP
+    position: p12
+    label: p12

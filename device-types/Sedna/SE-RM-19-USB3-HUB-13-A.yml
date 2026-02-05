@@ -8,33 +8,49 @@ is_full_depth: false
 comments: |
   [Datasheet](https://sednashop.com/index.php?route=product/product&path=67&product_id=88)
 console-ports:
-  - name: USB_1
+  -
+    name: USB_1
     type: usb-a
-  - name: USB_2
+  -
+    name: USB_2
     type: usb-a
-  - name: USB_3
+  -
+    name: USB_3
     type: usb-a
-  - name: USB_4
+  -
+    name: USB_4
     type: usb-a
-  - name: USB_5
+  -
+    name: USB_5
     type: usb-a
-  - name: USB_6
+  -
+    name: USB_6
     type: usb-a
-  - name: USB_7
+  -
+    name: USB_7
     type: usb-a
-  - name: USB_8
+  -
+    name: USB_8
     type: usb-a
-  - name: USB_9
+  -
+    name: USB_9
     type: usb-a
-  - name: USB_10
+  -
+    name: USB_10
     type: usb-a
-  - name: USB_11
+  -
+    name: USB_11
     type: usb-a
-  - name: USB_12
+  -
+    name: USB_12
     type: usb-a
-  - name: USB_13
+  -
+    name: USB_13
     type: usb-a
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: dc-terminal
     maximum_draw: 20
+module-bays: []
+interfaces: []

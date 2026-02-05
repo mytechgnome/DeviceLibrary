@@ -2,29 +2,28 @@
 manufacturer: Cisco
 model: EPA-10X10GE
 part_number: EPA-10X10GE
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: TenGigabitEthernet{module}/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp

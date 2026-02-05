@@ -8,25 +8,33 @@ weight_unit: g
 is_full_depth: false
 airflow: passive
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 12
     description: 12 V DC, 1 A
 interfaces:
-  - name: DSL
+  -
+    name: DSL
     label: DSL
     type: xdsl
-  - name: LAN1
+  -
+    name: LAN1
     label: LAN 1
     type: 100base-tx
-  - name: LAN2
+  -
+    name: LAN2
     label: LAN 2
     type: 100base-tx
-  - name: LAN3
+  -
+    name: LAN3
     label: LAN 3
     type: 100base-tx
-  - name: LAN4
+  -
+    name: LAN4
     label: LAN 4
     type: 100base-tx
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11n
+module-bays: []

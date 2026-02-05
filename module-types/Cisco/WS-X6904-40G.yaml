@@ -9,41 +9,56 @@ interfaces:
 # Two possible optical modes for 4 optical slots (40GE using a CFP-40G or 10GE using a CVR-CFP-4SFP10G):
 #  - name: FortyGigabitEthernet{module}/1
 #    type: 40gbase-x-qsfpp
-  - name: TenGigabitEthernet{module}/5
+  -
+    name: '{module}' type: 10gbase-x-sfpp
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/6
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/7
-    type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/8
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
 #  - name: FortyGigabitEthernet{module}/2
 #    type: 40gbase-x-qsfpp
-  - name: TenGigabitEthernet{module}/9
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/10
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/11
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/12
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
 #  - name: FortyGigabitEthernet{module}/3
 #    type: 40gbase-x-qsfpp
-  - name: TenGigabitEthernet{module}/13
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/14
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/15
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/16
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
 #  - name: FortyGigabitEthernet{module}/4
 #    type: 40gbase-x-qsfpp
-  - name: TenGigabitEthernet{module}/17
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/18
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/19
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp
-  - name: TenGigabitEthernet{module}/20
+  -
+    name: '{module}'
     type: 10gbase-x-sfpp

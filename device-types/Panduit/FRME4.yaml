@@ -8,27 +8,40 @@ is_full_depth: false
 subdevice_role: parent
 is_powered: false
 module-bays:
-  - name: A
+  -
+    name: A
     position: A
-  - name: B
+  -
+    name: B
     position: B
-  - name: C
+  -
+    name: C
     position: C
-  - name: D
+  -
+    name: D
     position: D
-  - name: E
+  -
+    name: E
     position: E
-  - name: F
+  -
+    name: F
     position: F
-  - name: G
+  -
+    name: G
     position: G
-  - name: H
+  -
+    name: H
     position: H
-  - name: J
+  -
+    name: J
     position: J
-  - name: K
+  -
+    name: K
     position: K
-  - name: L
+  -
+    name: L
     position: L
-  - name: M
+  -
+    name: M
     position: M
+interfaces: []

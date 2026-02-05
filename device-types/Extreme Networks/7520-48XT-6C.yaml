@@ -20,23 +20,29 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: '49'
+    name: QSFP
     position: '49'
+    label: '49'
   -
-    name: '50'
+    name: QSFP
     position: '50'
+    label: '50'
   -
-    name: '51'
+    name: QSFP
     position: '51'
+    label: '51'
   -
-    name: '52'
+    name: QSFP
     position: '52'
+    label: '52'
   -
-    name: '53'
+    name: QSFP
     position: '53'
+    label: '53'
   -
-    name: '54'
+    name: QSFP
     position: '54'
+    label: '54'
 interfaces:
   -
     name: Management

@@ -3,53 +3,52 @@ manufacturer: Cisco
 model: N55-M16P
 description: N55 M16P Generic Expansion Module
 comments: '[Cisco Nexus 5500 Platform Overview](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/hw/installation/guide/nexus_5000_hig/overview5500.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: Ethernet2/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/8
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/9
-    position: '9'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/10
-    position: '10'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/11
-    position: '11'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/12
-    position: '12'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/13
-    position: '13'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/14
-    position: '14'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/15
-    position: '15'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: Ethernet2/16
-    position: '16'
+    name: '{module}'
+    type: 10gbase-x-sfpp

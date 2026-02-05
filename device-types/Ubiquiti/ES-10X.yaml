@@ -40,8 +40,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: gi9
-    position: '9'
+    name: SFP
+    position: gi9
+    label: gi9
   -
-    name: gi10
-    position: '10'
+    name: SFP
+    position: gi10
+    label: gi10

@@ -10,50 +10,73 @@ comments: '[Datasheet](https://api.prod.eltex-co.ru/storage/upload_center/files/
 weight: 2.47
 weight_unit: kg
 console-ports:
-  - name: console01
+  -
+    name: console01
     type: rj-45
 power-ports:
-  - name: PSU1
+  -
+    name: PSU1
     type: iec-60320-c14
     maximum_draw: 25
 interfaces:
-  - name: Eth1
+  -
+    name: Eth1
     type: 1000base-t
-  - name: Eth2
+  -
+    name: Eth2
     type: 1000base-t
-  - name: Eth3
+  -
+    name: Eth3
     type: 1000base-t
-  - name: Eth4
+  -
+    name: Eth4
     type: 1000base-t
-  - name: fxo1
+  -
+    name: fxo1
     type: xdsl
-  - name: fxo2
+  -
+    name: fxo2
     type: xdsl
-  - name: fxo3
+  -
+    name: fxo3
     type: xdsl
-  - name: fxo4
+  -
+    name: fxo4
     type: xdsl
-  - name: fxo5
+  -
+    name: fxo5
     type: xdsl
-  - name: fxo6
+  -
+    name: fxo6
     type: xdsl
-  - name: fxo7
+  -
+    name: fxo7
     type: xdsl
-  - name: fxo8
+  -
+    name: fxo8
     type: xdsl
-  - name: fxo9
+  -
+    name: fxo9
     type: xdsl
-  - name: fxo10
+  -
+    name: fxo10
     type: xdsl
-  - name: fxo11
+  -
+    name: fxo11
     type: xdsl
-  - name: fxo12
+  -
+    name: fxo12
     type: xdsl
-  - name: fxo13
+  -
+    name: fxo13
     type: xdsl
-  - name: fxo14
+  -
+    name: fxo14
     type: xdsl
-  - name: fxo15
+  -
+    name: fxo15
     type: xdsl
-  - name: fxo16
+  -
+    name: fxo16
     type: xdsl
+module-bays: []

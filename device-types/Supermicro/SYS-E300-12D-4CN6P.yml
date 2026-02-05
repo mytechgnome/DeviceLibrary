@@ -33,8 +33,10 @@ power-ports:
     type: dc-terminal
 module-bays:
   -
-    name: LAN-ice0
-    position: '0'
+    name: SFP
+    position: LAN-ice0
+    label: LAN-ice0
   -
-    name: LAN-ice1
-    position: '1'
+    name: SFP
+    position: LAN-ice1
+    label: LAN-ice1

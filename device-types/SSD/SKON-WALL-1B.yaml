@@ -11,5 +11,7 @@ weight: 0.4
 weight_unit: kg
 u_height: 0
 module-bays:
-  - name: '1'
+  -
+    name: '1'
     position: '1'
+interfaces: []

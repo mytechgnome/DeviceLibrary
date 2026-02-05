@@ -75,8 +75,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GigabitEthernet19
-    position: '19'
+    name: SFP
+    position: GigabitEthernet19
+    label: GigabitEthernet19
   -
-    name: GigabitEthernet20
-    position: '20'
+    name: SFP
+    position: GigabitEthernet20
+    label: GigabitEthernet20

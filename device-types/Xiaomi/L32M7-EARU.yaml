@@ -12,19 +12,25 @@ subdevice_role: parent
 weight: 3.9
 weight_unit: kg
 interfaces:
-  - name: Wireless 2.4 GHz
+  -
+    name: Wireless 2.4 GHz
     type: ieee802.11n
-  - name: Wireless 5 GHz
+  -
+    name: Wireless 5 GHz
     type: ieee802.11ac
-  - name: Bluetooth 5.0
+  -
+    name: Bluetooth 5.0
     type: ieee802.15.1
-  - name: ethernet
+  -
+    name: ethernet
     label: Network
     type: 100base-tx
 power-ports:
-  - name: AC
+  -
+    name: AC
     label: AC
     type: dc-terminal
     maximum_draw: 50
     allocated_draw: 50
     description: 100 - 240V AC
+module-bays: []

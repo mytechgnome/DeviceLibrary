@@ -33,17 +33,21 @@ module-bays:
     position: power2
     description: Power module
   -
-    name: qsfp28-1-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-1-1
+    label: qsfp28-1-1
   -
-    name: qsfp28-2-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-2-1
+    label: qsfp28-2-1
   -
-    name: qsfp28-3-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-3-1
+    label: qsfp28-3-1
   -
-    name: qsfp28-4-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-4-1
+    label: qsfp28-4-1
 power-ports:
   -
     name: power3

@@ -25,164 +25,218 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: swp1
-    position: '1'
+    name: SFP
+    position: swp1
+    label: swp1
   -
-    name: swp2
-    position: '2'
+    name: SFP
+    position: swp2
+    label: swp2
   -
-    name: swp3
-    position: '3'
+    name: SFP
+    position: swp3
+    label: swp3
   -
-    name: swp4
-    position: '4'
+    name: SFP
+    position: swp4
+    label: swp4
   -
-    name: swp5
-    position: '5'
+    name: SFP
+    position: swp5
+    label: swp5
   -
-    name: swp6
-    position: '6'
+    name: SFP
+    position: swp6
+    label: swp6
   -
-    name: swp7
-    position: '7'
+    name: SFP
+    position: swp7
+    label: swp7
   -
-    name: swp8
-    position: '8'
+    name: SFP
+    position: swp8
+    label: swp8
   -
-    name: swp9
-    position: '9'
+    name: SFP
+    position: swp9
+    label: swp9
   -
-    name: swp10
-    position: '10'
+    name: SFP
+    position: swp10
+    label: swp10
   -
-    name: swp11
-    position: '11'
+    name: SFP
+    position: swp11
+    label: swp11
   -
-    name: swp12
-    position: '12'
+    name: SFP
+    position: swp12
+    label: swp12
   -
-    name: swp13
-    position: '13'
+    name: SFP
+    position: swp13
+    label: swp13
   -
-    name: swp14
-    position: '14'
+    name: SFP
+    position: swp14
+    label: swp14
   -
-    name: swp15
-    position: '15'
+    name: SFP
+    position: swp15
+    label: swp15
   -
-    name: swp16
-    position: '16'
+    name: SFP
+    position: swp16
+    label: swp16
   -
-    name: swp17
-    position: '17'
+    name: SFP
+    position: swp17
+    label: swp17
   -
-    name: swp18
-    position: '18'
+    name: SFP
+    position: swp18
+    label: swp18
   -
-    name: swp19
-    position: '19'
+    name: SFP
+    position: swp19
+    label: swp19
   -
-    name: swp20
-    position: '20'
+    name: SFP
+    position: swp20
+    label: swp20
   -
-    name: swp21
-    position: '21'
+    name: SFP
+    position: swp21
+    label: swp21
   -
-    name: swp22
-    position: '22'
+    name: SFP
+    position: swp22
+    label: swp22
   -
-    name: swp23
-    position: '23'
+    name: SFP
+    position: swp23
+    label: swp23
   -
-    name: swp24
-    position: '24'
+    name: SFP
+    position: swp24
+    label: swp24
   -
-    name: swp25
-    position: '25'
+    name: SFP
+    position: swp25
+    label: swp25
   -
-    name: swp26
-    position: '26'
+    name: SFP
+    position: swp26
+    label: swp26
   -
-    name: swp27
-    position: '27'
+    name: SFP
+    position: swp27
+    label: swp27
   -
-    name: swp28
-    position: '28'
+    name: SFP
+    position: swp28
+    label: swp28
   -
-    name: swp29
-    position: '29'
+    name: SFP
+    position: swp29
+    label: swp29
   -
-    name: swp30
-    position: '30'
+    name: SFP
+    position: swp30
+    label: swp30
   -
-    name: swp31
-    position: '31'
+    name: SFP
+    position: swp31
+    label: swp31
   -
-    name: swp32
-    position: '32'
+    name: SFP
+    position: swp32
+    label: swp32
   -
-    name: swp33
-    position: '33'
+    name: SFP
+    position: swp33
+    label: swp33
   -
-    name: swp34
-    position: '34'
+    name: SFP
+    position: swp34
+    label: swp34
   -
-    name: swp35
-    position: '35'
+    name: SFP
+    position: swp35
+    label: swp35
   -
-    name: swp36
-    position: '36'
+    name: SFP
+    position: swp36
+    label: swp36
   -
-    name: swp37
-    position: '37'
+    name: SFP
+    position: swp37
+    label: swp37
   -
-    name: swp38
-    position: '38'
+    name: SFP
+    position: swp38
+    label: swp38
   -
-    name: swp39
-    position: '39'
+    name: SFP
+    position: swp39
+    label: swp39
   -
-    name: swp40
-    position: '40'
+    name: SFP
+    position: swp40
+    label: swp40
   -
-    name: swp41
-    position: '41'
+    name: SFP
+    position: swp41
+    label: swp41
   -
-    name: swp42
-    position: '42'
+    name: SFP
+    position: swp42
+    label: swp42
   -
-    name: swp43
-    position: '43'
+    name: SFP
+    position: swp43
+    label: swp43
   -
-    name: swp44
-    position: '44'
+    name: SFP
+    position: swp44
+    label: swp44
   -
-    name: swp45
-    position: '45'
+    name: SFP
+    position: swp45
+    label: swp45
   -
-    name: swp46
-    position: '46'
+    name: SFP
+    position: swp46
+    label: swp46
   -
-    name: swp47
-    position: '47'
+    name: SFP
+    position: swp47
+    label: swp47
   -
-    name: swp48
-    position: '48'
+    name: SFP
+    position: swp48
+    label: swp48
   -
-    name: swp49
-    position: '49'
+    name: QSFP
+    position: swp49
+    label: swp49
   -
-    name: swp50
-    position: '50'
+    name: QSFP
+    position: swp50
+    label: swp50
   -
-    name: swp51
-    position: '51'
+    name: QSFP
+    position: swp51
+    label: swp51
   -
-    name: swp52
-    position: '52'
+    name: QSFP
+    position: swp52
+    label: swp52
   -
-    name: swp53
-    position: '53'
+    name: QSFP
+    position: swp53
+    label: swp53
   -
-    name: swp54
-    position: '54'
+    name: QSFP
+    position: swp54
+    label: swp54

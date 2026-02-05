@@ -8,117 +8,147 @@ weight: 8.16
 weight_unit: kg
 comments: '[Juniper EX4200 Data Sheet](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000215-en.pdf)'
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 interfaces:
-  - name: ge-0/0/0
+  -
+    name: ge-0/0/0
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/1
+  -
+    name: ge-0/0/1
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/2
+  -
+    name: ge-0/0/2
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/3
+  -
+    name: ge-0/0/3
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/4
+  -
+    name: ge-0/0/4
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/5
+  -
+    name: ge-0/0/5
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/6
+  -
+    name: ge-0/0/6
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/7
+  -
+    name: ge-0/0/7
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/8
+  -
+    name: ge-0/0/8
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/9
+  -
+    name: ge-0/0/9
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/10
+  -
+    name: ge-0/0/10
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/11
+  -
+    name: ge-0/0/11
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/12
+  -
+    name: ge-0/0/12
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/13
+  -
+    name: ge-0/0/13
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/14
+  -
+    name: ge-0/0/14
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/15
+  -
+    name: ge-0/0/15
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/16
+  -
+    name: ge-0/0/16
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/17
+  -
+    name: ge-0/0/17
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/18
+  -
+    name: ge-0/0/18
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/19
+  -
+    name: ge-0/0/19
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/20
+  -
+    name: ge-0/0/20
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/21
+  -
+    name: ge-0/0/21
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/22
+  -
+    name: ge-0/0/22
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: ge-0/0/23
+  -
+    name: ge-0/0/23
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: vcp-0
+  -
+    name: vcp-0
     label: Virtual Chassis Port 0
     type: juniper-vcp
-  - name: vcp-1
+  -
+    name: vcp-1
     label: Virtual Chassis Port 1
     type: juniper-vcp
 module-bays:
-  - name: Power Supply 0
+  -
+    name: Power Supply 0
     label: PSU 0
     position: PSU0
-  - name: Power Supply 1
+  -
+    name: Power Supply 1
     label: PSU 1
     position: PSU1
-  - name: Uplink Module
+  -
+    name: Uplink Module
     position: '1'

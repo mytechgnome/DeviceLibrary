@@ -68,8 +68,10 @@ interfaces:
     label: WAN/LAN/DMZ
 module-bays:
   -
-    name: P1
-    position: '1'
+    name: SFP
+    position: P1
+    label: P1
   -
-    name: P2
-    position: '2'
+    name: SFP
+    position: P2
+    label: P2

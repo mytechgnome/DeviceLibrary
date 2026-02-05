@@ -31,14 +31,18 @@ module-bays:
     name: PSU-2
     position: '2'
   -
-    name: ge0/0
-    position: '0'
+    name: SFP
+    position: ge0/0
+    label: ge0/0
   -
-    name: ge0/1
-    position: '1'
+    name: SFP
+    position: ge0/1
+    label: ge0/1
   -
-    name: ge0/2
-    position: '2'
+    name: SFP
+    position: ge0/2
+    label: ge0/2
   -
-    name: ge0/3
-    position: '3'
+    name: SFP
+    position: ge0/3
+    label: ge0/3

@@ -50,14 +50,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: Interface 10/1
-    position: '1'
+    name: SFP
+    position: Interface 10/1
+    label: Interface 10/1
   -
-    name: Interface 10/2
-    position: '2'
+    name: SFP
+    position: Interface 10/2
+    label: Interface 10/2
   -
-    name: Interface 10/3
-    position: '3'
+    name: SFP
+    position: Interface 10/3
+    label: Interface 10/3
   -
-    name: Interface 10/4
-    position: '4'
+    name: SFP
+    position: Interface 10/4
+    label: Interface 10/4

@@ -6,6 +6,7 @@ description: Single PSU for HPE Proliant DL20 G10 Plus server
 weight: 1
 weight_unit: kg
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c14
     maximum_draw: 290

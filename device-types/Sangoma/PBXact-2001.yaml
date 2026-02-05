@@ -7,18 +7,24 @@ is_full_depth: false
 weight: 13.6
 weight_unit: kg
 console-ports:
-  - name: console
+  -
+    name: console
     type: de-9
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: iDRAC
+  -
+    name: iDRAC
     type: 1000base-t
     mgmt_only: true

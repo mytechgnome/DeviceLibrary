@@ -18,23 +18,30 @@ comments: |-
   - Bluetooth 5.1 support
   - External antenna model with pluggable antenna ports (6-pin and 4-pin)
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 2.5gbase-t
     poe_mode: pd
     poe_type: type4-ieee802.3bt
-  - name: eth1
+  -
+    name: eth1
     type: 2.5gbase-t
     poe_mode: pd
     poe_type: type4-ieee802.3bt
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11ax
     description: 2.4GHz radio
-  - name: wlan1
+  -
+    name: wlan1
     type: ieee802.11ax
     description: 5GHz radio
-  - name: wlan2
+  -
+    name: wlan2
     type: ieee802.11ax
     description: 6GHz radio (Wi-Fi 6E)
-  - name: wlan3
+  -
+    name: wlan3
     type: other-wireless
     description: Dedicated scanning radio (WIDS/WIPS/RRM)
+module-bays: []

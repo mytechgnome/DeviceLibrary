@@ -73,8 +73,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: xe-0/1/2
-    position: '2'
+    name: SFP
+    position: xe-0/1/2
+    label: xe-0/1/2
   -
-    name: xe-0/1/3
-    position: '3'
+    name: SFP
+    position: xe-0/1/3
+    label: xe-0/1/3

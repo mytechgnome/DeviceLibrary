@@ -7,28 +7,36 @@ u_height: 3
 is_full_depth: true
 comments: Tower or rackable
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-45
 power-ports:
-  - name: Inlet I1
+  -
+    name: Inlet I1
     type: nema-l6-30p
 power-outlets:
-  - name: Group 1 Outlet 1
+  -
+    name: Group 1 Outlet 1
     type: nema-l6-20r
     power_port: Inlet I1
-  - name: Group 1 Outlet 2
+  -
+    name: Group 1 Outlet 2
     type: nema-l6-20r
     power_port: Inlet I1
-  - name: Group 2 Outlet 1
+  -
+    name: Group 2 Outlet 1
     type: nema-l6-30r
     power_port: Inlet I1
-  - name: Group 2 Outlet 2
+  -
+    name: Group 2 Outlet 2
     type: nema-l6-30r
     power_port: Inlet I1
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 100base-tx
     mgmt_only: true
 module-bays:
-  - name: SmartSlot
+  -
+    name: SmartSlot
     position: SmartSlot

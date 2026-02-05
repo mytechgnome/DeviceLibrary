@@ -34,6 +34,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: A_Client
+    name: SFP
+    position: A_Client
+    label: A_Client
   -
-    name: B_Network
+    name: SFP
+    position: B_Network
+    label: B_Network

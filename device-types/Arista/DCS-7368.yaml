@@ -16,41 +16,56 @@ comments: >
   [Arista 7368X4 Series Overview](https://www.arista.com/assets/data/pdf/Datasheets/7368X4-Datasheet.pdf)
 
 module-bays:
-  - name: Slot 1
+  -
+    name: Slot 1
     position: '1'
     label: Supervisor
-  - name: Slot 2
+  -
+    name: Slot 2
     position: '2'
     label: Line Card
-  - name: Slot 3
+  -
+    name: Slot 3
     position: '3'
     label: Line Card
-  - name: Slot 4
+  -
+    name: Slot 4
     position: '4'
     label: Line Card
-  - name: Slot 5
+  -
+    name: Slot 5
     position: '5'
     label: Line Card
-  - name: Slot 6
+  -
+    name: Slot 6
     position: '6'
     label: Line Card
-  - name: Slot 7
+  -
+    name: Slot 7
     position: '7'
     label: Line Card
-  - name: Slot 8
+  -
+    name: Slot 8
     position: '8'
     label: Line Card
-  - name: Slot 9
+  -
+    name: Slot 9
     position: '9'
     label: Line Card
-  - name: Switchcard Slot
+  -
+    name: Switchcard Slot
     position: SW1
     label: Switchcard
-  - name: PSU Slot 1
+  -
+    name: PSU Slot 1
     position: P1
-  - name: PSU Slot 2
+  -
+    name: PSU Slot 2
     position: P2
-  - name: PSU Slot 3
+  -
+    name: PSU Slot 3
     position: P3
-  - name: PSU Slot 4
+  -
+    name: PSU Slot 4
     position: P4
+interfaces: []

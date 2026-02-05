@@ -141,14 +141,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: SFP1
-    position: '1'
+    name: SFP
+    position: SFP1
+    label: SFP1
   -
-    name: SFP2
-    position: '2'
+    name: SFP
+    position: SFP2
+    label: SFP2
   -
-    name: SFP3
-    position: '3'
+    name: SFP
+    position: SFP3
+    label: SFP3
   -
-    name: SFP4
-    position: '4'
+    name: SFP
+    position: SFP4
+    label: SFP4

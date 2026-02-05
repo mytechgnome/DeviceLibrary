@@ -29,14 +29,18 @@ module-bays:
     name: PSU-4
     position: '4'
   -
-    name: sioc1
-    position: '1'
+    name: QSFP
+    position: sioc1
+    label: sioc1
   -
-    name: sioc2
-    position: '2'
+    name: QSFP
+    position: sioc2
+    label: sioc2
   -
-    name: sioc3
-    position: '3'
+    name: QSFP
+    position: sioc3
+    label: sioc3
   -
-    name: sioc4
-    position: '4'
+    name: QSFP
+    position: sioc4
+    label: sioc4

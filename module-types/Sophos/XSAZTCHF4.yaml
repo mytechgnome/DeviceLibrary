@@ -3,17 +3,16 @@ manufacturer: Sophos
 model: 4 port 10GbE SFP+ Flexi Port module
 part_number: XSAZTCHF4
 comments: 4 port 10GbE SFP+ Flexi Port module - For XGS 1U/2U models
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}1'
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}2'
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}3'
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: '{module}4'
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp

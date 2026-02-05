@@ -1,6 +1,0 @@
----
-manufacturer: Cisco
-model: C9K-T1-FANTRAY
-part_number: C9K-T1-FANTRAY
-comments: "Fan tray module for Cisco Catalyst 9K chassis (T1)."
-airflow: front-to-rear

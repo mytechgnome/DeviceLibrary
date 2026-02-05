@@ -48,8 +48,12 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: GigabitEthernet1/0/9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet1/0/9
+    label: GigabitEthernet1/0/9
+    description: 1G SFP and RJ-45 combo uplink
   -
-    name: GigabitEthernet1/0/10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet1/0/10
+    label: GigabitEthernet1/0/10
+    description: 1G SFP and RJ-45 combo uplink

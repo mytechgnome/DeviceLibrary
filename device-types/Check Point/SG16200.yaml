@@ -10,31 +10,41 @@ is_full_depth: true
 comments: '[Check Point 16200 Data Sheet](https://www.checkpoint.com/downloads/products/16200-security-gateway-datasheet.pdf)'
 airflow: front-to-rear
 console-ports:
-  - name: ttyS0
+  -
+    name: ttyS0
     label: CONSOLE
     type: rj-45
 interfaces:
-  - name: Mgmt
+  -
+    name: Mgmt
     label: MGMT
     type: 1000base-t
     mgmt_only: true
-  - name: Sync
+  -
+    name: Sync
     label: SYNC
     type: 1000base-t
-  - name: lom
+  -
+    name: lom
     label: LOM
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: PS1
+  -
+    name: PS1
     position: '1'
-  - name: PS2
+  -
+    name: PS2
     position: '2'
-  - name: Interface Card 1
+  -
+    name: Interface Card 1
     position: '1'
-  - name: Interface Card 2
+  -
+    name: Interface Card 2
     position: '2'
-  - name: Interface Card 3
+  -
+    name: Interface Card 3
     position: '3'
-  - name: Interface Card 4
+  -
+    name: Interface Card 4
     position: '4'

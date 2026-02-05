@@ -7,16 +7,24 @@ comments: APC 208V/120V 10KVA Step down Transformer
 u_height: 4
 is_full_depth: true
 power-ports:
-  - name: Source
+  -
+    name: Source
     type: hardwired
 power-outlets:
-  - name: Hard Wire Output
+  -
+    name: Hard Wire Output
     type: hardwired
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: nema-l14-30r
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: nema-l14-30r
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: nema-l5-20r
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: nema-l5-20r
+module-bays: []
+interfaces: []

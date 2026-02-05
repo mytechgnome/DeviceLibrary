@@ -169,14 +169,18 @@ module-bays:
     name: PSU1
     position: '1'
   -
-    name: TenGigabitEthernet1/49
-    position: '49'
+    name: SFP
+    position: TenGigabitEthernet1/49
+    label: TenGigabitEthernet1/49
   -
-    name: TenGigabitEthernet1/50
-    position: '50'
+    name: SFP
+    position: TenGigabitEthernet1/50
+    label: TenGigabitEthernet1/50
   -
-    name: TenGigabitEthernet1/51
-    position: '51'
+    name: SFP
+    position: TenGigabitEthernet1/51
+    label: TenGigabitEthernet1/51
   -
-    name: TenGigabitEthernet1/52
-    position: '52'
+    name: SFP
+    position: TenGigabitEthernet1/52
+    label: TenGigabitEthernet1/52

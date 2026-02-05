@@ -9,34 +9,48 @@ comments: Vertiv GXT5 UPS , 3000 VA, Rack/tower 2U [Product Page](https://www.ve
 weight: 28.5
 weight_unit: kg
 console-ports:
-  - name: USB
+  -
+    name: USB
     type: usb-b
-  - name: RS232
+  -
+    name: RS232
     type: rj-45
-  - name: RS485
+  -
+    name: RS485
     type: rj-45
 interfaces:
-  - name: Network Option (IntelliSlot Port)
+  -
+    name: Network Option (IntelliSlot Port)
     type: 1000base-t
     mgmt_only: true
 power-ports:
-  - name: Input Power
+  -
+    name: Input Power
     type: iec-60320-c20
-  - name: Battery connector (EBC)
+  -
+    name: Battery connector (EBC)
     type: other
     label: ebc-input
 power-outlets:
-  - name: Power Outlet - Non Programmable 1
+  -
+    name: Power Outlet - Non Programmable 1
     type: iec-60320-c13
-  - name: Power Outlet - Non Programmable 2
+  -
+    name: Power Outlet - Non Programmable 2
     type: iec-60320-c13
-  - name: Power Outlet - Programmable 1
+  -
+    name: Power Outlet - Programmable 1
     type: iec-60320-c13
-  - name: Power Outlet - Programmable 2
+  -
+    name: Power Outlet - Programmable 2
     type: iec-60320-c13
-  - name: Power Outlet - Programmable 3
+  -
+    name: Power Outlet - Programmable 3
     type: iec-60320-c13
-  - name: Power Outlet - Programmable 4
+  -
+    name: Power Outlet - Programmable 4
     type: iec-60320-c13
-  - name: Power Outlet - Non Programmable 15A
+  -
+    name: Power Outlet - Non Programmable 15A
     type: iec-60320-c19
+module-bays: []

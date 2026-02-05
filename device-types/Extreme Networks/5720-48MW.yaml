@@ -16,11 +16,15 @@ module-bays:
     name: PS#2
     position: '2'
   -
-    name: U1
-    position: '1'
+    name: QSFP
+    position: U1
+    label: U1
+    description: Can be used for stacking or as various speed normal interfaces
   -
-    name: U2
-    position: '2'
+    name: QSFP
+    position: U2
+    label: U2
+    description: Can be used for stacking or as various speed normal interfaces
 console-ports:
   -
     name: Console

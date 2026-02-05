@@ -36,5 +36,6 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: eth5
-    position: '5'
+    name: SFP
+    position: eth5
+    label: eth5

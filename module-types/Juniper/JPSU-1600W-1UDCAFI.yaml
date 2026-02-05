@@ -7,6 +7,7 @@ weight: 2.40
 weight_unit: lb
 comments: DC PSM for ACX, QFX
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 1600

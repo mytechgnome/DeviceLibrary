@@ -3,11 +3,12 @@ manufacturer: Intel
 model: XXV710-DA2
 part_number: XXV710-DA2
 comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/95260/intel-ethernet-network-adapter-xxv710da2.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: Ethernet/{module}/1
-    position: '1'
+    name: '{module}'
+    type: 25gbase-x-sfp28
+    mgmt_only: false
   -
-    name: Ethernet/{module}/2
-    position: '2'
+    name: '{module}'
+    type: 25gbase-x-sfp28
+    mgmt_only: false

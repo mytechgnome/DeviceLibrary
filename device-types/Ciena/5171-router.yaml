@@ -57,122 +57,162 @@ module-bays:
     description: |
       170-0460-900 5171-ROUTER, MODULE, (1)200/100G/40G QSFPDD, (1)100/40G QSFP-DD 2xQSFP DD
   -
-    name: '1'
+    name: SFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: SFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: SFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: SFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: SFP
     position: '5'
+    label: '5'
   -
-    name: '6'
+    name: SFP
     position: '6'
+    label: '6'
   -
-    name: '7'
+    name: SFP
     position: '7'
+    label: '7'
   -
-    name: '8'
+    name: SFP
     position: '8'
+    label: '8'
   -
-    name: '9'
+    name: SFP
     position: '9'
+    label: '9'
   -
-    name: '10'
+    name: SFP
     position: '10'
+    label: '10'
   -
-    name: '11'
+    name: SFP
     position: '11'
+    label: '11'
   -
-    name: '12'
+    name: SFP
     position: '12'
+    label: '12'
   -
-    name: '13'
+    name: SFP
     position: '13'
+    label: '13'
   -
-    name: '14'
+    name: SFP
     position: '14'
+    label: '14'
   -
-    name: '15'
+    name: SFP
     position: '15'
+    label: '15'
   -
-    name: '16'
+    name: SFP
     position: '16'
+    label: '16'
   -
-    name: '17'
+    name: SFP
     position: '17'
+    label: '17'
   -
-    name: '18'
+    name: SFP
     position: '18'
+    label: '18'
   -
-    name: '19'
+    name: SFP
     position: '19'
+    label: '19'
   -
-    name: '20'
+    name: SFP
     position: '20'
+    label: '20'
   -
-    name: '21'
+    name: SFP
     position: '21'
+    label: '21'
   -
-    name: '22'
+    name: SFP
     position: '22'
+    label: '22'
   -
-    name: '23'
+    name: SFP
     position: '23'
+    label: '23'
   -
-    name: '24'
+    name: SFP
     position: '24'
+    label: '24'
   -
-    name: '25'
+    name: SFP
     position: '25'
+    label: '25'
   -
-    name: '26'
+    name: SFP
     position: '26'
+    label: '26'
   -
-    name: '27'
+    name: SFP
     position: '27'
+    label: '27'
   -
-    name: '28'
+    name: SFP
     position: '28'
+    label: '28'
   -
-    name: '29'
+    name: SFP
     position: '29'
+    label: '29'
   -
-    name: '30'
+    name: SFP
     position: '30'
+    label: '30'
   -
-    name: '31'
+    name: SFP
     position: '31'
+    label: '31'
   -
-    name: '32'
+    name: SFP
     position: '32'
+    label: '32'
   -
-    name: '33'
+    name: SFP
     position: '33'
+    label: '33'
   -
-    name: '34'
+    name: SFP
     position: '34'
+    label: '34'
   -
-    name: '35'
+    name: SFP
     position: '35'
+    label: '35'
   -
-    name: '36'
+    name: SFP
     position: '36'
+    label: '36'
   -
-    name: '37'
+    name: SFP
     position: '37'
+    label: '37'
   -
-    name: '38'
+    name: SFP
     position: '38'
+    label: '38'
   -
-    name: '39'
+    name: SFP
     position: '39'
+    label: '39'
   -
-    name: '40'
+    name: SFP
     position: '40'
+    label: '40'

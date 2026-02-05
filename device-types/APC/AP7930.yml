@@ -10,78 +10,105 @@ airflow: passive
 is_full_depth: false
 comments: Rack PDU, Switched, Zero U, 20A, 120V, (24)5-20
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: nema-l5-20p
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 10
+  -
+    name: Outlet 10
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 11
+  -
+    name: Outlet 11
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 12
+  -
+    name: Outlet 12
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 13
+  -
+    name: Outlet 13
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 14
+  -
+    name: Outlet 14
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 15
+  -
+    name: Outlet 15
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 16
+  -
+    name: Outlet 16
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 17
+  -
+    name: Outlet 17
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 18
+  -
+    name: Outlet 18
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 19
+  -
+    name: Outlet 19
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 20
+  -
+    name: Outlet 20
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 21
+  -
+    name: Outlet 21
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 22
+  -
+    name: Outlet 22
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 23
+  -
+    name: Outlet 23
     type: nema-5-20r
     power_port: Power Port 1
-  - name: Outlet 24
+  -
+    name: Outlet 24
     type: nema-5-20r
     power_port: Power Port 1
+module-bays: []
+interfaces: []

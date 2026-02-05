@@ -8,3 +8,5 @@ airflow: passive
 is_powered: false
 weight: 2
 weight_unit: kg
+module-bays: []
+interfaces: []

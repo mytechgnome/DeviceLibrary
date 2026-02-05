@@ -1,7 +1,0 @@
----
-manufacturer: Cisco
-model: UCS-E140S-M2-K9
-part_number: UCS-E140S-M2/K9
-comments: "Cisco UCS E-Series compute module (M2) for ISR routers."
-weight: 2.5
-weight_unit: lb

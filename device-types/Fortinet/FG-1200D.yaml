@@ -28,65 +28,85 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1
   -
-    name: port2
-    position: '2'
+    name: SFP
+    position: port2
+    label: port2
   -
-    name: port3
-    position: '3'
+    name: SFP
+    position: port3
+    label: port3
   -
-    name: port4
-    position: '4'
+    name: SFP
+    position: port4
+    label: port4
   -
-    name: port5
-    position: '5'
+    name: SFP
+    position: port5
+    label: port5
   -
-    name: port6
-    position: '6'
+    name: SFP
+    position: port6
+    label: port6
   -
-    name: port7
-    position: '7'
+    name: SFP
+    position: port7
+    label: port7
   -
-    name: port8
-    position: '8'
+    name: SFP
+    position: port8
+    label: port8
   -
-    name: port9
-    position: '9'
+    name: SFP
+    position: port9
+    label: port9
   -
-    name: port10
-    position: '10'
+    name: SFP
+    position: port10
+    label: port10
   -
-    name: port11
-    position: '11'
+    name: SFP
+    position: port11
+    label: port11
   -
-    name: port12
-    position: '12'
+    name: SFP
+    position: port12
+    label: port12
   -
-    name: port13
-    position: '13'
+    name: SFP
+    position: port13
+    label: port13
   -
-    name: port14
-    position: '14'
+    name: SFP
+    position: port14
+    label: port14
   -
-    name: port15
-    position: '15'
+    name: SFP
+    position: port15
+    label: port15
   -
-    name: port16
-    position: '16'
+    name: SFP
+    position: port16
+    label: port16
   -
-    name: port33
-    position: '33'
+    name: SFP
+    position: port33
+    label: port33
   -
-    name: port34
-    position: '34'
+    name: SFP
+    position: port34
+    label: port34
   -
-    name: port35
-    position: '35'
+    name: SFP
+    position: port35
+    label: port35
   -
-    name: port36
-    position: '36'
+    name: SFP
+    position: port36
+    label: port36
 interfaces:
   -
     name: mgmt1

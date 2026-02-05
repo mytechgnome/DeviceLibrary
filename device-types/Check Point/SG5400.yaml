@@ -10,52 +10,67 @@ weight: 7.5
 weight_unit: kg
 comments: '[Check Point 5400 Data Sheet](https://www.checkpoint.com/downloads/products/5400-security-gateway-datasheet.pdf)'
 console-ports:
-  - name: ttyS0
+  -
+    name: ttyS0
     label: CONSOLE
     type: rj-45
-  - name: ttyS1
+  -
+    name: ttyS1
     label: CONSOLE
     type: usb-c
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 250
     allocated_draw: 80
 interfaces:
-  - name: eth1
+  -
+    name: eth1
     label: '1'
     type: 1000base-t
-  - name: eth2
+  -
+    name: eth2
     label: '2'
     type: 1000base-t
-  - name: eth3
+  -
+    name: eth3
     label: '3'
     type: 1000base-t
-  - name: eth4
+  -
+    name: eth4
     label: '4'
     type: 1000base-t
-  - name: eth5
+  -
+    name: eth5
     label: '5'
     type: 1000base-t
-  - name: eth6
+  -
+    name: eth6
     label: '6'
     type: 1000base-t
-  - name: eth7
+  -
+    name: eth7
     label: '7'
     type: 1000base-t
-  - name: eth8
+  -
+    name: eth8
     label: '8'
     type: 1000base-t
-  - name: Sync
+  -
+    name: Sync
     label: SYNC
     type: 1000base-t
-  - name: Mgmt
+  -
+    name: Mgmt
     label: MGMT
     type: 1000base-t
-  - name: lom
+  -
+    name: lom
     label: LOM
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: Line card 1
+  -
+    name: Line card 1
     position: '1'

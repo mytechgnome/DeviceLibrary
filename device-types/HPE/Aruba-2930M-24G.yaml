@@ -11,72 +11,103 @@ comments: '[Aruba 2930M Switch Series Datasheet](https://www.arubanetworks.com/a
 weight: 9.81
 weight_unit: lb
 module-bays:
-  - name: Uplink
+  -
+    name: Uplink
     position: A
-  - name: Stacking Module
+  -
+    name: Stacking Module
     position: Stack
-  - name: PS1
+  -
+    name: PS1
     position: '1'
-  - name: PS2
+  -
+    name: PS2
     position: '2'
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
-  - name: USB Console
+  -
+    name: USB Console
     type: usb-micro-b
 interfaces:
-  - name: oobm
+  -
+    name: oobm
     type: 100base-tx
     mgmt_only: true
     description: Out of Band Management (oobm) interface
-  - name: '1'
+  -
+    name: '1'
     type: 1000base-t
-  - name: '2'
+  -
+    name: '2'
     type: 1000base-t
-  - name: '3'
+  -
+    name: '3'
     type: 1000base-t
-  - name: '4'
+  -
+    name: '4'
     type: 1000base-t
-  - name: '5'
+  -
+    name: '5'
     type: 1000base-t
-  - name: '6'
+  -
+    name: '6'
     type: 1000base-t
-  - name: '7'
+  -
+    name: '7'
     type: 1000base-t
-  - name: '8'
+  -
+    name: '8'
     type: 1000base-t
-  - name: '9'
+  -
+    name: '9'
     type: 1000base-t
-  - name: '10'
+  -
+    name: '10'
     type: 1000base-t
-  - name: '11'
+  -
+    name: '11'
     type: 1000base-t
-  - name: '12'
+  -
+    name: '12'
     type: 1000base-t
-  - name: '13'
+  -
+    name: '13'
     type: 1000base-t
-  - name: '14'
+  -
+    name: '14'
     type: 1000base-t
-  - name: '15'
+  -
+    name: '15'
     type: 1000base-t
-  - name: '16'
+  -
+    name: '16'
     type: 1000base-t
-  - name: '17'
+  -
+    name: '17'
     type: 1000base-t
-  - name: '18'
+  -
+    name: '18'
     type: 1000base-t
-  - name: '19'
+  -
+    name: '19'
     type: 1000base-t
-  - name: '20'
+  -
+    name: '20'
     type: 1000base-t
  ## Dual personality ports option 1
-  - name: '21'
+  -
+    name: '21'
     type: 1000base-t
-  - name: '22'
+  -
+    name: '22'
     type: 1000base-t
-  - name: '23'
+  -
+    name: '23'
     type: 1000base-t
-  - name: '24'
+  -
+    name: '24'
     type: 1000base-t
  ## Dual personality ports option 2
  ## - name: '21'

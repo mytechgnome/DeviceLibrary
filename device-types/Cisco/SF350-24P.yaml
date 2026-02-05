@@ -153,8 +153,10 @@ module-bays:
     name: SFP2
     position: '2'
   -
-    name: GigabitEthernet1/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet1/1
+    label: GigabitEthernet1/1
   -
-    name: GigabitEthernet1/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet1/2
+    label: GigabitEthernet1/2

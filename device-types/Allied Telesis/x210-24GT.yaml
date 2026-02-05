@@ -80,14 +80,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: port1.0.21
-    position: '21'
+    name: SFP
+    position: port1.0.21
+    label: port1.0.21
   -
-    name: port1.0.22
-    position: '22'
+    name: SFP
+    position: port1.0.22
+    label: port1.0.22
   -
-    name: port1.0.23
-    position: '23'
+    name: SFP
+    position: port1.0.23
+    label: port1.0.23
   -
-    name: port1.0.24
-    position: '24'
+    name: SFP
+    position: port1.0.24
+    label: port1.0.24

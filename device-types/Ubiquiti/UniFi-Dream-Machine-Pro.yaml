@@ -65,9 +65,10 @@ power-ports:
     maximum_draw: 33
 module-bays:
   -
-    name: port.10
-    label: Port 10 - SFP+ WAN 2
-    position: '10'
+    name: SFP
+    position: port.10
+    label: port.10
   -
-    name: port.11
-    position: '11'
+    name: SFP
+    position: port.11
+    label: port.11

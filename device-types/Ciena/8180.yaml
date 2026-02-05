@@ -80,98 +80,130 @@ module-bays:
       * 192-0001-900 1xWAVELOGIC AI 35G/56GBAUD C-BAND FRU MODULE
       * 192-0050-900 4x100G CFP2-DCO
   -
-    name: '1'
+    name: QSFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: QSFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: QSFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: QSFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: QSFP
     position: '5'
+    label: '5'
   -
-    name: '6'
+    name: QSFP
     position: '6'
+    label: '6'
   -
-    name: '7'
+    name: QSFP
     position: '7'
+    label: '7'
   -
-    name: '8'
+    name: QSFP
     position: '8'
+    label: '8'
   -
-    name: '9'
+    name: QSFP
     position: '9'
+    label: '9'
   -
-    name: '10'
+    name: QSFP
     position: '10'
+    label: '10'
   -
-    name: '11'
+    name: QSFP
     position: '11'
+    label: '11'
   -
-    name: '12'
+    name: QSFP
     position: '12'
+    label: '12'
   -
-    name: '13'
+    name: QSFP
     position: '13'
+    label: '13'
   -
-    name: '14'
+    name: QSFP
     position: '14'
+    label: '14'
   -
-    name: '15'
+    name: QSFP
     position: '15'
+    label: '15'
   -
-    name: '16'
+    name: QSFP
     position: '16'
+    label: '16'
   -
-    name: '17'
+    name: QSFP
     position: '17'
+    label: '17'
   -
-    name: '18'
+    name: QSFP
     position: '18'
+    label: '18'
   -
-    name: '19'
+    name: QSFP
     position: '19'
+    label: '19'
   -
-    name: '20'
+    name: QSFP
     position: '20'
+    label: '20'
   -
-    name: '21'
+    name: QSFP
     position: '21'
+    label: '21'
   -
-    name: '22'
+    name: QSFP
     position: '22'
+    label: '22'
   -
-    name: '23'
+    name: QSFP
     position: '23'
+    label: '23'
   -
-    name: '24'
+    name: QSFP
     position: '24'
+    label: '24'
   -
-    name: '25'
+    name: QSFP
     position: '25'
+    label: '25'
   -
-    name: '26'
+    name: QSFP
     position: '26'
+    label: '26'
   -
-    name: '27'
+    name: QSFP
     position: '27'
+    label: '27'
   -
-    name: '28'
+    name: QSFP
     position: '28'
+    label: '28'
   -
-    name: '29'
+    name: QSFP
     position: '29'
+    label: '29'
   -
-    name: '30'
+    name: QSFP
     position: '30'
+    label: '30'
   -
-    name: '31'
+    name: QSFP
     position: '31'
+    label: '31'
   -
-    name: '32'
+    name: QSFP
     position: '32'
+    label: '32'

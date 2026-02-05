@@ -45,10 +45,10 @@ interfaces:
     label: LAN4
 module-bays:
   -
-    name: ix3
-    label: WAN1
-    position: '3'
+    name: SFP
+    position: ix3
+    label: ix3
   -
-    name: ix2
-    label: WAN2
-    position: '2'
+    name: SFP
+    position: ix2
+    label: ix2

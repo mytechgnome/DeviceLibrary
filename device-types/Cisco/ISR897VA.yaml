@@ -53,5 +53,6 @@ power-ports:
     maximum_draw: 125
 module-bays:
   -
-    name: GigabitEthernet1/8
-    position: '8'
+    name: SFP
+    position: GigabitEthernet1/8
+    label: GigabitEthernet1/8

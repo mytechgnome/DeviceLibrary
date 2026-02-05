@@ -23,23 +23,29 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: xe49
-    position: '49'
+    name: SFP
+    position: xe49
+    label: xe49
   -
-    name: xe50
-    position: '50'
+    name: SFP
+    position: xe50
+    label: xe50
   -
-    name: xe51
-    position: '51'
+    name: SFP
+    position: xe51
+    label: xe51
   -
-    name: xe52
-    position: '52'
+    name: SFP
+    position: xe52
+    label: xe52
   -
-    name: xe53
-    position: '53'
+    name: SFP
+    position: xe53
+    label: xe53
   -
-    name: xe54
-    position: '54'
+    name: SFP
+    position: xe54
+    label: xe54
 interfaces:
   -
     name: eth0

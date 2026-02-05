@@ -39,5 +39,6 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: combo1
-    position: '1'
+    name: SFP
+    position: combo1
+    label: combo1

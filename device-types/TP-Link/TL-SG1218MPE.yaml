@@ -106,8 +106,10 @@ power-ports:
     maximum_draw: 250
 module-bays:
   -
-    name: GE-19
-    position: '19'
+    name: SFP
+    position: GE-19
+    label: GE-19
   -
-    name: GE-20
-    position: '20'
+    name: SFP
+    position: GE-20
+    label: GE-20

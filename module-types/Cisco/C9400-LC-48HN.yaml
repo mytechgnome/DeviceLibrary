@@ -7,195 +7,243 @@ comments: '[Catalyst 9400 Series Switch Line Cards Data Sheet](https://www.cisco
 weight: 3.85
 weight_unit: kg
 interfaces:
-  - name: FiveGigabitEthernet{module}/0/1
+  -
+    name: FiveGigabitEthernet{module}/0/1
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/2
+  -
+    name: FiveGigabitEthernet{module}/0/2
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/3
+  -
+    name: FiveGigabitEthernet{module}/0/3
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/4
+  -
+    name: FiveGigabitEthernet{module}/0/4
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/5
+  -
+    name: FiveGigabitEthernet{module}/0/5
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/6
+  -
+    name: FiveGigabitEthernet{module}/0/6
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/7
+  -
+    name: FiveGigabitEthernet{module}/0/7
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/8
+  -
+    name: FiveGigabitEthernet{module}/0/8
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/9
+  -
+    name: FiveGigabitEthernet{module}/0/9
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/10
+  -
+    name: FiveGigabitEthernet{module}/0/10
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/11
+  -
+    name: FiveGigabitEthernet{module}/0/11
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/12
+  -
+    name: FiveGigabitEthernet{module}/0/12
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/13
+  -
+    name: FiveGigabitEthernet{module}/0/13
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/14
+  -
+    name: FiveGigabitEthernet{module}/0/14
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/15
+  -
+    name: FiveGigabitEthernet{module}/0/15
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/16
+  -
+    name: FiveGigabitEthernet{module}/0/16
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/17
+  -
+    name: FiveGigabitEthernet{module}/0/17
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/18
+  -
+    name: FiveGigabitEthernet{module}/0/18
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/19
+  -
+    name: FiveGigabitEthernet{module}/0/19
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/20
+  -
+    name: FiveGigabitEthernet{module}/0/20
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/21
+  -
+    name: FiveGigabitEthernet{module}/0/21
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/22
+  -
+    name: FiveGigabitEthernet{module}/0/22
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/23
+  -
+    name: FiveGigabitEthernet{module}/0/23
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/24
+  -
+    name: FiveGigabitEthernet{module}/0/24
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/25
+  -
+    name: FiveGigabitEthernet{module}/0/25
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/26
+  -
+    name: FiveGigabitEthernet{module}/0/26
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/27
+  -
+    name: FiveGigabitEthernet{module}/0/27
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/28
+  -
+    name: FiveGigabitEthernet{module}/0/28
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/29
+  -
+    name: FiveGigabitEthernet{module}/0/29
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/30
+  -
+    name: FiveGigabitEthernet{module}/0/30
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/31
+  -
+    name: FiveGigabitEthernet{module}/0/31
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/32
+  -
+    name: FiveGigabitEthernet{module}/0/32
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/33
+  -
+    name: FiveGigabitEthernet{module}/0/33
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/34
+  -
+    name: FiveGigabitEthernet{module}/0/34
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/35
+  -
+    name: FiveGigabitEthernet{module}/0/35
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/36
+  -
+    name: FiveGigabitEthernet{module}/0/36
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/37
+  -
+    name: FiveGigabitEthernet{module}/0/37
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/38
+  -
+    name: FiveGigabitEthernet{module}/0/38
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/39
+  -
+    name: FiveGigabitEthernet{module}/0/39
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/40
+  -
+    name: FiveGigabitEthernet{module}/0/40
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/41
+  -
+    name: FiveGigabitEthernet{module}/0/41
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/42
+  -
+    name: FiveGigabitEthernet{module}/0/42
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/43
+  -
+    name: FiveGigabitEthernet{module}/0/43
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/44
+  -
+    name: FiveGigabitEthernet{module}/0/44
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/45
+  -
+    name: FiveGigabitEthernet{module}/0/45
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/46
+  -
+    name: FiveGigabitEthernet{module}/0/46
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/47
+  -
+    name: FiveGigabitEthernet{module}/0/47
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
-  - name: FiveGigabitEthernet{module}/0/48
+  -
+    name: FiveGigabitEthernet{module}/0/48
     type: 5gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt

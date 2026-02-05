@@ -22,5 +22,6 @@ interfaces:
     type: 5g
 module-bays:
   -
-    name: LAN2
-    position: '2'
+    name: SFP
+    position: LAN2
+    label: LAN2

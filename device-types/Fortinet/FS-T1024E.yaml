@@ -23,11 +23,13 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: port25
-    position: '25'
+    name: QSFP
+    position: port25
+    label: port25
   -
-    name: port26
-    position: '26'
+    name: QSFP
+    position: port26
+    label: port26
 interfaces:
   -
     name: port1

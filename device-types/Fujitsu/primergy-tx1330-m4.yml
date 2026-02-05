@@ -5,16 +5,22 @@ slug: fujitsu-primergy-tx1330-m4
 u_height: 5
 is_full_depth: true
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 power-ports:
-  - name: Power 1
+  -
+    name: Power 1
     type: iec-60320-c14
     maximum_draw: 250
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: iRMC-S5
+  -
+    name: iRMC-S5
     type: 1000base-t
+module-bays: []

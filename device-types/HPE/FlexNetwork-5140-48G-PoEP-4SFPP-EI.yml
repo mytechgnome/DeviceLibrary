@@ -261,14 +261,18 @@ interfaces:
     poe_mode: pse
 module-bays:
   -
-    name: Ten-GigabitEthernet1/0/49
-    position: '49'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/49
+    label: Ten-GigabitEthernet1/0/49
   -
-    name: Ten-GigabitEthernet1/0/50
-    position: '50'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/50
+    label: Ten-GigabitEthernet1/0/50
   -
-    name: Ten-GigabitEthernet1/0/51
-    position: '51'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/51
+    label: Ten-GigabitEthernet1/0/51
   -
-    name: Ten-GigabitEthernet1/0/52
-    position: '52'
+    name: SFP
+    position: Ten-GigabitEthernet1/0/52
+    label: Ten-GigabitEthernet1/0/52

@@ -11,11 +11,15 @@ is_full_depth: false
 is_powered: false
 comments: '[Ethernet Surge Protector](https://www.ui.com/accessories/ethernet-surge-protector/)'
 front-ports:
-  - name: '1'
+  -
+    name: '1'
     type: 8p8c
     rear_port: '1'
     rear_port_position: 1
 rear-ports:
-  - name: '1'
+  -
+    name: '1'
     type: 8p8c
     positions: 1
+module-bays: []
+interfaces: []

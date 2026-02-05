@@ -9,19 +9,28 @@ airflow: right-to-left
 is_full_depth: true
 comments: '[Juniper EX9204 Data Sheet](https://www.juniper.net/us/en/local/pdf/datasheets/1000432-en.pdf)'
 module-bays:
-  - name: SF0
+  -
+    name: SF0
     position: '0'
-  - name: SF1/LC0
+  -
+    name: SF1/LC0
     position: 1|0
-  - name: LC1
+  -
+    name: LC1
     position: '1'
-  - name: LC2
+  -
+    name: LC2
     position: '2'
-  - name: PSU0
+  -
+    name: PSU0
     position: '0'
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
-  - name: PSU2
+  -
+    name: PSU2
     position: '2'
-  - name: PSU3
+  -
+    name: PSU3
     position: '3'
+interfaces: []

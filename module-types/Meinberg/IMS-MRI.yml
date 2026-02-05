@@ -4,11 +4,15 @@ description: Multi-reference Input Module BNC
 model: IMS-MRI
 part_number: IMS-MRI-FO
 rear-ports:
-  - name: TC-AM
+  -
+    name: TC-AM
     type: bnc
-  - name: TC-DCLS
+  -
+    name: TC-DCLS
     type: bnc
-  - name: 10Mhz
+  -
+    name: 10Mhz
     type: bnc
-  - name: PPS
+  -
+    name: PPS
     type: bnc

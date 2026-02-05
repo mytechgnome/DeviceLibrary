@@ -20,53 +20,69 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: GigabitEthernet0/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet0/1
+    label: GigabitEthernet0/1
   -
-    name: GigabitEthernet0/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet0/2
+    label: GigabitEthernet0/2
   -
-    name: GigabitEthernet0/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet0/3
+    label: GigabitEthernet0/3
   -
-    name: GigabitEthernet0/4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet0/4
+    label: GigabitEthernet0/4
   -
-    name: GigabitEthernet0/5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet0/5
+    label: GigabitEthernet0/5
   -
-    name: GigabitEthernet0/6
-    position: '6'
+    name: SFP
+    position: GigabitEthernet0/6
+    label: GigabitEthernet0/6
   -
-    name: GigabitEthernet0/7
-    position: '7'
+    name: SFP
+    position: GigabitEthernet0/7
+    label: GigabitEthernet0/7
   -
-    name: GigabitEthernet0/8
-    position: '8'
+    name: SFP
+    position: GigabitEthernet0/8
+    label: GigabitEthernet0/8
   -
-    name: GigabitEthernet0/9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet0/9
+    label: GigabitEthernet0/9
   -
-    name: GigabitEthernet0/10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet0/10
+    label: GigabitEthernet0/10
   -
-    name: GigabitEthernet0/11
-    position: '11'
+    name: SFP
+    position: GigabitEthernet0/11
+    label: GigabitEthernet0/11
   -
-    name: GigabitEthernet0/12
-    position: '12'
+    name: SFP
+    position: GigabitEthernet0/12
+    label: GigabitEthernet0/12
   -
-    name: GigabitEthernet0/13
-    position: '13'
+    name: SFP
+    position: GigabitEthernet0/13
+    label: GigabitEthernet0/13
   -
-    name: GigabitEthernet0/14
-    position: '14'
+    name: SFP
+    position: GigabitEthernet0/14
+    label: GigabitEthernet0/14
   -
-    name: GigabitEthernet0/15
-    position: '15'
+    name: SFP
+    position: GigabitEthernet0/15
+    label: GigabitEthernet0/15
   -
-    name: GigabitEthernet0/16
-    position: '16'
+    name: SFP
+    position: GigabitEthernet0/16
+    label: GigabitEthernet0/16
 interfaces:
   -
     name: Management

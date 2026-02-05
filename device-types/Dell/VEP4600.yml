@@ -25,11 +25,13 @@ module-bays:
     name: Power 2
     position: PSU2
   -
-    name: 10GbE 1
-    position: '1'
+    name: SFP
+    position: 10GbE 1
+    label: 10GbE 1
   -
-    name: 10GbE 2
-    position: '2'
+    name: SFP
+    position: 10GbE 2
+    label: 10GbE 2
 interfaces:
   -
     name: Gig-E 3

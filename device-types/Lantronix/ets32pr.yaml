@@ -9,79 +9,115 @@ front_image: true
 weight: 3.64
 weight_unit: kg
 interfaces:
-  - name: 10/100
+  -
+    name: 10/100
     type: 100base-tx
     mgmt_only: true
-  - name: AUI
+  -
+    name: AUI
     type: other
     mgmt_only: true
 console-server-ports:
-  - name: Serial 1
+  -
+    name: Serial 1
     type: rj-45
-  - name: Serial 2
+  -
+    name: Serial 2
     type: rj-45
-  - name: Serial 3
+  -
+    name: Serial 3
     type: rj-45
-  - name: Serial 4
+  -
+    name: Serial 4
     type: rj-45
-  - name: Serial 5
+  -
+    name: Serial 5
     type: rj-45
-  - name: Serial 6
+  -
+    name: Serial 6
     type: rj-45
-  - name: Serial 7
+  -
+    name: Serial 7
     type: rj-45
-  - name: Serial 8
+  -
+    name: Serial 8
     type: rj-45
-  - name: Serial 9
+  -
+    name: Serial 9
     type: rj-45
-  - name: Serial 10
+  -
+    name: Serial 10
     type: rj-45
-  - name: Serial 11
+  -
+    name: Serial 11
     type: rj-45
-  - name: Serial 12
+  -
+    name: Serial 12
     type: rj-45
-  - name: Serial 13
+  -
+    name: Serial 13
     type: rj-45
-  - name: Serial 14
+  -
+    name: Serial 14
     type: rj-45
-  - name: Serial 15
+  -
+    name: Serial 15
     type: rj-45
-  - name: Serial 16
+  -
+    name: Serial 16
     type: rj-45
-  - name: Serial 17
+  -
+    name: Serial 17
     type: rj-45
-  - name: Serial 18
+  -
+    name: Serial 18
     type: rj-45
-  - name: Serial 19
+  -
+    name: Serial 19
     type: rj-45
-  - name: Serial 20
+  -
+    name: Serial 20
     type: rj-45
-  - name: Serial 21
+  -
+    name: Serial 21
     type: rj-45
-  - name: Serial 22
+  -
+    name: Serial 22
     type: rj-45
-  - name: Serial 23
+  -
+    name: Serial 23
     type: rj-45
-  - name: Serial 24
+  -
+    name: Serial 24
     type: rj-45
-  - name: Serial 25
+  -
+    name: Serial 25
     type: rj-45
-  - name: Serial 26
+  -
+    name: Serial 26
     type: rj-45
-  - name: Serial 27
+  -
+    name: Serial 27
     type: rj-45
-  - name: Serial 28
+  -
+    name: Serial 28
     type: rj-45
-  - name: Serial 29
+  -
+    name: Serial 29
     type: rj-45
-  - name: Serial 30
+  -
+    name: Serial 30
     type: rj-45
-  - name: Serial 31
+  -
+    name: Serial 31
     type: rj-45
-  - name: Serial 32
+  -
+    name: Serial 32
     type: rj-45
 
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c14
     maximum_draw: 40
+module-bays: []

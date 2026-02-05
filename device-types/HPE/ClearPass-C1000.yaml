@@ -11,17 +11,24 @@ rear_image: true
 weight: 8.5
 weight_unit: lb
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-45
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: iec-60320-c14
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: Gig-E 3
+  -
+    name: Gig-E 3
     type: 1000base-t
-  - name: Gig-E 4
+  -
+    name: Gig-E 4
     type: 1000base-t
+module-bays: []

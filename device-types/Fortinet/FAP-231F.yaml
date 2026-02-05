@@ -10,19 +10,26 @@ weight: 1
 weight_unit: lb
 comments: '[FortiAP 231F Quick Start Guide](https://docs.fortinet.com/document/fortiap/hardware/fortiap-231f-qsg)'
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 interfaces:
-  - name: lan1-poe
+  -
+    name: lan1-poe
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: lan2
+  -
+    name: lan2
     type: 1000base-t
-  - name: radio-1
+  -
+    name: radio-1
     type: ieee802.11n
-  - name: radio-2
+  -
+    name: radio-2
     type: ieee802.11ax
-  - name: radio-3
+  -
+    name: radio-3
     type: other-wireless
     description: Frequency scanning only
+module-bays: []

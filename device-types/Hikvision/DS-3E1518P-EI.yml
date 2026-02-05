@@ -100,5 +100,6 @@ interfaces:
 # slots:
 module-bays:
   -
-    name: '18'
+    name: SFP
     position: '18'
+    label: '18'

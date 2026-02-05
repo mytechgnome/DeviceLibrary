@@ -10,12 +10,16 @@ weight_unit: kg
 is_full_depth: false
 airflow: passive
 power-ports:
-  - name: DC 12V
+  -
+    name: DC 12V
     type: dc-terminal
     maximum_draw: 5
     allocated_draw: 3
 interfaces:
-  - name: XGS-PON
+  -
+    name: XGS-PON
     type: xgs-pon
-  - name: 10G LAN
+  -
+    name: 10G LAN
     type: 10gbase-t
+module-bays: []

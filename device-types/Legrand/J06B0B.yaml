@@ -10,22 +10,33 @@ u_height: 1
 is_full_depth: false
 comments: Rack Mount 120V/15A/6 rear O/L /lighted switch/6' cord
 power-ports:
-  - name: Input Power
+  -
+    name: Input Power
     type: nema-5-15p
 power-outlets:
-  - name: Power Outlet 1
+  -
+    name: Power Outlet 1
     type: nema-5-15r
-  - name: Power Outlet 2
+  -
+    name: Power Outlet 2
     type: nema-5-15r
-  - name: Power Outlet 3
+  -
+    name: Power Outlet 3
     type: nema-5-15r
-  - name: Power Outlet 4
+  -
+    name: Power Outlet 4
     type: nema-5-15r
-  - name: Power Outlet 5
+  -
+    name: Power Outlet 5
     type: nema-5-15r
-  - name: Power Outlet 6
+  -
+    name: Power Outlet 6
     type: nema-5-15r
-  - name: Power Outlet 7
+  -
+    name: Power Outlet 7
     type: nema-5-15r
-  - name: Power Outlet 8
+  -
+    name: Power Outlet 8
     type: nema-5-15r
+module-bays: []
+interfaces: []

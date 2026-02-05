@@ -10,27 +10,36 @@ weight: 24.09
 weight_unit: kg
 comments: 'APC Smart-UPS, Line Interactive, 1500VA, Rackmount 1U, 230V, 4x IEC C13 outlets, SmartSlot, AVR, LCD\n Battery SKU: RBC88'
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-45
-  - name: USB
+  -
+    name: USB
     type: usb-b
 power-ports:
-  - name: Source
+  -
+    name: Source
     type: iec-60320-c14
     maximum_draw: 1000
 power-outlets:
-  - name: Group 1 Outlet 1
+  -
+    name: Group 1 Outlet 1
     type: iec-60320-c13
     power_port: Source
-  - name: Group 1 Outlet 2
+  -
+    name: Group 1 Outlet 2
     type: iec-60320-c13
     power_port: Source
-  - name: Group 2 Outlet 1
+  -
+    name: Group 2 Outlet 1
     type: iec-60320-c13
     power_port: Source
-  - name: Group 2 Outlet 2
+  -
+    name: Group 2 Outlet 2
     type: iec-60320-c13
     power_port: Source
 module-bays:
-  - name: SmartSlot
+  -
+    name: SmartSlot
     position: SmartSlot
+interfaces: []

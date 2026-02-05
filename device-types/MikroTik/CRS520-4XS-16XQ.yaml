@@ -53,62 +53,82 @@ module-bays:
     position: '4'
     description: Fan tray
   -
-    name: qsfp28-1-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-1-1
+    label: qsfp28-1-1
   -
-    name: qsfp28-2-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-2-1
+    label: qsfp28-2-1
   -
-    name: qsfp28-3-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-3-1
+    label: qsfp28-3-1
   -
-    name: qsfp28-4-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-4-1
+    label: qsfp28-4-1
   -
-    name: qsfp28-5-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-5-1
+    label: qsfp28-5-1
   -
-    name: qsfp28-6-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-6-1
+    label: qsfp28-6-1
   -
-    name: qsfp28-7-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-7-1
+    label: qsfp28-7-1
   -
-    name: qsfp28-8-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-8-1
+    label: qsfp28-8-1
   -
-    name: qsfp28-9-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-9-1
+    label: qsfp28-9-1
   -
-    name: qsfp28-10-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-10-1
+    label: qsfp28-10-1
   -
-    name: qsfp28-11-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-11-1
+    label: qsfp28-11-1
   -
-    name: qsfp28-12-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-12-1
+    label: qsfp28-12-1
   -
-    name: qsfp28-13-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-13-1
+    label: qsfp28-13-1
   -
-    name: qsfp28-14-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-14-1
+    label: qsfp28-14-1
   -
-    name: qsfp28-15-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-15-1
+    label: qsfp28-15-1
   -
-    name: qsfp28-16-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-16-1
+    label: qsfp28-16-1
   -
-    name: sfp28-1
-    position: '1'
+    name: SFP
+    position: sfp28-1
+    label: sfp28-1
   -
-    name: sfp28-2
-    position: '2'
+    name: SFP
+    position: sfp28-2
+    label: sfp28-2
   -
-    name: sfp28-3
-    position: '3'
+    name: SFP
+    position: sfp28-3
+    label: sfp28-3
   -
-    name: sfp28-4
-    position: '4'
+    name: SFP
+    position: sfp28-4
+    label: sfp28-4

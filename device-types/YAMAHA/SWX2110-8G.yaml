@@ -8,23 +8,33 @@ comments: |
   https://network.yamaha.com/products/switches/swx2110-8g/index
 is_full_depth: false
 interfaces:
-  - name: port1.1
+  -
+    name: port1.1
     type: 1000base-t
-  - name: port1.2
+  -
+    name: port1.2
     type: 1000base-t
-  - name: port1.3
+  -
+    name: port1.3
     type: 1000base-t
-  - name: port1.4
+  -
+    name: port1.4
     type: 1000base-t
-  - name: port1.5
+  -
+    name: port1.5
     type: 1000base-t
-  - name: port1.6
+  -
+    name: port1.6
     type: 1000base-t
-  - name: port1.7
+  -
+    name: port1.7
     type: 1000base-t
-  - name: port1.8
+  -
+    name: port1.8
     type: 1000base-t
 power-ports:
-  - name: PSU1
+  -
+    name: PSU1
     type: dc-terminal
     maximum_draw: 3
+module-bays: []

@@ -11,31 +11,42 @@ airflow: passive
 weight: 810.0
 weight_unit: g
 power-ports:
-  - name: Primary
+  -
+    name: Primary
     type: nbr-14136-20a
     maximum_draw: 3500
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: nbr-14136-10a
     power_port: Primary
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: nbr-14136-10a
     power_port: Primary
+module-bays: []
+interfaces: []

@@ -7,37 +7,54 @@ part_number: IE-4000-4GC4GP4G-E
 u_height: 2
 is_full_depth: false
 console-ports:
-  - name: console
+  -
+    name: console
     type: usb-mini-b
-  - name: console port
+  -
+    name: console port
     type: rj-45
 power-ports:
-  - name: DC-A
+  -
+    name: DC-A
     type: dc-terminal
-  - name: DC-B
+  -
+    name: DC-B
     type: dc-terminal
 interfaces:
-  - name: GigabitEthernet1/1
+  -
+    name: GigabitEthernet1/1
     type: 1000base-t
-  - name: GigabitEthernet1/2
+  -
+    name: GigabitEthernet1/2
     type: 1000base-t
-  - name: GigabitEthernet1/3
+  -
+    name: GigabitEthernet1/3
     type: 1000base-t
-  - name: GigabitEthernet1/4
+  -
+    name: GigabitEthernet1/4
     type: 1000base-t
-  - name: GigabitEthernet1/5
+  -
+    name: GigabitEthernet1/5
     type: 1000base-t
-  - name: GigabitEthernet1/6
+  -
+    name: GigabitEthernet1/6
     type: 1000base-t
-  - name: GigabitEthernet1/7
+  -
+    name: GigabitEthernet1/7
     type: 1000base-t
-  - name: GigabitEthernet1/8
+  -
+    name: GigabitEthernet1/8
     type: 1000base-t
-  - name: GigabitEthernet1/9
+  -
+    name: GigabitEthernet1/9
     type: 1000base-t
-  - name: GigabitEthernet1/10
+  -
+    name: GigabitEthernet1/10
     type: 1000base-t
-  - name: GigabitEthernet1/11
+  -
+    name: GigabitEthernet1/11
     type: 1000base-t
-  - name: GigabitEthernet1/12
+  -
+    name: GigabitEthernet1/12
     type: 1000base-t
+module-bays: []

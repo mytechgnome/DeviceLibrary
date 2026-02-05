@@ -15,29 +15,37 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: SPF-1
-    position: '1'
+    name: SFP
+    position: SPF-1
+    label: SPF-1
   -
-    name: SFP-2
-    position: '2'
+    name: SFP
+    position: SFP-2
+    label: SFP-2
   -
-    name: SPF-3
-    position: '3'
+    name: SFP
+    position: SPF-3
+    label: SPF-3
   -
-    name: SFP-4
-    position: '4'
+    name: SFP
+    position: SFP-4
+    label: SFP-4
   -
-    name: SPF-5
-    position: '5'
+    name: SFP
+    position: SPF-5
+    label: SPF-5
   -
-    name: SFP-6
-    position: '6'
+    name: SFP
+    position: SFP-6
+    label: SFP-6
   -
-    name: SPF-7
-    position: '7'
+    name: SFP
+    position: SPF-7
+    label: SPF-7
   -
-    name: SFP-8
-    position: '8'
+    name: SFP
+    position: SFP-8
+    label: SFP-8
 interfaces:
   -
     name: GbE-1

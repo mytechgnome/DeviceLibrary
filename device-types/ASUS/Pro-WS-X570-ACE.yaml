@@ -16,33 +16,40 @@ weight_unit: kg
 subdevice_role: child
 
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
     # Unlike a "full" BMC, most functionality requires a windows only client app to use
     description: RTL8117 pseudo BMC
 
   # There is a built in NIC from Intel I211-AT
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
 
 module-bays:
-  - name: CPU 0
+  -
+    name: CPU 0
     position: '1'
     description: AMD AM4 Socket
 
   # DIMM modeled as newer module-bay instead of inventory item
   # Bank B.1 is closest to the CPU
-  - name: DIMM B1
+  -
+    name: DIMM B1
     position: '2'
     description: DDR4 DIMM slot
-  - name: DIMM B2
+  -
+    name: DIMM B2
     position: '3'
     description: DDR4 DIMM slot
-  - name: DIMM A1
+  -
+    name: DIMM A1
     position: '4'
     description: DDR4 DIMM slot
-  - name: DIMM A2
+  -
+    name: DIMM A2
     position: '5'
     description: DDR4 DIMM slot
 
@@ -50,30 +57,36 @@ module-bays:
   # Between the x16 slots, there are 24 total lanes to split.
   # The most optimistic configuration is a single x16 card; once there is more than one x16 slot used
   # each slot is capped at x8
-  - name: PCIe 1
+  -
+    name: PCIe 1
     position: '6'
     description: PCIe 4.0 x16 slot
 
-  - name: PCIe 2
+  -
+    name: PCIe 2
     position: '7'
     description: PCIe 4.0 8x (in x16 slot)
 
-  - name: PCIe 3
+  -
+    name: PCIe 3
     position: '8'
     # See note about M2_2 below
     description: PCIe 4.0 x1 slot
 
-  - name: PCIe 4
+  -
+    name: PCIe 4
     position: '9'
     description: PCIe 4.0 8x (in x16 slot)
 
   # There are 2 m.2 slots
   # Like the PCIe ports, the lanes/speeds can be adjusted in BIOS
-  - name: M.2 1
+  -
+    name: M.2 1
     position: '10'
     description: PCIe 4.0 x4 (M-key 22110, 2280, 2260, 2242)
 
-  - name: M.2 2
+  -
+    name: M.2 2
     position: '11'
     # This socket shares lanes with the PCIe x1 slot. If that is in use, this port is x1 speed, not x2
     description: PCIe 4.0 x2 (M-key 2280, 2260, 2242)

@@ -47,26 +47,34 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: Controller-A fc2a
-    position: '2'
+    name: SFP
+    position: Controller-A fc2a
+    label: Controller-A fc2a
   -
-    name: Controller-A fc2b
-    position: '2'
+    name: SFP
+    position: Controller-A fc2b
+    label: Controller-A fc2b
   -
-    name: Controller-A fc2c
-    position: '2'
+    name: SFP
+    position: Controller-A fc2c
+    label: Controller-A fc2c
   -
-    name: Controller-A fc2d
-    position: '2'
+    name: SFP
+    position: Controller-A fc2d
+    label: Controller-A fc2d
   -
-    name: Controller-B fc2a
-    position: '2'
+    name: SFP
+    position: Controller-B fc2a
+    label: Controller-B fc2a
   -
-    name: Controller-B fc2b
-    position: '2'
+    name: SFP
+    position: Controller-B fc2b
+    label: Controller-B fc2b
   -
-    name: Controller-B fc2c
-    position: '2'
+    name: SFP
+    position: Controller-B fc2c
+    label: Controller-B fc2c
   -
-    name: Controller-B fc2d
-    position: '2'
+    name: SFP
+    position: Controller-B fc2d
+    label: Controller-B fc2d

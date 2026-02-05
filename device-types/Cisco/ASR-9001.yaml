@@ -39,17 +39,21 @@ module-bays:
     position: 0/FT0
     description: Fan tray
   -
-    name: TenGigE0/0/2/0
-    position: '0'
+    name: SFP
+    position: TenGigE0/0/2/0
+    label: TenGigE0/0/2/0
   -
-    name: TenGigE0/0/2/1
-    position: '1'
+    name: SFP
+    position: TenGigE0/0/2/1
+    label: TenGigE0/0/2/1
   -
-    name: TenGigE0/0/2/2
-    position: '2'
+    name: SFP
+    position: TenGigE0/0/2/2
+    label: TenGigE0/0/2/2
   -
-    name: TenGigE0/0/2/3
-    position: '3'
+    name: SFP
+    position: TenGigE0/0/2/3
+    label: TenGigE0/0/2/3
 interfaces:
   -
     name: MgmtEth0/RSP0/CPU0/0

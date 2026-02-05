@@ -5,12 +5,17 @@ slug: trendnet-tpe-113gi-a
 u_height: 0
 is_full_depth: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: nema-5-15p
 front-ports:
-  - name: Data In
+  -
+    name: Data In
     type: 8p8c
     rear_port: PWR+Data Out
 rear-ports:
-  - name: PWR+Data Out
+  -
+    name: PWR+Data Out
     type: 8p8c
+module-bays: []
+interfaces: []

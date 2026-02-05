@@ -18,17 +18,21 @@ comments: |
   * 10/100/1000 Ethernet port support IPv6, SNMPv3
   * CAN communication port
 console-ports:
-  - name: serial
+  -
+    name: serial
     label: SERVICE
     type: de-9
-  - name: can-1a
+  -
+    name: can-1a
     label: CAN-1A
     type: rj-45
-  - name: can-1b
+  -
+    name: can-1b
     label: CAN-1B
     type: rj-45
 interfaces:
-  - name: mgmt
+  -
+    name: mgmt
     label: LAN
     type: 1000base-t
     mgmt_only: true

@@ -2,8 +2,7 @@
 manufacturer: Cisco
 model: EPA-1X100GE
 part_number: EPA-1X100GE
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: HundredGigE{module}/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

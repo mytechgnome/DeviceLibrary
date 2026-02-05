@@ -76,8 +76,10 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: GigabitEthernet17
-    position: '17'
+    name: SFP
+    position: GigabitEthernet17
+    label: GigabitEthernet17
   -
-    name: GigabitEthernet18
-    position: '18'
+    name: SFP
+    position: GigabitEthernet18
+    label: GigabitEthernet18

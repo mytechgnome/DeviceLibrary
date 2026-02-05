@@ -172,20 +172,26 @@ power-ports:
     allocated_draw: 355
 module-bays:
   -
-    name: Ethernet49/1
-    position: '1'
+    name: QSFP
+    position: Ethernet49/1
+    label: Ethernet49/1
   -
-    name: Ethernet50/1
-    position: '1'
+    name: QSFP
+    position: Ethernet50/1
+    label: Ethernet50/1
   -
-    name: Ethernet51/1
-    position: '1'
+    name: QSFP
+    position: Ethernet51/1
+    label: Ethernet51/1
   -
-    name: Ethernet52/1
-    position: '1'
+    name: QSFP
+    position: Ethernet52/1
+    label: Ethernet52/1
   -
-    name: Ethernet53/1
-    position: '1'
+    name: QSFP
+    position: Ethernet53/1
+    label: Ethernet53/1
   -
-    name: Ethernet54/1
-    position: '1'
+    name: QSFP
+    position: Ethernet54/1
+    label: Ethernet54/1

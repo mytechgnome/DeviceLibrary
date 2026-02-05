@@ -24,74 +24,98 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: port1
-    position: '1'
+    name: QSFP
+    position: port1
+    label: port1
   -
-    name: port2
-    position: '2'
+    name: QSFP
+    position: port2
+    label: port2
   -
-    name: port3
-    position: '3'
+    name: QSFP
+    position: port3
+    label: port3
   -
-    name: port4
-    position: '4'
+    name: QSFP
+    position: port4
+    label: port4
   -
-    name: port5
-    position: '5'
+    name: QSFP
+    position: port5
+    label: port5
   -
-    name: port6
-    position: '6'
+    name: QSFP
+    position: port6
+    label: port6
   -
-    name: port7
-    position: '7'
+    name: QSFP
+    position: port7
+    label: port7
   -
-    name: port8
-    position: '8'
+    name: QSFP
+    position: port8
+    label: port8
   -
-    name: port9
-    position: '9'
+    name: QSFP
+    position: port9
+    label: port9
   -
-    name: port10
-    position: '10'
+    name: QSFP
+    position: port10
+    label: port10
   -
-    name: port11
-    position: '11'
+    name: QSFP
+    position: port11
+    label: port11
   -
-    name: port12
-    position: '12'
+    name: QSFP
+    position: port12
+    label: port12
   -
-    name: port13
-    position: '13'
+    name: QSFP
+    position: port13
+    label: port13
   -
-    name: port14
-    position: '14'
+    name: QSFP
+    position: port14
+    label: port14
   -
-    name: port15
-    position: '15'
+    name: QSFP
+    position: port15
+    label: port15
   -
-    name: port16
-    position: '16'
+    name: QSFP
+    position: port16
+    label: port16
   -
-    name: port17
-    position: '17'
+    name: QSFP
+    position: port17
+    label: port17
   -
-    name: port18
-    position: '18'
+    name: QSFP
+    position: port18
+    label: port18
   -
-    name: port19
-    position: '19'
+    name: QSFP
+    position: port19
+    label: port19
   -
-    name: port20
-    position: '20'
+    name: QSFP
+    position: port20
+    label: port20
   -
-    name: m1
-    position: '1'
+    name: QSFP
+    position: m1
+    label: m1
   -
-    name: m2
-    position: '2'
+    name: QSFP
+    position: m2
+    label: m2
   -
-    name: m3
-    position: '3'
+    name: SFP
+    position: m3
+    label: m3
   -
-    name: m4
-    position: '4'
+    name: SFP
+    position: m4
+    label: m4

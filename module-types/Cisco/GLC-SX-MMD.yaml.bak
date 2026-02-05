@@ -1,8 +1,0 @@
----
-manufacturer: Cisco
-model: GLC-SX-MMD
-part_number: GLC-SX-MMD
-comments: "Cisco 1000BASE-SX SFP (MMF), with DOM."
-interfaces:
-  - name: GigabitEthernet{module}
-    type: 1000base-x-sfp

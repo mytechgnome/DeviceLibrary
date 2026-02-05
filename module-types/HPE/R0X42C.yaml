@@ -77,16 +77,23 @@ interfaces:
   -
     name: 1/{module}/24
     type: 10gbase-t
-module-bays:
   -
-    name: 1/{module}/25
-    position: '25'
+    name: '{module}'
+    type: 50gbase-x-sfp56
+    enabled: true
+    mgmt_only: false
   -
-    name: 1/{module}/26
-    position: '26'
+    name: '{module}'
+    type: 50gbase-x-sfp56
+    enabled: true
+    mgmt_only: false
   -
-    name: 1/{module}/27
-    position: '27'
+    name: '{module}'
+    type: 50gbase-x-sfp56
+    enabled: true
+    mgmt_only: false
   -
-    name: 1/{module}/28
-    position: '28'
+    name: '{module}'
+    type: 50gbase-x-sfp56
+    enabled: true
+    mgmt_only: false

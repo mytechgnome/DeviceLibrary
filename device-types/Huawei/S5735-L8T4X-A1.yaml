@@ -47,14 +47,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: XGigabitEthernet0/0/1
-    position: '1'
+    name: SFP
+    position: XGigabitEthernet0/0/1
+    label: XGigabitEthernet0/0/1
   -
-    name: XGigabitEthernet0/0/2
-    position: '2'
+    name: SFP
+    position: XGigabitEthernet0/0/2
+    label: XGigabitEthernet0/0/2
   -
-    name: XGigabitEthernet0/0/3
-    position: '3'
+    name: SFP
+    position: XGigabitEthernet0/0/3
+    label: XGigabitEthernet0/0/3
   -
-    name: XGigabitEthernet0/0/4
-    position: '4'
+    name: SFP
+    position: XGigabitEthernet0/0/4
+    label: XGigabitEthernet0/0/4

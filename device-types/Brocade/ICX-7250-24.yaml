@@ -95,26 +95,34 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: 10GigabitEthernet2/1
-    position: '1'
+    name: SFP
+    position: 10GigabitEthernet2/1
+    label: 10GigabitEthernet2/1
   -
-    name: 10GigabitEthernet2/2
-    position: '2'
+    name: SFP
+    position: 10GigabitEthernet2/2
+    label: 10GigabitEthernet2/2
   -
-    name: 10GigabitEthernet2/3
-    position: '3'
+    name: SFP
+    position: 10GigabitEthernet2/3
+    label: 10GigabitEthernet2/3
   -
-    name: 10GigabitEthernet2/4
-    position: '4'
+    name: SFP
+    position: 10GigabitEthernet2/4
+    label: 10GigabitEthernet2/4
   -
-    name: 10GigabitEthernet2/5
-    position: '5'
+    name: SFP
+    position: 10GigabitEthernet2/5
+    label: 10GigabitEthernet2/5
   -
-    name: 10GigabitEthernet2/6
-    position: '6'
+    name: SFP
+    position: 10GigabitEthernet2/6
+    label: 10GigabitEthernet2/6
   -
-    name: 10GigabitEthernet2/7
-    position: '7'
+    name: SFP
+    position: 10GigabitEthernet2/7
+    label: 10GigabitEthernet2/7
   -
-    name: 10GigabitEthernet2/8
-    position: '8'
+    name: SFP
+    position: 10GigabitEthernet2/8
+    label: 10GigabitEthernet2/8

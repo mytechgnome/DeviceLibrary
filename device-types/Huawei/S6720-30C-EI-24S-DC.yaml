@@ -26,80 +26,106 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: XGigabitEthernet0/0/1
-    position: '1'
+    name: SFP
+    position: XGigabitEthernet0/0/1
+    label: XGigabitEthernet0/0/1
   -
-    name: XGigabitEthernet0/0/2
-    position: '2'
+    name: SFP
+    position: XGigabitEthernet0/0/2
+    label: XGigabitEthernet0/0/2
   -
-    name: XGigabitEthernet0/0/3
-    position: '3'
+    name: SFP
+    position: XGigabitEthernet0/0/3
+    label: XGigabitEthernet0/0/3
   -
-    name: XGigabitEthernet0/0/4
-    position: '4'
+    name: SFP
+    position: XGigabitEthernet0/0/4
+    label: XGigabitEthernet0/0/4
   -
-    name: XGigabitEthernet0/0/5
-    position: '5'
+    name: SFP
+    position: XGigabitEthernet0/0/5
+    label: XGigabitEthernet0/0/5
   -
-    name: XGigabitEthernet0/0/6
-    position: '6'
+    name: SFP
+    position: XGigabitEthernet0/0/6
+    label: XGigabitEthernet0/0/6
   -
-    name: XGigabitEthernet0/0/7
-    position: '7'
+    name: SFP
+    position: XGigabitEthernet0/0/7
+    label: XGigabitEthernet0/0/7
   -
-    name: XGigabitEthernet0/0/8
-    position: '8'
+    name: SFP
+    position: XGigabitEthernet0/0/8
+    label: XGigabitEthernet0/0/8
   -
-    name: XGigabitEthernet0/0/9
-    position: '9'
+    name: SFP
+    position: XGigabitEthernet0/0/9
+    label: XGigabitEthernet0/0/9
   -
-    name: XGigabitEthernet0/0/10
-    position: '10'
+    name: SFP
+    position: XGigabitEthernet0/0/10
+    label: XGigabitEthernet0/0/10
   -
-    name: XGigabitEthernet0/0/11
-    position: '11'
+    name: SFP
+    position: XGigabitEthernet0/0/11
+    label: XGigabitEthernet0/0/11
   -
-    name: XGigabitEthernet0/0/12
-    position: '12'
+    name: SFP
+    position: XGigabitEthernet0/0/12
+    label: XGigabitEthernet0/0/12
   -
-    name: XGigabitEthernet0/0/13
-    position: '13'
+    name: SFP
+    position: XGigabitEthernet0/0/13
+    label: XGigabitEthernet0/0/13
   -
-    name: XGigabitEthernet0/0/14
-    position: '14'
+    name: SFP
+    position: XGigabitEthernet0/0/14
+    label: XGigabitEthernet0/0/14
   -
-    name: XGigabitEthernet0/0/15
-    position: '15'
+    name: SFP
+    position: XGigabitEthernet0/0/15
+    label: XGigabitEthernet0/0/15
   -
-    name: XGigabitEthernet0/0/16
-    position: '16'
+    name: SFP
+    position: XGigabitEthernet0/0/16
+    label: XGigabitEthernet0/0/16
   -
-    name: XGigabitEthernet0/0/17
-    position: '17'
+    name: SFP
+    position: XGigabitEthernet0/0/17
+    label: XGigabitEthernet0/0/17
   -
-    name: XGigabitEthernet0/0/18
-    position: '18'
+    name: SFP
+    position: XGigabitEthernet0/0/18
+    label: XGigabitEthernet0/0/18
   -
-    name: XGigabitEthernet0/0/19
-    position: '19'
+    name: SFP
+    position: XGigabitEthernet0/0/19
+    label: XGigabitEthernet0/0/19
   -
-    name: XGigabitEthernet0/0/20
-    position: '20'
+    name: SFP
+    position: XGigabitEthernet0/0/20
+    label: XGigabitEthernet0/0/20
   -
-    name: XGigabitEthernet0/0/21
-    position: '21'
+    name: SFP
+    position: XGigabitEthernet0/0/21
+    label: XGigabitEthernet0/0/21
   -
-    name: XGigabitEthernet0/0/22
-    position: '22'
+    name: SFP
+    position: XGigabitEthernet0/0/22
+    label: XGigabitEthernet0/0/22
   -
-    name: XGigabitEthernet0/0/23
-    position: '23'
+    name: SFP
+    position: XGigabitEthernet0/0/23
+    label: XGigabitEthernet0/0/23
   -
-    name: XGigabitEthernet0/0/24
-    position: '24'
+    name: SFP
+    position: XGigabitEthernet0/0/24
+    label: XGigabitEthernet0/0/24
   -
-    name: 40GE0/0/1
-    position: '1'
+    name: QSFP
+    position: 40GE0/0/1
+    label: 40GE0/0/1
   -
-    name: 40GE0/0/2
-    position: '2'
+    name: QSFP
+    position: 40GE0/0/2
+    label: 40GE0/0/2

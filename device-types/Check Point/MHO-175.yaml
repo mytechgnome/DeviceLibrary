@@ -20,101 +20,133 @@ module-bays:
     name: Power2
     position: '2'
   -
-    name: qsfp1
-    position: '1'
+    name: QSFP
+    position: qsfp1
+    label: qsfp1
   -
-    name: qsfp2
-    position: '2'
+    name: QSFP
+    position: qsfp2
+    label: qsfp2
   -
-    name: qsfp3
-    position: '3'
+    name: QSFP
+    position: qsfp3
+    label: qsfp3
   -
-    name: qsfp4
-    position: '4'
+    name: QSFP
+    position: qsfp4
+    label: qsfp4
   -
-    name: qsfp5
-    position: '5'
+    name: QSFP
+    position: qsfp5
+    label: qsfp5
   -
-    name: qsfp6
-    position: '6'
+    name: QSFP
+    position: qsfp6
+    label: qsfp6
   -
-    name: qsfp7
-    position: '7'
+    name: QSFP
+    position: qsfp7
+    label: qsfp7
   -
-    name: qsfp8
-    position: '8'
+    name: QSFP
+    position: qsfp8
+    label: qsfp8
   -
-    name: qsfp9
-    position: '9'
+    name: QSFP
+    position: qsfp9
+    label: qsfp9
   -
-    name: qsfp10
-    position: '10'
+    name: QSFP
+    position: qsfp10
+    label: qsfp10
   -
-    name: qsfp11
-    position: '11'
+    name: QSFP
+    position: qsfp11
+    label: qsfp11
   -
-    name: qsfp12
-    position: '12'
+    name: QSFP
+    position: qsfp12
+    label: qsfp12
   -
-    name: qsfp13
-    position: '13'
+    name: QSFP
+    position: qsfp13
+    label: qsfp13
   -
-    name: qsfp14
-    position: '14'
+    name: QSFP
+    position: qsfp14
+    label: qsfp14
   -
-    name: qsfp15
-    position: '15'
+    name: QSFP
+    position: qsfp15
+    label: qsfp15
   -
-    name: qsfp16
-    position: '16'
+    name: QSFP
+    position: qsfp16
+    label: qsfp16
   -
-    name: qsfp17
-    position: '17'
+    name: QSFP
+    position: qsfp17
+    label: qsfp17
   -
-    name: qsfp18
-    position: '18'
+    name: QSFP
+    position: qsfp18
+    label: qsfp18
   -
-    name: qsfp19
-    position: '19'
+    name: QSFP
+    position: qsfp19
+    label: qsfp19
   -
-    name: qsfp20
-    position: '20'
+    name: QSFP
+    position: qsfp20
+    label: qsfp20
   -
-    name: qsfp21
-    position: '21'
+    name: QSFP
+    position: qsfp21
+    label: qsfp21
   -
-    name: qsfp22
-    position: '22'
+    name: QSFP
+    position: qsfp22
+    label: qsfp22
   -
-    name: qsfp23
-    position: '23'
+    name: QSFP
+    position: qsfp23
+    label: qsfp23
   -
-    name: qsfp24
-    position: '24'
+    name: QSFP
+    position: qsfp24
+    label: qsfp24
   -
-    name: qsfp25
-    position: '25'
+    name: QSFP
+    position: qsfp25
+    label: qsfp25
   -
-    name: qsfp26
-    position: '26'
+    name: QSFP
+    position: qsfp26
+    label: qsfp26
   -
-    name: qsfp27
-    position: '27'
+    name: QSFP
+    position: qsfp27
+    label: qsfp27
   -
-    name: qsfp28
-    position: '28'
+    name: QSFP
+    position: qsfp28
+    label: qsfp28
   -
-    name: qsfp29
-    position: '29'
+    name: QSFP
+    position: qsfp29
+    label: qsfp29
   -
-    name: qsfp30
-    position: '30'
+    name: QSFP
+    position: qsfp30
+    label: qsfp30
   -
-    name: qsfp31
-    position: '31'
+    name: QSFP
+    position: qsfp31
+    label: qsfp31
   -
-    name: qsfp32
-    position: '32'
+    name: QSFP
+    position: qsfp32
+    label: qsfp32
 interfaces:
   -
     name: '0'

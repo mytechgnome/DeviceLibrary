@@ -12,24 +12,34 @@ airflow: passive
 front_image: true
 rear_image: true
 power-ports:
-  - name: PS
+  -
+    name: PS
     type: dc-terminal
     maximum_draw: 3
     description: 100-240 V AC
 interfaces:
-  - name: '1'
+  -
+    name: '1'
     type: 1000base-t
-  - name: '2'
+  -
+    name: '2'
     type: 1000base-t
-  - name: '3'
+  -
+    name: '3'
     type: 1000base-t
-  - name: '4'
+  -
+    name: '4'
     type: 1000base-t
-  - name: '5'
+  -
+    name: '5'
     type: 1000base-t
-  - name: '6'
+  -
+    name: '6'
     type: 1000base-t
-  - name: '7'
+  -
+    name: '7'
     type: 1000base-t
-  - name: '8'
+  -
+    name: '8'
     type: 1000base-t
+module-bays: []

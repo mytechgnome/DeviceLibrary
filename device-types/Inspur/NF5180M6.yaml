@@ -36,11 +36,13 @@ module-bays:
     position: PCIe2
     label: Right PCIe Riser-Card
   -
-    name: LAN0
-    position: '0'
+    name: SFP
+    position: LAN0
+    label: LAN0
   -
-    name: LAN1
-    position: '1'
+    name: SFP
+    position: LAN1
+    label: LAN1
 interfaces:
   -
     name: BMC

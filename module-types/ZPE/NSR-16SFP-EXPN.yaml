@@ -4,69 +4,68 @@ model: NSR-16SFP-EXPN
 part_number: NSR-16SFP-EXPN
 description: NSR 16-Port 1GbE SFP Expansion Card
 comments: '[ZPE Nodegrid Net SR Data Sheet](https://go.zpesystems.com/rs/004-BTR-463/images/Datasheet-Nodegrid-Net-SR.pdf)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: netS{module}-1
+    name: '{module}'
     label: '1'
-    position: '1'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-2
+    name: '{module}'
     label: '2'
-    position: '2'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-3
+    name: '{module}'
     label: '3'
-    position: '3'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-4
+    name: '{module}'
     label: '4'
-    position: '4'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-5
+    name: '{module}'
     label: '5'
-    position: '5'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-6
+    name: '{module}'
     label: '6'
-    position: '6'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-7
+    name: '{module}'
     label: '7'
-    position: '7'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-8
+    name: '{module}'
     label: '8'
-    position: '8'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-9
+    name: '{module}'
     label: '9'
-    position: '9'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-10
+    name: '{module}'
     label: '10'
-    position: '10'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-11
+    name: '{module}'
     label: '11'
-    position: '11'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-12
+    name: '{module}'
     label: '12'
-    position: '12'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-13
+    name: '{module}'
     label: '13'
-    position: '13'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-14
+    name: '{module}'
     label: '14'
-    position: '14'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-15
+    name: '{module}'
     label: '15'
-    position: '15'
+    type: 1000base-x-sfp
   -
-    name: netS{module}-16
+    name: '{module}'
     label: '16'
-    position: '16'
+    type: 1000base-x-sfp

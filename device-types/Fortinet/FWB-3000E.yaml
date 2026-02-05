@@ -85,26 +85,34 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: port1
-    position: '1'
+    name: SFP
+    position: port1
+    label: port1
   -
-    name: port2
-    position: '2'
+    name: SFP
+    position: port2
+    label: port2
   -
-    name: port3
-    position: '3'
+    name: SFP
+    position: port3
+    label: port3
   -
-    name: port4
-    position: '4'
+    name: SFP
+    position: port4
+    label: port4
   -
-    name: port5
-    position: '5'
+    name: SFP
+    position: port5
+    label: port5
   -
-    name: port6
-    position: '6'
+    name: SFP
+    position: port6
+    label: port6
   -
-    name: port7
-    position: '7'
+    name: SFP
+    position: port7
+    label: port7
   -
-    name: port8
-    position: '8'
+    name: SFP
+    position: port8
+    label: port8

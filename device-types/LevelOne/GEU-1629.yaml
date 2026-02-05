@@ -66,14 +66,18 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: TenGigabitEthernet1
-    position: '1'
+    name: SFP
+    position: TenGigabitEthernet1
+    label: TenGigabitEthernet1
   -
-    name: TenGigabitEthernet2
-    position: '2'
+    name: SFP
+    position: TenGigabitEthernet2
+    label: TenGigabitEthernet2
   -
-    name: TenGigabitEthernet3
-    position: '3'
+    name: SFP
+    position: TenGigabitEthernet3
+    label: TenGigabitEthernet3
   -
-    name: TenGigabitEthernet4
-    position: '4'
+    name: SFP
+    position: TenGigabitEthernet4
+    label: TenGigabitEthernet4

@@ -23,104 +23,138 @@ module-bays:
     name: PSU 2
     position: '2'
   -
-    name: eth1
-    position: '1'
+    name: SFP
+    position: eth1
+    label: eth1
   -
-    name: eth2
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: Ethernet0
-    position: '0'
+    name: QSFP
+    position: Ethernet0
+    label: Ethernet0
   -
-    name: Ethernet4
-    position: '4'
+    name: QSFP
+    position: Ethernet4
+    label: Ethernet4
   -
-    name: Ethernet8
-    position: '8'
+    name: QSFP
+    position: Ethernet8
+    label: Ethernet8
   -
-    name: Ethernet12
-    position: '12'
+    name: QSFP
+    position: Ethernet12
+    label: Ethernet12
   -
-    name: Ethernet16
-    position: '16'
+    name: QSFP
+    position: Ethernet16
+    label: Ethernet16
   -
-    name: Ethernet20
-    position: '20'
+    name: QSFP
+    position: Ethernet20
+    label: Ethernet20
   -
-    name: Ethernet24
-    position: '24'
+    name: QSFP
+    position: Ethernet24
+    label: Ethernet24
   -
-    name: Ethernet28
-    position: '28'
+    name: QSFP
+    position: Ethernet28
+    label: Ethernet28
   -
-    name: Ethernet32
-    position: '32'
+    name: QSFP
+    position: Ethernet32
+    label: Ethernet32
   -
-    name: Ethernet36
-    position: '36'
+    name: QSFP
+    position: Ethernet36
+    label: Ethernet36
   -
-    name: Ethernet40
-    position: '40'
+    name: QSFP
+    position: Ethernet40
+    label: Ethernet40
   -
-    name: Ethernet44
-    position: '44'
+    name: QSFP
+    position: Ethernet44
+    label: Ethernet44
   -
-    name: Ethernet48
-    position: '48'
+    name: QSFP
+    position: Ethernet48
+    label: Ethernet48
   -
-    name: Ethernet52
-    position: '52'
+    name: QSFP
+    position: Ethernet52
+    label: Ethernet52
   -
-    name: Ethernet56
-    position: '56'
+    name: QSFP
+    position: Ethernet56
+    label: Ethernet56
   -
-    name: Ethernet60
-    position: '60'
+    name: QSFP
+    position: Ethernet60
+    label: Ethernet60
   -
-    name: Ethernet64
-    position: '64'
+    name: QSFP
+    position: Ethernet64
+    label: Ethernet64
   -
-    name: Ethernet68
-    position: '68'
+    name: QSFP
+    position: Ethernet68
+    label: Ethernet68
   -
-    name: Ethernet72
-    position: '72'
+    name: QSFP
+    position: Ethernet72
+    label: Ethernet72
   -
-    name: Ethernet76
-    position: '76'
+    name: QSFP
+    position: Ethernet76
+    label: Ethernet76
   -
-    name: Ethernet80
-    position: '80'
+    name: QSFP
+    position: Ethernet80
+    label: Ethernet80
   -
-    name: Ethernet84
-    position: '84'
+    name: QSFP
+    position: Ethernet84
+    label: Ethernet84
   -
-    name: Ethernet88
-    position: '88'
+    name: QSFP
+    position: Ethernet88
+    label: Ethernet88
   -
-    name: Ethernet92
-    position: '92'
+    name: QSFP
+    position: Ethernet92
+    label: Ethernet92
   -
-    name: Ethernet96
-    position: '96'
+    name: QSFP
+    position: Ethernet96
+    label: Ethernet96
   -
-    name: Ethernet100
-    position: '100'
+    name: QSFP
+    position: Ethernet100
+    label: Ethernet100
   -
-    name: Ethernet104
-    position: '104'
+    name: QSFP
+    position: Ethernet104
+    label: Ethernet104
   -
-    name: Ethernet108
-    position: '108'
+    name: QSFP
+    position: Ethernet108
+    label: Ethernet108
   -
-    name: Ethernet112
-    position: '112'
+    name: QSFP
+    position: Ethernet112
+    label: Ethernet112
   -
-    name: Ethernet116
-    position: '116'
+    name: QSFP
+    position: Ethernet116
+    label: Ethernet116
   -
-    name: Ethernet120
-    position: '120'
+    name: QSFP
+    position: Ethernet120
+    label: Ethernet120
   -
-    name: Ethernet124
-    position: '124'
+    name: QSFP
+    position: Ethernet124
+    label: Ethernet124

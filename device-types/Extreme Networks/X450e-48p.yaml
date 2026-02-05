@@ -244,14 +244,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: '45'
+    name: SFP
     position: '45'
+    label: '45'
   -
-    name: '46'
+    name: SFP
     position: '46'
+    label: '46'
   -
-    name: '47'
+    name: SFP
     position: '47'
+    label: '47'
   -
-    name: '48'
+    name: SFP
     position: '48'
+    label: '48'

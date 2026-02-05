@@ -112,14 +112,18 @@ module-bays:
     name: VIM
     position: VIM
   -
-    name: '29'
+    name: SFP
     position: '29'
+    label: '29'
   -
-    name: '30'
+    name: SFP
     position: '30'
+    label: '30'
   -
-    name: '31'
+    name: SFP
     position: '31'
+    label: '31'
   -
-    name: '32'
+    name: SFP
     position: '32'
+    label: '32'

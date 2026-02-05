@@ -82,8 +82,12 @@ power-ports:
     maximum_draw: 85
 module-bays:
   -
-    name: GigabitEthernet9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet9
+    label: GigabitEthernet9
+    description: SFP/RJ45 Combo
   -
-    name: GigabitEthernet10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet10
+    label: GigabitEthernet10
+    description: SFP/RJ45 Combo

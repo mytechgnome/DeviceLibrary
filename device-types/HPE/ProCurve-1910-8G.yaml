@@ -45,5 +45,6 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GigabitEthernet 1/0/9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet 1/0/9
+    label: GigabitEthernet 1/0/9

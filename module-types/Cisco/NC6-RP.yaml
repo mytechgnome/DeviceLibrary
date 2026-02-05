@@ -7,9 +7,11 @@ comments: |
   - [Cisco Network Convergence System 6000 Series Routers Hardware Installation Guide](https://www.cisco.com/c/en/us/td/docs/iosxr/ncs6000/hardware-install/hig/b-ncs6000-hardware-installation-guide/b-ncs6000-hardware-installation-guide_chapter_0101.html#con_1488122)
   - [End-of-Sale and End-of-Life Announcement for the Cisco NCS6000 Chassis, Commons and 60x10G Linecard](https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-6000-series-routers/ncs-6000-chassis-common-60x10g-linecard-eol.html)
 console-ports:
-  - name: Console{module}
+  -
+    name: Console{module}
     type: rj-45
 interfaces:
-  - name: MgmtEth0/RP{module}/CPU0/0
+  -
+    name: MgmtEth0/RP{module}/CPU0/0
     type: 1000base-t
     mgmt_only: true

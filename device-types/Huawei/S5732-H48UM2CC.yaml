@@ -277,20 +277,26 @@ module-bays:
     name: RearCardSlot
     position: '1'
   -
-    name: 25GE0/0/1
-    position: '1'
+    name: SFP
+    position: 25GE0/0/1
+    label: 25GE0/0/1
   -
-    name: 25GE0/0/2
-    position: '2'
+    name: SFP
+    position: 25GE0/0/2
+    label: 25GE0/0/2
   -
-    name: 25GE0/0/3
-    position: '3'
+    name: SFP
+    position: 25GE0/0/3
+    label: 25GE0/0/3
   -
-    name: 25GE0/0/4
-    position: '4'
+    name: SFP
+    position: 25GE0/0/4
+    label: 25GE0/0/4
   -
-    name: 40GE0/0/1
-    position: '1'
+    name: QSFP
+    position: 40GE0/0/1
+    label: 40GE0/0/1
   -
-    name: 40GE0/0/2
-    position: '2'
+    name: QSFP
+    position: 40GE0/0/2
+    label: 40GE0/0/2

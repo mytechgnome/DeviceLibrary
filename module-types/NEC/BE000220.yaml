@@ -4,6 +4,7 @@ model: BE000220
 part_number: BE000220
 comments: NEC UNIVERGE IX3110 C13 40W AC Power Supply
 power-ports:
-  - name: PSU {module}
+  -
+    name: PSU {module}
     type: iec-60320-c14
     maximum_draw: 40

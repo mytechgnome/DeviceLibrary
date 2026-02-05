@@ -20,173 +20,229 @@ module-bays:
     name: Power2
     position: '2'
   -
-    name: sfp1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1
   -
-    name: sfp2
-    position: '2'
+    name: SFP
+    position: sfp2
+    label: sfp2
   -
-    name: sfp3
-    position: '3'
+    name: SFP
+    position: sfp3
+    label: sfp3
   -
-    name: sfp4
-    position: '4'
+    name: SFP
+    position: sfp4
+    label: sfp4
   -
-    name: sfp5
-    position: '5'
+    name: SFP
+    position: sfp5
+    label: sfp5
   -
-    name: sfp6
-    position: '6'
+    name: SFP
+    position: sfp6
+    label: sfp6
   -
-    name: sfp7
-    position: '7'
+    name: SFP
+    position: sfp7
+    label: sfp7
   -
-    name: sfp8
-    position: '8'
+    name: SFP
+    position: sfp8
+    label: sfp8
   -
-    name: sfp9
-    position: '9'
+    name: SFP
+    position: sfp9
+    label: sfp9
   -
-    name: sfp10
-    position: '10'
+    name: SFP
+    position: sfp10
+    label: sfp10
   -
-    name: sfp11
-    position: '11'
+    name: SFP
+    position: sfp11
+    label: sfp11
   -
-    name: sfp12
-    position: '12'
+    name: SFP
+    position: sfp12
+    label: sfp12
   -
-    name: sfp13
-    position: '13'
+    name: SFP
+    position: sfp13
+    label: sfp13
   -
-    name: sfp14
-    position: '14'
+    name: SFP
+    position: sfp14
+    label: sfp14
   -
-    name: sfp15
-    position: '15'
+    name: SFP
+    position: sfp15
+    label: sfp15
   -
-    name: sfp16
-    position: '16'
+    name: SFP
+    position: sfp16
+    label: sfp16
   -
-    name: sfp17
-    position: '17'
+    name: SFP
+    position: sfp17
+    label: sfp17
   -
-    name: sfp18
-    position: '18'
+    name: SFP
+    position: sfp18
+    label: sfp18
   -
-    name: sfp19
-    position: '19'
+    name: SFP
+    position: sfp19
+    label: sfp19
   -
-    name: sfp20
-    position: '20'
+    name: SFP
+    position: sfp20
+    label: sfp20
   -
-    name: sfp21
-    position: '21'
+    name: SFP
+    position: sfp21
+    label: sfp21
   -
-    name: sfp22
-    position: '22'
+    name: SFP
+    position: sfp22
+    label: sfp22
   -
-    name: sfp23
-    position: '23'
+    name: SFP
+    position: sfp23
+    label: sfp23
   -
-    name: sfp24
-    position: '24'
+    name: SFP
+    position: sfp24
+    label: sfp24
   -
-    name: sfp25
-    position: '25'
+    name: SFP
+    position: sfp25
+    label: sfp25
   -
-    name: sfp26
-    position: '26'
+    name: SFP
+    position: sfp26
+    label: sfp26
   -
-    name: sfp27
-    position: '27'
+    name: SFP
+    position: sfp27
+    label: sfp27
   -
-    name: sfp28
-    position: '28'
+    name: SFP
+    position: sfp28
+    label: sfp28
   -
-    name: sfp29
-    position: '29'
+    name: SFP
+    position: sfp29
+    label: sfp29
   -
-    name: sfp30
-    position: '30'
+    name: SFP
+    position: sfp30
+    label: sfp30
   -
-    name: sfp31
-    position: '31'
+    name: SFP
+    position: sfp31
+    label: sfp31
   -
-    name: sfp32
-    position: '32'
+    name: SFP
+    position: sfp32
+    label: sfp32
   -
-    name: sfp33
-    position: '33'
+    name: SFP
+    position: sfp33
+    label: sfp33
   -
-    name: sfp34
-    position: '34'
+    name: SFP
+    position: sfp34
+    label: sfp34
   -
-    name: sfp35
-    position: '35'
+    name: SFP
+    position: sfp35
+    label: sfp35
   -
-    name: sfp36
-    position: '36'
+    name: SFP
+    position: sfp36
+    label: sfp36
   -
-    name: sfp37
-    position: '37'
+    name: SFP
+    position: sfp37
+    label: sfp37
   -
-    name: sfp38
-    position: '38'
+    name: SFP
+    position: sfp38
+    label: sfp38
   -
-    name: sfp39
-    position: '39'
+    name: SFP
+    position: sfp39
+    label: sfp39
   -
-    name: sfp40
-    position: '40'
+    name: SFP
+    position: sfp40
+    label: sfp40
   -
-    name: sfp41
-    position: '41'
+    name: SFP
+    position: sfp41
+    label: sfp41
   -
-    name: sfp42
-    position: '42'
+    name: SFP
+    position: sfp42
+    label: sfp42
   -
-    name: sfp43
-    position: '43'
+    name: SFP
+    position: sfp43
+    label: sfp43
   -
-    name: sfp44
-    position: '44'
+    name: SFP
+    position: sfp44
+    label: sfp44
   -
-    name: sfp45
-    position: '45'
+    name: SFP
+    position: sfp45
+    label: sfp45
   -
-    name: sfp46
-    position: '46'
+    name: SFP
+    position: sfp46
+    label: sfp46
   -
-    name: sfp47
-    position: '47'
+    name: SFP
+    position: sfp47
+    label: sfp47
   -
-    name: sfp48
-    position: '48'
+    name: SFP
+    position: sfp48
+    label: sfp48
   -
-    name: qsfp49
-    position: '49'
+    name: QSFP
+    position: qsfp49
+    label: qsfp49
   -
-    name: qsfp50
-    position: '50'
+    name: QSFP
+    position: qsfp50
+    label: qsfp50
   -
-    name: qsfp51
-    position: '51'
+    name: QSFP
+    position: qsfp51
+    label: qsfp51
   -
-    name: qsfp52
-    position: '52'
+    name: QSFP
+    position: qsfp52
+    label: qsfp52
   -
-    name: qsfp53
-    position: '53'
+    name: QSFP
+    position: qsfp53
+    label: qsfp53
   -
-    name: qsfp54
-    position: '54'
+    name: QSFP
+    position: qsfp54
+    label: qsfp54
   -
-    name: qsfp55
-    position: '55'
+    name: QSFP
+    position: qsfp55
+    label: qsfp55
   -
-    name: qsfp56
-    position: '56'
+    name: QSFP
+    position: qsfp56
+    label: qsfp56
 interfaces:
   -
     name: '0'

@@ -95,8 +95,10 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: TengigabitEthernet1/0/1
-    position: '1'
+    name: SFP
+    position: TengigabitEthernet1/0/1
+    label: TengigabitEthernet1/0/1
   -
-    name: TengigabitEthernet1/0/2
-    position: '2'
+    name: SFP
+    position: TengigabitEthernet1/0/2
+    label: TengigabitEthernet1/0/2

@@ -10,51 +10,67 @@ is_full_depth: true
 comments: '[Check Point 5600 Data Sheet](https://www.checkpoint.com/downloads/products/5600-security-gateway-datasheet.pdf)'
 airflow: side-to-rear
 console-ports:
-  - name: ttyS0
+  -
+    name: ttyS0
     label: CONSOLE
     type: rj-45
-  - name: ttyS1
+  -
+    name: ttyS1
     label: CONSOLE
     type: usb-micro-b
 interfaces:
-  - name: eth1
+  -
+    name: eth1
     label: '1'
     type: 1000base-t
-  - name: eth2
+  -
+    name: eth2
     label: '2'
     type: 1000base-t
-  - name: eth3
+  -
+    name: eth3
     label: '3'
     type: 1000base-t
-  - name: eth4
+  -
+    name: eth4
     label: '4'
     type: 1000base-t
-  - name: eth5
+  -
+    name: eth5
     label: '5'
     type: 1000base-t
-  - name: eth6
+  -
+    name: eth6
     label: '6'
     type: 1000base-t
-  - name: eth7
+  -
+    name: eth7
     label: '7'
     type: 1000base-t
-  - name: eth8
+  -
+    name: eth8
     label: '8'
     type: 1000base-t
-  - name: Sync
+  -
+    name: Sync
     label: SYNC
     type: 1000base-t
-  - name: Mgmt
+  -
+    name: Mgmt
     label: MGMT
     type: 1000base-t
-  - name: lom
+  -
+    name: lom
     label: LOM
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2
-  - name: Line card 1
+  -
+    name: Line card 1
     position: '1'

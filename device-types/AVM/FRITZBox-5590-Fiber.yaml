@@ -46,5 +46,6 @@ interfaces:
     type: ieee802.11ax
 module-bays:
   -
-    name: Fiber
+    name: SFP
+    position: Fiber
     label: Fiber

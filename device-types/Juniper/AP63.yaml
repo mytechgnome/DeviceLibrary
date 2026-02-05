@@ -19,18 +19,24 @@ comments: |-
   - Weather-resistant for outdoor deployments
   - IP68 rated
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 2.5gbase-t
     poe_mode: pd
     poe_type: type4-ieee802.3bt
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11ax
     description: 2.4GHz radio (4x4 MIMO)
-  - name: wlan1
+  -
+    name: wlan1
     type: ieee802.11ax
     description: 5GHz radio (4x4 MIMO)
-  - name: wlan2
+  -
+    name: wlan2
     type: other-wireless
     description: Dedicated scanning radio (WIDS/WIPS/RRM)
+module-bays: []

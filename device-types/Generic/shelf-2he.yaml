@@ -8,5 +8,9 @@ airflow: passive
 is_powered: false
 subdevice_role: parent
 device-bays:
-  - name: A
-  - name: B
+  -
+    name: A
+  -
+    name: B
+module-bays: []
+interfaces: []

@@ -17,11 +17,13 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: TenGigabitEthernet0/1
-    position: '1'
+    name: SFP
+    position: TenGigabitEthernet0/1
+    label: TenGigabitEthernet0/1
   -
-    name: TenGigabitEthernet0/2
-    position: '2'
+    name: SFP
+    position: TenGigabitEthernet0/2
+    label: TenGigabitEthernet0/2
 interfaces:
   -
     name: GigabitEthernet0

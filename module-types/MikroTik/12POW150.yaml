@@ -16,6 +16,7 @@ comments: |
 
   [Product Page](https://mikrotik.com/product/12pow150)
 power-ports:
-  - name: power{module}
+  -
+    name: power{module}
     type: iec-60320-c14
     maximum_draw: 150

@@ -13,39 +13,52 @@ weight_unit: lb
 front_image: true
 is_powered: false
 module-bays:
-  - name: '1'
+  -
+    name: '1'
     position: '1'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '2'
+  -
+    name: '2'
     position: '2'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '3'
+  -
+    name: '3'
     position: '3'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '4'
+  -
+    name: '4'
     position: '4'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '5'
+  -
+    name: '5'
     position: '5'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '6'
+  -
+    name: '6'
     position: '6'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '7'
+  -
+    name: '7'
     position: '7'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '8'
+  -
+    name: '8'
     position: '8'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '9'
+  -
+    name: '9'
     position: '9'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '10'
+  -
+    name: '10'
     position: '10'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '11'
+  -
+    name: '11'
     position: '11'
     description: accepts LGX/1000 style splice cassettes, modules or panels
-  - name: '12'
+  -
+    name: '12'
     position: '12'
     description: accepts LGX/1000 style splice cassettes, modules or panels
+interfaces: []

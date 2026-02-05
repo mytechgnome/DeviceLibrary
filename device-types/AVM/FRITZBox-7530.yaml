@@ -8,27 +8,36 @@ is_full_depth: false
 airflow: passive
 comments: '[AVM FRITZ!Box 7530 Datasheet](https://avm.de/produkte/fritzbox/fritzbox-7530/technische-daten/)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 30
 interfaces:
-  - name: DSL
+  -
+    name: DSL
     label: DSL
     type: xdsl
-  - name: FON1
+  -
+    name: FON1
     label: FON 1
     type: other
-  - name: LAN1
+  -
+    name: LAN1
     label: LAN 1 / WAN
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     label: LAN 2
     type: 1000base-t
-  - name: LAN3
+  -
+    name: LAN3
     label: LAN 3
     type: 1000base-t
-  - name: LAN4
+  -
+    name: LAN4
     label: LAN 4
     type: 1000base-t
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

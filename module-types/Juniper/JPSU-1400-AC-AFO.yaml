@@ -7,6 +7,7 @@ comments: |
   Compatible with:
   * EX4300-48MP model
 power-ports:
-  - name: Power Supply {module}
+  -
+    name: Power Supply {module}
     type: iec-60320-c16
     maximum_draw: 1400

@@ -5,6 +5,7 @@ part_number: '02270205'
 description: 1200W DC Power Module
 comments: '[Datasheet](https://support.huawei.com/enterprise/en/doc/EDOC1100214356/935d4085/pdc1k2s12-ce-1200w-dc-power-module-66-mm-width-case-back-to-front-power-panel-side-exhaust)'
 power-ports:
-  - name: PWR{module}
+  -
+    name: PWR{module}
     type: dc-terminal
     maximum_draw: 1200

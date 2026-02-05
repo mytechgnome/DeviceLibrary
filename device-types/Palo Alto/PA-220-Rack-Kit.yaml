@@ -9,4 +9,7 @@ is_full_depth: false
 is_powered: false
 airflow: passive
 device-bays:
-  - name: Firewall
+  -
+    name: Firewall
+module-bays: []
+interfaces: []

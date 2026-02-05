@@ -11,31 +11,30 @@ console-ports:
     type: usb-a
 interfaces:
   -
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+  -
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+  -
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+  -
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
     name: IOM {module} Mgmt0
     type: 1000base-t
     mgmt_only: true
-module-bays:
-  -
-    name: Fabric {module}/5/1
-    position: '1'
-  -
-    name: Fabric {module}/5/2
-    position: '2'
-  -
-    name: Fabric {module}/5/3
-    position: '3'
-  -
-    name: Fabric {module}/5/4
-    position: '4'
-  -
-    name: Fabric {module}/1
-    position: '1'
-  -
-    name: Fabric {module}/2
-    position: '2'
-  -
-    name: Fabric {module}/3
-    position: '3'
-  -
-    name: Fabric {module}/4
-    position: '4'

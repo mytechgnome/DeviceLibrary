@@ -28,62 +28,82 @@ module-bays:
     label: PSU 2
     position: '2'
   -
-    name: '1'
+    name: SFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: SFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: SFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: SFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: SFP
     position: '5'
+    label: '5'
   -
-    name: '6'
+    name: SFP
     position: '6'
+    label: '6'
   -
-    name: '7'
+    name: SFP
     position: '7'
+    label: '7'
   -
-    name: '8'
+    name: SFP
     position: '8'
+    label: '8'
   -
-    name: '9'
+    name: SFP
     position: '9'
+    label: '9'
   -
-    name: '10'
+    name: SFP
     position: '10'
+    label: '10'
   -
-    name: '11'
+    name: SFP
     position: '11'
+    label: '11'
   -
-    name: '12'
+    name: SFP
     position: '12'
+    label: '12'
   -
-    name: '13'
+    name: SFP
     position: '13'
+    label: '13'
   -
-    name: '14'
+    name: SFP
     position: '14'
+    label: '14'
   -
-    name: '15'
+    name: SFP
     position: '15'
+    label: '15'
   -
-    name: '16'
+    name: SFP
     position: '16'
+    label: '16'
   -
-    name: SPF+ 17
-    position: '17'
+    name: SFP
+    position: SPF+ 17
+    label: SPF+ 17
   -
-    name: SPF+ 18
-    position: '18'
+    name: SFP
+    position: SPF+ 18
+    label: SPF+ 18
   -
-    name: Hardware Stack Port 1
-    position: '1'
+    name: QSFP
+    position: Hardware Stack Port 1
+    label: Hardware Stack Port 1
   -
-    name: Hardware Stack Port 2
-    position: '2'
+    name: QSFP
+    position: Hardware Stack Port 2
+    label: Hardware Stack Port 2

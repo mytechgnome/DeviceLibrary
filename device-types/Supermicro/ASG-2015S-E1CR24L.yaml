@@ -10,41 +10,53 @@ weight: 23.6
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI LAN port
 module-bays:
-  - name: Slot 1
+  -
+    name: Slot 1
     position: '1'
     description: PCIe 5.0 x16 slot
-  - name: Slot 2
+  -
+    name: Slot 2
     position: '2'
     description: PCIe 5.0 x8 slot
-  - name: Slot 3
+  -
+    name: Slot 3
     position: '3'
     description: PCIe 5.0 x16 slot
-  - name: Slot 4
+  -
+    name: Slot 4
     position: '4'
     description: PCIe 5.0 x8 slot
-  - name: Slot 5
+  -
+    name: Slot 5
     position: '5'
     description: PCIe 5.0 x16 slot
-  - name: Slot 6
+  -
+    name: Slot 6
     position: '6'
     description: PCIe 5.0 x16 slot
-  - name: Slot A1
+  -
+    name: Slot A1
     position: A1
     description: PCIe 5.0 x16 AIOM
-  - name: Slot A2
+  -
+    name: Slot A2
     position: A2
     description: PCIe 5.0 x16 AIOM
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
     description: Upper power supply unit
-  - name: PSU2
+  -
+    name: PSU2
     position: '2'
     description: Lower power supply unit

@@ -9,23 +9,31 @@ comments: '[Synology RS1221+/RS1221RP+ Datasheet](https://global.synologydownloa
 weight: 8.4
 weight_unit: kg
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 1000base-t
-  - name: LAN 2
+  -
+    name: LAN 2
     type: 1000base-t
-  - name: LAN 3
+  -
+    name: LAN 3
     type: 1000base-t
-  - name: LAN 4
+  -
+    name: LAN 4
     type: 1000base-t
 module-bays:
-  - name: PCIe expansion slot
+  -
+    name: PCIe expansion slot
     position: PCIe-1
-  - name: PSU 1
+  -
+    name: PSU 1
     position: PSU-1
     label: PWR1
-  - name: PSU 2
+  -
+    name: PSU 2
     position: PSU-2
     label: PWR2

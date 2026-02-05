@@ -51,14 +51,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: port9
-    position: '9'
+    name: SFP
+    position: port9
+    label: port9
   -
-    name: port10
-    position: '10'
+    name: SFP
+    position: port10
+    label: port10
   -
-    name: port11
-    position: '11'
+    name: SFP
+    position: port11
+    label: port11
   -
-    name: port12
-    position: '12'
+    name: SFP
+    position: port12
+    label: port12

@@ -148,10 +148,9 @@ interfaces:
   -
     name: TwoGigabitEthernet1/0/47
     type: 2.5gbase-t
-module-bays:
   -
-    name: TenGigabitEthernet1/0/48
-    position: '48'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet1/0/49
-    position: '49'
+    name: '{module}'
+    type: 10gbase-x-sfpp

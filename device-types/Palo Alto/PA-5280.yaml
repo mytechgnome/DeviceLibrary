@@ -47,70 +47,94 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: ethernet1/5
-    position: '5'
+    name: SFP
+    position: ethernet1/5
+    label: ethernet1/5
   -
-    name: ethernet1/6
-    position: '6'
+    name: SFP
+    position: ethernet1/6
+    label: ethernet1/6
   -
-    name: ethernet1/7
-    position: '7'
+    name: SFP
+    position: ethernet1/7
+    label: ethernet1/7
   -
-    name: ethernet1/8
-    position: '8'
+    name: SFP
+    position: ethernet1/8
+    label: ethernet1/8
   -
-    name: ethernet1/9
-    position: '9'
+    name: SFP
+    position: ethernet1/9
+    label: ethernet1/9
   -
-    name: ethernet1/10
-    position: '10'
+    name: SFP
+    position: ethernet1/10
+    label: ethernet1/10
   -
-    name: ethernet1/11
-    position: '11'
+    name: SFP
+    position: ethernet1/11
+    label: ethernet1/11
   -
-    name: ethernet1/12
-    position: '12'
+    name: SFP
+    position: ethernet1/12
+    label: ethernet1/12
   -
-    name: ethernet1/13
-    position: '13'
+    name: SFP
+    position: ethernet1/13
+    label: ethernet1/13
   -
-    name: ethernet1/14
-    position: '14'
+    name: SFP
+    position: ethernet1/14
+    label: ethernet1/14
   -
-    name: ethernet1/15
-    position: '15'
+    name: SFP
+    position: ethernet1/15
+    label: ethernet1/15
   -
-    name: ethernet1/16
-    position: '16'
+    name: SFP
+    position: ethernet1/16
+    label: ethernet1/16
   -
-    name: ethernet1/17
-    position: '17'
+    name: SFP
+    position: ethernet1/17
+    label: ethernet1/17
   -
-    name: ethernet1/18
-    position: '18'
+    name: SFP
+    position: ethernet1/18
+    label: ethernet1/18
   -
-    name: ethernet1/19
-    position: '19'
+    name: SFP
+    position: ethernet1/19
+    label: ethernet1/19
   -
-    name: ethernet1/20
-    position: '20'
+    name: SFP
+    position: ethernet1/20
+    label: ethernet1/20
   -
-    name: ethernet1/21
-    position: '21'
+    name: QSFP
+    position: ethernet1/21
+    label: ethernet1/21
   -
-    name: ethernet1/22
-    position: '22'
+    name: QSFP
+    position: ethernet1/22
+    label: ethernet1/22
   -
-    name: ethernet1/23
-    position: '23'
+    name: QSFP
+    position: ethernet1/23
+    label: ethernet1/23
   -
-    name: ethernet1/24
-    position: '24'
+    name: QSFP
+    position: ethernet1/24
+    label: ethernet1/24
   -
-    name: aux-1
-    position: '1'
+    name: SFP
+    position: aux-1
+    label: aux-1
   -
-    name: aux-2
-    position: '2'
+    name: SFP
+    position: aux-2
+    label: aux-2
   -
-    name: hsci
+    name: QSFP
+    position: hsci
+    label: hsci

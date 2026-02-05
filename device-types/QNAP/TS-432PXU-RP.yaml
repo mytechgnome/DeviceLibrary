@@ -21,13 +21,13 @@ module-bays:
     name: PCIe1
     position: PCIe1
   -
-    name: eth2
-    label: '3'
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    label: '4'
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
 comments: '[TS-432PXU-RP | Hardware Specs | QNAP](https://www.qnap.com/en/product/ts-432pxu-rp/specs/hardware)'
 interfaces:
   -

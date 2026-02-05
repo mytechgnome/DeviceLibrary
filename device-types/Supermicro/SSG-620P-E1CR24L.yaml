@@ -10,26 +10,34 @@ weight: 25.39
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU 1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU 2
-  - name: PCI-E 1
+  -
+    name: PCI-E 1
     position: '1'
     description: 1 PCIe 4.0 x8 LP slot (Occupied by 3808 SAS controller)
-  - name: PCI-E 2
+  -
+    name: PCI-E 2
     position: '2'
     description: PCIe 4.0 x16 LP slot
-  - name: PCI-E 3
+  -
+    name: PCI-E 3
     position: '3'
     description: PCIe 4.0 x16 LP slot
-  - name: PCI-E A1
+  -
+    name: PCI-E A1
     position: '4'
     description: PCIe 4.0 x16 AIOM slot (OCP 3.0 compatible)

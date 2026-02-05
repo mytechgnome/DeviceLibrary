@@ -29,38 +29,50 @@ power-ports:
     allocated_draw: 42
 module-bays:
   -
-    name: GigabitEthernet1/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet1/1
+    label: GigabitEthernet1/1
   -
-    name: GigabitEthernet1/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet1/2
+    label: GigabitEthernet1/2
   -
-    name: GigabitEthernet1/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet1/3
+    label: GigabitEthernet1/3
   -
-    name: GigabitEthernet1/4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet1/4
+    label: GigabitEthernet1/4
   -
-    name: GigabitEthernet1/5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet1/5
+    label: GigabitEthernet1/5
   -
-    name: GigabitEthernet1/6
-    position: '6'
+    name: SFP
+    position: GigabitEthernet1/6
+    label: GigabitEthernet1/6
   -
-    name: GigabitEthernet1/7
-    position: '7'
+    name: SFP
+    position: GigabitEthernet1/7
+    label: GigabitEthernet1/7
   -
-    name: GigabitEthernet1/8
-    position: '8'
+    name: SFP
+    position: GigabitEthernet1/8
+    label: GigabitEthernet1/8
   -
-    name: GigabitEthernet1/9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet1/9
+    label: GigabitEthernet1/9
   -
-    name: GigabitEthernet1/10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet1/10
+    label: GigabitEthernet1/10
   -
-    name: GigabitEthernet1/11
-    position: '11'
+    name: SFP
+    position: GigabitEthernet1/11
+    label: GigabitEthernet1/11
   -
-    name: GigabitEthernet1/12
-    position: '12'
+    name: SFP
+    position: GigabitEthernet1/12
+    label: GigabitEthernet1/12

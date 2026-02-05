@@ -8,28 +8,39 @@ weight_unit: kg
 is_full_depth: true
 subdevice_role: parent
 console-ports:
-  - name: Optional Rear Serial
+  -
+    name: Optional Rear Serial
     type: de-9
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: iDRAC9
+  -
+    name: iDRAC9
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: Optional OCP NIC
+  -
+    name: Optional OCP NIC
     position: ocp
-  - name: Optional BOSS-2 Removed
+  -
+    name: Optional BOSS-2 Removed
     position: boss
-  - name: PCIe-Gen4 1
+  -
+    name: PCIe-Gen4 1
     position: pcie1
-  - name: Optional PCIe-Gen4 2
+  -
+    name: Optional PCIe-Gen4 2
     position: pcie2
-  - name: Optional PCIe-Gen4 3
+  -
+    name: Optional PCIe-Gen4 3
     position: pcie3
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
-  - name: PSU2
+  -
+    name: PSU2
     position: '2'

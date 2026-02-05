@@ -31,10 +31,10 @@ module-bays:
     position: '1'
     description: 4-port 1GbE Supermicro AOC-SGP-i4, 4-port 10GbE Intel X710BM2, 2-port 10GbE Chelsio T520-CR, 2-port 10GbE Intel X710BM2
   -
-    name: ix0
-    label: OPT1
-    position: '0'
+    name: SFP
+    position: ix0
+    label: ix0
   -
-    name: ix1
-    label: OPT2
-    position: '1'
+    name: SFP
+    position: ix1
+    label: ix1

@@ -52,56 +52,74 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: Internet 1
-    position: '1'
+    name: SFP
+    position: Internet 1
+    label: Internet 1
   -
-    name: Internet 2
-    position: '2'
+    name: SFP
+    position: Internet 2
+    label: Internet 2
   -
-    name: Port 11
-    position: '11'
+    name: SFP
+    position: Port 11
+    label: Port 11
   -
-    name: Port 12
-    position: '12'
+    name: SFP
+    position: Port 12
+    label: Port 12
   -
-    name: Port 13
-    position: '13'
+    name: SFP
+    position: Port 13
+    label: Port 13
   -
-    name: Port 14
-    position: '14'
+    name: SFP
+    position: Port 14
+    label: Port 14
   -
-    name: Port 15
-    position: '15'
+    name: SFP
+    position: Port 15
+    label: Port 15
   -
-    name: Port 16
-    position: '16'
+    name: SFP
+    position: Port 16
+    label: Port 16
   -
-    name: Port 17
-    position: '17'
+    name: SFP
+    position: Port 17
+    label: Port 17
   -
-    name: Port 18
-    position: '18'
+    name: SFP
+    position: Port 18
+    label: Port 18
   -
-    name: Port 19
-    position: '19'
+    name: SFP
+    position: Port 19
+    label: Port 19
   -
-    name: Port 20
-    position: '20'
+    name: SFP
+    position: Port 20
+    label: Port 20
   -
-    name: Port 21
-    position: '21'
+    name: SFP
+    position: Port 21
+    label: Port 21
   -
-    name: Port 22
-    position: '22'
+    name: SFP
+    position: Port 22
+    label: Port 22
   -
-    name: Port 23
-    position: '23'
+    name: SFP
+    position: Port 23
+    label: Port 23
   -
-    name: Port 24
-    position: '24'
+    name: SFP
+    position: Port 24
+    label: Port 24
   -
-    name: Port 25
-    position: '25'
+    name: SFP
+    position: Port 25
+    label: Port 25
   -
-    name: Port 26
-    position: '26'
+    name: SFP
+    position: Port 26
+    label: Port 26

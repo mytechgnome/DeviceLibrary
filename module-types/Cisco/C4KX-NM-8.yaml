@@ -3,29 +3,28 @@ manufacturer: Cisco
 model: C4KX-NM-8
 part_number: C4KX-NM-8
 comments: '[Cisco Catalyst 4500-X Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/data_sheet_c78-696791.html)'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: TenGigabitEthernet{module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: TenGigabitEthernet{module}/8
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp

@@ -14,28 +14,41 @@ comments: |
 
   Dimensions: 438 x 89 x 267 mm (17.25" x 3.5" x 10.5") Weight: 13.6 kg
 console-ports:
-  - name: RS232
+  -
+    name: RS232
     type: de-9
-  - name: USB
+  -
+    name: USB
     type: usb-b
 power-ports:
-  - name: Primary
+  -
+    name: Primary
     type: nema-5-15p
     maximum_draw: 1000
 power-outlets:
-  - name: '1'
+  -
+    name: '1'
     type: nema-5-15r
-  - name: '2'
+  -
+    name: '2'
     type: nema-5-15r
-  - name: '3'
+  -
+    name: '3'
     type: nema-5-15r
-  - name: '4'
+  -
+    name: '4'
     type: nema-5-15r
-  - name: '5'
+  -
+    name: '5'
     type: nema-5-15r
-  - name: '6'
+  -
+    name: '6'
     type: nema-5-15r
-  - name: '7'
+  -
+    name: '7'
     type: nema-5-15r
-  - name: '8'
+  -
+    name: '8'
     type: nema-5-15r
+module-bays: []
+interfaces: []

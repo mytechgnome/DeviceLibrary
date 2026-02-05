@@ -2,95 +2,154 @@
 manufacturer: Juniper
 model: SRX5k IOC3 24XGE+6XLG
 part_number: SRX5k IOC3 24XGE+6XLG
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: xe-{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/8
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/9
-    position: '9'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/10
-    position: '10'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/0/11
-    position: '11'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/8
-    position: '8'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/9
-    position: '9'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/10
-    position: '10'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: xe-{module}/1/11
-    position: '11'
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    enabled: false
+    mgmt_only: false
   -
-    name: et-{module}/2/0
-    position: '0'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false
   -
-    name: et-{module}/2/1
-    position: '1'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false
   -
-    name: et-{module}/2/2
-    position: '2'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false
   -
-    name: et-{module}/3/0
-    position: '0'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false
   -
-    name: et-{module}/3/1
-    position: '1'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false
   -
-    name: et-{module}/3/2
-    position: '2'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
+    enabled: true
+    mgmt_only: false

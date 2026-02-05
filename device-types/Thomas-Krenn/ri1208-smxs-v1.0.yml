@@ -14,36 +14,48 @@ comments: |
 
   [Supermicro X12SPL-F](https://www.supermicro.com/en/products/motherboard/X12SPL-F)
 interfaces:
-  - name: LAN1
+  -
+    name: LAN1
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     type: 1000base-t
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
-  - name: PSU2
+  -
+    name: PSU2
     position: '2'
-  - name: SLOT1
+  -
+    name: SLOT1
     position: PCIe1
     description: CPU SLOT1 PCIe 3.0 X8
-  - name: PCIe SLOT2
+  -
+    name: PCIe SLOT2
     position: PCIe2
     description: CPU SLOT2 PCIe 3.0 X8
-  - name: PCIe SLOT3
+  -
+    name: PCIe SLOT3
     position: PCIe3
     description: CPU SLOT3 PCIe 3.0 X8
-  - name: PCIe SLOT4
+  -
+    name: PCIe SLOT4
     position: PCIe4
     description: CPU SLOT4 PCIe 4.0 X8 (IN X 16)
-  - name: PCIe SLOT5
+  -
+    name: PCIe SLOT5
     position: PCIe5
     description: CPU SLOT5 PCIe 4.0 X8
-  - name: PCIe SLOT6
+  -
+    name: PCIe SLOT6
     position: PCIe6
     description: CPU SLOT6 PCIe 4.0 X16
-  - name: PCIe SLOT7
+  -
+    name: PCIe SLOT7
     position: PCIe7
     description: CPU SLOT7 PCIe 4.0 X8

@@ -9,15 +9,21 @@ front_image: true
 rear_image: false
 comments: '[Aruba 310 Series Datasheet](https://www.arubanetworks.com/assets/ds/DS_AP310Series.pdf)'
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
-  - name: usb-ble
+  -
+    name: usb-ble
     type: usb-a
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

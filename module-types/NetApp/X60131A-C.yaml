@@ -3,9 +3,10 @@ manufacturer: NetApp
 model: X60131A-C
 part_number: X60131A-C
 description: IO Module,2PT,10/25GbE
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: e{module}a
+    name: '{module}'
+    type: 25gbase-x-sfp28
   -
-    name: e{module}b
+    name: '{module}'
+    type: 25gbase-x-sfp28

@@ -90,8 +90,9 @@ module-bays:
     name: PS-B
     position: B
   -
-    name: GigabitEthernet1/0/24
-    position: '24'
+    name: SFP
+    position: GigabitEthernet1/0/24
+    label: GigabitEthernet1/0/24
 console-ports:
   -
     name: con0

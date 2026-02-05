@@ -4,11 +4,15 @@ model: AOC-SGP-i4
 part_number: AOC-SGP-i4
 comments: https://www.supermicro.com/manuals/other/AOC-SGP-i4.pdf
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
-  - name: Gig-E 3
+  -
+    name: Gig-E 3
     type: 1000base-t
-  - name: Gig-E 4
+  -
+    name: Gig-E 4
     type: 1000base-t

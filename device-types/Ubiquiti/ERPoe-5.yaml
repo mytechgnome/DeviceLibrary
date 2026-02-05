@@ -9,20 +9,28 @@ weight_unit: g
 airflow: passive
 is_full_depth: false
 power-ports:
-  - name: 48V Power Supply
+  -
+    name: 48V Power Supply
     type: ita-g
     maximum_draw: 60
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: eth2
+  -
+    name: eth2
     type: 1000base-t
-  - name: eth3
+  -
+    name: eth3
     type: 1000base-t
-  - name: eth4
+  -
+    name: eth4
     type: 1000base-t
 console-ports:
-  - name: ttyS1
+  -
+    name: ttyS1
     type: rj-45
+module-bays: []

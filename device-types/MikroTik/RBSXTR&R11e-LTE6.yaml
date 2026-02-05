@@ -16,13 +16,17 @@ comments: |
     LTE FDD bands	1 (2100MHz) / 2 (1900MHz) / 3 (1800MHz) / 7 (2600MHz) / 8 (900 MHz) / 20 (800MHz) / 5 (850MHz) / 12 (700MHz) / 17 (700MHz) / 25 (1900MHz) / 26 (850MHz)
     LTE TDD bands	38 (2600MHz) / 40 (2300MHz) / 39 (1900MHz) / 41n (2500MHz)
 interfaces:
-  - name: ether1
+  -
+    name: ether1
     type: 100base-tx
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: ether2
+  -
+    name: ether2
     type: 100base-tx
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: lte1
+  -
+    name: lte1
     type: lte
+module-bays: []

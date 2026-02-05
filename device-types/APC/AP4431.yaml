@@ -8,19 +8,26 @@ is_full_depth: false
 airflow: passive
 comments: Rack ATS, 208V, 30A, (2) L6-30P in, (1) L6-30R Out
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-12
-  - name: usb
+  -
+    name: usb
     type: usb-a
 power-ports:
-  - name: Source A
+  -
+    name: Source A
     type: nema-l6-30p
-  - name: Source B
+  -
+    name: Source B
     type: nema-l6-30p
 power-outlets:
-  - name: Outlet
+  -
+    name: Outlet
     type: nema-l6-30r
 interfaces:
-  - name: Management
+  -
+    name: Management
     type: 100base-tx
     mgmt_only: true
+module-bays: []

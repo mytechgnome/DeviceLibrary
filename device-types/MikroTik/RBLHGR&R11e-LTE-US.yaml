@@ -13,9 +13,12 @@ comments: |
     LTE Category	4 (150Mbps Downlink, 50Mbps Uplink)
     LTE FDD bands	2 (1900MHz) / 4 (1700MHz) / 5 (850MHz) / 12 (700MHz)
 interfaces:
-  - name: ether1
+  -
+    name: ether1
     type: 100base-tx
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: lte1
+  -
+    name: lte1
     type: lte
+module-bays: []

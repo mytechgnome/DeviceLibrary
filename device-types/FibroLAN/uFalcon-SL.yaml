@@ -33,8 +33,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GigabitEthernet 1/5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet 1/5
+    label: GigabitEthernet 1/5
   -
-    name: GigabitEthernet 1/6
-    position: '6'
+    name: SFP
+    position: GigabitEthernet 1/6
+    label: GigabitEthernet 1/6

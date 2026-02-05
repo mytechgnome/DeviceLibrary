@@ -52,8 +52,10 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: Front Haul 1
-    position: '1'
+    name: SFP
+    position: Front Haul 1
+    label: Front Haul 1
   -
-    name: Front Haul 2
-    position: '2'
+    name: SFP
+    position: Front Haul 2
+    label: Front Haul 2

@@ -30,10 +30,10 @@ power-ports:
     allocated_draw: 15
 module-bays:
   -
-    name: ax0
-    label: X0
-    position: '0'
+    name: SFP
+    position: ax0
+    label: ax0
   -
-    name: ax1
-    label: X1
-    position: '1'
+    name: SFP
+    position: ax1
+    label: ax1

@@ -31,29 +31,38 @@ module-bays:
     name: Network Module 3
     position: '3'
   -
-    name: Ethernet1/1
-    position: '1'
+    name: SFP
+    position: Ethernet1/1
+    label: Ethernet1/1
   -
-    name: Ethernet1/2
-    position: '2'
+    name: SFP
+    position: Ethernet1/2
+    label: Ethernet1/2
   -
-    name: Ethernet1/3
-    position: '3'
+    name: SFP
+    position: Ethernet1/3
+    label: Ethernet1/3
   -
-    name: Ethernet1/4
-    position: '4'
+    name: SFP
+    position: Ethernet1/4
+    label: Ethernet1/4
   -
-    name: Ethernet1/5
-    position: '5'
+    name: SFP
+    position: Ethernet1/5
+    label: Ethernet1/5
   -
-    name: Ethernet1/6
-    position: '6'
+    name: SFP
+    position: Ethernet1/6
+    label: Ethernet1/6
   -
-    name: Ethernet1/7
-    position: '7'
+    name: SFP
+    position: Ethernet1/7
+    label: Ethernet1/7
   -
-    name: Ethernet1/8
-    position: '8'
+    name: SFP
+    position: Ethernet1/8
+    label: Ethernet1/8
   -
-    name: eth0
-    position: '0'
+    name: SFP
+    position: eth0
+    label: eth0

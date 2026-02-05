@@ -8,5 +8,9 @@ is_full_depth: false
 subdevice_role: parent
 is_powered: false
 device-bays:
-  - name: '01'
-  - name: '02'
+  -
+    name: '01'
+  -
+    name: '02'
+module-bays: []
+interfaces: []

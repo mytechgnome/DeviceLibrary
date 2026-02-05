@@ -170,14 +170,18 @@ power-ports:
     allocated_draw: 301
 module-bays:
   -
-    name: Ethernet49
-    position: '49'
+    name: SFP
+    position: Ethernet49
+    label: Ethernet49
   -
-    name: Ethernet50
-    position: '50'
+    name: SFP
+    position: Ethernet50
+    label: Ethernet50
   -
-    name: Ethernet51
-    position: '51'
+    name: SFP
+    position: Ethernet51
+    label: Ethernet51
   -
-    name: Ethernet52
-    position: '52'
+    name: SFP
+    position: Ethernet52
+    label: Ethernet52

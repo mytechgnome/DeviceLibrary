@@ -2,59 +2,58 @@
 manufacturer: Cisco
 model: EPA-18X1GE
 part_number: EPA-18X1GE
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: GigabitEthernet{module}/0
-    position: '0'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/1
-    position: '1'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/2
-    position: '2'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/3
-    position: '3'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/4
-    position: '4'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/5
-    position: '5'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/6
-    position: '6'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/7
-    position: '7'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/8
-    position: '8'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/9
-    position: '9'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/10
-    position: '10'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/11
-    position: '11'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/12
-    position: '12'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/13
-    position: '13'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/14
-    position: '14'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/15
-    position: '15'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/16
-    position: '16'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GigabitEthernet{module}/17
-    position: '17'
+    name: '{module}'
+    type: 1000base-x-sfp

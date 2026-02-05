@@ -74,8 +74,10 @@ module-bays:
     name: Slot 16
     position: '16'
   -
-    name: DCN1
-    position: '1'
+    name: SFP
+    position: DCN1
+    label: DCN1
   -
-    name: DCN2
-    position: '2'
+    name: SFP
+    position: DCN2
+    label: DCN2

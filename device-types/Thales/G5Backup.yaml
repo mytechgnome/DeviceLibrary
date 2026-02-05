@@ -8,10 +8,15 @@ is_full_depth: true
 airflow: front-to-rear
 comments: SafeNet Luna G5 Backup Token - Also referred to as LTK-03 and Luna G5 - Also branded as SafeNet AT/SafeNet Assured Technologies
 console-ports:
-  - name: PED
+  -
+    name: PED
     type: de-9
-  - name: Console
+  -
+    name: Console
     type: usb-mini-b
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
+module-bays: []
+interfaces: []

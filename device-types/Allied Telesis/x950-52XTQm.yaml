@@ -17,17 +17,21 @@ module-bays:
     name: PSU B
     position: B
   -
-    name: port1.0.49
-    position: '49'
+    name: QSFP
+    position: port1.0.49
+    label: port1.0.49
   -
-    name: port1.0.53
-    position: '53'
+    name: QSFP
+    position: port1.0.53
+    label: port1.0.53
   -
-    name: port1.0.57
-    position: '57'
+    name: QSFP
+    position: port1.0.57
+    label: port1.0.57
   -
-    name: port1.0.61
-    position: '61'
+    name: QSFP
+    position: port1.0.61
+    label: port1.0.61
 interfaces:
   -
     name: port1.0.1

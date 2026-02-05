@@ -5,13 +5,17 @@ part_number: R0X31A
 weight: 1.2
 weight_unit: kg
 console-ports:
-  - name: Auxiliary Port
+  -
+    name: Auxiliary Port
     type: usb-a
-  - name: Console-RJ45
+  -
+    name: Console-RJ45
     type: rj-45
-  - name: Console-USB
+  -
+    name: Console-USB
     type: usb-c
 interfaces:
-  - name: Management
+  -
+    name: Management
     type: 1000base-t
     mgmt_only: true

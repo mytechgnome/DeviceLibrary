@@ -17,29 +17,38 @@ is_full_depth: false
 front_image: true
 rear_image: true
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
     mgmt_only: true
 power-ports:
-  - name: ps1
+  -
+    name: ps1
     type: iec-60320-c14
     maximum_draw: 995
 power-outlets:
-  - name: Port 1
+  -
+    name: Port 1
     type: ubiquiti-smartpower
     power_port: ps1
-  - name: Port 2
+  -
+    name: Port 2
     type: ubiquiti-smartpower
     power_port: ps1
-  - name: Port 3
+  -
+    name: Port 3
     type: ubiquiti-smartpower
     power_port: ps1
-  - name: Port 4
+  -
+    name: Port 4
     type: ubiquiti-smartpower
     power_port: ps1
-  - name: Port 5
+  -
+    name: Port 5
     type: ubiquiti-smartpower
     power_port: ps1
-  - name: Port 6
+  -
+    name: Port 6
     type: ubiquiti-smartpower
     power_port: ps1
+module-bays: []

@@ -8,23 +8,31 @@ weight_unit: kg
 is_full_depth: false
 airflow: front-to-rear
 interfaces:
-  - name: FastEthernet0/0
+  -
+    name: FastEthernet0/0
     type: 100base-tx
-  - name: FastEthernet0/1
+  -
+    name: FastEthernet0/1
     type: 100base-tx
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
-  - name: aux
+  -
+    name: aux
     type: rj-45
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: iec-60320-c14
     maximum_draw: 50
 module-bays:
-  - name: NM1
+  -
+    name: NM1
     position: '1'
-  - name: WIC1
+  -
+    name: WIC1
     position: '2'
-  - name: WIC2
+  -
+    name: WIC2
     position: '3'

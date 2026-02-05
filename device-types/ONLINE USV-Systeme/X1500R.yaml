@@ -9,35 +9,48 @@ weight: 15.5
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
-  - name: USB
+  -
+    name: USB
     type: usb-b
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60320-c14
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Power Port 1
+module-bays: []
+interfaces: []

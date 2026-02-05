@@ -4,6 +4,7 @@ model: YT39Y
 part_number: YT39Y
 comments: Compatible with R720, R820, T320, T420
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: iec-60320-c14
     maximum_draw: 1100

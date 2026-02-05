@@ -9,5 +9,9 @@ is_powered: false
 comments: Rack Mount shelf for Single/Dual for 1500/ 3600/ 3800 desktop appliances
 subdevice_role: parent
 device-bays:
-  - name: Left
-  - name: Right
+  -
+    name: Left
+  -
+    name: Right
+module-bays: []
+interfaces: []

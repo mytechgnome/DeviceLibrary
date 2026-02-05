@@ -6,6 +6,7 @@ part_number: QFX520048Y-APSU-AI
 weight: 2.1
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c14
     maximum_draw: 650

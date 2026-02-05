@@ -12,26 +12,36 @@ front_image: true
 rear_image: false
 comments: '[HPE OfficeConnect 1820 Switch Series](https://www.hpe.com/psnow/doc/c04518995?jumpid=in_lit-psnow-red)'
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: iec-60320-c14
     allocated_draw: 10
     maximum_draw: 12
 interfaces:
-  - name: '1'
+  -
+    name: '1'
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: '2'
+  -
+    name: '2'
     type: 1000base-t
-  - name: '3'
+  -
+    name: '3'
     type: 1000base-t
-  - name: '4'
+  -
+    name: '4'
     type: 1000base-t
-  - name: '5'
+  -
+    name: '5'
     type: 1000base-t
-  - name: '6'
+  -
+    name: '6'
     type: 1000base-t
-  - name: '7'
+  -
+    name: '7'
     type: 1000base-t
-  - name: '8'
+  -
+    name: '8'
     type: 1000base-t
+module-bays: []

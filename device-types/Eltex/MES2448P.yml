@@ -21,17 +21,21 @@ module-bays:
     name: PSU2
     position: '2'
   -
-    name: te0/1
-    position: '1'
+    name: SFP
+    position: te0/1
+    label: te0/1
   -
-    name: te0/2
-    position: '2'
+    name: SFP
+    position: te0/2
+    label: te0/2
   -
-    name: te0/3
-    position: '3'
+    name: SFP
+    position: te0/3
+    label: te0/3
   -
-    name: te0/4
-    position: '4'
+    name: SFP
+    position: te0/4
+    label: te0/4
 interfaces:
   -
     name: gi0/1

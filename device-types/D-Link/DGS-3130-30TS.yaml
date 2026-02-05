@@ -106,14 +106,18 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: Ethernet1/0/27
-    position: '27'
+    name: SFP
+    position: Ethernet1/0/27
+    label: Ethernet1/0/27
   -
-    name: Ethernet1/0/28
-    position: '28'
+    name: SFP
+    position: Ethernet1/0/28
+    label: Ethernet1/0/28
   -
-    name: Ethernet1/0/29
-    position: '29'
+    name: SFP
+    position: Ethernet1/0/29
+    label: Ethernet1/0/29
   -
-    name: Ethernet1/0/30
-    position: '30'
+    name: SFP
+    position: Ethernet1/0/30
+    label: Ethernet1/0/30

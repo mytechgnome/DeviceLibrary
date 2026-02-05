@@ -9,12 +9,17 @@ weight: 14
 weight_unit: g
 is_full_depth: false
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
 power-ports:
-  - name: 5V
+  -
+    name: 5V
     type: dc-terminal
-  - name: 3V3
+  -
+    name: 3V3
     type: dc-terminal
+module-bays: []

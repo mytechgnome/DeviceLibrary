@@ -6,6 +6,7 @@ part_number: JPSU-550-C-DC-AFO
 weight: 1.65
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 550

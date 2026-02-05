@@ -161,14 +161,18 @@ console-ports:
     type: de-9
 module-bays:
   -
-    name: Port 49
-    position: '49'
+    name: SFP
+    position: Port 49
+    label: Port 49
   -
-    name: Port 50
-    position: '50'
+    name: SFP
+    position: Port 50
+    label: Port 50
   -
-    name: Port 51
-    position: '51'
+    name: SFP
+    position: Port 51
+    label: Port 51
   -
-    name: Port 52
-    position: '52'
+    name: SFP
+    position: Port 52
+    label: Port 52

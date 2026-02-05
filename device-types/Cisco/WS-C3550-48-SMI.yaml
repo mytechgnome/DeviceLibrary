@@ -10,109 +10,162 @@ weight_unit: kg
 airflow: side-to-rear
 is_full_depth: true
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
 power-ports:
-  - name: Power Supply 0
+  -
+    name: Power Supply 0
     type: iec-60320-c14
 interfaces:
-  - name: FastEthernet0/1
+  -
+    name: FastEthernet0/1
     type: 100base-tx
-  - name: FastEthernet0/2
+  -
+    name: FastEthernet0/2
     type: 100base-tx
-  - name: FastEthernet0/3
+  -
+    name: FastEthernet0/3
     type: 100base-tx
-  - name: FastEthernet0/4
+  -
+    name: FastEthernet0/4
     type: 100base-tx
-  - name: FastEthernet0/5
+  -
+    name: FastEthernet0/5
     type: 100base-tx
-  - name: FastEthernet0/6
+  -
+    name: FastEthernet0/6
     type: 100base-tx
-  - name: FastEthernet0/7
+  -
+    name: FastEthernet0/7
     type: 100base-tx
-  - name: FastEthernet0/8
+  -
+    name: FastEthernet0/8
     type: 100base-tx
-  - name: FastEthernet0/9
+  -
+    name: FastEthernet0/9
     type: 100base-tx
-  - name: FastEthernet0/10
+  -
+    name: FastEthernet0/10
     type: 100base-tx
-  - name: FastEthernet0/11
+  -
+    name: FastEthernet0/11
     type: 100base-tx
-  - name: FastEthernet0/12
+  -
+    name: FastEthernet0/12
     type: 100base-tx
-  - name: FastEthernet0/13
+  -
+    name: FastEthernet0/13
     type: 100base-tx
-  - name: FastEthernet0/14
+  -
+    name: FastEthernet0/14
     type: 100base-tx
-  - name: FastEthernet0/15
+  -
+    name: FastEthernet0/15
     type: 100base-tx
-  - name: FastEthernet0/16
+  -
+    name: FastEthernet0/16
     type: 100base-tx
-  - name: FastEthernet0/17
+  -
+    name: FastEthernet0/17
     type: 100base-tx
-  - name: FastEthernet0/18
+  -
+    name: FastEthernet0/18
     type: 100base-tx
-  - name: FastEthernet0/19
+  -
+    name: FastEthernet0/19
     type: 100base-tx
-  - name: FastEthernet0/20
+  -
+    name: FastEthernet0/20
     type: 100base-tx
-  - name: FastEthernet0/21
+  -
+    name: FastEthernet0/21
     type: 100base-tx
-  - name: FastEthernet0/22
+  -
+    name: FastEthernet0/22
     type: 100base-tx
-  - name: FastEthernet0/23
+  -
+    name: FastEthernet0/23
     type: 100base-tx
-  - name: FastEthernet0/24
+  -
+    name: FastEthernet0/24
     type: 100base-tx
-  - name: FastEthernet0/25
+  -
+    name: FastEthernet0/25
     type: 100base-tx
-  - name: FastEthernet0/26
+  -
+    name: FastEthernet0/26
     type: 100base-tx
-  - name: FastEthernet0/27
+  -
+    name: FastEthernet0/27
     type: 100base-tx
-  - name: FastEthernet0/28
+  -
+    name: FastEthernet0/28
     type: 100base-tx
-  - name: FastEthernet0/29
+  -
+    name: FastEthernet0/29
     type: 100base-tx
-  - name: FastEthernet0/30
+  -
+    name: FastEthernet0/30
     type: 100base-tx
-  - name: FastEthernet0/31
+  -
+    name: FastEthernet0/31
     type: 100base-tx
-  - name: FastEthernet0/32
+  -
+    name: FastEthernet0/32
     type: 100base-tx
-  - name: FastEthernet0/33
+  -
+    name: FastEthernet0/33
     type: 100base-tx
-  - name: FastEthernet0/34
+  -
+    name: FastEthernet0/34
     type: 100base-tx
-  - name: FastEthernet0/35
+  -
+    name: FastEthernet0/35
     type: 100base-tx
-  - name: FastEthernet0/36
+  -
+    name: FastEthernet0/36
     type: 100base-tx
-  - name: FastEthernet0/37
+  -
+    name: FastEthernet0/37
     type: 100base-tx
-  - name: FastEthernet0/38
+  -
+    name: FastEthernet0/38
     type: 100base-tx
-  - name: FastEthernet0/39
+  -
+    name: FastEthernet0/39
     type: 100base-tx
-  - name: FastEthernet0/40
+  -
+    name: FastEthernet0/40
     type: 100base-tx
-  - name: FastEthernet0/41
+  -
+    name: FastEthernet0/41
     type: 100base-tx
-  - name: FastEthernet0/42
+  -
+    name: FastEthernet0/42
     type: 100base-tx
-  - name: FastEthernet0/43
+  -
+    name: FastEthernet0/43
     type: 100base-tx
-  - name: FastEthernet0/44
+  -
+    name: FastEthernet0/44
     type: 100base-tx
-  - name: FastEthernet0/45
+  -
+    name: FastEthernet0/45
     type: 100base-tx
-  - name: FastEthernet0/46
+  -
+    name: FastEthernet0/46
     type: 100base-tx
-  - name: FastEthernet0/47
+  -
+    name: FastEthernet0/47
     type: 100base-tx
-  - name: FastEthernet0/48
+  -
+    name: FastEthernet0/48
     type: 100base-tx
-  - name: GigabitEthernet0/1
+  -
+    name: GigabitEthernet0/1
     type: 1000base-x-gbic
-  - name: GigabitEthernet0/2
+  -
+    name: GigabitEthernet0/2
     type: 1000base-x-gbic
+module-bays: []

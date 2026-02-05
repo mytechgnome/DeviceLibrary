@@ -12,35 +12,50 @@ front_image: false
 rear_image: true
 comments: Rack ATS, 120 V, 20 A, L5-20 IN, (10) 5-20R Out
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: rj-12
 power-ports:
-  - name: Source A
+  -
+    name: Source A
     type: nema-l5-20p
-  - name: Source B
+  -
+    name: Source B
     type: nema-l5-20p
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: nema-5-20r
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: nema-5-20r
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: nema-5-20r
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: nema-5-20r
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: nema-5-20r
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: nema-5-20r
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: nema-5-20r
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: nema-5-20r
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: nema-5-20r
-  - name: Outlet 10
+  -
+    name: Outlet 10
     type: nema-5-20r
 interfaces:
-  - name: Management
+  -
+    name: Management
     type: 100base-tx
     mgmt_only: true
+module-bays: []

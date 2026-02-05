@@ -186,20 +186,26 @@ module-bays:
     name: FAN4
     position: '4'
   -
-    name: et-0/0/48
-    position: '48'
+    name: QSFP
+    position: et-0/0/48
+    label: et-0/0/48
   -
-    name: et-0/0/49
-    position: '49'
+    name: QSFP
+    position: et-0/0/49
+    label: et-0/0/49
   -
-    name: et-0/0/50
-    position: '50'
+    name: QSFP
+    position: et-0/0/50
+    label: et-0/0/50
   -
-    name: et-0/0/51
-    position: '51'
+    name: QSFP
+    position: et-0/0/51
+    label: et-0/0/51
   -
-    name: et-0/0/52
-    position: '52'
+    name: QSFP
+    position: et-0/0/52
+    label: et-0/0/52
   -
-    name: et-0/0/53
-    position: '53'
+    name: QSFP
+    position: et-0/0/53
+    label: et-0/0/53

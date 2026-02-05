@@ -10,13 +10,18 @@ weight: 5.67
 weight_unit: kg
 comments: '[Ribbon Communications SBC 1000](https://ribboncommunications.com/products/enterprise-products/session-border-controllers/sbc-1000-session-border-controller)'
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: iec-60320-c14
     maximum_draw: 144
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
+module-bays: []

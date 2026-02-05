@@ -21,14 +21,19 @@ comments: |
   - Weatherproofing: IPX6
   - Wind survivability: 74.6 N at 200 km/h (16.8 lbf at 125 mph)
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 2.5gbase-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
     mgmt_only: true
-  - name: Wlan 0
+  -
+    name: Wlan 0
     type: ieee802.11n
-  - name: Wlan 1
+  -
+    name: Wlan 1
     type: ieee802.11ac
-  - name: Wlan 2
+  -
+    name: Wlan 2
     type: ieee802.11ax
+module-bays: []

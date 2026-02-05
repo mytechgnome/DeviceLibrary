@@ -31,9 +31,9 @@ module-bays:
     name: HDD4
     position: HDD4
   -
-    name: eth2
-    label: '3'
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
 interfaces:
   -
     name: eth0

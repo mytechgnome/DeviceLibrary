@@ -10,18 +10,25 @@ weight_unit: kg
 airflow: passive
 u_height: 1
 console-ports:
-  - name: console
+  -
+    name: console
     type: rj-45
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 6
 interfaces:
-  - name: wan
+  -
+    name: wan
     type: 1000base-t
-  - name: lan
+  -
+    name: lan
     type: 1000base-t
-  - name: e1/1
+  -
+    name: e1/1
     type: e1
-  - name: e1/2
+  -
+    name: e1/2
     type: e1
+module-bays: []

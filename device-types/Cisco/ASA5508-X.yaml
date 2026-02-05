@@ -6,30 +6,43 @@ part_number: ASA5508
 u_height: 1
 is_full_depth: false
 console-ports:
-  - name: Con 0
+  -
+    name: Con 0
     type: rj-45
-  - name: Usb
+  -
+    name: Usb
     type: usb-a
 power-ports:
-  - name: PS0
+  -
+    name: PS0
     type: iec-60320-c14
 interfaces:
-  - name: GigabitEthernet1/1
+  -
+    name: GigabitEthernet1/1
     type: 1000base-t
-  - name: GigabitEthernet1/2
+  -
+    name: GigabitEthernet1/2
     type: 1000base-t
-  - name: GigabitEthernet1/3
+  -
+    name: GigabitEthernet1/3
     type: 1000base-t
-  - name: GigabitEthernet1/4
+  -
+    name: GigabitEthernet1/4
     type: 1000base-t
-  - name: GigabitEthernet1/5
+  -
+    name: GigabitEthernet1/5
     type: 1000base-t
-  - name: GigabitEthernet1/6
+  -
+    name: GigabitEthernet1/6
     type: 1000base-t
-  - name: GigabitEthernet1/7
+  -
+    name: GigabitEthernet1/7
     type: 1000base-t
-  - name: GigabitEthernet1/8
+  -
+    name: GigabitEthernet1/8
     type: 1000base-t
-  - name: Management1/1
+  -
+    name: Management1/1
     type: 1000base-t
     mgmt_only: true
+module-bays: []

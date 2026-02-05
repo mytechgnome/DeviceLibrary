@@ -10,9 +10,12 @@ u_height: 0
 is_full_depth: false
 subdevice_role: child
 interfaces:
-  - name: L1
+  -
+    name: L1
     description: CXP28 (300 Gb/s Interconnect Link)
     type: other
-  - name: L2
+  -
+    name: L2
     description: CXP28 (300 Gb/s Interconnect Link)
     type: other
+module-bays: []

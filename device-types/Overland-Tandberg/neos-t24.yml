@@ -13,14 +13,18 @@ comments: |
 
   [BDT FLEXSTOR II - 2U Datasheet](https://www.bdt.de/fileadmin/user_upload/07_Downloads/Storage/Formular_Storage_Data_Sheets_FLEXSTOR_2U.pdf)
 power-ports:
-  - name: PSU 1
+  -
+    name: PSU 1
     type: iec-60320-c14
     maximum_draw: 160
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 1000base-t
 module-bays:
-  - name: Drive 1
+  -
+    name: Drive 1
     position: '1'
-  - name: Drive 2
+  -
+    name: Drive 2
     position: '2'

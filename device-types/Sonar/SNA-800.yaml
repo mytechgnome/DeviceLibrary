@@ -10,42 +10,53 @@ weight_unit: kg
 airflow: passive
 u_height: 1
 console-ports:
-  - name: console
+  -
+    name: console
     type: rj-45
 power-ports:
-  - name: PSU24V
+  -
+    name: PSU24V
     type: dc-terminal
     maximum_draw: 6
 interfaces:
-  - name: slot0/1
+  -
+    name: slot0/1
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/2
+  -
+    name: slot0/2
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/3
+  -
+    name: slot0/3
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/4
+  -
+    name: slot0/4
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/5
+  -
+    name: slot0/5
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/6
+  -
+    name: slot0/6
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/7
+  -
+    name: slot0/7
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
-  - name: slot0/8
+  -
+    name: slot0/8
     type: 100base-tx
     poe_mode: pse
     poe_type: passive-24v-2pair
+module-bays: []

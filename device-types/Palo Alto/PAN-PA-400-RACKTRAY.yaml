@@ -10,5 +10,9 @@ is_powered: false
 airflow: passive
 comments: Holds one or two PA-440, PA-450, or PA-460 firewalls in a four-post rack.
 device-bays:
-  - name: Firewall A
-  - name: Firewall B
+  -
+    name: Firewall A
+  -
+    name: Firewall B
+module-bays: []
+interfaces: []

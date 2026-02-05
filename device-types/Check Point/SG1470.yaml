@@ -97,4 +97,6 @@ power-ports:
     allocated_draw: 55
 module-bays:
   -
-    name: DMZ-SFP
+    name: SFP
+    position: DMZ-SFP
+    label: DMZ-SFP

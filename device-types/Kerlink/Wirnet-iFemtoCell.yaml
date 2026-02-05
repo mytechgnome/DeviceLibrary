@@ -12,10 +12,13 @@ comments: '[Wirnet iFemtoCell Product Page](https://www.kerlink.com/product/wirn
 front_image: true
 rear_image: true
 power-ports:
-  - name: DC-12V
+  -
+    name: DC-12V
     type: dc-terminal
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 100base-tx
     enabled: true
     mgmt_only: false
+module-bays: []

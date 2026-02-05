@@ -51,8 +51,10 @@ power-ports:
     maximum_draw: 13
 module-bays:
   -
-    name: GigabitEthernet0/0/11
-    position: '11'
+    name: SFP
+    position: GigabitEthernet0/0/11
+    label: GigabitEthernet0/0/11
   -
-    name: GigabitEthernet0/0/12
-    position: '12'
+    name: SFP
+    position: GigabitEthernet0/0/12
+    label: GigabitEthernet0/0/12

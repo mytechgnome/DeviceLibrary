@@ -23,20 +23,26 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: e0a
-    position: '0'
+    name: SFP
+    position: e0a
+    label: e0a
   -
-    name: e0b
-    position: '0'
+    name: SFP
+    position: e0b
+    label: e0b
   -
-    name: e0e
-    position: '0'
+    name: SFP
+    position: e0e
+    label: e0e
   -
-    name: e0f
-    position: '0'
+    name: SFP
+    position: e0f
+    label: e0f
   -
-    name: e0g
-    position: '0'
+    name: SFP
+    position: e0g
+    label: e0g
   -
-    name: e0h
-    position: '0'
+    name: SFP
+    position: e0h
+    label: e0h

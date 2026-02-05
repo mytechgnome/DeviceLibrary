@@ -42,14 +42,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: GE1
-    position: '1'
+    name: SFP
+    position: GE1
+    label: GE1
   -
-    name: GE2
-    position: '2'
+    name: SFP
+    position: GE2
+    label: GE2
   -
-    name: GE8_1G
-    position: '1'
+    name: SFP
+    position: GE8_1G
+    label: GE8_1G
   -
-    name: GE9_1G
-    position: '1'
+    name: SFP
+    position: GE9_1G
+    label: GE9_1G

@@ -94,8 +94,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GigabitEthernet25
-    position: '25'
+    name: SFP
+    position: GigabitEthernet25
+    label: GigabitEthernet25
   -
-    name: GigabitEthernet26
-    position: '26'
+    name: SFP
+    position: GigabitEthernet26
+    label: GigabitEthernet26

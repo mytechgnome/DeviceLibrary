@@ -39,8 +39,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: ge-0/0/6
-    position: '6'
+    name: SFP
+    position: ge-0/0/6
+    label: ge-0/0/6
   -
-    name: ge-0/0/7
-    position: '7'
+    name: SFP
+    position: ge-0/0/7
+    label: ge-0/0/7

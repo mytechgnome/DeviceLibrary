@@ -10,25 +10,31 @@ weight_unit: g
 weight: 321
 airflow: passive
 interfaces:
-  - name: eth1
+  -
+    name: eth1
     label: Ethernet 1
     type: 100base-tx
     enabled: true
     description: Default DHCP enabled
-  - name: eth2
+  -
+    name: eth2
     label: Etrhernet 2
     type: 100base-tx
     enabled: false
     description: Default disabled
 console-ports:
-  - name: serial1
+  -
+    name: serial1
     label: Device
     type: usb-mini-b
-  - name: serial2
+  -
+    name: serial2
     label: Host
     type: usb-micro-a
 power-ports:
-  - name: power
+  -
+    name: power
     label: Power
     type: other
     maximum_draw: 10
+module-bays: []

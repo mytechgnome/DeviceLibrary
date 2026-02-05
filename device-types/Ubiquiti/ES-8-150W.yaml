@@ -67,8 +67,10 @@ power-ports:
     allocated_draw: 150
 module-bays:
   -
-    name: 0/9
-    position: '9'
+    name: SFP
+    position: 0/9
+    label: 0/9
   -
-    name: 0/10
-    position: '10'
+    name: SFP
+    position: 0/10
+    label: 0/10

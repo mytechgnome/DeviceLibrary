@@ -37,14 +37,18 @@ module-bays:
     position: '1'
     description: FIP10 or FIP20 Modules only
   -
-    name: GigabitEthernet1/0/0
-    position: '0'
+    name: SFP
+    position: GigabitEthernet1/0/0
+    label: GigabitEthernet1/0/0
   -
-    name: GigabitEthernet1/0/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet1/0/1
+    label: GigabitEthernet1/0/1
   -
-    name: GigabitEthernet1/0/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet1/0/2
+    label: GigabitEthernet1/0/2
   -
-    name: GigabitEthernet1/0/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet1/0/3
+    label: GigabitEthernet1/0/3

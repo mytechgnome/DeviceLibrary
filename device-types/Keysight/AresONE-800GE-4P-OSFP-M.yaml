@@ -28,17 +28,21 @@ module-bays:
     name: PS3
     position: '3'
   -
-    name: '1'
+    name: SFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: SFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: SFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: SFP
     position: '4'
+    label: '4'
 interfaces:
   -
     name: MGMT

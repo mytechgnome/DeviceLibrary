@@ -24,35 +24,45 @@ module-bays:
       170-0013-900 3930/3932/5142/3926, DC PLUGGABLE POWER SUPPLY, WIDE RANGE 24/48V
       170-0014-900 3930/3932/5142/3926, AC PLUGGABLE POWER SUPPLY, WIDE RANGE 120/240V
   -
-    name: '1'
+    name: SFP
     position: '1'
+    label: '1'
   -
-    name: '2'
+    name: SFP
     position: '2'
+    label: '2'
   -
-    name: '3'
+    name: SFP
     position: '3'
+    label: '3'
   -
-    name: '4'
+    name: SFP
     position: '4'
+    label: '4'
   -
-    name: '5'
+    name: SFP
     position: '5'
+    label: '5'
   -
-    name: '6'
+    name: SFP
     position: '6'
+    label: '6'
   -
-    name: '7'
+    name: SFP
     position: '7'
+    label: '7'
   -
-    name: '8'
+    name: SFP
     position: '8'
+    label: '8'
   -
-    name: '9'
+    name: SFP
     position: '9'
+    label: '9'
   -
-    name: '10'
+    name: SFP
     position: '10'
+    label: '10'
 interfaces:
   -
     name: MGMT

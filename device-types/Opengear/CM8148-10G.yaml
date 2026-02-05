@@ -183,8 +183,10 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: NET1
-    position: '1'
+    name: SFP
+    position: NET1
+    label: NET1
   -
-    name: NET2
-    position: '2'
+    name: SFP
+    position: NET2
+    label: NET2

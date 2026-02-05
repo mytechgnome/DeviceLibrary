@@ -10,16 +10,21 @@ weight: 368
 weight_unit: g
 comments: '[Ruckus R350 Datasheet](https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/indoor/r350/)'
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ax
 console-ports:
-  - name: USB
+  -
+    name: USB
     type: usb-a
 power-ports:
-  - name: DC
+  -
+    name: DC
     type: dc-terminal
     maximum_draw: 13
+module-bays: []

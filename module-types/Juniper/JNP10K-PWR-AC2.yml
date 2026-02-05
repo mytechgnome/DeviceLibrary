@@ -17,6 +17,7 @@ comments: |
   - [JNP10K-PWR-AC2 Power Cable Specifications for 20-A input with 3000 W output](https://www.juniper.net/documentation/us/en/hardware/mx10008/topics/topic-map/mx10008-power-planning.html#mx10008-power-cord-specifications__d58e348)
   - [JNP10K-PWR-AC2 Power Cable Specifications for 30-A input with 5500 W output](https://www.juniper.net/documentation/us/en/hardware/mx10008/topics/topic-map/mx10008-power-planning.html#mx10008-power-cord-specifications__d58e985)
 power-ports:
-  - name: PEM {module}
+  -
+    name: PEM {module}
     type: saf-d-grid
     maximum_draw: 5500

@@ -90,8 +90,10 @@ power-ports:
     maximum_draw: 150
 module-bays:
   -
-    name: xg-1/3/1
-    position: '1'
+    name: SFP
+    position: xg-1/3/1
+    label: xg-1/3/1
   -
-    name: xg-1/3/2
-    position: '2'
+    name: SFP
+    position: xg-1/3/2
+    label: xg-1/3/2

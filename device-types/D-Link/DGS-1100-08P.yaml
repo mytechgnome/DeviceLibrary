@@ -14,40 +14,50 @@ weight_unit: g
 airflow: passive
 
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: dc-terminal
     maximum_draw: 72
 
 interfaces:
-  - name: GigabitEthernet1
+  -
+    name: GigabitEthernet1
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet2
+  -
+    name: GigabitEthernet2
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet3
+  -
+    name: GigabitEthernet3
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet4
+  -
+    name: GigabitEthernet4
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet5
+  -
+    name: GigabitEthernet5
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet6
+  -
+    name: GigabitEthernet6
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet7
+  -
+    name: GigabitEthernet7
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
-  - name: GigabitEthernet8
+  -
+    name: GigabitEthernet8
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
+module-bays: []

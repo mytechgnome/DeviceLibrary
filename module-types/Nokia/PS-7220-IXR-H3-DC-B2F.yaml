@@ -5,6 +5,7 @@ part_number: 3HE16433AA
 comments: 1600W DC Power Supply B2F airflow
 # airflow: rear-to-front
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: dc-terminal
     maximum_draw: 1600

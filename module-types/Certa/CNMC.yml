@@ -4,9 +4,11 @@ model: CNMC Network Management Card
 part_number: CNMC
 comments: Certa UPS Netowrk Management Card
 interfaces:
-  - name: CNMC/mgmt
+  -
+    name: CNMC/mgmt
     type: 100base-tx
     mgmt_only: true
-  - name: CNMC/Setting
+  -
+    name: CNMC/Setting
     type: 100base-tx
     mgmt_only: true

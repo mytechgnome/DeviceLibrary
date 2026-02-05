@@ -94,34 +94,34 @@ interfaces:
     label: GE16
 module-bays:
   -
-    name: gigabitethernet 0/1
-    label: GE1
-    position: '1'
+    name: SFP
+    position: gigabitethernet 0/1
+    label: gigabitethernet 0/1
   -
-    name: gigabitethernet 0/2
-    label: GE2
-    position: '2'
+    name: SFP
+    position: gigabitethernet 0/2
+    label: gigabitethernet 0/2
   -
-    name: gigabitethernet 0/3
-    label: GE3
-    position: '3'
+    name: SFP
+    position: gigabitethernet 0/3
+    label: gigabitethernet 0/3
   -
-    name: gigabitethernet 0/4
-    label: GE4
-    position: '4'
+    name: SFP
+    position: gigabitethernet 0/4
+    label: gigabitethernet 0/4
   -
-    name: gigabitethernet 0/5
-    label: GE5
-    position: '5'
+    name: SFP
+    position: gigabitethernet 0/5
+    label: gigabitethernet 0/5
   -
-    name: gigabitethernet 0/6
-    label: GE6
-    position: '6'
+    name: SFP
+    position: gigabitethernet 0/6
+    label: gigabitethernet 0/6
   -
-    name: gigabitethernet 0/7
-    label: GE7
-    position: '7'
+    name: SFP
+    position: gigabitethernet 0/7
+    label: gigabitethernet 0/7
   -
-    name: gigabitethernet 0/8
-    label: GE8
-    position: '8'
+    name: SFP
+    position: gigabitethernet 0/8
+    label: gigabitethernet 0/8

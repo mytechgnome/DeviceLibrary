@@ -10,43 +10,56 @@ comments: '[Quickspecs](https://ippon.ru/catalog/item/ippon-1000-1398359/)'
 weight: 14.3
 weight_unit: kg
 interfaces:
-  - name: Management
+  -
+    name: Management
     type: 1000base-t
     mgmt_only: true
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
-  - name: USB
+  -
+    name: USB
     type: usb-b
 power-ports:
-  - name: Inlet
+  -
+    name: Inlet
     type: iec-60320-c14
     maximum_draw: 1000
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Inlet
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Inlet
 module-bays:
-  - name: IntelligentSlot
+  -
+    name: IntelligentSlot
     position: Rear

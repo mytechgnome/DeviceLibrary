@@ -80,14 +80,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: GigabitEthernet1/0/17F
-    position: '17'
+    name: SFP
+    position: GigabitEthernet1/0/17F
+    label: GigabitEthernet1/0/17F
   -
-    name: GigabitEthernet1/0/18F
-    position: '18'
+    name: SFP
+    position: GigabitEthernet1/0/18F
+    label: GigabitEthernet1/0/18F
   -
-    name: GigabitEthernet1/0/19F
-    position: '19'
+    name: SFP
+    position: GigabitEthernet1/0/19F
+    label: GigabitEthernet1/0/19F
   -
-    name: GigabitEthernet1/0/20F
-    position: '20'
+    name: SFP
+    position: GigabitEthernet1/0/20F
+    label: GigabitEthernet1/0/20F

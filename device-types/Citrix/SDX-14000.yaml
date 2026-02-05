@@ -30,50 +30,66 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: Interface 10/1
-    position: '1'
+    name: SFP
+    position: Interface 10/1
+    label: Interface 10/1
   -
-    name: Interface 10/2
-    position: '2'
+    name: SFP
+    position: Interface 10/2
+    label: Interface 10/2
   -
-    name: Interface 10/3
-    position: '3'
+    name: SFP
+    position: Interface 10/3
+    label: Interface 10/3
   -
-    name: Interface 10/4
-    position: '4'
+    name: SFP
+    position: Interface 10/4
+    label: Interface 10/4
   -
-    name: Interface 10/5
-    position: '5'
+    name: SFP
+    position: Interface 10/5
+    label: Interface 10/5
   -
-    name: Interface 10/6
-    position: '6'
+    name: SFP
+    position: Interface 10/6
+    label: Interface 10/6
   -
-    name: Interface 10/7
-    position: '7'
+    name: SFP
+    position: Interface 10/7
+    label: Interface 10/7
   -
-    name: Interface 10/8
-    position: '8'
+    name: SFP
+    position: Interface 10/8
+    label: Interface 10/8
   -
-    name: Interface 10/9
-    position: '9'
+    name: SFP
+    position: Interface 10/9
+    label: Interface 10/9
   -
-    name: Interface 10/10
-    position: '10'
+    name: SFP
+    position: Interface 10/10
+    label: Interface 10/10
   -
-    name: Interface 10/11
-    position: '11'
+    name: SFP
+    position: Interface 10/11
+    label: Interface 10/11
   -
-    name: Interface 10/12
-    position: '12'
+    name: SFP
+    position: Interface 10/12
+    label: Interface 10/12
   -
-    name: Interface 10/13
-    position: '13'
+    name: SFP
+    position: Interface 10/13
+    label: Interface 10/13
   -
-    name: Interface 10/14
-    position: '14'
+    name: SFP
+    position: Interface 10/14
+    label: Interface 10/14
   -
-    name: Interface 10/15
-    position: '15'
+    name: SFP
+    position: Interface 10/15
+    label: Interface 10/15
   -
-    name: Interface 10/16
-    position: '16'
+    name: SFP
+    position: Interface 10/16
+    label: Interface 10/16

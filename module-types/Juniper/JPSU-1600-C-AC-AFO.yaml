@@ -6,6 +6,7 @@ part_number: JPSU-1600-C-AC-AFO
 weight: 2
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c16
     maximum_draw: 1600

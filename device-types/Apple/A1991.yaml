@@ -11,13 +11,18 @@ weight_unit: kg
 comments: |
   See https://support.apple.com/en-us/118461
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c14
     maximum_draw: 1280
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 10gbase-t
-  - name: eth1
+  -
+    name: eth1
     type: 10gbase-t
-  - name: wireless
+  -
+    name: wireless
     type: ieee802.11ac
+module-bays: []

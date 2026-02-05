@@ -9,21 +9,26 @@ comments: '[Scalar Tape Libraries Datasheet](https://cdn.allbound.com/iq-ab/2021
 front_image: true
 rear_image: true
 interfaces:
-  - name: GB1
+  -
+    name: GB1
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: GB2
+  -
+    name: GB2
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Management
+  -
+    name: Management
     type: 1000base-t
     enabled: true
     mgmt_only: true
     description: Remote GUI and RESTful Web Services for library mgmt
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2

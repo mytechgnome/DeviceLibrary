@@ -9,21 +9,30 @@ weight: 510
 weight_unit: g
 comments: '[Archer C7 AC1750](https://www.tp-link.com/fi/home-networking/wifi-router/archer-c7)'
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
     maximum_draw: 7
 interfaces:
-  - name: wan
+  -
+    name: wan
     type: 1000base-t
-  - name: lan1
+  -
+    name: lan1
     type: 1000base-t
-  - name: lan2
+  -
+    name: lan2
     type: 1000base-t
-  - name: lan3
+  -
+    name: lan3
     type: 1000base-t
-  - name: lan4
+  -
+    name: lan4
     type: 1000base-t
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11n
-  - name: wlan1
+  -
+    name: wlan1
     type: ieee802.11ac
+module-bays: []

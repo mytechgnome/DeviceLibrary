@@ -188,10 +188,10 @@ module-bays:
   # There are two stacked DDR4 SO-DIMM slots
   # DIMM0 is the top one, DIMM1 the bottom one (closer to Mainboard)
   -
-    name: sfp0
-    label: SFP+ 0
-    position: '0'
+    name: SFP
+    position: sfp0
+    label: sfp0
   -
-    name: sfp1
-    label: SFP+ 1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1

@@ -9,20 +9,28 @@ is_full_depth: false
 weight: 2.67
 weight_unit: lb
 interfaces:
-  - name: GigabitEthernet0/0/0
+  -
+    name: GigabitEthernet0/0/0
     type: 1000base-t
-  - name: GigabitEthernet0/0/1
+  -
+    name: GigabitEthernet0/0/1
     type: 1000base-t
-  - name: GigabitEthernet0/0/2
+  -
+    name: GigabitEthernet0/0/2
     type: 1000base-t
-  - name: GigabitEthernet0/0/3
+  -
+    name: GigabitEthernet0/0/3
     type: 1000base-t
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
-  - name: usb
+  -
+    name: usb
     type: usb-a
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: dc-terminal
     maximum_draw: 30
+module-bays: []

@@ -119,14 +119,22 @@ power-ports:
     maximum_draw: 88
 module-bays:
   -
-    name: TenGigabitEthernet1/0/21
-    position: '21'
+    name: SFP
+    position: TenGigabitEthernet1/0/21
+    label: TenGigabitEthernet1/0/21
+    description: SFP+/RJ45 Combo
   -
-    name: TenGigabitEthernet1/0/22
-    position: '22'
+    name: SFP
+    position: TenGigabitEthernet1/0/22
+    label: TenGigabitEthernet1/0/22
+    description: SFP+/RJ45 Combo
   -
-    name: TenGigabitEthernet1/0/23
-    position: '23'
+    name: SFP
+    position: TenGigabitEthernet1/0/23
+    label: TenGigabitEthernet1/0/23
+    description: SFP+/RJ45 Combo
   -
-    name: TenGigabitEthernet1/0/24
-    position: '24'
+    name: SFP
+    position: TenGigabitEthernet1/0/24
+    label: TenGigabitEthernet1/0/24
+    description: SFP+/RJ45 Combo

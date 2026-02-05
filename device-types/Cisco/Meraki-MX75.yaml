@@ -61,5 +61,6 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: Internet 1
-    position: '1'
+    name: SFP
+    position: Internet 1
+    label: Internet 1

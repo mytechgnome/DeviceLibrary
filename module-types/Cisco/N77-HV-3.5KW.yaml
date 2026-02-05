@@ -7,6 +7,7 @@ comments: '[Cisco Nexus 7700 Platform 3.5-kW High-Voltage Power Supply Modules D
 weight: 5
 weight_unit: kg
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: saf-d-grid
     maximum_draw: 3500

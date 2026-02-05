@@ -173,14 +173,18 @@ interfaces:
     description: SNMP out-of-band management interface
 module-bays:
   -
-    name: tengigabitethernet1/1/49
-    position: '49'
+    name: SFP
+    position: tengigabitethernet1/1/49
+    label: tengigabitethernet1/1/49
   -
-    name: tengigabitethernet1/1/50
-    position: '50'
+    name: SFP
+    position: tengigabitethernet1/1/50
+    label: tengigabitethernet1/1/50
   -
-    name: tengigabitethernet1/1/51
-    position: '51'
+    name: SFP
+    position: tengigabitethernet1/1/51
+    label: tengigabitethernet1/1/51
   -
-    name: tengigabitethernet1/1/52
-    position: '52'
+    name: SFP
+    position: tengigabitethernet1/1/52
+    label: tengigabitethernet1/1/52

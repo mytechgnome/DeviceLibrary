@@ -9,13 +9,18 @@ airflow: passive
 weight: 700
 weight_unit: g
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: wifi0
+  -
+    name: wifi0
     type: ieee802.11n
-  - name: wifi1
+  -
+    name: wifi1
     type: ieee802.11ac
+module-bays: []

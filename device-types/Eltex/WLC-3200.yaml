@@ -26,38 +26,50 @@ module-bays:
     position: '2'
     label: Power Supply 2
   -
-    name: Eth1
-    position: '1'
+    name: SFP
+    position: Eth1
+    label: Eth1
   -
-    name: Eth2
-    position: '2'
+    name: SFP
+    position: Eth2
+    label: Eth2
   -
-    name: Eth3
-    position: '3'
+    name: SFP
+    position: Eth3
+    label: Eth3
   -
-    name: Eth4
-    position: '4'
+    name: SFP
+    position: Eth4
+    label: Eth4
   -
-    name: Eth5
-    position: '5'
+    name: SFP
+    position: Eth5
+    label: Eth5
   -
-    name: Eth6
-    position: '6'
+    name: SFP
+    position: Eth6
+    label: Eth6
   -
-    name: Eth7
-    position: '7'
+    name: SFP
+    position: Eth7
+    label: Eth7
   -
-    name: Eth8
-    position: '8'
+    name: SFP
+    position: Eth8
+    label: Eth8
   -
-    name: Eth9
-    position: '9'
+    name: SFP
+    position: Eth9
+    label: Eth9
   -
-    name: Eth10
-    position: '10'
+    name: SFP
+    position: Eth10
+    label: Eth10
   -
-    name: Eth11
-    position: '11'
+    name: SFP
+    position: Eth11
+    label: Eth11
   -
-    name: Eth12
-    position: '12'
+    name: SFP
+    position: Eth12
+    label: Eth12

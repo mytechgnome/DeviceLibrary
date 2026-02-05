@@ -20,23 +20,29 @@ module-bays:
     name: Expansion Module
     position: '1'
   -
-    name: X24
-    position: '24'
+    name: SFP
+    position: X24
+    label: X24
   -
-    name: X25
-    position: '25'
+    name: SFP
+    position: X25
+    label: X25
   -
-    name: X26
-    position: '26'
+    name: SFP
+    position: X26
+    label: X26
   -
-    name: X27
-    position: '27'
+    name: SFP
+    position: X27
+    label: X27
   -
-    name: X28
-    position: '28'
+    name: SFP
+    position: X28
+    label: X28
   -
-    name: X29
-    position: '29'
+    name: SFP
+    position: X29
+    label: X29
 inventory-items:
   -
     name: Storage-Module

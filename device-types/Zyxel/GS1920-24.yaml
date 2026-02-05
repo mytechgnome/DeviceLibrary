@@ -10,122 +10,152 @@ airflow: passive
 weight: 2.91
 weight_unit: kg
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60320-c14
 interfaces:
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 3
+  -
+    name: Gig-E 3
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 4
+  -
+    name: Gig-E 4
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 5
+  -
+    name: Gig-E 5
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 6
+  -
+    name: Gig-E 6
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 7
+  -
+    name: Gig-E 7
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 8
+  -
+    name: Gig-E 8
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 9
+  -
+    name: Gig-E 9
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 10
+  -
+    name: Gig-E 10
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 11
+  -
+    name: Gig-E 11
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 12
+  -
+    name: Gig-E 12
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 13
+  -
+    name: Gig-E 13
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 14
+  -
+    name: Gig-E 14
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 15
+  -
+    name: Gig-E 15
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 16
+  -
+    name: Gig-E 16
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 17
+  -
+    name: Gig-E 17
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 18
+  -
+    name: Gig-E 18
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 19
+  -
+    name: Gig-E 19
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 20
+  -
+    name: Gig-E 20
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 21
+  -
+    name: Gig-E 21
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 22
+  -
+    name: Gig-E 22
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 23
+  -
+    name: Gig-E 23
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E 24
+  -
+    name: Gig-E 24
     type: 1000base-t
     enabled: true
     mgmt_only: false
-  - name: Gig-E/SFP 25
+  -
+    name: Gig-E/SFP 25
     type: 1000base-t
     enabled: true
     mgmt_only: false
     description: Gigabit Combo(RJ45/SFP)
-  - name: Gig-E/SFP 26
+  -
+    name: Gig-E/SFP 26
     type: 1000base-t
     enabled: true
     mgmt_only: false
     description: Gigabit Combo(RJ45/SFP)
-  - name: Gig-E/SFP 27
+  -
+    name: Gig-E/SFP 27
     type: 1000base-t
     enabled: true
     mgmt_only: false
     description: Gigabit Combo(RJ45/SFP)
-  - name: Gig-E/SFP 28
+  -
+    name: Gig-E/SFP 28
     type: 1000base-t
     enabled: true
     mgmt_only: false
     description: Gigabit Combo(RJ45/SFP)
+module-bays: []

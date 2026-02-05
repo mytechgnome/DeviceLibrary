@@ -11,15 +11,21 @@ weight: 150
 weight_unit: g
 airflow: passive
 interfaces:
-  - name: Port 1 (PoE IN)
+  -
+    name: Port 1 (PoE IN)
     type: 1000base-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     type: 1000base-t
+module-bays: []

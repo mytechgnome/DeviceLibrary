@@ -71,18 +71,18 @@ interfaces:
     label: MGMT
 module-bays:
   -
-    name: ETH6
-    label: '6'
-    position: '6'
+    name: SFP
+    position: ETH6
+    label: ETH6
   -
-    name: ETH7
-    label: '7'
-    position: '7'
+    name: SFP
+    position: ETH7
+    label: ETH7
   -
-    name: ETH8
-    label: '8'
-    position: '8'
+    name: SFP
+    position: ETH8
+    label: ETH8
   -
-    name: ETH9
-    label: '9'
-    position: '9'
+    name: SFP
+    position: ETH9
+    label: ETH9

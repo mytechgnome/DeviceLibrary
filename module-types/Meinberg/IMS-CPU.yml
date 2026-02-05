@@ -5,6 +5,9 @@ interfaces:
   -
     name: LAN0
     type: 1000base-t
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Terminal
@@ -12,7 +15,3 @@ console-ports:
   -
     name: USB
     type: usb-a
-module-bays:
-  -
-    name: LAN1
-    position: '1'

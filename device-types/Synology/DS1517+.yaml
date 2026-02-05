@@ -10,15 +10,21 @@ weight_unit: kg
 comments: '[Synology DS1517+ Specs](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/17-year/DS1517+/enu/Synology_DS1517_Plus_Data_Sheet_enu.pdf)'
 is_full_depth: false
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: iec-60320-c14
     maximum_draw: 43
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 1000base-t
-  - name: LAN 2
+  -
+    name: LAN 2
     type: 1000base-t
-  - name: LAN 3
+  -
+    name: LAN 3
     type: 1000base-t
-  - name: LAN 4
+  -
+    name: LAN 4
     type: 1000base-t
+module-bays: []

@@ -10,20 +10,28 @@ weight: 1.74
 weight_unit: lb
 comments: '[Meraki MX67 Datasheet](https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet)'
 power-ports:
-  - name: Slot 1
+  -
+    name: Slot 1
     type: iec-60320-c14
     maximum_draw: 14
     allocated_draw: 5
 interfaces:
-  - name: USB
+  -
+    name: USB
     type: lte
-  - name: Internet 1
+  -
+    name: Internet 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     type: 1000base-t
+module-bays: []

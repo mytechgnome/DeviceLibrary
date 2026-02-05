@@ -12,38 +12,56 @@ front_image: true
 rear_image: true
 u_height: 1
 interfaces:
-  - name: GigabitEthernet1
+  -
+    name: GigabitEthernet1
     type: 100base-tx
-  - name: GigabitEthernet2
+  -
+    name: GigabitEthernet2
     type: 100base-tx
-  - name: GigabitEthernet3
+  -
+    name: GigabitEthernet3
     type: 100base-tx
-  - name: GigabitEthernet4
+  -
+    name: GigabitEthernet4
     type: 100base-tx
-  - name: GigabitEthernet5
+  -
+    name: GigabitEthernet5
     type: 100base-tx
-  - name: GigabitEthernet6
+  -
+    name: GigabitEthernet6
     type: 100base-tx
-  - name: GigabitEthernet7
+  -
+    name: GigabitEthernet7
     type: 100base-tx
-  - name: GigabitEthernet8
+  -
+    name: GigabitEthernet8
     type: 100base-tx
-  - name: GigabitEthernet9
+  -
+    name: GigabitEthernet9
     type: 100base-tx
-  - name: GigabitEthernet10
+  -
+    name: GigabitEthernet10
     type: 100base-tx
-  - name: GigabitEthernet11
+  -
+    name: GigabitEthernet11
     type: 100base-tx
-  - name: GigabitEthernet12
+  -
+    name: GigabitEthernet12
     type: 100base-tx
-  - name: GigabitEthernet13
+  -
+    name: GigabitEthernet13
     type: 100base-tx
-  - name: GigabitEthernet14
+  -
+    name: GigabitEthernet14
     type: 100base-tx
-  - name: GigabitEthernet15
+  -
+    name: GigabitEthernet15
     type: 100base-tx
-  - name: GigabitEthernet16
+  -
+    name: GigabitEthernet16
     type: 100base-tx
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: iec-60320-c14
+module-bays: []

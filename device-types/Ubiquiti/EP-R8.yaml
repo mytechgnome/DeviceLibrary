@@ -44,8 +44,10 @@ interfaces:
     type: bridge
 module-bays:
   -
-    name: eth8
-    position: '8'
+    name: SFP
+    position: eth8
+    label: eth8
   -
-    name: eth9
-    position: '9'
+    name: SFP
+    position: eth9
+    label: eth9

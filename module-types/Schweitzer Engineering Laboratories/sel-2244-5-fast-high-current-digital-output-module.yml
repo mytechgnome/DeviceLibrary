@@ -5,5 +5,6 @@ comments: |
   The SEL-2244-5 module includes ten control outputs with LED indication that have high current tripping capacity (10 A)
   and fast output rise time.
 interfaces:
-  - name: Digital-output terminal
+  -
+    name: Digital-output terminal
     type: other

@@ -9,21 +9,28 @@ comments: '[TS-469 Pro Series Datasheet](https://www.qnap.com/en/product/ts-469 
 front_image: true
 rear_image: true
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 43
     allocated_draw: 25
 module-bays:
-  - name: HDD1
+  -
+    name: HDD1
     position: HDD1
-  - name: HDD2
+  -
+    name: HDD2
     position: HDD2
-  - name: HDD3
+  -
+    name: HDD3
     position: HDD3
-  - name: HDD4
+  -
+    name: HDD4
     position: HDD4
 interfaces:
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 1000base-t
-  - name: Ethernet 2
+  -
+    name: Ethernet 2
     type: 1000base-t

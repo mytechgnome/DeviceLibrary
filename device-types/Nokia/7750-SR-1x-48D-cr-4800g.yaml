@@ -1,0 +1,247 @@
+---
+manufacturer: Nokia
+model: 7750 SR-1x-48D (CR 4800g)
+slug: nokia-7750-sr-1x-48d-cr-4800g
+part_number: 3HE17762AA
+u_height: 2
+is_full_depth: false
+weight: 55.22
+weight_unit: lb
+airflow: front-to-rear
+comments: '[Datasheet](https://onestore.nokia.com/asset/i/212738)'
+console-ports:
+  -
+    name: Console
+    type: rj-45
+  -
+    name: USB
+    type: usb-a
+interfaces:
+  -
+    name: A/1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: A/4
+    type: 1000base-t
+  -
+    name: A/gnss
+    type: other-wireless
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: PS3
+    position: '3'
+  -
+    name: PS4
+    position: '4'
+  -
+    name: Fan Tray 1
+    position: '1'
+  -
+    name: Fan Tray 2
+    position: '2'
+  -
+    name: Fan Tray 3
+    position: '3'
+  -
+    name: QSFP
+    position: 1/1/c1
+    label: 1/1/c1
+  -
+    name: QSFP
+    position: 1/1/c2
+    label: 1/1/c2
+  -
+    name: QSFP
+    position: 1/1/c3
+    label: 1/1/c3
+  -
+    name: QSFP
+    position: 1/1/c4
+    label: 1/1/c4
+  -
+    name: QSFP
+    position: 1/1/c5
+    label: 1/1/c5
+  -
+    name: QSFP
+    position: 1/1/c6
+    label: 1/1/c6
+  -
+    name: QSFP
+    position: 1/1/c7
+    label: 1/1/c7
+  -
+    name: QSFP
+    position: 1/1/c8
+    label: 1/1/c8
+  -
+    name: QSFP
+    position: 1/1/c9
+    label: 1/1/c9
+  -
+    name: QSFP
+    position: 1/1/c10
+    label: 1/1/c10
+  -
+    name: QSFP
+    position: 1/1/c11
+    label: 1/1/c11
+  -
+    name: QSFP
+    position: 1/1/c12
+    label: 1/1/c12
+  -
+    name: QSFP
+    position: 1/1/c13
+    label: 1/1/c13
+  -
+    name: QSFP
+    position: 1/1/c14
+    label: 1/1/c14
+  -
+    name: QSFP
+    position: 1/1/c15
+    label: 1/1/c15
+  -
+    name: QSFP
+    position: 1/1/c16
+    label: 1/1/c16
+  -
+    name: QSFP
+    position: 1/1/c17
+    label: 1/1/c17
+  -
+    name: QSFP
+    position: 1/1/c18
+    label: 1/1/c18
+  -
+    name: QSFP
+    position: 1/1/c19
+    label: 1/1/c19
+  -
+    name: QSFP
+    position: 1/1/c20
+    label: 1/1/c20
+  -
+    name: QSFP
+    position: 1/1/c21
+    label: 1/1/c21
+  -
+    name: QSFP
+    position: 1/1/c22
+    label: 1/1/c22
+  -
+    name: QSFP
+    position: 1/1/c23
+    label: 1/1/c23
+  -
+    name: QSFP
+    position: 1/1/c24
+    label: 1/1/c24
+  -
+    name: QSFP
+    position: 1/1/c25
+    label: 1/1/c25
+  -
+    name: QSFP
+    position: 1/1/c26
+    label: 1/1/c26
+  -
+    name: QSFP
+    position: 1/1/c27
+    label: 1/1/c27
+  -
+    name: QSFP
+    position: 1/1/c28
+    label: 1/1/c28
+  -
+    name: QSFP
+    position: 1/1/c29
+    label: 1/1/c29
+  -
+    name: QSFP
+    position: 1/1/c30
+    label: 1/1/c30
+  -
+    name: QSFP
+    position: 1/1/c31
+    label: 1/1/c31
+  -
+    name: QSFP
+    position: 1/1/c32
+    label: 1/1/c32
+  -
+    name: QSFP
+    position: 1/1/c33
+    label: 1/1/c33
+  -
+    name: QSFP
+    position: 1/1/c34
+    label: 1/1/c34
+  -
+    name: QSFP
+    position: 1/1/c35
+    label: 1/1/c35
+  -
+    name: QSFP
+    position: 1/1/c36
+    label: 1/1/c36
+  -
+    name: QSFP
+    position: 1/1/c37
+    label: 1/1/c37
+  -
+    name: QSFP
+    position: 1/1/c38
+    label: 1/1/c38
+  -
+    name: QSFP
+    position: 1/1/c39
+    label: 1/1/c39
+  -
+    name: QSFP
+    position: 1/1/c40
+    label: 1/1/c40
+  -
+    name: QSFP
+    position: 1/1/c41
+    label: 1/1/c41
+  -
+    name: QSFP
+    position: 1/1/c42
+    label: 1/1/c42
+  -
+    name: QSFP
+    position: 1/1/c43
+    label: 1/1/c43
+  -
+    name: QSFP
+    position: 1/1/c44
+    label: 1/1/c44
+  -
+    name: QSFP
+    position: 1/1/c45
+    label: 1/1/c45
+  -
+    name: QSFP
+    position: 1/1/c46
+    label: 1/1/c46
+  -
+    name: QSFP
+    position: 1/1/c47
+    label: 1/1/c47
+  -
+    name: QSFP
+    position: 1/1/c48
+    label: 1/1/c48
+  -
+    name: SFP
+    position: A/3
+    label: A/3

@@ -18,14 +18,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: FE/GE2
-    position: '2'
+    name: SFP
+    position: FE/GE2
+    label: FE/GE2
   -
-    name: FE/GE3
-    position: '3'
+    name: SFP
+    position: FE/GE3
+    label: FE/GE3
   -
-    name: FE/GE4
-    position: '4'
+    name: SFP
+    position: FE/GE4
+    label: FE/GE4
   -
-    name: FE/GE5
-    position: '5'
+    name: SFP
+    position: FE/GE5
+    label: FE/GE5

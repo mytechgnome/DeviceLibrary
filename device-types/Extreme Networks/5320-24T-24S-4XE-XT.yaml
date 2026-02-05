@@ -106,86 +106,116 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: '25'
+    name: SFP
     position: '25'
+    label: '25'
   -
-    name: '26'
+    name: SFP
     position: '26'
+    label: '26'
   -
-    name: '27'
+    name: SFP
     position: '27'
+    label: '27'
   -
-    name: '28'
+    name: SFP
     position: '28'
+    label: '28'
   -
-    name: '29'
+    name: SFP
     position: '29'
+    label: '29'
   -
-    name: '30'
+    name: SFP
     position: '30'
+    label: '30'
   -
-    name: '31'
+    name: SFP
     position: '31'
+    label: '31'
   -
-    name: '32'
+    name: SFP
     position: '32'
+    label: '32'
   -
-    name: '33'
+    name: SFP
     position: '33'
+    label: '33'
   -
-    name: '34'
+    name: SFP
     position: '34'
+    label: '34'
   -
-    name: '35'
+    name: SFP
     position: '35'
+    label: '35'
   -
-    name: '36'
+    name: SFP
     position: '36'
+    label: '36'
   -
-    name: '37'
+    name: SFP
     position: '37'
+    label: '37'
   -
-    name: '38'
+    name: SFP
     position: '38'
+    label: '38'
   -
-    name: '39'
+    name: SFP
     position: '39'
+    label: '39'
   -
-    name: '40'
+    name: SFP
     position: '40'
+    label: '40'
   -
-    name: '41'
+    name: SFP
     position: '41'
+    label: '41'
   -
-    name: '42'
+    name: SFP
     position: '42'
+    label: '42'
   -
-    name: '43'
+    name: SFP
     position: '43'
+    label: '43'
   -
-    name: '44'
+    name: SFP
     position: '44'
+    label: '44'
   -
-    name: '45'
+    name: SFP
     position: '45'
+    label: '45'
   -
-    name: '46'
+    name: SFP
     position: '46'
+    label: '46'
   -
-    name: '47'
+    name: SFP
     position: '47'
+    label: '47'
   -
-    name: '48'
+    name: SFP
     position: '48'
+    label: '48'
   -
-    name: '49'
+    name: SFP
     position: '49'
+    label: '49'
   -
-    name: '50'
+    name: SFP
     position: '50'
+    label: '50'
   -
-    name: '51'
+    name: SFP
     position: '51'
+    label: '51'
+    description: Can be used for stacking in Switch Engine
   -
-    name: '52'
+    name: SFP
     position: '52'
+    label: '52'
+    description: Can be used for stacking in Switch Engine

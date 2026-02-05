@@ -10,58 +10,84 @@ weight_unit: kg
 u_height: 1.0
 comments: '[Modem Fibre Optique 16 voies FXO/SC](https://www.cxr.com/documents/brochures/fop_32fxo_s_4ttx.pdf)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c6
     maximum_draw: 5
 console-ports:
-  - name: USB
+  -
+    name: USB
     type: usb-b
-  - name: RS232
+  -
+    name: RS232
     type: rj-45
 interfaces:
-  - name: Ethernet LAN
+  -
+    name: Ethernet LAN
     type: 100base-tx
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 100base-tx
-  - name: Ethernet 2
+  -
+    name: Ethernet 2
     type: 100base-tx
-  - name: Ethernet 3
+  -
+    name: Ethernet 3
     type: 100base-tx
-  - name: Ethernet 4
+  -
+    name: Ethernet 4
     type: 100base-tx
 console-server-ports:
-  - name: ANALOG 01
+  -
+    name: ANALOG 01
     type: rj-45
-  - name: ANALOG 02
+  -
+    name: ANALOG 02
     type: rj-45
-  - name: ANALOG 03
+  -
+    name: ANALOG 03
     type: rj-45
-  - name: ANALOG 04
+  -
+    name: ANALOG 04
     type: rj-45
-  - name: ANALOG 05
+  -
+    name: ANALOG 05
     type: rj-45
-  - name: ANALOG 06
+  -
+    name: ANALOG 06
     type: rj-45
-  - name: ANALOG 07
+  -
+    name: ANALOG 07
     type: rj-45
-  - name: ANALOG 08
+  -
+    name: ANALOG 08
     type: rj-45
-  - name: ANALOG 09
+  -
+    name: ANALOG 09
     type: rj-45
-  - name: ANALOG 10
+  -
+    name: ANALOG 10
     type: rj-45
-  - name: ANALOG 11
+  -
+    name: ANALOG 11
     type: rj-45
-  - name: ANALOG 12
+  -
+    name: ANALOG 12
     type: rj-45
-  - name: ANALOG 13
+  -
+    name: ANALOG 13
     type: rj-45
-  - name: ANALOG 14
+  -
+    name: ANALOG 14
     type: rj-45
-  - name: ANALOG 15
+  -
+    name: ANALOG 15
     type: rj-45
-  - name: ANALOG 16
+  -
+    name: ANALOG 16
     type: rj-45
 rear-ports:
-  - name: LAN-FO
+  -
+    name: LAN-FO
     type: sc-upc
+module-bays: []

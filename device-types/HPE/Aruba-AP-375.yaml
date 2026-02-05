@@ -38,5 +38,6 @@ interfaces:
     type: ieee802.15.1
 module-bays:
   -
-    name: E1
-    position: '1'
+    name: SFP
+    position: E1
+    label: E1

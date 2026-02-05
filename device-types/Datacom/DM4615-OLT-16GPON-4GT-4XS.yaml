@@ -99,14 +99,18 @@ module-bays:
     label: '2'
     position: '2'
   -
-    name: ten-gigabit-ethernet-1/1/1
-    position: '1'
+    name: SFP
+    position: ten-gigabit-ethernet-1/1/1
+    label: ten-gigabit-ethernet-1/1/1
   -
-    name: ten-gigabit-ethernet-1/1/2
-    position: '2'
+    name: SFP
+    position: ten-gigabit-ethernet-1/1/2
+    label: ten-gigabit-ethernet-1/1/2
   -
-    name: ten-gigabit-ethernet-1/1/3
-    position: '3'
+    name: SFP
+    position: ten-gigabit-ethernet-1/1/3
+    label: ten-gigabit-ethernet-1/1/3
   -
-    name: ten-gigabit-ethernet-1/1/4
-    position: '4'
+    name: SFP
+    position: ten-gigabit-ethernet-1/1/4
+    label: ten-gigabit-ethernet-1/1/4

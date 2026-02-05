@@ -28,11 +28,13 @@ module-bays:
     name: IOM_5
     position: IOM_5
   -
-    name: RDMA_Expand_1
-    position: '1'
+    name: QSFP
+    position: RDMA_Expand_1
+    label: RDMA_Expand_1
   -
-    name: RDMA_Expand_2
-    position: '2'
+    name: QSFP
+    position: RDMA_Expand_2
+    label: RDMA_Expand_2
 interfaces:
   -
     name: Net

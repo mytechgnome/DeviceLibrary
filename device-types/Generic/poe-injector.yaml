@@ -8,12 +8,17 @@ airflow: passive
 weight: 0.5
 weight_unit: kg
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c6
 front-ports:
-  - name: POE
+  -
+    name: POE
     type: 8p8c
     rear_port: LAN
 rear-ports:
-  - name: LAN
+  -
+    name: LAN
     type: 8p8c
+module-bays: []
+interfaces: []

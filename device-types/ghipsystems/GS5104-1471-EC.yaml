@@ -8,23 +8,30 @@ u_height: 1
 is_full_depth: false
 is_powered: false
 front-ports:
-  - name: '1471'
+  -
+    name: '1471'
     type: lc
     rear_port: Network
     rear_port_position: 1
-  - name: '1491'
+  -
+    name: '1491'
     type: lc
     rear_port: Network
     rear_port_position: 2
-  - name: '1511'
+  -
+    name: '1511'
     type: lc
     rear_port: Network
     rear_port_position: 3
-  - name: '1531'
+  -
+    name: '1531'
     type: lc
     rear_port: Network
     rear_port_position: 4
 rear-ports:
-  - name: Network
+  -
+    name: Network
     type: lc
     positions: 4
+module-bays: []
+interfaces: []

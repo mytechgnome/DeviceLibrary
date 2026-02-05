@@ -9,16 +9,19 @@ airflow: passive
 weight: 210
 weight_unit: g
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 10gbase-t
     mgmt_only: false
-  - name: Port 2
+  -
+    name: Port 2
     type: 10gbase-t
     poe_mode: pse
     poe_type: type3-ieee802.3bt
     mgmt_only: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c6
     maximum_draw: 60
 front_image: true
@@ -32,3 +35,4 @@ comments: |
   Weight: 210 g (7.4 oz)
   Output voltage: 48V DC @ 1.25A
   Certifications: CE, FCC, IC, UL, UKCA, KC, CCC, KC, RoHS
+module-bays: []

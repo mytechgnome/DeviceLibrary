@@ -8,58 +8,83 @@ is_full_depth: false
 u_height: 0
 # comments: WTI NBB 0U, 1 ethernet, 20 outlet 20A 120V
 interfaces:
-  - name: ETH0
+  -
+    name: ETH0
     type: 1000base-t
 console-server-ports:
-  - name: port1
+  -
+    name: port1
     type: rj-45
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: iec-60320-c20
     maximum_draw: 10
     allocated_draw: 5
-  - name: PS2
+  -
+    name: PS2
     type: iec-60320-c20
     maximum_draw: 10
     allocated_draw: 5
 power-outlets:
-  - name: Outlet_A1
+  -
+    name: Outlet_A1
     type: nema-5-15r
-  - name: Outlet_A2
+  -
+    name: Outlet_A2
     type: nema-5-15r
-  - name: Outlet_A3
+  -
+    name: Outlet_A3
     type: nema-5-15r
-  - name: Outlet_A4
+  -
+    name: Outlet_A4
     type: nema-5-15r
-  - name: Outlet_A5
+  -
+    name: Outlet_A5
     type: nema-5-15r
-  - name: Outlet_A6
+  -
+    name: Outlet_A6
     type: nema-5-15r
-  - name: Outlet_A7
+  -
+    name: Outlet_A7
     type: nema-5-15r
-  - name: Outlet_A8
+  -
+    name: Outlet_A8
     type: nema-5-15r
-  - name: Outlet_A9
+  -
+    name: Outlet_A9
     type: nema-5-15r
-  - name: Outlet_A10
+  -
+    name: Outlet_A10
     type: nema-5-15r
-  - name: Outlet_A11
+  -
+    name: Outlet_A11
     type: nema-5-15r
-  - name: Outlet_A12
+  -
+    name: Outlet_A12
     type: nema-5-15r
-  - name: Outlet_A13
+  -
+    name: Outlet_A13
     type: nema-5-15r
-  - name: Outlet_A14
+  -
+    name: Outlet_A14
     type: nema-5-15r
-  - name: Outlet_A15
+  -
+    name: Outlet_A15
     type: nema-5-15r
-  - name: Outlet_A16
+  -
+    name: Outlet_A16
     type: nema-5-15r
-  - name: Outlet_A17
+  -
+    name: Outlet_A17
     type: nema-5-15r
-  - name: Outlet_A18
+  -
+    name: Outlet_A18
     type: nema-5-15r
-  - name: Outlet_A19
+  -
+    name: Outlet_A19
     type: nema-5-15r
-  - name: Outlet_A20
+  -
+    name: Outlet_A20
     type: nema-5-15r
+module-bays: []

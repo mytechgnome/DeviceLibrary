@@ -62,8 +62,12 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: gi0/9
-    position: '9'
+    name: SFP
+    position: gi0/9
+    label: gi0/9
+    description: comboport 1000BASE-T / 1000BASE-X
   -
-    name: gi0/10
-    position: '10'
+    name: SFP
+    position: gi0/10
+    label: gi0/10
+    description: comboport 1000BASE-T / 1000BASE-X

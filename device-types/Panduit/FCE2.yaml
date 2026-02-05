@@ -8,11 +8,21 @@ is_full_depth: false
 subdevice_role: parent
 is_powered: false
 device-bays:
-  - name: A
-  - name: B
-  - name: C
-  - name: D
-  - name: E
-  - name: F
-  - name: G
-  - name: H
+  -
+    name: A
+  -
+    name: B
+  -
+    name: C
+  -
+    name: D
+  -
+    name: E
+  -
+    name: F
+  -
+    name: G
+  -
+    name: H
+module-bays: []
+interfaces: []

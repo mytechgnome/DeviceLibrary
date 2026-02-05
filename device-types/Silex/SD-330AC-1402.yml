@@ -12,14 +12,19 @@ front_image: false
 rear_image: false
 comments: SD-330AC-1402 Wireless / Wired Serial Device Server / Ethernet to Wi-Fi Bridge [SD-330AC-1402 Product Brochure](https://f.hubspotusercontent00.net/hubfs/205257/Resource%20PDF/SD-330AC-1402_Product_Brief_v2.pdf)
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
     maximum_draw: 3
 interfaces:
-  - name: ETH1
+  -
+    name: ETH1
     type: 100base-tx
-  - name: WLAN0
+  -
+    name: WLAN0
     type: ieee802.11ac
 console-server-ports:
-  - name: SERIAL1
+  -
+    name: SERIAL1
     type: de-9
+module-bays: []

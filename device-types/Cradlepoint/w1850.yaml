@@ -7,26 +7,33 @@ u_height: 1.0
 is_full_depth: false
 comments: '[Cradlepoint W1850](https://cradlepoint.com/product/endpoints/w1850-series/)'
 console-ports:
-  - name: Con
+  -
+    name: Con
     type: rj-45
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 30
 interfaces:
-  - name: LAN1
+  -
+    name: LAN1
     type: 2.5gbase-t
     enabled: true
     mgmt_only: false
-  - name: LAN2
+  -
+    name: LAN2
     type: 2.5gbase-t
     enabled: true
     mgmt_only: false
-  - name: SIM1
+  -
+    name: SIM1
     type: 5g
     enabled: true
     mgmt_only: false
-  - name: SIM2
+  -
+    name: SIM2
     type: 5g
     enabled: true
     mgmt_only: false
+module-bays: []

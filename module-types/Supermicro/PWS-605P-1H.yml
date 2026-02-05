@@ -5,6 +5,7 @@ part_number: PWS-605P-1H
 comments: |
   [600W Platinum Multiple Output Power Supply](https://store.supermicro.com/600w-1u-pws-605p-1h.html)
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: iec-60320-c14
     maximum_draw: 600

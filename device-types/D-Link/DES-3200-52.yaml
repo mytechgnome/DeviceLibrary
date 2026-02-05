@@ -168,14 +168,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: 49F
-    position: '49'
+    name: SFP
+    position: 49F
+    label: 49F
   -
-    name: 50F
-    position: '50'
+    name: SFP
+    position: 50F
+    label: 50F
   -
-    name: 51F
-    position: '51'
+    name: SFP
+    position: 51F
+    label: 51F
   -
-    name: 52F
-    position: '52'
+    name: SFP
+    position: 52F
+    label: 52F

@@ -92,8 +92,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: gi23-sfp
-    position: '23'
+    name: SFP
+    position: gi23-sfp
+    label: gi23-sfp
   -
-    name: gi24-sfp
-    position: '24'
+    name: SFP
+    position: gi24-sfp
+    label: gi24-sfp

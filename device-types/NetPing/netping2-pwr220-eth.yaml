@@ -9,17 +9,23 @@ weight: 0.5
 weight_unit: kg
 airflow: passive
 power-ports:
-  - name: Power Cable 1.2m
+  -
+    name: Power Cable 1.2m
     type: ita-f
 power-outlets:
-  - name: Power Outlet 1
+  -
+    name: Power Outlet 1
     type: iec-60320-c13
     power_port: Power Cable 1.2m
-  - name: Power Outlet 2
+  -
+    name: Power Outlet 2
     type: iec-60320-c13
     power_port: Power Cable 1.2m
 interfaces:
-  - name: Eth1
+  -
+    name: Eth1
     type: 100base-tx
-  - name: Eth2
+  -
+    name: Eth2
     type: 100base-tx
+module-bays: []

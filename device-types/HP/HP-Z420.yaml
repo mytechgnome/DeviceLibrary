@@ -11,8 +11,11 @@ front_image: true
 rear_image: true
 comments: '[Datasheet](http://www.hp.com/united-states/campaigns/workstations/images/datasheet_z420.pdf)\n\n- Rear ports are listed left-to-right top-to-bottom.'
 interfaces:
-  - name: ethernet-1/1
+  -
+    name: ethernet-1/1
     type: 1000base-t
 power-ports:
-  - name: External Power Supply
+  -
+    name: External Power Supply
     type: iec-60320-c14
+module-bays: []

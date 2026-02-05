@@ -31,14 +31,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: ethernet 6
-    position: '6'
+    name: SFP
+    position: ethernet 6
+    label: ethernet 6
   -
-    name: ethernet 7
-    position: '7'
+    name: SFP
+    position: ethernet 7
+    label: ethernet 7
   -
-    name: ethernet 8
-    position: '8'
+    name: SFP
+    position: ethernet 8
+    label: ethernet 8
   -
-    name: ethernet 9
-    position: '9'
+    name: SFP
+    position: ethernet 9
+    label: ethernet 9

@@ -9,61 +9,84 @@ airflow: front-to-rear
 weight: 9.93
 weight_unit: kg
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
-  - name: Keyboard
+  -
+    name: Keyboard
     type: other
-  - name: Front USB1
+  -
+    name: Front USB1
     type: usb-a
-  - name: Front USB2
+  -
+    name: Front USB2
     type: usb-a
-  - name: Front USB3
+  -
+    name: Front USB3
     type: usb-c
-  - name: Rear USB1
+  -
+    name: Rear USB1
     type: usb-a
 module-bays:
-  - name: PS1
+  -
+    name: PS1
     position: '1'
-  - name: PS2
+  -
+    name: PS2
     position: '2'
-  - name: FAN1
+  -
+    name: FAN1
     position: '1'
-  - name: FAN2
+  -
+    name: FAN2
     position: '2'
-  - name: FAN3
+  -
+    name: FAN3
     position: '3'
-  - name: FAN4
+  -
+    name: FAN4
     position: '4'
-  - name: FAN5
+  -
+    name: FAN5
     position: '5'
 interfaces:
-  - name: mgmt1
+  -
+    name: mgmt1
     type: 1000base-t
     mgmt_only: true
-  - name: mgmt2
+  -
+    name: mgmt2
     type: 1000base-t
     mgmt_only: true
-  - name: port1
+  -
+    name: port1
     type: 1000base-t
     mgmt_only: false
-  - name: port2
+  -
+    name: port2
     type: 1000base-t
     mgmt_only: false
-  - name: port3
+  -
+    name: port3
     type: 1000base-t
     mgmt_only: false
-  - name: port4
+  -
+    name: port4
     type: 1000base-t
     mgmt_only: false
-  - name: port5
+  -
+    name: port5
     type: 1000base-t
     mgmt_only: false
-  - name: port6
+  -
+    name: port6
     type: 1000base-t
     mgmt_only: false
-  - name: port7
+  -
+    name: port7
     type: 1000base-t
     mgmt_only: false
-  - name: port8
+  -
+    name: port8
     type: 1000base-t
     mgmt_only: false

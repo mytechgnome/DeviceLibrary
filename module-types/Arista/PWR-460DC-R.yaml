@@ -4,6 +4,7 @@ model: PWR-460DC-R
 part_number: PWR-460DC-R
 # airflow: rear-to-front
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 460

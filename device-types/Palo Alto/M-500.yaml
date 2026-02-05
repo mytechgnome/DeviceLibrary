@@ -33,8 +33,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: ethernet1/4
-    position: '4'
+    name: SFP
+    position: ethernet1/4
+    label: ethernet1/4
   -
-    name: ethernet1/5
-    position: '5'
+    name: SFP
+    position: ethernet1/5
+    label: ethernet1/5

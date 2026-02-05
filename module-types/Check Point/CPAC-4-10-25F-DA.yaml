@@ -3,21 +3,20 @@ manufacturer: Check Point
 model: CPAC-4-10/25F-DA
 part_number: CPAC-4-10/25F-DA
 comments: 4 Port 10/25GBase-F SFP+ interface card for 19000/29000 appliances with acceleration
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: eth{module}-01
+    name: '{module}'
     label: '1'
-    position: '01'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}-02
+    name: '{module}'
     label: '2'
-    position: '02'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}-03
+    name: '{module}'
     label: '3'
-    position: '03'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}-04
+    name: '{module}'
     label: '4'
-    position: '04'
+    type: 25gbase-x-sfp28

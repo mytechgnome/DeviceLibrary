@@ -90,14 +90,20 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: '13'
+    name: SFP
     position: '13'
+    label: '13'
   -
-    name: '14'
+    name: SFP
     position: '14'
+    label: '14'
   -
-    name: '15'
+    name: SFP
     position: '15'
+    label: '15'
+    description: For stacking or as additional SFP+
   -
-    name: '16'
+    name: SFP
     position: '16'
+    label: '16'
+    description: For stacking or as additional SFP+

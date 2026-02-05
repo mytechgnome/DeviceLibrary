@@ -12,36 +12,50 @@ weight: 25
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
-  - name: Console
+  -
+    name: Console
     label: IOIOI
     type: rj-45
 interfaces:
-  - name: CIMC
+  -
+    name: CIMC
     type: 1000base-t
     label: o]
     mgmt_only: true
 module-bays:
-  - name: PSU 01
+  -
+    name: PSU 01
     position: '1'
-  - name: PSU 02
+  -
+    name: PSU 02
     position: '2'
-  - name: RAID
+  -
+    name: RAID
     position: RAID
-  - name: mLOM
+  -
+    name: mLOM
     position: mLOM
-  - name: PCIe slot 1
+  -
+    name: PCIe slot 1
     position: PCIe-1
-  - name: PCIe slot 2
+  -
+    name: PCIe slot 2
     position: PCIe-2
-  - name: PCIe slot 3
+  -
+    name: PCIe slot 3
     position: PCIe-3
-  - name: PCIe slot 4
+  -
+    name: PCIe slot 4
     position: PCIe-4
-  - name: PCIe slot 5
+  -
+    name: PCIe slot 5
     position: PCIe-5
-  - name: PCIe slot 6
+  -
+    name: PCIe slot 6
     position: PCIe-6
-  - name: PCIe slot 7
+  -
+    name: PCIe slot 7
     position: PCIe-7
-  - name: PCIe slot 8
+  -
+    name: PCIe slot 8
     position: PCIe-8

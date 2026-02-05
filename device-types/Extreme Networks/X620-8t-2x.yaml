@@ -54,8 +54,12 @@ interfaces:
     type: 10gbase-t
 module-bays:
   -
-    name: '9'
+    name: SFP
     position: '9'
+    label: '9'
+    description: Can be used for stacking or as a standard port
   -
-    name: '10'
+    name: SFP
     position: '10'
+    label: '10'
+    description: Can be used for stacking or as a standard port

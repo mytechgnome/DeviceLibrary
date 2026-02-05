@@ -13,16 +13,23 @@ front_image: true
 rear_image: true
 comments: '[USW-WAN-RJ45 Techspecs]https://techspecs.ui.com/unifi/switching/usw-wan-rj45'
 power-ports:
-  - name: Input1
+  -
+    name: Input1
     type: iec-60320-c14
-  - name: Input2
+  -
+    name: Input2
     type: iec-60320-c14
 interfaces:
-  - name: MGMT
+  -
+    name: MGMT
     type: 1000base-t
-  - name: Port1
+  -
+    name: Port1
     type: 10gbase-t
-  - name: Port2
+  -
+    name: Port2
     type: 10gbase-t
-  - name: Port3
+  -
+    name: Port3
     type: 10gbase-t
+module-bays: []

@@ -166,14 +166,18 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: Ethernet1/49
-    position: '49'
+    name: SFP
+    position: Ethernet1/49
+    label: Ethernet1/49
   -
-    name: Ethernet1/50
-    position: '50'
+    name: SFP
+    position: Ethernet1/50
+    label: Ethernet1/50
   -
-    name: Ethernet1/51
-    position: '51'
+    name: SFP
+    position: Ethernet1/51
+    label: Ethernet1/51
   -
-    name: Ethernet1/52
-    position: '52'
+    name: SFP
+    position: Ethernet1/52
+    label: Ethernet1/52

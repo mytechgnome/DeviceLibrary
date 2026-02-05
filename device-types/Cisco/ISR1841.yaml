@@ -6,18 +6,25 @@ slug: cisco-isr1841
 u_height: 1
 is_full_depth: false
 interfaces:
-  - name: FastEthernet0/0
+  -
+    name: FastEthernet0/0
     type: 100base-tx
-  - name: FastEthernet0/1
+  -
+    name: FastEthernet0/1
     type: 100base-tx
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
-  - name: aux
+  -
+    name: aux
     type: rj-45
-  - name: usb
+  -
+    name: usb
     type: usb-mini-b
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: iec-60320-c6
     maximum_draw: 50
+module-bays: []

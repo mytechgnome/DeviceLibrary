@@ -11,29 +11,35 @@ u_height: 3
 is_full_depth: true
 airflow: front-to-rear
 interfaces:
-  - name: mgmt0
+  -
+    name: mgmt0
     type: virtual
     mgmt_only: true
 module-bays:
-  - name: Line Card
+  -
+    name: Line Card
     position: '1'
     label: '1'
     description: Slot 1
-  - name: Supervisor Module
+  -
+    name: Supervisor Module
     position: '2'
     label: '2'
     description: Slot 2
 
-  - name: Power Supply 1
+  -
+    name: Power Supply 1
     position: '1'
     label: PS 1
     description: Slot 33
-  - name: Power Supply 2
+  -
+    name: Power Supply 2
     position: '2'
     label: PS 2
     description: Slot 34
 
-  - name: Fan
+  -
+    name: Fan
     position: '1'
     label: Fan
     description: Slot 35

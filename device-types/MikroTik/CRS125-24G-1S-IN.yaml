@@ -87,5 +87,6 @@ power-ports:
     type: dc-terminal
 module-bays:
   -
-    name: sfp1
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1

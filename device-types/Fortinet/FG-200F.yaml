@@ -119,50 +119,50 @@ interfaces:
     label: '16'
 module-bays:
   -
-    name: port17
-    label: '17'
-    position: '17'
+    name: SFP
+    position: port17
+    label: port17
   -
-    name: port18
-    label: '18'
-    position: '18'
+    name: SFP
+    position: port18
+    label: port18
   -
-    name: port19
-    label: '19'
-    position: '19'
+    name: SFP
+    position: port19
+    label: port19
   -
-    name: port20
-    label: '20'
-    position: '20'
+    name: SFP
+    position: port20
+    label: port20
   -
-    name: port21
-    label: '21'
-    position: '21'
+    name: SFP
+    position: port21
+    label: port21
   -
-    name: port22
-    label: '22'
-    position: '22'
+    name: SFP
+    position: port22
+    label: port22
   -
-    name: port23
-    label: '23'
-    position: '23'
+    name: SFP
+    position: port23
+    label: port23
   -
-    name: port24
-    label: '24'
-    position: '24'
+    name: SFP
+    position: port24
+    label: port24
   -
-    name: x1
-    label: X1
-    position: '1'
+    name: SFP
+    position: x1
+    label: x1
   -
-    name: x2
-    label: X2
-    position: '2'
+    name: SFP
+    position: x2
+    label: x2
   -
-    name: x3
-    label: X3
-    position: '3'
+    name: SFP
+    position: x3
+    label: x3
   -
-    name: x4
-    label: X4
-    position: '4'
+    name: SFP
+    position: x4
+    label: x4

@@ -4,6 +4,7 @@ model: PWR-500DC-F
 part_number: PWR-500DC-F
 # airflow: front-to-rear
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 500

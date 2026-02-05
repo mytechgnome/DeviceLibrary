@@ -132,32 +132,42 @@ module-bays:
     position: nvme20
     description: U.2 NVMe slot 20, PCIe 2x8 GT/s
   -
-    name: qsfp28-1-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-1-1
+    label: qsfp28-1-1
   -
-    name: qsfp28-2-1
-    position: '1'
+    name: QSFP
+    position: qsfp28-2-1
+    label: qsfp28-2-1
   -
-    name: sfp-sfpplus1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: sfp-sfpplus2
-    position: '2'
+    name: SFP
+    position: sfp-sfpplus2
+    label: sfp-sfpplus2
   -
-    name: sfp-sfpplus3
-    position: '3'
+    name: SFP
+    position: sfp-sfpplus3
+    label: sfp-sfpplus3
   -
-    name: sfp-sfpplus4
-    position: '4'
+    name: SFP
+    position: sfp-sfpplus4
+    label: sfp-sfpplus4
   -
-    name: sfp28-1
-    position: '1'
+    name: SFP
+    position: sfp28-1
+    label: sfp28-1
   -
-    name: sfp28-2
-    position: '2'
+    name: SFP
+    position: sfp28-2
+    label: sfp28-2
   -
-    name: sfp28-3
-    position: '3'
+    name: SFP
+    position: sfp28-3
+    label: sfp28-3
   -
-    name: sfp28-4
-    position: '4'
+    name: SFP
+    position: sfp28-4
+    label: sfp28-4

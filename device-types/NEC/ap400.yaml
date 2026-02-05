@@ -13,7 +13,8 @@ airflow: passive
 weight: 302.0
 weight_unit: g
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
     enabled: true
     mgmt_only: false
@@ -21,3 +22,4 @@ interfaces:
     description: eth0
     poe_mode: pd
     poe_type: type1-ieee802.3af
+module-bays: []

@@ -29,17 +29,21 @@ module-bays:
     name: PIC 2 (Uplink Module)
     position: '2'
   -
-    name: et-0/1/0
-    position: '0'
+    name: QSFP
+    position: et-0/1/0
+    label: et-0/1/0
   -
-    name: et-0/1/1
-    position: '1'
+    name: QSFP
+    position: et-0/1/1
+    label: et-0/1/1
   -
-    name: et-0/1/2
-    position: '2'
+    name: QSFP
+    position: et-0/1/2
+    label: et-0/1/2
   -
-    name: et-0/1/3
-    position: '3'
+    name: QSFP
+    position: et-0/1/3
+    label: et-0/1/3
 interfaces:
   -
     name: me0

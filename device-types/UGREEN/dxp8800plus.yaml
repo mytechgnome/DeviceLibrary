@@ -11,12 +11,16 @@ weight_unit: kg
 is_full_depth: false
 comments: '[UGREEN NASync DXP8800 Plus Specs](https://support.ugnas.com/knowledgecenter/#/detail/eyJjb2RlIjoiMiYmNzg2In0=)'
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 10gbase-t
     label: LAN 1
-  - name: LAN 2
+  -
+    name: LAN 2
     type: 10gbase-t
     label: LAN 2
+module-bays: []

@@ -11,7 +11,8 @@ airflow: passive
 front_image: true
 rear_image: true
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
     poe_mode: pd
     poe_type: type1-ieee802.3af
@@ -37,3 +38,4 @@ comments: |
   * **Max. Power Consumption:** 12.5W
   * **Weight:** 550 g (1.2 lb)
   * **Certifications:** CE, FCC, IC
+module-bays: []

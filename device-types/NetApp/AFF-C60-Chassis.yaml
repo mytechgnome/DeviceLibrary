@@ -13,12 +13,17 @@ weight_unit: kg
 front_image: true
 rear_image: true
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: '1'
-  - name: PSU 2
+  -
+    name: PSU 2
     position: '2'
 device-bays:
-  - name: A
+  -
+    name: A
     description: A
-  - name: B
+  -
+    name: B
     description: B
+interfaces: []

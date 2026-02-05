@@ -12,9 +12,11 @@ comments: '[Wirnet Station Product Page](https://web.archive.org/web/20220129021
 front_image: true
 rear_image: true
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 100base-tx
     enabled: true
     mgmt_only: false
     poe_mode: pd
     poe_type: type1-ieee802.3af
+module-bays: []

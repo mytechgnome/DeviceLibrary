@@ -85,8 +85,10 @@ power-ports:
     type: iec-60320-c16
 module-bays:
   -
-    name: TenGigabitEthernet1/0/1
-    position: '1'
+    name: SFP
+    position: TenGigabitEthernet1/0/1
+    label: TenGigabitEthernet1/0/1
   -
-    name: TenGigabitEthernet1/0/2
-    position: '2'
+    name: SFP
+    position: TenGigabitEthernet1/0/2
+    label: TenGigabitEthernet1/0/2

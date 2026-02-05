@@ -10,42 +10,55 @@ weight: 4
 weight_unit: kg
 comments: Rack PDU Switched, 1U, 16A, 230V, (8) C13
 console-ports:
-  - name: CAN Out
+  -
+    name: CAN Out
     label: Out
     type: rj-45
 console-server-ports:
-  - name: CAN In
+  -
+    name: CAN In
     label: In
     type: rj-45
 interfaces:
-  - name: Ethernet
+  -
+    name: Ethernet
     type: 1000base-tx
     mgmt_only: true
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60320-c20
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Power Port 1
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Power Port 1
+module-bays: []

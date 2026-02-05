@@ -3,17 +3,16 @@ manufacturer: Lanner
 model: NCS2-IXM415A
 part_number: NCS2-IXM415A
 comments: 4x 25GbE/10GbE SFP28 Ports, Slim-type Module
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: eth{module}/0
-    position: '0'
+    name: '{module}'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}/1
-    position: '1'
+    name: '{module}'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}/2
-    position: '2'
+    name: '{module}'
+    type: 25gbase-x-sfp28
   -
-    name: eth{module}/3
-    position: '3'
+    name: '{module}'
+    type: 25gbase-x-sfp28

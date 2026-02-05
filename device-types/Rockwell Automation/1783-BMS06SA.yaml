@@ -6,31 +6,43 @@ slug: rockwell-automation-1783-bms06sa
 u_height: 3
 is_full_depth: false
 interfaces:
-  - name: FastEthernet1/1
+  -
+    name: FastEthernet1/1
     type: 100base-tx
-  - name: FastEthernet1/2
+  -
+    name: FastEthernet1/2
     type: 100base-tx
-  - name: FastEthernet1/3
+  -
+    name: FastEthernet1/3
     type: 100base-tx
-  - name: FastEthernet1/4
+  -
+    name: FastEthernet1/4
     type: 100base-tx
-  - name: FastEthernet1/5
+  -
+    name: FastEthernet1/5
     type: 100base-tx
-  - name: FastEthernet1/6
+  -
+    name: FastEthernet1/6
     type: 100base-tx
-  - name: SVI1
+  -
+    name: SVI1
     type: virtual
 console-ports:
-  - name: usb
+  -
+    name: usb
     type: usb-mini-b
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
 power-ports:
-  - name: Pwr-A
+  -
+    name: Pwr-A
     type: dc-terminal
     maximum_draw: 15
     allocated_draw: 10
-  - name: Pwr-B
+  -
+    name: Pwr-B
     type: dc-terminal
     maximum_draw: 15
     allocated_draw: 10
+module-bays: []

@@ -9,26 +9,37 @@ airflow: passive
 weight: 1400.0
 weight_unit: g
 console-ports:
-  - name: con 0
+  -
+    name: con 0
     type: rj-45
 power-ports:
-  - name: POWER
+  -
+    name: POWER
     type: iec-60320-c14
     maximum_draw: 12
 interfaces:
-  - name: GigabitEthernet0/1
+  -
+    name: GigabitEthernet0/1
     type: 1000base-t
-  - name: GigabitEthernet0/2
+  -
+    name: GigabitEthernet0/2
     type: 1000base-t
-  - name: GigabitEthernet0/3
+  -
+    name: GigabitEthernet0/3
     type: 1000base-t
-  - name: GigabitEthernet0/4
+  -
+    name: GigabitEthernet0/4
     type: 1000base-t
-  - name: GigabitEthernet0/5
+  -
+    name: GigabitEthernet0/5
     type: 1000base-t
-  - name: GigabitEthernet0/6
+  -
+    name: GigabitEthernet0/6
     type: 1000base-t
-  - name: GigabitEthernet0/7
+  -
+    name: GigabitEthernet0/7
     type: 1000base-t
-  - name: GigabitEthernet0/8
+  -
+    name: GigabitEthernet0/8
     type: 1000base-t
+module-bays: []

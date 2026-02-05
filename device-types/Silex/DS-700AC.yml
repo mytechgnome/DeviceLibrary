@@ -12,16 +12,22 @@ front_image: false
 rear_image: false
 comments: DS-700AC USB 3.0 [DS-700AC Product Brochure](https://gzhls.at/blob/ldb/8/3/4/f/7f65daef016ce03911f80b252ae62d17ba71.pdf)
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
     maximum_draw: 6
 interfaces:
-  - name: ETH1
+  -
+    name: ETH1
     type: 1000base-t
-  - name: WLAN0
+  -
+    name: WLAN0
     type: ieee802.11ac
 console-server-ports:
-  - name: USB1
+  -
+    name: USB1
     type: usb-a
-  - name: USB2
+  -
+    name: USB2
     type: usb-a
+module-bays: []

@@ -8,26 +8,37 @@ front_image: true
 rear_image: true
 u_height: 1
 interfaces:
-  - name: gigabitethernet 0/0/0
+  -
+    name: gigabitethernet 0/0/0
     type: 1000base-t
-  - name: gigabitethernet 0/0/1
+  -
+    name: gigabitethernet 0/0/1
     type: 1000base-t
-  - name: gigabitethernet 0/0/2
+  -
+    name: gigabitethernet 0/0/2
     type: 1000base-t
-  - name: gigabitethernet 0/0/3
+  -
+    name: gigabitethernet 0/0/3
     type: 1000base-t
-  - name: gigabitethernet 0/0/4
+  -
+    name: gigabitethernet 0/0/4
     type: 1000base-t
-  - name: gigabitethernet 0/0/5
+  -
+    name: gigabitethernet 0/0/5
     type: 1000base-t
-  - name: gigabitethernet 0/0/6
+  -
+    name: gigabitethernet 0/0/6
     type: 1000base-t
-  - name: gigabitethernet 0/0/7
+  -
+    name: gigabitethernet 0/0/7
     type: 1000base-t
 power-ports:
-  - name: PEM0
+  -
+    name: PEM0
     type: iec-60320-c14
     maximum_draw: 55
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
+module-bays: []

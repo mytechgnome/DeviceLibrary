@@ -14,6 +14,7 @@ comments: |
 
   [Product Page](https://mikrotik.com/product/hot_swap__48v_dc_telecom_power_supply_for_ccr1072)
 power-ports:
-  - name: power{module}
+  -
+    name: power{module}
     type: hardwired
     maximum_draw: 150

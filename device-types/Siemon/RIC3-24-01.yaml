@@ -9,11 +9,16 @@ subdevice_role: parent
 airflow: passive
 comments: Siemon Rack Mount Interconnect Center 2-RU Fiber-Optic Housing with (4) module bays for Siemon Quick-Pack adapter plates.
 module-bays:
-  - name: A
+  -
+    name: A
     position: A
-  - name: B
+  -
+    name: B
     position: B
-  - name: C
+  -
+    name: C
     position: C
-  - name: D
+  -
+    name: D
     position: D
+interfaces: []

@@ -6,6 +6,7 @@ part_number: JPSU-650W-DC-AFI
 weight: 2.2
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 650

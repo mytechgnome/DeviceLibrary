@@ -3,6 +3,7 @@ manufacturer: Cisco
 model: PWR-C6-715WDC
 part_number: PWR-C6-715WDC
 power-ports:
-  - name: PSU{module}
+  -
+    name: PSU{module}
     type: dc-terminal
     maximum_draw: 715

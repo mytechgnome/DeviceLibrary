@@ -13,48 +13,61 @@ airflow: passive
 weight: 1.0
 weight_unit: kg
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 power-ports:
-  - name: PS1
+  -
+    name: PS1
     type: dc-terminal
     maximum_draw: 95
     allocated_draw: 20
     label: 12V DC
 interfaces:
-  - name: port1
+  -
+    name: port1
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port2
+  -
+    name: port2
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port3
+  -
+    name: port3
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port4
+  -
+    name: port4
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port5
+  -
+    name: port5
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port6
+  -
+    name: port6
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port7
+  -
+    name: port7
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: port8
+  -
+    name: port8
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: wan1
+  -
+    name: wan1
     type: 1000base-t
-  - name: wan2
+  -
+    name: wan2
     type: 1000base-t
+module-bays: []

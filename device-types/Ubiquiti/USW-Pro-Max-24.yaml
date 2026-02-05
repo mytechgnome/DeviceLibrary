@@ -17,64 +17,94 @@ front_image: true
 rear_image: true
 interfaces:
   # Gigabit Ethernet ports (1-16)
-  - name: Port 1
+  -
+    name: Port 1 type: 1000base-t
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 5
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 6
     type: 1000base-t
-  - name: Port 6
+  -
+    name: Port 7
     type: 1000base-t
-  - name: Port 7
+  -
+    name: Port 8
     type: 1000base-t
-  - name: Port 8
+  -
+    name: Port 9
     type: 1000base-t
-  - name: Port 9
+  -
+    name: Port 10
     type: 1000base-t
-  - name: Port 10
+  -
+    name: Port 11
     type: 1000base-t
-  - name: Port 11
+  -
+    name: Port 12
     type: 1000base-t
-  - name: Port 12
+  -
+    name: Port 13
     type: 1000base-t
-  - name: Port 13
+  -
+    name: Port 14
     type: 1000base-t
-  - name: Port 14
+  -
+    name: Port 15
     type: 1000base-t
-  - name: Port 15
-    type: 1000base-t
-  - name: Port 16
+  -
+    name: Port 16
     type: 1000base-t
   # 2.5GbE Ethernet ports (17-24)
-  - name: Port 17
+  -
+    name: Port 17
     type: 2.5gbase-t
-  - name: Port 18
+  -
+    name: Port 18
     type: 2.5gbase-t
-  - name: Port 19
+  -
+    name: Port 19
     type: 2.5gbase-t
-  - name: Port 20
+  -
+    name: Port 20
     type: 2.5gbase-t
-  - name: Port 21
+  -
+    name: Port 21
     type: 2.5gbase-t
-  - name: Port 22
+  -
+    name: Port 22
     type: 2.5gbase-t
-  - name: Port 23
+  -
+    name: Port 23
     type: 2.5gbase-t
-  - name: Port 24
+  -
+    name: Port 24
     type: 2.5gbase-t
   # SFP+ uplink ports (25-26)
-  - name: SFP+ 25
-    type: 10gbase-x-sfpp
-  - name: SFP+ 26
-    type: 10gbase-x-sfpp
 power-ports:
-  - name: AC Input
+  -
+    name: AC Input
     type: iec-60320-c14
     maximum_draw: 50
-  - name: USP-RPS connector for PSU failover
+  -
+    name: USP-RPS connector for PSU failover
     type: ubiquiti-smartpower
     maximum_draw: 50
+module-bays:
+  -
+    name: SFP
+    position: SFP+ 25
+    label: SFP+ 25
+  -
+    name: SFP
+    position: SFP+ 26
+    label: SFP+ 26

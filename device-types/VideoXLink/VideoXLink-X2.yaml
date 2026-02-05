@@ -22,15 +22,19 @@ comments: |
 
   [Datasheet](https://www.videoxlink.com/downloads/videoxlink_datasheet_x2.pdf)
 power-ports:
-  - name: POWER1
+  -
+    name: POWER1
     type: iec-60320-c14
     description: AC plug 100-240V 50/60Hz to Mini XLR 19V
-  - name: POWER2
+  -
+    name: POWER2
     type: dc-terminal
     description: 12-19V
 interfaces:
-  - name: ETH0
+  -
+    name: ETH0
     type: 1000base-t
     enabled: true
     mgmt_only: false
     label: '0'
+module-bays: []

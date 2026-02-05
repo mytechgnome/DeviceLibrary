@@ -92,14 +92,18 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: Eth 1/25
-    position: '25'
+    name: SFP
+    position: Eth 1/25
+    label: Eth 1/25
   -
-    name: Eth 1/26
-    position: '26'
+    name: SFP
+    position: Eth 1/26
+    label: Eth 1/26
   -
-    name: Eth 1/27
-    position: '27'
+    name: SFP
+    position: Eth 1/27
+    label: Eth 1/27
   -
-    name: Eth 1/28
-    position: '28'
+    name: SFP
+    position: Eth 1/28
+    label: Eth 1/28

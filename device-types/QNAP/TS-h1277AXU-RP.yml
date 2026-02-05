@@ -11,24 +11,34 @@ comments: '[QNAP TS-h1277AXU-RP](https://www.qnap.com/en/product/ts-h1277axu-rp)
 front_image: true
 rear_image: true
 interfaces:
-  - name: 2.5GE-1
+  -
+    name: 2.5GE-1
     type: 2.5gbase-t
-  - name: 2.5GE-2
+  -
+    name: 2.5GE-2
     type: 2.5gbase-t
-  - name: 10GE-1
+  -
+    name: 10GE-1
     type: 10gbase-t
-  - name: 10GE-2
+  -
+    name: 10GE-2
     type: 10gbase-t
 module-bays:
-  - name: PSU 1
+  -
+    name: PSU 1
     position: '1'
-  - name: PSU 2
+  -
+    name: PSU 2
     position: '2'
-  - name: PCIe-1
+  -
+    name: PCIe-1
     position: PCIE1
-  - name: PCIe-2
+  -
+    name: PCIe-2
     position: PCIE2
-  - name: PCIe-3
+  -
+    name: PCIe-3
     position: PCIE3
-  - name: PCIe-4
+  -
+    name: PCIe-4
     position: PCIE4

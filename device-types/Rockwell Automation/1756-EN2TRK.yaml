@@ -7,7 +7,10 @@ u_height: 0
 is_full_depth: false
 subdevice_role: child
 interfaces:
-  - name: A1
+  -
+    name: A1
     type: 100base-tx
-  - name: A2
+  -
+    name: A2
     type: 100base-tx
+module-bays: []

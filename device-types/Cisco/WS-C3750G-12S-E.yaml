@@ -16,38 +16,50 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: GigabitEthernet1/0/1
-    position: '1'
+    name: SFP
+    position: GigabitEthernet1/0/1
+    label: GigabitEthernet1/0/1
   -
-    name: GigabitEthernet1/0/2
-    position: '2'
+    name: SFP
+    position: GigabitEthernet1/0/2
+    label: GigabitEthernet1/0/2
   -
-    name: GigabitEthernet1/0/3
-    position: '3'
+    name: SFP
+    position: GigabitEthernet1/0/3
+    label: GigabitEthernet1/0/3
   -
-    name: GigabitEthernet1/0/4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet1/0/4
+    label: GigabitEthernet1/0/4
   -
-    name: GigabitEthernet1/0/5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet1/0/5
+    label: GigabitEthernet1/0/5
   -
-    name: GigabitEthernet1/0/6
-    position: '6'
+    name: SFP
+    position: GigabitEthernet1/0/6
+    label: GigabitEthernet1/0/6
   -
-    name: GigabitEthernet1/0/7
-    position: '7'
+    name: SFP
+    position: GigabitEthernet1/0/7
+    label: GigabitEthernet1/0/7
   -
-    name: GigabitEthernet1/0/8
-    position: '8'
+    name: SFP
+    position: GigabitEthernet1/0/8
+    label: GigabitEthernet1/0/8
   -
-    name: GigabitEthernet1/0/9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet1/0/9
+    label: GigabitEthernet1/0/9
   -
-    name: GigabitEthernet1/0/10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet1/0/10
+    label: GigabitEthernet1/0/10
   -
-    name: GigabitEthernet1/0/11
-    position: '11'
+    name: SFP
+    position: GigabitEthernet1/0/11
+    label: GigabitEthernet1/0/11
   -
-    name: GigabitEthernet1/0/12
-    position: '12'
+    name: SFP
+    position: GigabitEthernet1/0/12
+    label: GigabitEthernet1/0/12

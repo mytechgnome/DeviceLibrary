@@ -5,99 +5,123 @@ part_number: S0U62A
 weight: 762
 weight_unit: g
 interfaces:
-  - name: 1/{module}/1
+  -
+    name: 1/{module}/1
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/2
+  -
+    name: 1/{module}/2
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/3
+  -
+    name: 1/{module}/3
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/4
+  -
+    name: 1/{module}/4
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/5
+  -
+    name: 1/{module}/5
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/6
+  -
+    name: 1/{module}/6
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/7
+  -
+    name: 1/{module}/7
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/8
+  -
+    name: 1/{module}/8
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/9
+  -
+    name: 1/{module}/9
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/10
+  -
+    name: 1/{module}/10
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/11
+  -
+    name: 1/{module}/11
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/12
+  -
+    name: 1/{module}/12
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/13
+  -
+    name: 1/{module}/13
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/14
+  -
+    name: 1/{module}/14
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/15
+  -
+    name: 1/{module}/15
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/16
+  -
+    name: 1/{module}/16
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/17
+  -
+    name: 1/{module}/17
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/18
+  -
+    name: 1/{module}/18
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/19
+  -
+    name: 1/{module}/19
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/20
+  -
+    name: 1/{module}/20
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/21
+  -
+    name: 1/{module}/21
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/22
+  -
+    name: 1/{module}/22
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/23
+  -
+    name: 1/{module}/23
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: 1/{module}/24
+  -
+    name: 1/{module}/24
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at

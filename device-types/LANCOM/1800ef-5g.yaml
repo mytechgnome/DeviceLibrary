@@ -40,3 +40,5 @@ console-ports:
 module-bays:
   -
     name: SFP
+    position: SFP
+    label: SFP

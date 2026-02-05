@@ -8,29 +8,41 @@ comments: |
   https://network.yamaha.com/products/switches/swx2220-10nt/index
 is_full_depth: false
 interfaces:
-  - name: port1.1
+  -
+    name: port1.1
     type: 2.5gbase-t
-  - name: port1.2
+  -
+    name: port1.2
     type: 2.5gbase-t
-  - name: port1.3
+  -
+    name: port1.3
     type: 2.5gbase-t
-  - name: port1.4
+  -
+    name: port1.4
     type: 2.5gbase-t
-  - name: port1.5
+  -
+    name: port1.5
     type: 2.5gbase-t
-  - name: port1.6
+  -
+    name: port1.6
     type: 2.5gbase-t
-  - name: port1.7
+  -
+    name: port1.7
     type: 2.5gbase-t
-  - name: port1.8
+  -
+    name: port1.8
     type: 2.5gbase-t
-  - name: port1.9
+  -
+    name: port1.9
     # comment: Combo Port. Either 10gbase-t or 10gbase-x-sfpp can be used
     type: 10gbase-t
-  - name: port1.10
+  -
+    name: port1.10
     # comment: Combo Port. Either 10gbase-t or 10gbase-x-sfpp can be used
     type: 10gbase-t
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 21
+module-bays: []

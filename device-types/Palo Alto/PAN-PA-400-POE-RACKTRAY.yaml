@@ -10,4 +10,7 @@ is_powered: false
 airflow: passive
 comments: Holds one PA-415 or PA-445 firewall in a four-post rack.
 device-bays:
-  - name: Firewall
+  -
+    name: Firewall
+module-bays: []
+interfaces: []

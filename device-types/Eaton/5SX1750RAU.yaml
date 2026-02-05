@@ -9,37 +9,52 @@ comments: Eaton 5SX UPS, 1750 VA, 1575 W, Rack/Tower 2U [Product Page](https://w
 weight: 27
 weight_unit: kg
 console-ports:
-  - name: USB
+  -
+    name: USB
     type: usb-b
-  - name: RS232
+  -
+    name: RS232
     type: rj-45
 interfaces:
-  - name: Network-M2 (optional card)
+  -
+    name: Network-M2 (optional card)
     type: 1000base-t
     mgmt_only: true
 power-ports:
-  - name: Input Power
+  -
+    name: Input Power
     type: iec-60320-c14
     maximum_draw: 1575
-  - name: Battery connector (EBM)
+  -
+    name: Battery connector (EBM)
     type: other
     label: ebm-input
 power-outlets:
-  - name: Power Outlet 1
+  -
+    name: Power Outlet 1
     type: iec-60320-c13
-  - name: Power Outlet 2
+  -
+    name: Power Outlet 2
     type: iec-60320-c13
-  - name: Power Outlet 3
+  -
+    name: Power Outlet 3
     type: iec-60320-c13
-  - name: Power Outlet 4
+  -
+    name: Power Outlet 4
     type: iec-60320-c13
-  - name: Power Outlet 5
+  -
+    name: Power Outlet 5
     type: iec-60320-c13
-  - name: Power Outlet 6
+  -
+    name: Power Outlet 6
     type: iec-60320-c13
-  - name: Power Outlet 7
+  -
+    name: Power Outlet 7
     type: iec-60320-c13
-  - name: Power Outlet 8
+  -
+    name: Power Outlet 8
     type: iec-60320-c13
-  - name: Power Outlet 9
+  -
+    name: Power Outlet 9
     type: iec-60320-c13
+module-bays: []

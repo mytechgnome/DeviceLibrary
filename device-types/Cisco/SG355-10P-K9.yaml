@@ -86,8 +86,10 @@ interfaces:
     type: virtual
 module-bays:
   -
-    name: GigabitEthernet9
-    position: '9'
+    name: SFP
+    position: GigabitEthernet9
+    label: GigabitEthernet9
   -
-    name: GigabitEthernet10
-    position: '10'
+    name: SFP
+    position: GigabitEthernet10
+    label: GigabitEthernet10

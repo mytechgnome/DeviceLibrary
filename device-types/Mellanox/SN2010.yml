@@ -21,68 +21,90 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: swp1
-    position: '1'
+    name: SFP
+    position: swp1
+    label: swp1
   -
-    name: swp2
-    position: '2'
+    name: SFP
+    position: swp2
+    label: swp2
   -
-    name: swp3
-    position: '3'
+    name: SFP
+    position: swp3
+    label: swp3
   -
-    name: swp4
-    position: '4'
+    name: SFP
+    position: swp4
+    label: swp4
   -
-    name: swp5
-    position: '5'
+    name: SFP
+    position: swp5
+    label: swp5
   -
-    name: swp6
-    position: '6'
+    name: SFP
+    position: swp6
+    label: swp6
   -
-    name: swp7
-    position: '7'
+    name: SFP
+    position: swp7
+    label: swp7
   -
-    name: swp8
-    position: '8'
+    name: SFP
+    position: swp8
+    label: swp8
   -
-    name: swp9
-    position: '9'
+    name: SFP
+    position: swp9
+    label: swp9
   -
-    name: swp10
-    position: '10'
+    name: SFP
+    position: swp10
+    label: swp10
   -
-    name: swp11
-    position: '11'
+    name: SFP
+    position: swp11
+    label: swp11
   -
-    name: swp12
-    position: '12'
+    name: SFP
+    position: swp12
+    label: swp12
   -
-    name: swp13
-    position: '13'
+    name: SFP
+    position: swp13
+    label: swp13
   -
-    name: swp14
-    position: '14'
+    name: SFP
+    position: swp14
+    label: swp14
   -
-    name: swp15
-    position: '15'
+    name: SFP
+    position: swp15
+    label: swp15
   -
-    name: swp16
-    position: '16'
+    name: SFP
+    position: swp16
+    label: swp16
   -
-    name: swp17
-    position: '17'
+    name: SFP
+    position: swp17
+    label: swp17
   -
-    name: swp18
-    position: '18'
+    name: SFP
+    position: swp18
+    label: swp18
   -
-    name: swp19
-    position: '19'
+    name: QSFP
+    position: swp19
+    label: swp19
   -
-    name: swp20
-    position: '20'
+    name: QSFP
+    position: swp20
+    label: swp20
   -
-    name: swp21
-    position: '21'
+    name: QSFP
+    position: swp21
+    label: swp21
   -
-    name: swp22
-    position: '22'
+    name: QSFP
+    position: swp22
+    label: swp22

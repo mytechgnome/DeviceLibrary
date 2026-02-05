@@ -10,13 +10,18 @@ comments: 'There are models with 1 WAN, 1 LAN under a different hardware revisio
 weight: 5.4
 weight_unit: oz
 power-ports:
-  - name: POWER
+  -
+    name: POWER
     type: dc-terminal
     maximum_draw: 5
 interfaces:
-  - name: WAN
+  -
+    name: WAN
     type: 100base-tx
-  - name: Phone 1
+  -
+    name: Phone 1
     type: other
-  - name: Phone 2
+  -
+    name: Phone 2
     type: other
+module-bays: []

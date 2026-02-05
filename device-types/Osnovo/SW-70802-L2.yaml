@@ -43,8 +43,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: gi9-sfp
-    position: '9'
+    name: SFP
+    position: gi9-sfp
+    label: gi9-sfp
   -
-    name: gi10-sfp
-    position: '10'
+    name: SFP
+    position: gi10-sfp
+    label: gi10-sfp

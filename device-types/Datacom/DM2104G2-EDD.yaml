@@ -36,14 +36,18 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: eth1
-    position: '1'
+    name: SFP
+    position: eth1
+    label: eth1
   -
-    name: eth2
-    position: '2'
+    name: SFP
+    position: eth2
+    label: eth2
   -
-    name: eth3
-    position: '3'
+    name: SFP
+    position: eth3
+    label: eth3
   -
-    name: eth4
-    position: '4'
+    name: SFP
+    position: eth4
+    label: eth4

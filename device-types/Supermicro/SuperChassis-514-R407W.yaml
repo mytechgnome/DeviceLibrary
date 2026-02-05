@@ -10,29 +10,38 @@ comments: Supermicro SuperChassis 514-R407W (https://www.supermicro.com/en/produ
 weight: 11.43
 weight_unit: kg
 console-ports:
-  - name: COM1
+  -
+    name: COM1
     type: de-9
     label: Rear
 module-bays:
-  - name: PSU0
+  -
+    name: PSU0
     position: PSU 0
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU 1
-  - name: PCI-E 1
+  -
+    name: PCI-E 1
     position: '1'
     description: PCIe FH slot
-  - name: PCI-E 2
+  -
+    name: PCI-E 2
     position: '2'
     description: PCIe FH slot
-  - name: PCI-E 3
+  -
+    name: PCI-E 3
     position: '3'
     description: PCIe LP slot
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI LAN port
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t

@@ -10,33 +10,48 @@ rear_image: true
 weight: 10.3
 weight_unit: lb
 console-ports:
-  - name: RS232
+  -
+    name: RS232
     type: de-9
 power-ports:
-  - name: Primary
+  -
+    name: Primary
     type: iec-60320-c20
     maximum_draw: 3840
-  - name: Secondary
+  -
+    name: Secondary
     type: iec-60320-c20
     maximum_draw: 3840
 power-outlets:
-  - name: '1'
+  -
+    name: '1'
     type: iec-60320-c13
-  - name: '2'
+  -
+    name: '2'
     type: iec-60320-c13
-  - name: '3'
+  -
+    name: '3'
     type: iec-60320-c13
-  - name: '4'
+  -
+    name: '4'
     type: iec-60320-c13
-  - name: '5'
+  -
+    name: '5'
     type: iec-60320-c13
-  - name: '6'
+  -
+    name: '6'
     type: iec-60320-c13
-  - name: '7'
+  -
+    name: '7'
     type: iec-60320-c13
-  - name: '8'
+  -
+    name: '8'
     type: iec-60320-c13
-  - name: '9'
+  -
+    name: '9'
     type: iec-60320-c19
-  - name: '10'
+  -
+    name: '10'
     type: iec-60320-c19
+module-bays: []
+interfaces: []

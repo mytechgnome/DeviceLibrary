@@ -329,20 +329,26 @@ module-bays:
     name: Fan 2
     position: '2'
   -
-    name: Ethernet1/97
-    position: '97'
+    name: QSFP
+    position: Ethernet1/97
+    label: Ethernet1/97
   -
-    name: Ethernet1/98
-    position: '98'
+    name: QSFP
+    position: Ethernet1/98
+    label: Ethernet1/98
   -
-    name: Ethernet1/99
-    position: '99'
+    name: QSFP
+    position: Ethernet1/99
+    label: Ethernet1/99
   -
-    name: Ethernet1/100
-    position: '100'
+    name: QSFP
+    position: Ethernet1/100
+    label: Ethernet1/100
   -
-    name: Ethernet1/101
-    position: '101'
+    name: QSFP
+    position: Ethernet1/101
+    label: Ethernet1/101
   -
-    name: Ethernet1/102
-    position: '102'
+    name: QSFP
+    position: Ethernet1/102
+    label: Ethernet1/102

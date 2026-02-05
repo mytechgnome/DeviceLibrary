@@ -92,8 +92,10 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: '25'
+    name: SFP
     position: '25'
+    label: '25'
   -
-    name: '26'
+    name: SFP
     position: '26'
+    label: '26'

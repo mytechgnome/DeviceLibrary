@@ -17,35 +17,45 @@ module-bays:
     name: PSU Slot 2
     position: '2'
   -
-    name: X24
-    position: '24'
+    name: SFP
+    position: X24
+    label: X24
   -
-    name: X25
-    position: '25'
+    name: SFP
+    position: X25
+    label: X25
   -
-    name: X26
-    position: '26'
+    name: SFP
+    position: X26
+    label: X26
   -
-    name: X27
-    position: '27'
+    name: SFP
+    position: X27
+    label: X27
   -
-    name: X28
-    position: '28'
+    name: SFP
+    position: X28
+    label: X28
   -
-    name: X29
-    position: '29'
+    name: SFP
+    position: X29
+    label: X29
   -
-    name: X30
-    position: '30'
+    name: SFP
+    position: X30
+    label: X30
   -
-    name: X31
-    position: '31'
+    name: SFP
+    position: X31
+    label: X31
   -
-    name: X32
-    position: '32'
+    name: SFP
+    position: X32
+    label: X32
   -
-    name: X33
-    position: '33'
+    name: SFP
+    position: X33
+    label: X33
 inventory-items:
   -
     name: Storage-Module

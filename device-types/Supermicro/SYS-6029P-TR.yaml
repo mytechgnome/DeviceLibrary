@@ -12,38 +12,50 @@ airflow: front-to-rear
 front_image: true
 rear_image: true
 console-ports:
-  - name: Serial
+  -
+    name: Serial
     type: de-9
     description: Rear port
 interfaces:
-  - name: BMC
+  -
+    name: BMC
     type: 1000base-t
     mgmt_only: true
     description: Dedicated IPMI port
-  - name: Gig-E 1
+  -
+    name: Gig-E 1
     type: 1000base-t
-  - name: Gig-E 2
+  -
+    name: Gig-E 2
     type: 1000base-t
 module-bays:
-  - name: PSU1
+  -
+    name: PSU1
     position: PSU1
-  - name: PSU2
+  -
+    name: PSU2
     position: PSU2
-  - name: PCI-E 1
+  -
+    name: PCI-E 1
     position: '1'
     description: PCI-E 3.0x 16-slot
-  - name: PCI-E 2
+  -
+    name: PCI-E 2
     position: '2'
     description: PCI-E 3.0x 16-slot
-  - name: PCI-E 3
+  -
+    name: PCI-E 3
     position: '3'
     description: PCI-E 3.0x 16-slot
-  - name: PCI-E 4
+  -
+    name: PCI-E 4
     position: '4'
     description: PCI-E 3.0x 16-slot
-  - name: PCI-E 5
+  -
+    name: PCI-E 5
     position: '5'
     description: PCI-E 3.0x 8-slot
-  - name: PCI-E 6
+  -
+    name: PCI-E 6
     position: '6'
     description: PCI-E 3.0x 8-slot

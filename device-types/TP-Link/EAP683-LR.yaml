@@ -12,11 +12,14 @@ comments: |
   [TP-Link EAP683 LR Specifications](https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap683-lr/#specifications)
   [TP-Link EAP683 LR Datasheet](https://support.omadanetworks.com/us/document/3612/)
 power-ports:
-  - name: 12VDC
+  -
+    name: 12VDC
     type: dc-terminal
     maximum_draw: 21
 interfaces:
-  - name: LAN 1
+  -
+    name: LAN 1
     type: 2.5gbase-t
     poe_mode: pd
     poe_type: type2-ieee802.3at
+module-bays: []

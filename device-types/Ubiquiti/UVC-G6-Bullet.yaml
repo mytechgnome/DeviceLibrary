@@ -11,7 +11,8 @@ airflow: passive
 front_image: true
 rear_image: true
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 100base-tx
     poe_mode: pd
     poe_type: type1-ieee802.3af
@@ -41,3 +42,4 @@ comments: |
       * Without mount: 587 g (1.3 lb)
       * With mount: 737 g (1.6 lb)
   * **Certifications:** CE, FCC, IC
+module-bays: []

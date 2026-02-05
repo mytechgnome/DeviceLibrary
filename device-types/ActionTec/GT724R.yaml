@@ -5,16 +5,23 @@ slug: actiontec-gt724r
 u_height: 0
 is_full_depth: false
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: nema-5-15p
 interfaces:
-  - name: DSL
+  -
+    name: DSL
     type: other
-  - name: Ethernet 1
+  -
+    name: Ethernet 1
     type: 100base-tx
-  - name: Ethernet 2
+  -
+    name: Ethernet 2
     type: 100base-tx
-  - name: Ethernet 3
+  -
+    name: Ethernet 3
     type: 100base-tx
-  - name: Ethernet 4
+  -
+    name: Ethernet 4
     type: 100base-tx
+module-bays: []

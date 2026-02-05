@@ -40,14 +40,18 @@ power-ports:
     type: iec-60320-c14
 module-bays:
   -
-    name: ixl0
-    position: '0'
+    name: SFP
+    position: ixl0
+    label: ixl0
   -
-    name: ixl1
-    position: '1'
+    name: SFP
+    position: ixl1
+    label: ixl1
   -
-    name: ixl2
-    position: '2'
+    name: SFP
+    position: ixl2
+    label: ixl2
   -
-    name: ixl3
-    position: '3'
+    name: SFP
+    position: ixl3
+    label: ixl3

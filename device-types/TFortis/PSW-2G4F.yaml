@@ -36,8 +36,10 @@ interfaces:
     poe_mode: pse
 module-bays:
   -
-    name: sfp5
-    position: '5'
+    name: SFP
+    position: sfp5
+    label: sfp5
   -
-    name: sfp6
-    position: '6'
+    name: SFP
+    position: sfp6
+    label: sfp6

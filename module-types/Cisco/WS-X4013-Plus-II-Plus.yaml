@@ -3,12 +3,16 @@ manufacturer: Cisco
 part_number: WS-X4013+II-Plus
 model: WS-X4013+II-Plus
 console-ports:
-  - name: Con{module}
+  -
+    name: Con{module}
     type: rj-45
 interfaces:
-  - name: MGT{module}
+  -
+    name: MGT{module}
     type: 1000base-t
-  - name: GigabitEthernet{module}/1
+  -
+    name: GigabitEthernet{module}/1
     type: 1000base-x-gbic
-  - name: GigabitEthernet{module}/2
+  -
+    name: GigabitEthernet{module}/2
     type: 1000base-x-gbic

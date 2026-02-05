@@ -188,20 +188,26 @@ module-bays:
     name: Fan 4
     position: '4'
   -
-    name: Ethernet1/49
-    position: '49'
+    name: QSFP
+    position: Ethernet1/49
+    label: Ethernet1/49
   -
-    name: Ethernet1/50
-    position: '50'
+    name: QSFP
+    position: Ethernet1/50
+    label: Ethernet1/50
   -
-    name: Ethernet1/51
-    position: '51'
+    name: QSFP
+    position: Ethernet1/51
+    label: Ethernet1/51
   -
-    name: Ethernet1/52
-    position: '52'
+    name: QSFP
+    position: Ethernet1/52
+    label: Ethernet1/52
   -
-    name: Ethernet1/53
-    position: '53'
+    name: QSFP
+    position: Ethernet1/53
+    label: Ethernet1/53
   -
-    name: Ethernet1/54
-    position: '54'
+    name: QSFP
+    position: Ethernet1/54
+    label: Ethernet1/54

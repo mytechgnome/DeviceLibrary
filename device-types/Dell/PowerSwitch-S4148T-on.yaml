@@ -147,20 +147,26 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: Ethernet 1/1/25
-    position: '25'
+    name: QSFP
+    position: Ethernet 1/1/25
+    label: Ethernet 1/1/25
   -
-    name: Ethernet 1/1/26
-    position: '26'
+    name: QSFP
+    position: Ethernet 1/1/26
+    label: Ethernet 1/1/26
   -
-    name: Ethernet 1/1/27
-    position: '27'
+    name: QSFP
+    position: Ethernet 1/1/27
+    label: Ethernet 1/1/27
   -
-    name: Ethernet 1/1/28
-    position: '28'
+    name: QSFP
+    position: Ethernet 1/1/28
+    label: Ethernet 1/1/28
   -
-    name: Ethernet 1/1/29
-    position: '29'
+    name: QSFP
+    position: Ethernet 1/1/29
+    label: Ethernet 1/1/29
   -
-    name: Ethernet 1/1/30
-    position: '30'
+    name: QSFP
+    position: Ethernet 1/1/30
+    label: Ethernet 1/1/30

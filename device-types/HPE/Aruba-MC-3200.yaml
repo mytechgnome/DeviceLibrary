@@ -16,14 +16,18 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: (BASE-X)gigabitethernet 0/0/0
-    position: '0'
+    name: SFP
+    position: (BASE-X)gigabitethernet 0/0/0
+    label: (BASE-X)gigabitethernet 0/0/0
   -
-    name: (BASE-X)gigabitethernet 0/0/1
-    position: '1'
+    name: SFP
+    position: (BASE-X)gigabitethernet 0/0/1
+    label: (BASE-X)gigabitethernet 0/0/1
   -
-    name: (BASE-X)gigabitethernet 0/0/2
-    position: '2'
+    name: SFP
+    position: (BASE-X)gigabitethernet 0/0/2
+    label: (BASE-X)gigabitethernet 0/0/2
   -
-    name: (BASE-X)gigabitethernet 0/0/3
-    position: '3'
+    name: SFP
+    position: (BASE-X)gigabitethernet 0/0/3
+    label: (BASE-X)gigabitethernet 0/0/3

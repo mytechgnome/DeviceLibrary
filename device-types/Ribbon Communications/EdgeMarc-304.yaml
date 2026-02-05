@@ -10,18 +10,25 @@ weight: 0.4
 weight_unit: kg
 comments: '[Ribbon Communications Edgemarc](https://ribboncommunications.com/products/enterprise-products/media-gateways/ribbon-edgemarc-300-series-gateway)'
 power-ports:
-  - name: PSU0
+  -
+    name: PSU0
     type: dc-terminal
     maximum_draw: 36
 console-ports:
-  - name: console
+  -
+    name: console
     type: rj-45
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
+module-bays: []

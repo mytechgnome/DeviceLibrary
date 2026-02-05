@@ -36,437 +36,517 @@ module-bays:
     position: PCIe-2
     label: PCIe 2
   -
-    name: '1'
-    label: '1'
+    name: QSFP
     position: '1'
+    label: '1'
   -
-    name: '2'
-    label: '2'
+    name: QSFP
     position: '2'
+    label: '2'
   -
-    name: '3'
-    label: '3'
+    name: QSFP
     position: '3'
+    label: '3'
   -
-    name: '4'
-    label: '4'
+    name: QSFP
     position: '4'
+    label: '4'
   -
-    name: '5'
-    label: 5..8
+    name: QSFP
     position: '5'
+    label: '5'
   -
-    name: 5-10GbE
-    label: 5..8
-    position: '10'
+    name: SFP
+    position: 5-10GbE
+    label: 5-10GbE
+    description: Breakout child for port 5
   -
-    name: 6-10GbE
-    label: 5..8
-    position: '10'
+    name: SFP
+    position: 6-10GbE
+    label: 6-10GbE
+    description: Breakout child for port 5
   -
-    name: 7-10GbE
-    label: 5..8
-    position: '10'
+    name: SFP
+    position: 7-10GbE
+    label: 7-10GbE
+    description: Breakout child for port 5
   -
-    name: 8-10GbE
-    label: 5..8
-    position: '10'
+    name: SFP
+    position: 8-10GbE
+    label: 8-10GbE
+    description: Breakout child for port 5
   -
-    name: '9'
-    label: 9..12
+    name: QSFP
     position: '9'
+    label: '9'
   -
-    name: 9-10GbE
-    label: 9..12
-    position: '10'
+    name: SFP
+    position: 9-10GbE
+    label: 9-10GbE
+    description: Breakout child for port 9
   -
-    name: 10-10GbE
-    label: 9..12
-    position: '10'
+    name: SFP
+    position: 10-10GbE
+    label: 10-10GbE
+    description: Breakout child for port 9
   -
-    name: 11-10GbE
-    label: 9..12
-    position: '10'
+    name: SFP
+    position: 11-10GbE
+    label: 11-10GbE
+    description: Breakout child for port 9
   -
-    name: 12-10GbE
-    label: 9..12
-    position: '10'
+    name: SFP
+    position: 12-10GbE
+    label: 12-10GbE
+    description: Breakout child for port 9
   -
-    name: '13'
-    label: 13..16
+    name: QSFP
     position: '13'
+    label: '13'
   -
-    name: 13-10GbE
-    label: 13..16
-    position: '10'
+    name: SFP
+    position: 13-10GbE
+    label: 13-10GbE
+    description: Breakout child for port 13
   -
-    name: 14-10GbE
-    label: 13..16
-    position: '10'
+    name: SFP
+    position: 14-10GbE
+    label: 14-10GbE
+    description: Breakout child for port 13
   -
-    name: 15-10GbE
-    label: 13..16
-    position: '10'
+    name: SFP
+    position: 15-10GbE
+    label: 15-10GbE
+    description: Breakout child for port 13
   -
-    name: 16-10GbE
-    label: 13..16
-    position: '10'
+    name: SFP
+    position: 16-10GbE
+    label: 16-10GbE
+    description: Breakout child for port 13
   -
-    name: '17'
-    label: 17..20
+    name: QSFP
     position: '17'
+    label: '17'
   -
-    name: 17-10GbE
-    label: 17..20
-    position: '10'
+    name: SFP
+    position: 17-10GbE
+    label: 17-10GbE
+    description: Breakout child for port 17
   -
-    name: 18-10GbE
-    label: 17..20
-    position: '10'
+    name: SFP
+    position: 18-10GbE
+    label: 18-10GbE
+    description: Breakout child for port 17
   -
-    name: 19-10GbE
-    label: 17..20
-    position: '10'
+    name: SFP
+    position: 19-10GbE
+    label: 19-10GbE
+    description: Breakout child for port 17
   -
-    name: 20-10GbE
-    label: 17..20
-    position: '10'
+    name: SFP
+    position: 20-10GbE
+    label: 20-10GbE
+    description: Breakout child for port 17
   -
-    name: '21'
-    label: 21..24
+    name: QSFP
     position: '21'
+    label: '21'
   -
-    name: 21-10GbE
-    label: 21..24
-    position: '10'
+    name: SFP
+    position: 21-10GbE
+    label: 21-10GbE
+    description: Breakout child for port 21
   -
-    name: 22-10GbE
-    label: 21..24
-    position: '10'
+    name: SFP
+    position: 22-10GbE
+    label: 22-10GbE
+    description: Breakout child for port 21
   -
-    name: 23-10GbE
-    label: 21..24
-    position: '10'
+    name: SFP
+    position: 23-10GbE
+    label: 23-10GbE
+    description: Breakout child for port 21
   -
-    name: 24-10GbE
-    label: 21..24
-    position: '10'
+    name: SFP
+    position: 24-10GbE
+    label: 24-10GbE
+    description: Breakout child for port 21
   -
-    name: '25'
-    label: 25..28
+    name: QSFP
     position: '25'
+    label: '25'
   -
-    name: 25-10GbE
-    label: 25..28
-    position: '10'
+    name: SFP
+    position: 25-10GbE
+    label: 25-10GbE
+    description: Breakout child for port 25
   -
-    name: 26-10GbE
-    label: 25..28
-    position: '10'
+    name: SFP
+    position: 26-10GbE
+    label: 26-10GbE
+    description: Breakout child for port 25
   -
-    name: 27-10GbE
-    label: 25..28
-    position: '10'
+    name: SFP
+    position: 27-10GbE
+    label: 27-10GbE
+    description: Breakout child for port 25
   -
-    name: 28-10GbE
-    label: 25..28
-    position: '10'
+    name: SFP
+    position: 28-10GbE
+    label: 28-10GbE
+    description: Breakout child for port 25
   -
-    name: '29'
-    label: 29..32
+    name: QSFP
     position: '29'
+    label: '29'
   -
-    name: 29-10GbE
-    label: 29..32
-    position: '10'
+    name: SFP
+    position: 29-10GbE
+    label: 29-10GbE
+    description: Breakout child for port 29
   -
-    name: 30-10GbE
-    label: 29..32
-    position: '10'
+    name: SFP
+    position: 30-10GbE
+    label: 30-10GbE
+    description: Breakout child for port 29
   -
-    name: 31-10GbE
-    label: 29..32
-    position: '10'
+    name: SFP
+    position: 31-10GbE
+    label: 31-10GbE
+    description: Breakout child for port 29
   -
-    name: 32-10GbE
-    label: 29..32
-    position: '10'
+    name: SFP
+    position: 32-10GbE
+    label: 32-10GbE
+    description: Breakout child for port 29
   -
-    name: '33'
-    label: 33..36
+    name: QSFP
     position: '33'
+    label: '33'
   -
-    name: 33-10GbE
-    label: 33..36
-    position: '10'
+    name: SFP
+    position: 33-10GbE
+    label: 33-10GbE
+    description: Breakout child for port 33
   -
-    name: 34-10GbE
-    label: 33..36
-    position: '10'
+    name: SFP
+    position: 34-10GbE
+    label: 34-10GbE
+    description: Breakout child for port 33
   -
-    name: 35-10GbE
-    label: 33..36
-    position: '10'
+    name: SFP
+    position: 35-10GbE
+    label: 35-10GbE
+    description: Breakout child for port 33
   -
-    name: 36-10GbE
-    label: 33..36
-    position: '10'
+    name: SFP
+    position: 36-10GbE
+    label: 36-10GbE
+    description: Breakout child for port 33
   -
-    name: '37'
-    label: 37..40
+    name: QSFP
     position: '37'
+    label: '37'
   -
-    name: 37-10GbE
-    label: 37..40
-    position: '10'
+    name: SFP
+    position: 37-10GbE
+    label: 37-10GbE
+    description: Breakout child for port 37
   -
-    name: 38-10GbE
-    label: 37..40
-    position: '10'
+    name: SFP
+    position: 38-10GbE
+    label: 38-10GbE
+    description: Breakout child for port 37
   -
-    name: 39-10GbE
-    label: 37..40
-    position: '10'
+    name: SFP
+    position: 39-10GbE
+    label: 39-10GbE
+    description: Breakout child for port 37
   -
-    name: 40-10GbE
-    label: 37..40
-    position: '10'
+    name: SFP
+    position: 40-10GbE
+    label: 40-10GbE
+    description: Breakout child for port 37
   -
-    name: '41'
-    label: 41..44
+    name: QSFP
     position: '41'
+    label: '41'
   -
-    name: 41-10GbE
-    label: 41..44
-    position: '10'
+    name: SFP
+    position: 41-10GbE
+    label: 41-10GbE
+    description: Breakout child for port 41
   -
-    name: 42-10GbE
-    label: 41..44
-    position: '10'
+    name: SFP
+    position: 42-10GbE
+    label: 42-10GbE
+    description: Breakout child for port 41
   -
-    name: 43-10GbE
-    label: 41..44
-    position: '10'
+    name: SFP
+    position: 43-10GbE
+    label: 43-10GbE
+    description: Breakout child for port 41
   -
-    name: 44-10GbE
-    label: 41..44
-    position: '10'
+    name: SFP
+    position: 44-10GbE
+    label: 44-10GbE
+    description: Breakout child for port 41
   -
-    name: '45'
-    label: 45..48
+    name: QSFP
     position: '45'
+    label: '45'
   -
-    name: 45-10GbE
-    label: 45..48
-    position: '10'
+    name: SFP
+    position: 45-10GbE
+    label: 45-10GbE
+    description: Breakout child for port 45
   -
-    name: 46-10GbE
-    label: 45..48
-    position: '10'
+    name: SFP
+    position: 46-10GbE
+    label: 46-10GbE
+    description: Breakout child for port 45
   -
-    name: 47-10GbE
-    label: 45..48
-    position: '10'
+    name: SFP
+    position: 47-10GbE
+    label: 47-10GbE
+    description: Breakout child for port 45
   -
-    name: 48-10GbE
-    label: 45..48
-    position: '10'
+    name: SFP
+    position: 48-10GbE
+    label: 48-10GbE
+    description: Breakout child for port 45
   -
-    name: '49'
-    label: 49..52
+    name: QSFP
     position: '49'
+    label: '49'
   -
-    name: 49-10GbE
-    label: 49..52
-    position: '10'
+    name: SFP
+    position: 49-10GbE
+    label: 49-10GbE
+    description: Breakout child for port 49
   -
-    name: 50-10GbE
-    label: 49..52
-    position: '10'
+    name: SFP
+    position: 50-10GbE
+    label: 50-10GbE
+    description: Breakout child for port 49
   -
-    name: 51-10GbE
-    label: 49..52
-    position: '10'
+    name: SFP
+    position: 51-10GbE
+    label: 51-10GbE
+    description: Breakout child for port 49
   -
-    name: 52-10GbE
-    label: 49..52
-    position: '10'
+    name: SFP
+    position: 52-10GbE
+    label: 52-10GbE
+    description: Breakout child for port 49
   -
-    name: '53'
-    label: 53..56
+    name: QSFP
     position: '53'
+    label: '53'
   -
-    name: 53-10GbE
-    label: 53..56
-    position: '10'
+    name: SFP
+    position: 53-10GbE
+    label: 53-10GbE
+    description: Breakout child for port 53
   -
-    name: 54-10GbE
-    label: 53..56
-    position: '10'
+    name: SFP
+    position: 54-10GbE
+    label: 54-10GbE
+    description: Breakout child for port 53
   -
-    name: 55-10GbE
-    label: 53..56
-    position: '10'
+    name: SFP
+    position: 55-10GbE
+    label: 55-10GbE
+    description: Breakout child for port 53
   -
-    name: 56-10GbE
-    label: 53..56
-    position: '10'
+    name: SFP
+    position: 56-10GbE
+    label: 56-10GbE
+    description: Breakout child for port 53
   -
-    name: '57'
-    label: 57..60
+    name: QSFP
     position: '57'
+    label: '57'
   -
-    name: 57-10GbE
-    label: 57..60
-    position: '10'
+    name: SFP
+    position: 57-10GbE
+    label: 57-10GbE
+    description: Breakout child for port 57
   -
-    name: 58-10GbE
-    label: 57..60
-    position: '10'
+    name: SFP
+    position: 58-10GbE
+    label: 58-10GbE
+    description: Breakout child for port 57
   -
-    name: 59-10GbE
-    label: 57..60
-    position: '10'
+    name: SFP
+    position: 59-10GbE
+    label: 59-10GbE
+    description: Breakout child for port 57
   -
-    name: 60-10GbE
-    label: 57..60
-    position: '10'
+    name: SFP
+    position: 60-10GbE
+    label: 60-10GbE
+    description: Breakout child for port 57
   -
-    name: '61'
-    label: 61..64
+    name: QSFP
     position: '61'
+    label: '61'
   -
-    name: 61-10GbE
-    label: 61..64
-    position: '10'
+    name: SFP
+    position: 61-10GbE
+    label: 61-10GbE
+    description: Breakout child for port 61
   -
-    name: 62-10GbE
-    label: 61..64
-    position: '10'
+    name: SFP
+    position: 62-10GbE
+    label: 62-10GbE
+    description: Breakout child for port 61
   -
-    name: 63-10GbE
-    label: 61..64
-    position: '10'
+    name: SFP
+    position: 63-10GbE
+    label: 63-10GbE
+    description: Breakout child for port 61
   -
-    name: 64-10GbE
-    label: 61..64
-    position: '10'
+    name: SFP
+    position: 64-10GbE
+    label: 64-10GbE
+    description: Breakout child for port 61
   -
-    name: '65'
-    label: 65..68
+    name: QSFP
     position: '65'
+    label: '65'
   -
-    name: 65-10GbE
-    label: 65..68
-    position: '10'
+    name: SFP
+    position: 65-10GbE
+    label: 65-10GbE
+    description: Breakout child for port 65
   -
-    name: 66-10GbE
-    label: 65..68
-    position: '10'
+    name: SFP
+    position: 66-10GbE
+    label: 66-10GbE
+    description: Breakout child for port 65
   -
-    name: 67-10GbE
-    label: 65..68
-    position: '10'
+    name: SFP
+    position: 67-10GbE
+    label: 67-10GbE
+    description: Breakout child for port 65
   -
-    name: 68-10GbE
-    label: 65..68
-    position: '10'
+    name: SFP
+    position: 68-10GbE
+    label: 68-10GbE
+    description: Breakout child for port 65
   -
-    name: '69'
-    label: 69..72
+    name: QSFP
     position: '69'
+    label: '69'
   -
-    name: 69-10GbE
-    label: 69..72
-    position: '10'
+    name: SFP
+    position: 69-10GbE
+    label: 69-10GbE
+    description: Breakout child for port 69
   -
-    name: 70-10GbE
-    label: 69..72
-    position: '10'
+    name: SFP
+    position: 70-10GbE
+    label: 70-10GbE
+    description: Breakout child for port 69
   -
-    name: 71-10GbE
-    label: 69..72
-    position: '10'
+    name: SFP
+    position: 71-10GbE
+    label: 71-10GbE
+    description: Breakout child for port 69
   -
-    name: 72-10GbE
-    label: 69..72
-    position: '10'
+    name: SFP
+    position: 72-10GbE
+    label: 72-10GbE
+    description: Breakout child for port 69
   -
-    name: '73'
-    label: 73..76
+    name: QSFP
     position: '73'
+    label: '73'
   -
-    name: 73-10GbE
-    label: 73..76
-    position: '10'
+    name: SFP
+    position: 73-10GbE
+    label: 73-10GbE
+    description: Breakout child for port 73
   -
-    name: 74-10GbE
-    label: 73..76
-    position: '10'
+    name: SFP
+    position: 74-10GbE
+    label: 74-10GbE
+    description: Breakout child for port 73
   -
-    name: 75-10GbE
-    label: 73..76
-    position: '10'
+    name: SFP
+    position: 75-10GbE
+    label: 75-10GbE
+    description: Breakout child for port 73
   -
-    name: 76-10GbE
-    label: 73..76
-    position: '10'
+    name: SFP
+    position: 76-10GbE
+    label: 76-10GbE
+    description: Breakout child for port 73
   -
-    name: '77'
-    label: 77..80
+    name: QSFP
     position: '77'
+    label: '77'
   -
-    name: 77-10GbE
-    label: 77..80
-    position: '10'
+    name: SFP
+    position: 77-10GbE
+    label: 77-10GbE
+    description: Breakout child for port 77
   -
-    name: 78-10GbE
-    label: 77..80
-    position: '10'
+    name: SFP
+    position: 78-10GbE
+    label: 78-10GbE
+    description: Breakout child for port 77
   -
-    name: 79-10GbE
-    label: 77..80
-    position: '10'
+    name: SFP
+    position: 79-10GbE
+    label: 79-10GbE
+    description: Breakout child for port 77
   -
-    name: 80-10GbE
-    label: 77..80
-    position: '10'
+    name: SFP
+    position: 80-10GbE
+    label: 80-10GbE
+    description: Breakout child for port 77
   -
-    name: '81'
-    label: 81..84
+    name: QSFP
     position: '81'
+    label: '81'
   -
-    name: 81-10GbE
-    label: 81..84
-    position: '10'
+    name: SFP
+    position: 81-10GbE
+    label: 81-10GbE
+    description: Breakout child for port 81
   -
-    name: 82-10GbE
-    label: 81..84
-    position: '10'
+    name: SFP
+    position: 82-10GbE
+    label: 82-10GbE
+    description: Breakout child for port 81
   -
-    name: 83-10GbE
-    label: 81..84
-    position: '10'
+    name: SFP
+    position: 83-10GbE
+    label: 83-10GbE
+    description: Breakout child for port 81
   -
-    name: 84-10GbE
-    label: 81..84
-    position: '10'
+    name: SFP
+    position: 84-10GbE
+    label: 84-10GbE
+    description: Breakout child for port 81
   -
-    name: '85'
-    label: '85'
+    name: QSFP
     position: '85'
+    label: '85'
   -
-    name: '86'
-    label: '86'
+    name: QSFP
     position: '86'
+    label: '86'
   -
-    name: '87'
-    label: '87'
+    name: QSFP
     position: '87'
+    label: '87'
   -
-    name: '88'
-    label: '88'
+    name: QSFP
     position: '88'
+    label: '88'
 interfaces:
   -
     name: mgmt

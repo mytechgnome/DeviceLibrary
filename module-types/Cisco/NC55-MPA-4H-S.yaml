@@ -3,17 +3,16 @@ manufacturer: Cisco
 model: NC55-MPA-4H-S
 part_number: NC55-MPA-4H-S
 comments: NCS 5500 4X100G QSFP28 MPA
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: HundredGigE{module}/0
-    position: '0'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE{module}/1
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE{module}/2
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: HundredGigE{module}/3
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

@@ -10,14 +10,19 @@ weight: 0.5
 weight_unit: kg
 airflow: passive
 power-ports:
-  - name: PSU1
+  -
+    name: PSU1
     type: dc-terminal
     maximum_draw: 23
     label: DC+10V/2.25A
 interfaces:
-  - name: WAN
+  -
+    name: WAN
     type: 1000base-t
-  - name: LAN
+  -
+    name: LAN
     type: 1000base-t
-  - name: wlan0
+  -
+    name: wlan0
     type: ieee802.11ax
+module-bays: []

@@ -30,11 +30,13 @@ module-bays:
     name: PIM 1 # PIM = Pluggable Interface Module (LTE/5G)
     position: PIM1
   -
-    name: GigabitEthernet0/0/4
-    position: '4'
+    name: SFP
+    position: GigabitEthernet0/0/4
+    label: GigabitEthernet0/0/4
   -
-    name: GigabitEthernet0/0/5
-    position: '5'
+    name: SFP
+    position: GigabitEthernet0/0/5
+    label: GigabitEthernet0/0/5
 interfaces:
   -
     name: GigabitEthernet0/0/0

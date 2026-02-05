@@ -12,5 +12,9 @@ subdevice_role: parent
 comments: |
   Rail kit for mounting two half-width SX6012 switches
 device-bays:
-  - name: SX6012 Slot 1
-  - name: SX6012 Slot 2
+  -
+    name: SX6012 Slot 1
+  -
+    name: SX6012 Slot 2
+module-bays: []
+interfaces: []

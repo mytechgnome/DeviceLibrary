@@ -12,45 +12,61 @@ front_image: true
 rear_image: true
 comments: APC NetShelter Basic Rack PDU, 0U, 1PH, 3.3kW, 100-240V 20A or 200-240V 16A, 13 C13 outlets, C20 inlet
 power-ports:
-  - name: Source
+  -
+    name: Source
     type: iec-60320-c20
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 9
+  -
+    name: Outlet 9
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 10
+  -
+    name: Outlet 10
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 11
+  -
+    name: Outlet 11
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 12
+  -
+    name: Outlet 12
     type: iec-60320-c13
     power_port: Source
-  - name: Outlet 13
+  -
+    name: Outlet 13
     type: iec-60320-c13
     power_port: Source
+module-bays: []
+interfaces: []

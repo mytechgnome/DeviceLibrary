@@ -6,6 +6,7 @@ part_number: QFX520048Y-DPSU-AI
 weight: 2.1
 weight_unit: lb
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: dc-terminal
     maximum_draw: 650

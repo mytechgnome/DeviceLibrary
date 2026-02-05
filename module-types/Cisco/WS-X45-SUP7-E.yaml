@@ -11,16 +11,15 @@ interfaces:
   -
     name: MGT{module}
     type: 1000base-t
-module-bays:
   -
-    name: 10GigabitEthernet{module}/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: 10GigabitEthernet{module}/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: 10GigabitEthernet{module}/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: 10GigabitEthernet{module}/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp

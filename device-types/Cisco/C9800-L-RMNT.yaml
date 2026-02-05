@@ -9,5 +9,9 @@ is_full_depth: false
 airflow: passive
 is_powered: false
 device-bays:
-  - name: Left Slot
-  - name: Right Slot
+  -
+    name: Left Slot
+  -
+    name: Right Slot
+module-bays: []
+interfaces: []

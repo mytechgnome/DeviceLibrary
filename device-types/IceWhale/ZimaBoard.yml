@@ -9,10 +9,14 @@ airflow: passive
 is_full_depth: false
 comments: '[Technical Guide](https://files.seeedstudio.com/wiki/zimaboard/ZimaBoard_User_Manual.pdf)'
 power-ports:
-  - name: DC-in
+  -
+    name: DC-in
     type: dc-terminal
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
+module-bays: []

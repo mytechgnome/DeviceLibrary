@@ -10,23 +10,32 @@ airflow: passive
 weight: 0.40
 weight_unit: kg
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: de-9
 power-ports:
-  - name: Power-In
+  -
+    name: Power-In
     type: dc-terminal
     maximum_draw: 15
     allocated_draw: 10
 interfaces:
-  - name: BRI0 port LINE
+  -
+    name: BRI0 port LINE
     type: xdsl
-  - name: BRI1 port LINE
+  -
+    name: BRI1 port LINE
     type: xdsl
-  - name: BRI2 port LINE
+  -
+    name: BRI2 port LINE
     type: xdsl
-  - name: BRI3 port LINE
+  -
+    name: BRI3 port LINE
     type: xdsl
-  - name: BRI4 port LINE
+  -
+    name: BRI4 port LINE
     type: xdsl
-  - name: Eth0
+  -
+    name: Eth0
     type: 100base-tx
+module-bays: []

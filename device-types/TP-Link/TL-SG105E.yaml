@@ -9,17 +9,24 @@ u_height: 0
 airflow: passive
 front_image: true
 power-ports:
-  - name: External Power Adapter
+  -
+    name: External Power Adapter
     type: dc-terminal
     maximum_draw: 4
 interfaces:
-  - name: Port 1
+  -
+    name: Port 1
     type: 1000base-t
-  - name: Port 2
+  -
+    name: Port 2
     type: 1000base-t
-  - name: Port 3
+  -
+    name: Port 3
     type: 1000base-t
-  - name: Port 4
+  -
+    name: Port 4
     type: 1000base-t
-  - name: Port 5
+  -
+    name: Port 5
     type: 1000base-t
+module-bays: []

@@ -2,17 +2,16 @@
 manufacturer: Extreme Networks
 model: VIM4-40G4X
 part_number: '17122'
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '49'
-    position: '49'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: '53'
-    position: '53'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: '57'
-    position: '57'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: '61'
-    position: '61'
+    name: '{module}'
+    type: 40gbase-x-qsfpp

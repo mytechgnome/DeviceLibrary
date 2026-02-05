@@ -9,10 +9,15 @@ subdevice_role: parent
 airflow: front-to-rear
 is_full_depth: true
 module-bays:
-  - name: PSU0
+  -
+    name: PSU0
     position: '0'
-  - name: PSU1
+  -
+    name: PSU1
     position: '1'
 device-bays:
-  - name: Contoller A
-  - name: Contoller B
+  -
+    name: Contoller A
+  -
+    name: Contoller B
+interfaces: []

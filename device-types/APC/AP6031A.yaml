@@ -12,19 +12,26 @@ front_image: true
 rear_image: true
 comments: Rack PDU, Basic, 0U/1U, 208V, 30A, (4) C19
 power-ports:
-  - name: Source
+  -
+    name: Source
     type: nema-l6-30p
     description: 12f cord
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c19
     power_port: Source
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c19
     power_port: Source
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c19
     power_port: Source
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c19
     power_port: Source
+module-bays: []
+interfaces: []

@@ -8,30 +8,40 @@ is_full_depth: false
 airflow: passive
 comments: '[AVM FRITZ!Box 6890 Datasheet](https://avm.de/produkte/fritzbox/fritzbox-6890-lte/technische-daten/)'
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: dc-terminal
     maximum_draw: 10
 interfaces:
-  - name: DSL
+  -
+    name: DSL
     label: DSL
     type: xdsl
-  - name: FON
+  -
+    name: FON
     label: FON 2
     type: other
-  - name: FONS0
+  -
+    name: FONS0
     label: FON S0
     type: other
-  - name: WAN_LAN
+  -
+    name: WAN_LAN
     label: WAN/LAN
     type: 1000base-t
-  - name: LAN1
+  -
+    name: LAN1
     label: LAN 1
     type: 1000base-t
-  - name: LAN2
+  -
+    name: LAN2
     label: LAN 2
     type: 1000base-t
-  - name: LAN3
+  -
+    name: LAN3
     label: LAN 3
     type: 1000base-t
-  - name: WiFi
+  -
+    name: WiFi
     type: ieee802.11ac
+module-bays: []

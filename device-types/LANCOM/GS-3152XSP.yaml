@@ -165,14 +165,18 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: 10GigabitEthernet 1/1
-    position: '1'
+    name: SFP
+    position: 10GigabitEthernet 1/1
+    label: 10GigabitEthernet 1/1
   -
-    name: 10GigabitEthernet 1/2
-    position: '2'
+    name: SFP
+    position: 10GigabitEthernet 1/2
+    label: 10GigabitEthernet 1/2
   -
-    name: 10GigabitEthernet 1/3
-    position: '3'
+    name: SFP
+    position: 10GigabitEthernet 1/3
+    label: 10GigabitEthernet 1/3
   -
-    name: 10GigabitEthernet 1/4
-    position: '4'
+    name: SFP
+    position: 10GigabitEthernet 1/4
+    label: 10GigabitEthernet 1/4

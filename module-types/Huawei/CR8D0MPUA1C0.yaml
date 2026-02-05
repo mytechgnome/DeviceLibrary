@@ -18,6 +18,18 @@ interfaces:
   -
     name: FSP1({module})
     type: 1000base-t
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
+  -
+    name: '{module}'
+    type: 1000base-x-sfp
 console-ports:
   -
     name: Console({module})
@@ -26,16 +38,3 @@ console-ports:
   -
     name: USB({module})
     type: usb-a
-module-bays:
-  -
-    name: SFP+0({module})
-    position: '0'
-  -
-    name: SFP+1({module})
-    position: '1'
-  -
-    name: SFP+2({module})
-    position: '2'
-  -
-    name: SFP+3({module})
-    position: '3'

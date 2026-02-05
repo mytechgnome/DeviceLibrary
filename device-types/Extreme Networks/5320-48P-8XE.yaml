@@ -264,26 +264,39 @@ interfaces:
     poe_type: type2-ieee802.3at
 module-bays:
   -
-    name: '49'
+    name: SFP
     position: '49'
+    label: '49'
+    description: Reserved for SPBM in Fabric Engine
   -
-    name: '50'
+    name: SFP
     position: '50'
+    label: '50'
+    description: Reserved for SPBM in Fabric Engine
   -
-    name: '51'
+    name: SFP
     position: '51'
+    label: '51'
+    description: Reserved for SPBM in Fabric Engine
   -
-    name: '52'
+    name: SFP
     position: '52'
+    label: '52'
   -
-    name: '53'
+    name: SFP
     position: '53'
+    label: '53'
   -
-    name: '54'
+    name: SFP
     position: '54'
+    label: '54'
   -
-    name: '55'
+    name: SFP
     position: '55'
+    label: '55'
+    description: Can be used for stacking in Switch Engine
   -
-    name: '56'
+    name: SFP
     position: '56'
+    label: '56'
+    description: Can be used for stacking in Switch Engine

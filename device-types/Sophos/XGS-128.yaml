@@ -48,8 +48,9 @@ module-bays:
     name: A
     position: A
   -
-    name: PortF1
-    position: '1'
+    name: SFP
+    position: PortF1
+    label: PortF1
 power-ports:
   -
     name: DC In 1

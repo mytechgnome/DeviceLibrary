@@ -10,22 +10,30 @@ airflow: side-to-rear
 is_full_depth: true
 comments: '[Check Point Sandblast Appliances Datasheet](https://www.checkpoint.com/downloads/products/ds-sandblast-te100x-250x-te1000x-te2000x-appliances.pdf)'
 console-ports:
-  - name: Console
+  -
+    name: Console
     type: rj-45
 interfaces:
-  - name: MGMT
+  -
+    name: MGMT
     type: 1000base-t
     mgmt_only: true
-  - name: SYNC
+  -
+    name: SYNC
     type: 1000base-t
 module-bays:
-  - name: Line card 1
+  -
+    name: Line card 1
     position: '1'
-  - name: Line card 2
+  -
+    name: Line card 2
     position: '2'
-  - name: Line card 3
+  -
+    name: Line card 3
     position: '3'
-  - name: PSU 1
+  -
+    name: PSU 1
     position: '1'
-  - name: PSU 2
+  -
+    name: PSU 2
     position: '2'

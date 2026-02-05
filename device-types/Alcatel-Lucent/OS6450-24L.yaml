@@ -96,8 +96,10 @@ module-bays:
     name: PS2
     position: '2'
   -
-    name: 1/25
-    position: '25'
+    name: SFP
+    position: 1/25
+    label: 1/25
   -
-    name: 1/26
-    position: '26'
+    name: SFP
+    position: 1/26
+    label: 1/26

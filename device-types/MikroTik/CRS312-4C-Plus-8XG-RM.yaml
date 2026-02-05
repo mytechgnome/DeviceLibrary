@@ -78,18 +78,18 @@ power-ports:
     maximum_draw: 60
 module-bays:
   -
-    name: sfp1
-    label: COMBO1F
-    position: '1'
+    name: SFP
+    position: sfp1
+    label: sfp1
   -
-    name: sfp2
-    label: COMBO2F
-    position: '2'
+    name: SFP
+    position: sfp2
+    label: sfp2
   -
-    name: sfp3
-    label: COMBO3F
-    position: '3'
+    name: SFP
+    position: sfp3
+    label: sfp3
   -
-    name: sfp4
-    label: COMBO4F
-    position: '4'
+    name: SFP
+    position: sfp4
+    label: sfp4

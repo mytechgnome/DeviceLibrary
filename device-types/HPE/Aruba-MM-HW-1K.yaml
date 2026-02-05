@@ -26,8 +26,10 @@ console-ports:
     type: rj-45
 module-bays:
   -
-    name: gigabitethernet 0/0/0
-    position: '0'
+    name: SFP
+    position: gigabitethernet 0/0/0
+    label: gigabitethernet 0/0/0
   -
-    name: gigabitethernet 0/0/1
-    position: '1'
+    name: SFP
+    position: gigabitethernet 0/0/1
+    label: gigabitethernet 0/0/1

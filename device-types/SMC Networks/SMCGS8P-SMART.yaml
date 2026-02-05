@@ -43,5 +43,6 @@ power-ports:
     maximum_draw: 165
 module-bays:
   -
-    name: GigabitEthernetSFP1
-    position: '1'
+    name: SFP
+    position: GigabitEthernetSFP1
+    label: GigabitEthernetSFP1

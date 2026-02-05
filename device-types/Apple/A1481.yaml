@@ -12,13 +12,18 @@ comments: |
   See https://support.apple.com/en-us/112025
   Order Number: ME253LL/A (Quad-Core) MD878LL/A (6-Core)
 power-ports:
-  - name: Power
+  -
+    name: Power
     type: iec-60320-c14
     maximum_draw: 450
 interfaces:
-  - name: eth0
+  -
+    name: eth0
     type: 1000base-t
-  - name: eth1
+  -
+    name: eth1
     type: 1000base-t
-  - name: wireless
+  -
+    name: wireless
     type: ieee802.11ac
+module-bays: []

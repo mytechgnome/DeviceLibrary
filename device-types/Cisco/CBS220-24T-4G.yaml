@@ -149,14 +149,18 @@ interfaces:
     mgmt_only: false
 module-bays:
   -
-    name: GigabitEthernet25
-    position: '25'
+    name: SFP
+    position: GigabitEthernet25
+    label: GigabitEthernet25
   -
-    name: GigabitEthernet26
-    position: '26'
+    name: SFP
+    position: GigabitEthernet26
+    label: GigabitEthernet26
   -
-    name: GigabitEthernet27
-    position: '27'
+    name: SFP
+    position: GigabitEthernet27
+    label: GigabitEthernet27
   -
-    name: GigabitEthernet28
-    position: '28'
+    name: SFP
+    position: GigabitEthernet28
+    label: GigabitEthernet28

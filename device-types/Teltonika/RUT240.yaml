@@ -9,15 +9,20 @@ weight: 125
 weight_unit: g
 comments: '[RUT240 Specs](https://teltonika-networks.com/cdn/products/2023/01/63b7fa83cae9a8-88547107/rut240-datasheet-v12.pdf)'
 power-ports:
-  - name: PS0
+  -
+    name: PS0
     type: dc-terminal
     maximum_draw: 7
 interfaces:
-  - name: lan
+  -
+    name: lan
     type: 100base-tx
     poe_mode: pd
     poe_type: passive-24v-2pair
-  - name: mob1s1a1
+  -
+    name: mob1s1a1
     type: lte
-  - name: wan
+  -
+    name: wan
     type: 100base-tx
+module-bays: []

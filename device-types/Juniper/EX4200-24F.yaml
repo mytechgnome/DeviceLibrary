@@ -34,74 +34,98 @@ module-bays:
     name: Uplink Module
     position: '1'
   -
-    name: ge-0/0/0
-    position: '0'
+    name: SFP
+    position: ge-0/0/0
+    label: ge-0/0/0
   -
-    name: ge-0/0/1
-    position: '1'
+    name: SFP
+    position: ge-0/0/1
+    label: ge-0/0/1
   -
-    name: ge-0/0/2
-    position: '2'
+    name: SFP
+    position: ge-0/0/2
+    label: ge-0/0/2
   -
-    name: ge-0/0/3
-    position: '3'
+    name: SFP
+    position: ge-0/0/3
+    label: ge-0/0/3
   -
-    name: ge-0/0/4
-    position: '4'
+    name: SFP
+    position: ge-0/0/4
+    label: ge-0/0/4
   -
-    name: ge-0/0/5
-    position: '5'
+    name: SFP
+    position: ge-0/0/5
+    label: ge-0/0/5
   -
-    name: ge-0/0/6
-    position: '6'
+    name: SFP
+    position: ge-0/0/6
+    label: ge-0/0/6
   -
-    name: ge-0/0/7
-    position: '7'
+    name: SFP
+    position: ge-0/0/7
+    label: ge-0/0/7
   -
-    name: ge-0/0/8
-    position: '8'
+    name: SFP
+    position: ge-0/0/8
+    label: ge-0/0/8
   -
-    name: ge-0/0/9
-    position: '9'
+    name: SFP
+    position: ge-0/0/9
+    label: ge-0/0/9
   -
-    name: ge-0/0/10
-    position: '10'
+    name: SFP
+    position: ge-0/0/10
+    label: ge-0/0/10
   -
-    name: ge-0/0/11
-    position: '11'
+    name: SFP
+    position: ge-0/0/11
+    label: ge-0/0/11
   -
-    name: ge-0/0/12
-    position: '12'
+    name: SFP
+    position: ge-0/0/12
+    label: ge-0/0/12
   -
-    name: ge-0/0/13
-    position: '13'
+    name: SFP
+    position: ge-0/0/13
+    label: ge-0/0/13
   -
-    name: ge-0/0/14
-    position: '14'
+    name: SFP
+    position: ge-0/0/14
+    label: ge-0/0/14
   -
-    name: ge-0/0/15
-    position: '15'
+    name: SFP
+    position: ge-0/0/15
+    label: ge-0/0/15
   -
-    name: ge-0/0/16
-    position: '16'
+    name: SFP
+    position: ge-0/0/16
+    label: ge-0/0/16
   -
-    name: ge-0/0/17
-    position: '17'
+    name: SFP
+    position: ge-0/0/17
+    label: ge-0/0/17
   -
-    name: ge-0/0/18
-    position: '18'
+    name: SFP
+    position: ge-0/0/18
+    label: ge-0/0/18
   -
-    name: ge-0/0/19
-    position: '19'
+    name: SFP
+    position: ge-0/0/19
+    label: ge-0/0/19
   -
-    name: ge-0/0/20
-    position: '20'
+    name: SFP
+    position: ge-0/0/20
+    label: ge-0/0/20
   -
-    name: ge-0/0/21
-    position: '21'
+    name: SFP
+    position: ge-0/0/21
+    label: ge-0/0/21
   -
-    name: ge-0/0/22
-    position: '22'
+    name: SFP
+    position: ge-0/0/22
+    label: ge-0/0/22
   -
-    name: ge-0/0/23
-    position: '23'
+    name: SFP
+    position: ge-0/0/23
+    label: ge-0/0/23

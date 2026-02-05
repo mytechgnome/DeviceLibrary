@@ -89,10 +89,12 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: xe-0/0/12
+    name: SFP
+    position: xe-0/0/12
     label: xe-0/0/12
-    position: '12'
+    description: uplink port
   -
-    name: xe-0/0/13
+    name: SFP
+    position: xe-0/0/13
     label: xe-0/0/13
-    position: '13'
+    description: uplink port

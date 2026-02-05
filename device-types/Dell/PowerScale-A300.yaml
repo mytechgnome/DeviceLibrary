@@ -22,15 +22,19 @@ module-bays:
     name: PSU2
     position: PSU2
   -
-    name: Gig-E 1
-    position: '1'
+    name: SFP
+    position: Gig-E 1
+    label: Gig-E 1
   -
-    name: Gig-E 2
-    position: '2'
+    name: SFP
+    position: Gig-E 2
+    label: Gig-E 2
   -
-    name: Gig-E 3
-    position: '3'
+    name: QSFP
+    position: Gig-E 3
+    label: Gig-E 3
   -
-    name: Gig-E 4
-    position: '4'
+    name: QSFP
+    position: Gig-E 4
+    label: Gig-E 4
 interfaces: []

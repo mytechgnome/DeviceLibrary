@@ -1,6 +1,0 @@
----
-manufacturer: Cisco
-model: FAN-T4-R
-part_number: FAN-T4-R
-comments: "Cisco Catalyst 9500 Type 4 Fan Module."
-airflow: front-to-rear

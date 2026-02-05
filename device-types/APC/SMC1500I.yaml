@@ -9,27 +9,40 @@ comments: '[APC Smart-UPS C, Line Interactive, 1500VA, Tower, 230V, 8x IEC C13 o
 weight: 24.09
 weight_unit: kg
 console-ports:
-  - name: USB
+  -
+    name: USB
     type: usb-b
-  - name: Serial
+  -
+    name: Serial
     type: rj-45
 power-ports:
-  - name: Power Port 1
+  -
+    name: Power Port 1
     type: iec-60320-c14
 power-outlets:
-  - name: Power Outlet 1
+  -
+    name: Power Outlet 1
     type: iec-60320-c13
-  - name: Power Outlet 2
+  -
+    name: Power Outlet 2
     type: iec-60320-c13
-  - name: Power Outlet 3
+  -
+    name: Power Outlet 3
     type: iec-60320-c13
-  - name: Power Outlet 4
+  -
+    name: Power Outlet 4
     type: iec-60320-c13
-  - name: Power Outlet 5
+  -
+    name: Power Outlet 5
     type: iec-60320-c13
-  - name: Power Outlet 6
+  -
+    name: Power Outlet 6
     type: iec-60320-c13
-  - name: Power Outlet 7
+  -
+    name: Power Outlet 7
     type: iec-60320-c13
-  - name: Power Outlet 8
+  -
+    name: Power Outlet 8
     type: iec-60320-c13
+module-bays: []
+interfaces: []

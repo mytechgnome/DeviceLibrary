@@ -8,11 +8,16 @@ is_full_depth: false
 weight: 0.8
 weight_unit: lb
 power-ports:
-  - name: Plug
+  -
+    name: Plug
     type: nema-5-15p
     maximum_draw: 1800
 power-outlets:
-  - name: Top
+  -
+    name: Top
     type: nema-5-15r
-  - name: Bottom
+  -
+    name: Bottom
     type: nema-5-15r
+module-bays: []
+interfaces: []

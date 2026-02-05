@@ -37,26 +37,33 @@ module-bays:
     name: Fan4
     position: Fan4
   -
-    name: M-GigabitEthernet0/0/1
-    position: '1'
+    name: SFP
+    position: M-GigabitEthernet0/0/1
+    label: M-GigabitEthernet0/0/1
   -
-    name: FortyGigE1/0/25
-    position: '25'
+    name: QSFP
+    position: FortyGigE1/0/25
+    label: FortyGigE1/0/25
   -
-    name: FortyGigE1/0/26
-    position: '26'
+    name: QSFP
+    position: FortyGigE1/0/26
+    label: FortyGigE1/0/26
   -
-    name: FortyGigE1/0/27
-    position: '27'
+    name: QSFP
+    position: FortyGigE1/0/27
+    label: FortyGigE1/0/27
   -
-    name: FortyGigE1/0/28
-    position: '28'
+    name: QSFP
+    position: FortyGigE1/0/28
+    label: FortyGigE1/0/28
   -
-    name: FortyGigE1/0/29
-    position: '29'
+    name: QSFP
+    position: FortyGigE1/0/29
+    label: FortyGigE1/0/29
   -
-    name: FortyGigE1/0/30
-    position: '30'
+    name: QSFP
+    position: FortyGigE1/0/30
+    label: FortyGigE1/0/30
 interfaces:
   -
     name: M-GigabitEthernet0/0/0

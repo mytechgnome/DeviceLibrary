@@ -7,6 +7,7 @@ comments: "See:\r\n\r\n- [QuickSpecs](https://support.hpe.com/hpesc/public/docDi
 weight: 1.13
 weight_unit: kg
 power-ports:
-  - name: '{module}'
+  -
+    name: '{module}'
     type: iec-60320-c14
     maximum_draw: 1200

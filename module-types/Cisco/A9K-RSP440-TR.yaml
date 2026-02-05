@@ -19,6 +19,16 @@ interfaces:
     name: External USB2 class-A port{module}
     type: other
     mgmt_only: true
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    description: Virtualization Cluster Port
+    mgmt_only: true
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+    mgmt_only: true
+    description: Virtualization Cluster Port
 console-ports:
   -
     name: console{module}
@@ -26,10 +36,3 @@ console-ports:
   -
     name: Auxiliary{module}
     type: rj-45
-module-bays:
-  -
-    name: SFP+_00_10GE{module}
-    position: '10'
-  -
-    name: SFP+_01_10GE{module}
-    position: '10'

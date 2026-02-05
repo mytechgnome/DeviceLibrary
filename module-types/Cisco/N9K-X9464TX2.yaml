@@ -151,16 +151,15 @@ interfaces:
   -
     name: Ethernet{module}/48
     type: 10gbase-t
-module-bays:
   -
-    name: Ethernet{module}/49
-    position: '49'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: Ethernet{module}/50
-    position: '50'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: Ethernet{module}/51
-    position: '51'
+    name: '{module}'
+    type: 40gbase-x-qsfpp
   -
-    name: Ethernet{module}/52
-    position: '52'
+    name: '{module}'
+    type: 40gbase-x-qsfpp

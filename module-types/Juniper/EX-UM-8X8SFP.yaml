@@ -3,29 +3,28 @@ manufacturer: Juniper
 model: EX-UM-8X8SFP
 part_number: EX-UM-8X8SFP
 comments: Compatible with EX4300-32F
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: xe-0/2/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/2
-    position: '2'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/3
-    position: '3'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/4
-    position: '4'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/5
-    position: '5'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/6
-    position: '6'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: xe-0/2/7
-    position: '7'
+    name: '{module}'
+    type: 10gbase-x-sfpp

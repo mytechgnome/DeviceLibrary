@@ -24,110 +24,146 @@ interfaces:
     mgmt_only: true
 module-bays:
   -
-    name: IB1/1
-    position: '1'
+    name: QSFP
+    position: IB1/1
+    label: IB1/1
   -
-    name: IB1/2
-    position: '2'
+    name: QSFP
+    position: IB1/2
+    label: IB1/2
   -
-    name: IB1/3
-    position: '3'
+    name: QSFP
+    position: IB1/3
+    label: IB1/3
   -
-    name: IB1/4
-    position: '4'
+    name: QSFP
+    position: IB1/4
+    label: IB1/4
   -
-    name: IB1/5
-    position: '5'
+    name: QSFP
+    position: IB1/5
+    label: IB1/5
   -
-    name: IB1/6
-    position: '6'
+    name: QSFP
+    position: IB1/6
+    label: IB1/6
   -
-    name: IB1/7
-    position: '7'
+    name: QSFP
+    position: IB1/7
+    label: IB1/7
   -
-    name: IB1/8
-    position: '8'
+    name: QSFP
+    position: IB1/8
+    label: IB1/8
   -
-    name: IB1/9
-    position: '9'
+    name: QSFP
+    position: IB1/9
+    label: IB1/9
   -
-    name: IB1/10
-    position: '10'
+    name: QSFP
+    position: IB1/10
+    label: IB1/10
   -
-    name: IB1/11
-    position: '11'
+    name: QSFP
+    position: IB1/11
+    label: IB1/11
   -
-    name: IB1/12
-    position: '12'
+    name: QSFP
+    position: IB1/12
+    label: IB1/12
   -
-    name: IB1/13
-    position: '13'
+    name: QSFP
+    position: IB1/13
+    label: IB1/13
   -
-    name: IB1/14
-    position: '14'
+    name: QSFP
+    position: IB1/14
+    label: IB1/14
   -
-    name: IB1/15
-    position: '15'
+    name: QSFP
+    position: IB1/15
+    label: IB1/15
   -
-    name: IB1/16
-    position: '16'
+    name: QSFP
+    position: IB1/16
+    label: IB1/16
   -
-    name: IB1/17
-    position: '17'
+    name: QSFP
+    position: IB1/17
+    label: IB1/17
   -
-    name: IB1/18
-    position: '18'
+    name: QSFP
+    position: IB1/18
+    label: IB1/18
   -
-    name: IB1/19
-    position: '19'
+    name: QSFP
+    position: IB1/19
+    label: IB1/19
   -
-    name: IB1/20
-    position: '20'
+    name: QSFP
+    position: IB1/20
+    label: IB1/20
   -
-    name: IB1/21
-    position: '21'
+    name: QSFP
+    position: IB1/21
+    label: IB1/21
   -
-    name: IB1/22
-    position: '22'
+    name: QSFP
+    position: IB1/22
+    label: IB1/22
   -
-    name: IB1/23
-    position: '23'
+    name: QSFP
+    position: IB1/23
+    label: IB1/23
   -
-    name: IB1/24
-    position: '24'
+    name: QSFP
+    position: IB1/24
+    label: IB1/24
   -
-    name: IB1/25
-    position: '25'
+    name: QSFP
+    position: IB1/25
+    label: IB1/25
   -
-    name: IB1/26
-    position: '26'
+    name: QSFP
+    position: IB1/26
+    label: IB1/26
   -
-    name: IB1/27
-    position: '27'
+    name: QSFP
+    position: IB1/27
+    label: IB1/27
   -
-    name: IB1/28
-    position: '28'
+    name: QSFP
+    position: IB1/28
+    label: IB1/28
   -
-    name: IB1/29
-    position: '29'
+    name: QSFP
+    position: IB1/29
+    label: IB1/29
   -
-    name: IB1/30
-    position: '30'
+    name: QSFP
+    position: IB1/30
+    label: IB1/30
   -
-    name: IB1/31
-    position: '31'
+    name: QSFP
+    position: IB1/31
+    label: IB1/31
   -
-    name: IB1/32
-    position: '32'
+    name: QSFP
+    position: IB1/32
+    label: IB1/32
   -
-    name: IB1/33
-    position: '33'
+    name: QSFP
+    position: IB1/33
+    label: IB1/33
   -
-    name: IB1/34
-    position: '34'
+    name: QSFP
+    position: IB1/34
+    label: IB1/34
   -
-    name: IB1/35
-    position: '35'
+    name: QSFP
+    position: IB1/35
+    label: IB1/35
   -
-    name: IB1/36
-    position: '36'
+    name: QSFP
+    position: IB1/36
+    label: IB1/36

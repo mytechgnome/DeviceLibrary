@@ -7,5 +7,6 @@ comments: |
   The 1756-OF8 module is an 8-channel analog output module used in ControlLogix systems.
   It supports both voltage and current output signals for industrial automation applications.
 console-ports:
-  - name: Configuration Port
+  -
+    name: Configuration Port
     type: usb-mini-b

@@ -3,21 +3,24 @@ manufacturer: Dell
 model: 47W4V
 part_number: 47W4V
 comments: QLogic 4x10G SFP+ OCP 3.0
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}-10GbE-0'
+    name: '{module}'
     label: '1'
-    position: '0'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
   -
-    name: '{module}-10GbE-1'
+    name: '{module}'
     label: '2'
-    position: '1'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
   -
-    name: '{module}-10GbE-2'
+    name: '{module}'
     label: '3'
-    position: '2'
+    type: 10gbase-x-sfpp
+    mgmt_only: false
   -
-    name: '{module}-10GbE-3'
+    name: '{module}'
     label: '4'
-    position: '3'
+    type: 10gbase-x-sfpp
+    mgmt_only: false

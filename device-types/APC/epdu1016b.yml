@@ -6,22 +6,33 @@ part_number: EPDU1016b
 u_height: 1
 is_full_depth: false
 power-ports:
-  - name: 16A Inlet 1
+  -
+    name: 16A Inlet 1
     type: iec-60320-c20
 power-outlets:
-  - name: Outlet 1
+  -
+    name: Outlet 1
     type: iec-60320-c13
-  - name: Outlet 2
+  -
+    name: Outlet 2
     type: iec-60320-c13
-  - name: Outlet 3
+  -
+    name: Outlet 3
     type: iec-60320-c13
-  - name: Outlet 4
+  -
+    name: Outlet 4
     type: iec-60320-c13
-  - name: Outlet 5
+  -
+    name: Outlet 5
     type: iec-60320-c13
-  - name: Outlet 6
+  -
+    name: Outlet 6
     type: iec-60320-c13
-  - name: Outlet 7
+  -
+    name: Outlet 7
     type: iec-60320-c13
-  - name: Outlet 8
+  -
+    name: Outlet 8
     type: iec-60320-c13
+module-bays: []
+interfaces: []

@@ -80,32 +80,42 @@ interfaces:
     type: 1000base-t
 module-bays:
   -
-    name: Port 13
-    position: '13'
+    name: SFP
+    position: Port 13
+    label: Port 13
   -
-    name: Port 14
-    position: '14'
+    name: SFP
+    position: Port 14
+    label: Port 14
   -
-    name: Port 15
-    position: '15'
+    name: SFP
+    position: Port 15
+    label: Port 15
   -
-    name: Port 16
-    position: '16'
+    name: SFP
+    position: Port 16
+    label: Port 16
   -
-    name: Port 17
-    position: '17'
+    name: SFP
+    position: Port 17
+    label: Port 17
   -
-    name: Port 18
-    position: '18'
+    name: SFP
+    position: Port 18
+    label: Port 18
   -
-    name: Port 19
-    position: '19'
+    name: SFP
+    position: Port 19
+    label: Port 19
   -
-    name: Port 20
-    position: '20'
+    name: SFP
+    position: Port 20
+    label: Port 20
   -
-    name: Port 21
-    position: '21'
+    name: SFP
+    position: Port 21
+    label: Port 21
   -
-    name: Port 22
-    position: '22'
+    name: SFP
+    position: Port 22
+    label: Port 22

@@ -3,29 +3,28 @@ manufacturer: Ciena
 model: 8110 8114 8x100G QSFP28
 part_number: 170-0340-900
 description: 8110/8114, MODULE, (8)100G QSFP28 FRU supporting up to 800 G.
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: '{module}/1'
-    position: '1'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/2'
-    position: '2'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/3'
-    position: '3'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/4'
-    position: '4'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/5'
-    position: '5'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/6'
-    position: '6'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/7'
-    position: '7'
+    name: '{module}'
+    type: 100gbase-x-qsfp28
   -
-    name: '{module}/8'
-    position: '8'
+    name: '{module}'
+    type: 100gbase-x-qsfp28

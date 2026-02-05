@@ -8,43 +8,55 @@ comments: |
   https://network.yamaha.com/products/switches/swx2210p-10g/index
 is_full_depth: false
 interfaces:
-  - name: port1.1
+  -
+    name: port1.1
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.2
+  -
+    name: port1.2
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.3
+  -
+    name: port1.3
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.4
+  -
+    name: port1.4
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.5
+  -
+    name: port1.5
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.6
+  -
+    name: port1.6
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.7
+  -
+    name: port1.7
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.8
+  -
+    name: port1.8
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
-  - name: port1.9
+  -
+    name: port1.9
     type: 1000base-t
-  - name: port1.10
+  -
+    name: port1.10
     type: 1000base-t
 power-ports:
-  - name: PSU
+  -
+    name: PSU
     type: iec-60320-c14
     maximum_draw: 169
+module-bays: []

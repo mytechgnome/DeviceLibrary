@@ -29,18 +29,18 @@ console-ports:
 comments: Five-port desktop switch with one Gigabit Ethernet port and four SFP+ 10Gbps ports.
 module-bays:
   -
-    name: sfp-sfpplus1
-    label: SFP+ 1
-    position: '1'
+    name: SFP
+    position: sfp-sfpplus1
+    label: sfp-sfpplus1
   -
-    name: sfp-sfpplus2
-    label: SFP+ 2
-    position: '2'
+    name: SFP
+    position: sfp-sfpplus2
+    label: sfp-sfpplus2
   -
-    name: sfp-sfpplus3
-    label: SFP+ 3
-    position: '3'
+    name: SFP
+    position: sfp-sfpplus3
+    label: sfp-sfpplus3
   -
-    name: sfp-sfpplus4
-    label: SFP+ 4
-    position: '4'
+    name: SFP
+    position: sfp-sfpplus4
+    label: sfp-sfpplus4

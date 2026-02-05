@@ -4,6 +4,18 @@ model: SCTM
 comments: Implement the non-blocking switching for all service cards in the ZXA10 C300 and supports 1.28Tbps switching capacity and 288K MAC address table.
 interfaces:
   -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}'
+    type: 10gbase-x-sfpp
+  -
     name: gei_1/{module}/5
     description: For out-of-band network management
     type: 1000base-t
@@ -18,16 +30,3 @@ console-ports:
     name: CLI {module}
     description: RS-232 port,for local debugging
     type: rj-45
-module-bays:
-  -
-    name: xgei_1/{module}/1
-    position: '1'
-  -
-    name: xgei_1/{module}/2
-    position: '2'
-  -
-    name: xgei_1/{module}/3
-    position: '3'
-  -
-    name: xgei_1/{module}/4
-    position: '4'

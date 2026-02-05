@@ -6,83 +6,82 @@ description: LPUI-51-E 2x10GBase LAN/WAN-SFP+ -24xGE-SFP-A
 comments: '[Huawei 2-Port 10GBase LAN/WAN-SFP+ + 24-Port 100/1000Base-X-SFP Integrated Line Processing Unit E (LPUI-51-E)](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100259796)'
 weight: 9
 weight_unit: kg
-interfaces: []
-module-bays:
+interfaces:
   -
-    name: GE{module}/0/0
-    position: '0'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: GE{module}/0/1
-    position: '1'
+    name: '{module}'
+    type: 10gbase-x-sfpp
   -
-    name: GE{module}/1/0
-    position: '0'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/1
-    position: '1'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/2
-    position: '2'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/3
-    position: '3'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/4
-    position: '4'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/5
-    position: '5'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/6
-    position: '6'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/7
-    position: '7'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/8
-    position: '8'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/9
-    position: '9'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/10
-    position: '10'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/11
-    position: '11'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/12
-    position: '12'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/13
-    position: '13'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/14
-    position: '14'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/15
-    position: '15'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/16
-    position: '16'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/17
-    position: '17'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/18
-    position: '18'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/19
-    position: '19'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/20
-    position: '20'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/21
-    position: '21'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/22
-    position: '22'
+    name: '{module}'
+    type: 1000base-x-sfp
   -
-    name: GE{module}/1/23
-    position: '23'
+    name: '{module}'
+    type: 1000base-x-sfp
