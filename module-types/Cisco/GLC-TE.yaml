@@ -5,5 +5,5 @@ part_number: GLC-TE
 comments: "Cisco 1000BASE-T copper SFP."
 interfaces:
   -
-    name: {module: null}
+    name: "{module}"
     type: 1000base-t
