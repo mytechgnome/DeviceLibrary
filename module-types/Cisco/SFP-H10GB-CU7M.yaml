@@ -5,4 +5,4 @@ part_number: SFP-H10GB-CU7M
 comments: "Cisco 10GBASE-CU SFP+ Twinax Cable 7m. Datasheet: https://www.cisco.com"
 interfaces:
   - name: "{module}"
-    type: 10gbase-cu
+    type: 10gbase-cx4

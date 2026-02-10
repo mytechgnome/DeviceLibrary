@@ -21,7 +21,7 @@ interfaces:
   -
     name: Eth0
     type: 5gbase-t
-    power_mode: pd
+    poe_mode: pd
     poe_type: type3-ieee802.3bt
     description: 100/1000/2.5G/5G RJ-45 multi-gig Ethernet
     enabled: true
