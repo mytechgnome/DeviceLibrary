@@ -1,12 +1,12 @@
 ---
 manufacturer: Cisco
-model: CW9166D1-B
-slug: cisco-cw9166d1-b
-part_number: CW9166D1-B
+model: CW9166I-B
+slug: cisco-cw9166i-b
+part_number: CW9166I-B
 u_height: 0
 is_full_depth: false
 airflow: passive
-comments: Cisco Catalyst CW9166D1-B Wi-Fi 6E Access Point with integrated direction antennas. [Cisco Catalyst 9166 Series Access Points Data Sheet](https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9166-series-access-points/catalyst-9166-series-access-points-ds.html)
+comments: Cisco Catalyst 9166 Series with integrated, omni-directional antennas. [Cisco Catalyst 9166 Series Access Points Data Sheet](https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9166-series-access-points/catalyst-9166-series-access-points-ds.html)
 console-ports:
   -
     name: Console
