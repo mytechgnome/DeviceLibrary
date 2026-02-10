@@ -1,0 +1,11 @@
+---
+manufacturer: Cisco
+model: QSFP-40/100-SRBD
+part_number: QSFP-40/100-SRBD
+comments: >
+  Cisco QSFP BiDi transceiver supporting 40GBASE-SR-BD and 100GBASE-SR-BD over MMF.
+  Provides bidirectional transmission on two fibers using LC connectors.
+  Datasheet: https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/data-sheet-c78-741543.html
+interfaces:
+  - name: "{module}"
+    type: 100gbase-sr-bd
