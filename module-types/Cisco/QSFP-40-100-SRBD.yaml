@@ -8,4 +8,4 @@ comments: >
   Datasheet: https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/data-sheet-c78-741543.html
 interfaces:
   - name: "{module}"
-    type: 100gbase-sr-bd
+    type: 100gbase-sr1.2
