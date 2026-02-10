@@ -1,0 +1,8 @@
+---
+manufacturer: Cisco
+model: SFP-H10GB-CU3M
+part_number: SFP-H10GB-CU3M
+comments: "Cisco 10GBASE-CU SFP+ Twinax Cable 3m. Datasheet: https://www.cisco.com"
+interfaces:
+  - name: "{module}"
+    type: 10gbase-cu

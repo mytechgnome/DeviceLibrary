@@ -1,0 +1,8 @@
+---
+manufacturer: Cisco
+model: 1000base-LH
+part_number: 1000base-LH
+comments: "Cisco 1000BASE-LH SFP generic."
+interfaces:
+  - name: "{module}"
+    type: 1000base-lx

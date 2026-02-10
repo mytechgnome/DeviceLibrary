@@ -1,0 +1,8 @@
+---
+manufacturer: Axiom
+model: GLC-LH-SM-AX
+part_number: GLC-LH-SM-AX
+comments: "Axiom 1000BASE-LX/LH SFP, Cisco-compatible. Vendor page: https://www.axiommemory.com"
+interfaces:
+  - name: "{module}"
+    type: 1000base-lx

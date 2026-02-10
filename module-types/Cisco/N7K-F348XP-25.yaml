@@ -1,0 +1,150 @@
+---
+manufacturer: Cisco
+model: N7K-F348XP-25
+part_number: N7K-F348XP-25
+comments: "Cisco Nexus 7000 F3 Series 48-Port SFP+ Ethernet Module. Datasheet: https://www.cisco.com"
+module-bays:
+  - name: Et{module}/1
+    position: Et{module}/1
+    label: sfp+
+  - name: Et{module}/2
+    position: Et{module}/2
+    label: sfp+
+  - name: Et{module}/3
+    position: Et{module}/3
+    label: sfp+
+  - name: Et{module}/4
+    position: Et{module}/4
+    label: sfp+
+  - name: Et{module}/5
+    position: Et{module}/5
+    label: sfp+
+  - name: Et{module}/6
+    position: Et{module}/6
+    label: sfp+
+  - name: Et{module}/7
+    position: Et{module}/7
+    label: sfp+
+  - name: Et{module}/8
+    position: Et{module}/8
+    label: sfp+
+  - name: Et{module}/9
+    position: Et{module}/9
+    label: sfp+
+  - name: Et{module}/10
+    position: Et{module}/10
+    label: sfp+
+  - name: Et{module}/11
+    position: Et{module}/11
+    label: sfp+
+  - name: Et{module}/12
+    position: Et{module}/12
+    label: sfp+
+  - name: Et{module}/13
+    position: Et{module}/13
+    label: sfp+
+  - name: Et{module}/14
+    position: Et{module}/14
+    label: sfp+
+  - name: Et{module}/15
+    position: Et{module}/15
+    label: sfp+
+  - name: Et{module}/16
+    position: Et{module}/16
+    label: sfp+
+  - name: Et{module}/17
+    position: Et{module}/17
+    label: sfp+
+  - name: Et{module}/18
+    position: Et{module}/18
+    label: sfp+
+  - name: Et{module}/19
+    position: Et{module}/19
+    label: sfp+
+  - name: Et{module}/20
+    position: Et{module}/20
+    label: sfp+
+  - name: Et{module}/21
+    position: Et{module}/21
+    label: sfp+
+  - name: Et{module}/22
+    position: Et{module}/22
+    label: sfp+
+  - name: Et{module}/23
+    position: Et{module}/23
+    label: sfp+
+  - name: Et{module}/24
+    position: Et{module}/24
+    label: sfp+
+  - name: Et{module}/25
+    position: Et{module}/25
+    label: sfp+
+  - name: Et{module}/26
+    position: Et{module}/26
+    label: sfp+
+  - name: Et{module}/27
+    position: Et{module}/27
+    label: sfp+
+  - name: Et{module}/28
+    position: Et{module}/28
+    label: sfp+
+  - name: Et{module}/29
+    position: Et{module}/29
+    label: sfp+
+  - name: Et{module}/30
+    position: Et{module}/30
+    label: sfp+
+  - name: Et{module}/31
+    position: Et{module}/31
+    label: sfp+
+  - name: Et{module}/32
+    position: Et{module}/32
+    label: sfp+
+  - name: Et{module}/33
+    position: Et{module}/33
+    label: sfp+
+  - name: Et{module}/34
+    position: Et{module}/34
+    label: sfp+
+  - name: Et{module}/35
+    position: Et{module}/35
+    label: sfp+
+  - name: Et{module}/36
+    position: Et{module}/36
+    label: sfp+
+  - name: Et{module}/37
+    position: Et{module}/37
+    label: sfp+
+  - name: Et{module}/38
+    position: Et{module}/38
+    label: sfp+
+  - name: Et{module}/39
+    position: Et{module}/39
+    label: sfp+
+  - name: Et{module}/40
+    position: Et{module}/40
+    label: sfp+
+  - name: Et{module}/41
+    position: Et{module}/41
+    label: sfp+
+  - name: Et{module}/42
+    position: Et{module}/42
+    label: sfp+
+  - name: Et{module}/43
+    position: Et{module}/43
+    label: sfp+
+  - name: Et{module}/44
+    position: Et{module}/44
+    label: sfp+
+  - name: Et{module}/45
+    position: Et{module}/45
+    label: sfp+
+  - name: Et{module}/46
+    position: Et{module}/46
+    label: sfp+
+  - name: Et{module}/47
+    position: Et{module}/47
+    label: sfp+
+  - name: Et{module}/48
+    position: Et{module}/48
+    label: sfp+

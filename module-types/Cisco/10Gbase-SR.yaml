@@ -1,0 +1,8 @@
+---
+manufacturer: Cisco
+model: 10Gbase-SR
+part_number: 10Gbase-SR
+comments: "Cisco 10GBASE-SR SFP+ generic."
+interfaces:
+  - name: "{module}"
+    type: 10gbase-sr
