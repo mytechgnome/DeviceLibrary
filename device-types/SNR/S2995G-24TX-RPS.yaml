@@ -157,6 +157,18 @@ interfaces:
     type: 1000base-t
     enabled: true
     label: '24'
+  -
+    name: Ethernet1/0/25
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/26
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/27
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet1/0/25

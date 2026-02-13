@@ -155,6 +155,18 @@ interfaces:
   -
     name: Port 48
     type: 1000base-t
+  -
+    name: Port 49
+    type: 10gbase-x-sfpp
+  -
+    name: Port 50
+    type: 10gbase-x-sfpp
+  -
+    name: Port 51
+    type: 10gbase-x-sfpp
+  -
+    name: Port 52
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: com

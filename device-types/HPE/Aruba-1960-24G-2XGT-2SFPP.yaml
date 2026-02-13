@@ -93,6 +93,12 @@ interfaces:
   -
     name: '26'
     type: 10gbase-t
+  -
+    name: '27'
+    type: 10gbase-x-sfpp
+  -
+    name: '28'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '27'

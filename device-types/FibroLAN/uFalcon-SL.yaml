@@ -31,6 +31,12 @@ interfaces:
   -
     name: GigabitEthernet 1/4
     type: 1000base-t
+  -
+    name: GigabitEthernet 1/5
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet 1/6
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet 1/5

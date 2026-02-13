@@ -174,6 +174,18 @@ interfaces:
   -
     name: GigabitEthernet1/0/52
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/49F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/50F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/51F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/52F
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet1/0/49F

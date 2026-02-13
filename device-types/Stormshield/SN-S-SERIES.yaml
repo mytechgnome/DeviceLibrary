@@ -45,6 +45,9 @@ interfaces:
   -
     name: port8
     type: 2.5gbase-t
+  -
+    name: port9
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port9

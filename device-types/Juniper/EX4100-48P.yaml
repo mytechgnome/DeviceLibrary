@@ -308,3 +308,27 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: et-0/1/0
+    type: 25gbase-x-sfp28
+  -
+    name: et-0/1/1
+    type: 25gbase-x-sfp28
+  -
+    name: et-0/1/2
+    type: 25gbase-x-sfp28
+  -
+    name: et-0/1/3
+    type: 25gbase-x-sfp28
+  -
+    name: xe-0/2/0
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/2/3
+    type: 10gbase-x-sfpp

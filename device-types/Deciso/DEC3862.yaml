@@ -26,6 +26,12 @@ interfaces:
     name: igc3
     label: '3'
     type: 2.5gbase-t
+  -
+    name: ax0
+    type: 10gbase-x-sfpp
+  -
+    name: ax1
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

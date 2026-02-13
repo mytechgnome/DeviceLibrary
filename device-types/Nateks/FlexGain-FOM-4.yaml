@@ -34,6 +34,9 @@ interfaces:
   -
     name: e1-port4
     type: e1
+  -
+    name: TDM
+    type: 1000base-x-sfp
 module-bays:
   -
     name: TDM

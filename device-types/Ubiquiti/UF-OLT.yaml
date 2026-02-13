@@ -39,6 +39,12 @@ interfaces:
   -
     name: pon8
     type: gpon
+  -
+    name: SFP+ 1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PSU1

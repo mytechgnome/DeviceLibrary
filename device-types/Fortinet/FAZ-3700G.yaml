@@ -42,3 +42,9 @@ interfaces:
   -
     name: Ethernet2
     type: 10gbase-t
+  -
+    name: Ethernet3
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet4
+    type: 25gbase-x-sfp28

@@ -25,6 +25,12 @@ interfaces:
     name: ipmi
     type: 1000base-t
     mgmt_only: true
+  -
+    name: ix0
+    type: 10gbase-x-sfpp
+  -
+    name: ix1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Slot 1

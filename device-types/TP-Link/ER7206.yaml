@@ -27,6 +27,9 @@ interfaces:
   -
     name: wan/lan5
     type: 1000base-t
+  -
+    name: sfp-wan/lan1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: sfp-wan/lan1

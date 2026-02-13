@@ -305,6 +305,18 @@ interfaces:
     type: virtual
     enabled: true
     mgmt_only: false
+  -
+    name: TenGigabitEthernet1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

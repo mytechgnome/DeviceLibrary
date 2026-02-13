@@ -27,6 +27,102 @@ interfaces:
     name: mgmt0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port-1
+    type: 10gbase-x-sfpp
+  -
+    name: port-2
+    type: 10gbase-x-sfpp
+  -
+    name: port-3
+    type: 10gbase-x-sfpp
+  -
+    name: port-4
+    type: 10gbase-x-sfpp
+  -
+    name: port-5
+    type: 10gbase-x-sfpp
+  -
+    name: port-6
+    type: 10gbase-x-sfpp
+  -
+    name: port-7
+    type: 10gbase-x-sfpp
+  -
+    name: port-8
+    type: 10gbase-x-sfpp
+  -
+    name: port-9
+    type: 10gbase-x-sfpp
+  -
+    name: port-10
+    type: 10gbase-x-sfpp
+  -
+    name: port-11
+    type: 10gbase-x-sfpp
+  -
+    name: port-12
+    type: 10gbase-x-sfpp
+  -
+    name: port-13
+    type: 10gbase-x-sfpp
+  -
+    name: port-14
+    type: 10gbase-x-sfpp
+  -
+    name: port-15
+    type: 10gbase-x-sfpp
+  -
+    name: port-16
+    type: 10gbase-x-sfpp
+  -
+    name: port-17
+    type: 10gbase-x-sfpp
+  -
+    name: port-18
+    type: 10gbase-x-sfpp
+  -
+    name: port-19
+    type: 10gbase-x-sfpp
+  -
+    name: port-20
+    type: 10gbase-x-sfpp
+  -
+    name: port-21
+    type: 10gbase-x-sfpp
+  -
+    name: port-22
+    type: 10gbase-x-sfpp
+  -
+    name: port-23
+    type: 10gbase-x-sfpp
+  -
+    name: port-24
+    type: 10gbase-x-sfpp
+  -
+    name: port-25
+    type: 10gbase-x-sfpp
+  -
+    name: port-26
+    type: 10gbase-x-sfpp
+  -
+    name: port-27
+    type: 10gbase-x-sfpp
+  -
+    name: port-28
+    type: 10gbase-x-sfpp
+  -
+    name: port-29
+    type: 10gbase-x-sfpp
+  -
+    name: port-30
+    type: 10gbase-x-sfpp
+  -
+    name: port-31
+    type: 10gbase-x-sfpp
+  -
+    name: port-32
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Slot 2

@@ -16,7 +16,34 @@ power-ports:
     type: iec-60320-c14
     maximum_draw: 100
     allocated_draw: 80
-interfaces: []
+interfaces:
+  -
+    name: A1
+    type: 10gbase-x-sfpp
+  -
+    name: A2
+    type: 10gbase-x-sfpp
+  -
+    name: A3
+    type: 10gbase-x-sfpp
+  -
+    name: A4
+    type: 10gbase-x-sfpp
+  -
+    name: X1
+    type: 10gbase-x-sfpp
+  -
+    name: X2
+    type: 10gbase-x-sfpp
+  -
+    name: X3
+    type: 10gbase-x-sfpp
+  -
+    name: X4
+    type: 10gbase-x-sfpp
+  -
+    name: MGMT
+    type: 1000base-x-sfp
 module-bays:
   -
     name: A1

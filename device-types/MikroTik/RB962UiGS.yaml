@@ -53,6 +53,9 @@ interfaces:
   -
     name: Wireless 5 GHz
     type: ieee802.11ac
+  -
+    name: sfp1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: sfp1

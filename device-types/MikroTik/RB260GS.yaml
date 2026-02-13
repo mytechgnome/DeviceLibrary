@@ -27,6 +27,9 @@ interfaces:
   -
     name: ether5
     type: 1000base-t
+  -
+    name: ether6
+    type: 1000base-x-sfp
 module-bays:
   -
     name: ether6

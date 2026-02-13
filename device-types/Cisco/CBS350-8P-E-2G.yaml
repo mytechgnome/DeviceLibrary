@@ -70,6 +70,12 @@ interfaces:
   -
     name: vlan1
     type: virtual
+  -
+    name: GigabitEthernet9
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet10
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet9

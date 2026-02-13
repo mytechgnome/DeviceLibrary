@@ -45,6 +45,9 @@ interfaces:
   -
     name: Port9
     type: 2.5gbase-t
+  -
+    name: PortF1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: A

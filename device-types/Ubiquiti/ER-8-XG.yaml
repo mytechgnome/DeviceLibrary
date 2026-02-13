@@ -52,6 +52,30 @@ interfaces:
   -
     name: eth0
     type: 1000base-t
+  -
+    name: eth1
+    type: 10gbase-x-sfpp
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: eth3
+    type: 10gbase-x-sfpp
+  -
+    name: eth4
+    type: 10gbase-x-sfpp
+  -
+    name: eth5
+    type: 10gbase-x-sfpp
+  -
+    name: eth6
+    type: 10gbase-x-sfpp
+  -
+    name: eth7
+    type: 10gbase-x-sfpp
+  -
+    name: eth8
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

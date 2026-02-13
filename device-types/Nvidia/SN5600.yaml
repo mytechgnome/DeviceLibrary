@@ -281,3 +281,195 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: swp1
+    type: 1000base-x-sfp
+  -
+    name: swp2
+    type: 1000base-x-sfp
+  -
+    name: swp3
+    type: 1000base-x-sfp
+  -
+    name: swp4
+    type: 1000base-x-sfp
+  -
+    name: swp5
+    type: 1000base-x-sfp
+  -
+    name: swp6
+    type: 1000base-x-sfp
+  -
+    name: swp7
+    type: 1000base-x-sfp
+  -
+    name: swp8
+    type: 1000base-x-sfp
+  -
+    name: swp9
+    type: 1000base-x-sfp
+  -
+    name: swp10
+    type: 1000base-x-sfp
+  -
+    name: swp11
+    type: 1000base-x-sfp
+  -
+    name: swp12
+    type: 1000base-x-sfp
+  -
+    name: swp13
+    type: 1000base-x-sfp
+  -
+    name: swp14
+    type: 1000base-x-sfp
+  -
+    name: swp15
+    type: 1000base-x-sfp
+  -
+    name: swp16
+    type: 1000base-x-sfp
+  -
+    name: swp17
+    type: 1000base-x-sfp
+  -
+    name: swp18
+    type: 1000base-x-sfp
+  -
+    name: swp19
+    type: 1000base-x-sfp
+  -
+    name: swp20
+    type: 1000base-x-sfp
+  -
+    name: swp21
+    type: 1000base-x-sfp
+  -
+    name: swp22
+    type: 1000base-x-sfp
+  -
+    name: swp23
+    type: 1000base-x-sfp
+  -
+    name: swp24
+    type: 1000base-x-sfp
+  -
+    name: swp25
+    type: 1000base-x-sfp
+  -
+    name: swp26
+    type: 1000base-x-sfp
+  -
+    name: swp27
+    type: 1000base-x-sfp
+  -
+    name: swp28
+    type: 1000base-x-sfp
+  -
+    name: swp29
+    type: 1000base-x-sfp
+  -
+    name: swp30
+    type: 1000base-x-sfp
+  -
+    name: swp31
+    type: 1000base-x-sfp
+  -
+    name: swp32
+    type: 1000base-x-sfp
+  -
+    name: swp33
+    type: 1000base-x-sfp
+  -
+    name: swp34
+    type: 1000base-x-sfp
+  -
+    name: swp35
+    type: 1000base-x-sfp
+  -
+    name: swp36
+    type: 1000base-x-sfp
+  -
+    name: swp37
+    type: 1000base-x-sfp
+  -
+    name: swp38
+    type: 1000base-x-sfp
+  -
+    name: swp39
+    type: 1000base-x-sfp
+  -
+    name: swp40
+    type: 1000base-x-sfp
+  -
+    name: swp41
+    type: 1000base-x-sfp
+  -
+    name: swp42
+    type: 1000base-x-sfp
+  -
+    name: swp43
+    type: 1000base-x-sfp
+  -
+    name: swp44
+    type: 1000base-x-sfp
+  -
+    name: swp45
+    type: 1000base-x-sfp
+  -
+    name: swp46
+    type: 1000base-x-sfp
+  -
+    name: swp47
+    type: 1000base-x-sfp
+  -
+    name: swp48
+    type: 1000base-x-sfp
+  -
+    name: swp49
+    type: 1000base-x-sfp
+  -
+    name: swp50
+    type: 1000base-x-sfp
+  -
+    name: swp51
+    type: 1000base-x-sfp
+  -
+    name: swp52
+    type: 1000base-x-sfp
+  -
+    name: swp53
+    type: 1000base-x-sfp
+  -
+    name: swp54
+    type: 1000base-x-sfp
+  -
+    name: swp55
+    type: 1000base-x-sfp
+  -
+    name: swp56
+    type: 1000base-x-sfp
+  -
+    name: swp57
+    type: 1000base-x-sfp
+  -
+    name: swp58
+    type: 1000base-x-sfp
+  -
+    name: swp59
+    type: 1000base-x-sfp
+  -
+    name: swp60
+    type: 1000base-x-sfp
+  -
+    name: swp61
+    type: 1000base-x-sfp
+  -
+    name: swp62
+    type: 1000base-x-sfp
+  -
+    name: swp63
+    type: 1000base-x-sfp
+  -
+    name: swp64
+    type: 1000base-x-sfp

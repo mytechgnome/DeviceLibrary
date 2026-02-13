@@ -68,3 +68,9 @@ interfaces:
     name: Failover
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '2.1'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.2'
+    type: 10gbase-x-sfpp

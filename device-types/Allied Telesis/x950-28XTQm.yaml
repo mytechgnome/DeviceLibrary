@@ -86,6 +86,18 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port1.0.25
+    type: 40gbase-x-qsfpp
+  -
+    name: port1.0.29
+    type: 40gbase-x-qsfpp
+  -
+    name: port1.0.33
+    type: 40gbase-x-qsfpp
+  -
+    name: port1.0.37
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU A

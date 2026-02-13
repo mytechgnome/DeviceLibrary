@@ -54,6 +54,12 @@ interfaces:
     name: port.9
     type: 1000base-t
     label: Port 9 - WAN 1
+  -
+    name: port.10
+    type: 10gbase-x-sfpp
+  -
+    name: port.11
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: Input

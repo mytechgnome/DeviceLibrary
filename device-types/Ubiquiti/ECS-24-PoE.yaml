@@ -145,6 +145,12 @@ interfaces:
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   # 25G SFP28 ports (25-26)
+  -
+    name: SFP28 Port 25
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 26
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: PSU 1

@@ -39,6 +39,18 @@ interfaces:
   -
     name: eth8
     type: 1000base-t
+  -
+    name: eth9
+    type: 1000base-x-sfp
+  -
+    name: eth10
+    type: 1000base-x-sfp
+  -
+    name: eth11
+    type: 1000base-x-sfp
+  -
+    name: eth12
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth9

@@ -159,6 +159,18 @@ interfaces:
   -
     name: port1.48
     type: 1000base-t
+  -
+    name: port1.49
+    type: 1000base-x-sfp
+  -
+    name: port1.50
+    type: 1000base-x-sfp
+  -
+    name: port1.51
+    type: 1000base-x-sfp
+  -
+    name: port1.52
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU

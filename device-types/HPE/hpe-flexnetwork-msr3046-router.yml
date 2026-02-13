@@ -41,6 +41,21 @@ interfaces:
   -
     name: GigabitEthernet1/0/8
     type: 1000base-t
+  -
+    name: Ten-GigabitEthernet1/0/9
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/10
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/11
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/12
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/13
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS-1

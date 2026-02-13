@@ -265,6 +265,12 @@ interfaces:
   -
     name: GigabitEthernet2
     type: 1000base-t
+  -
+    name: GigabitEthernet1/1
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: SFP1

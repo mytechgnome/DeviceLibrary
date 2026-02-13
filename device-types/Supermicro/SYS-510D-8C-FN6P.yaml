@@ -27,6 +27,12 @@ interfaces:
   -
     name: LAN4
     type: 1000base-t
+  -
+    name: LAN5
+    type: 25gbase-x-sfp28
+  -
+    name: LAN6
+    type: 25gbase-x-sfp28
 power-ports:
   -
     name: PSW

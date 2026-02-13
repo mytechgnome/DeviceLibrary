@@ -131,6 +131,12 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: TenGigabitEthernet1/0/25
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/26
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

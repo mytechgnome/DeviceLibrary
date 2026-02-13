@@ -59,6 +59,9 @@ interfaces:
     name: Wireless 2.4 GHz
     label: WiFi
     type: ieee802.11g
+  -
+    name: Sfp-1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Sfp-1

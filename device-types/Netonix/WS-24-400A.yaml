@@ -75,6 +75,24 @@ interfaces:
     name: '20'
     type: 1000base-t
 # Ports 21 - 24 are dual purpose 1000base-t / 1000base-x-sfp ports.
+  -
+    name: '21'
+    type: 1000base-x-sfp
+  -
+    name: '22'
+    type: 1000base-x-sfp
+  -
+    name: '23'
+    type: 1000base-x-sfp
+  -
+    name: '24'
+    type: 1000base-x-sfp
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '21'

@@ -166,6 +166,18 @@ interfaces:
   -
     name: '50'
     type: 1000base-t
+  -
+    name: 49F
+    type: 1000base-x-sfp
+  -
+    name: 50F
+    type: 1000base-x-sfp
+  -
+    name: 51F
+    type: 1000base-x-sfp
+  -
+    name: 52F
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 49F

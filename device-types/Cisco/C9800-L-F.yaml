@@ -37,6 +37,12 @@ interfaces:
   -
     name: TwoGigabitEthernet0/0/3
     type: 2.5gbase-t
+  -
+    name: TenGigabitEthernet0/1/0
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/1/1
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PS1

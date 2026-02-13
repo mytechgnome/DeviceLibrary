@@ -37,3 +37,6 @@ interfaces:
     name: eth3
     label: '4'
     type: 1000base-t
+  -
+    name: eth4
+    type: 10gbase-x-sfpp

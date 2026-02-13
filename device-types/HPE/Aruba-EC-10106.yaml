@@ -55,6 +55,18 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     label: mgmt1 (bottom)
+  -
+    name: lan2-SFP
+    type: 1000base-x-sfp
+  -
+    name: wan0
+    type: 10gbase-x-sfpp
+  -
+    name: wan1
+    type: 10gbase-x-sfpp
+  -
+    name: wan2-SFP
+    type: 1000base-x-sfp
 module-bays:
   -
     name: lan2-SFP

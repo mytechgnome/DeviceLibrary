@@ -84,3 +84,30 @@ interfaces:
   -
     name: Ethernet1/8
     type: 1000base-t
+  -
+    name: Ethernet1/9
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/10
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/11
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/12
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/13
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/14
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/15
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/16
+    type: 10gbase-x-sfpp
+  -
+    name: Management1/1
+    type: 10gbase-x-sfpp

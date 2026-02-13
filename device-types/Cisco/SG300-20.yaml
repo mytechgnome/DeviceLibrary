@@ -73,6 +73,12 @@ interfaces:
   -
     name: GigabitEthernet18
     type: 1000base-t
+  -
+    name: GigabitEthernet19
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet20
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet19

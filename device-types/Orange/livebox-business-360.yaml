@@ -26,6 +26,12 @@ interfaces:
   -
     name: GE-WAN-2/0
     type: 1000base-t
+  -
+    name: SFP-WAN-1/0
+    type: 1000base-x-sfp
+  -
+    name: SFP-WAN-2/0
+    type: 1000base-x-sfp
 console-ports:
   -
     name: console

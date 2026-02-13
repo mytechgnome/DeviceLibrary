@@ -35,6 +35,9 @@ interfaces:
   -
     name: LTE0
     type: lte
+  -
+    name: port1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1

@@ -197,3 +197,23 @@ interfaces:
   -
     name: '48'
     type: 1000base-t
+  -
+    name: '49'
+    type: 25gbase-x-sfp28
+  -
+    name: '50'
+    type: 25gbase-x-sfp28
+  -
+    name: '51'
+    type: 25gbase-x-sfp28
+  -
+    name: '52'
+    type: 25gbase-x-sfp28
+  -
+    name: U1
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 2x 10Gb ethernet
+  -
+    name: U2
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 2x 10Gb ethernet

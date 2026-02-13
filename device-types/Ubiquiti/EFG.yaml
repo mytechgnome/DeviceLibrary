@@ -30,6 +30,21 @@ interfaces:
     type: 2.5gbase-t
 
   # SFP+ 10GbE Ports (3-4)
+  -
+    name: Port 3
+    type: 10gbase-x-sfpp
+  -
+    name: Port 4
+    type: 10gbase-x-sfpp
+
+  # SFP28 25GbE Ports (5-6)
+  -
+    name: Port 5
+    type: 25gbase-x-sfp28
+    label: Default WAN 2
+  -
+    name: Port 6
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: PSU 1

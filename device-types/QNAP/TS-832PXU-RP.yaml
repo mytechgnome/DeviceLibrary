@@ -38,3 +38,9 @@ interfaces:
     name: eth1
     label: '2'
     type: 2.5gbase-t
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: eth3
+    type: 10gbase-x-sfpp

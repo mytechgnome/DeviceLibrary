@@ -60,6 +60,14 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: gi0/9
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
+  -
+    name: gi0/10
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
 module-bays:
   -
     name: gi0/9

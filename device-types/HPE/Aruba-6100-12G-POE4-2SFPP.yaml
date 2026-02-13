@@ -86,6 +86,12 @@ interfaces:
   -
     name: 1/1/14
     type: 1000base-t
+  -
+    name: 1/1/15
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/16
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: 1/1/15

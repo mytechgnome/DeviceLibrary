@@ -144,3 +144,24 @@ interfaces:
   -
     name: Ten-GigabitEthernet1/0/24
     type: 10gbase-t
+  -
+    name: M-GigabitEthernet0/0/1
+    type: 1000base-x-sfp
+  -
+    name: FortyGigE1/0/25
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/26
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/27
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/28
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/29
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/30
+    type: 40gbase-x-qsfpp

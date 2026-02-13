@@ -18,6 +18,9 @@ interfaces:
     name: E2
     type: 1000base-t
     mgmt_only: true
+  -
+    name: E3
+    type: 1000base-x-sfp
 console-ports:
   -
     name: console

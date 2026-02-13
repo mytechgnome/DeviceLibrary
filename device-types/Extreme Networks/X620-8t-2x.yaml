@@ -52,6 +52,14 @@ interfaces:
   -
     name: '8'
     type: 10gbase-t
+  -
+    name: '9'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking or as a standard port
+  -
+    name: '10'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking or as a standard port
 module-bays:
   -
     name: '9'

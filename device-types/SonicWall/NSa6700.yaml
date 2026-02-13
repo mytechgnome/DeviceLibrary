@@ -153,3 +153,45 @@ interfaces:
   -
     name: X19
     type: 10gbase-t
+  -
+    name: X20
+    type: 10gbase-x-sfpp
+  -
+    name: X21
+    type: 10gbase-x-sfpp
+  -
+    name: X22
+    type: 10gbase-x-sfpp
+  -
+    name: X23
+    type: 10gbase-x-sfpp
+  -
+    name: X24
+    type: 25gbase-x-sfp28
+  -
+    name: X25
+    type: 25gbase-x-sfp28
+  -
+    name: X26
+    type: 25gbase-x-sfp28
+  -
+    name: X27
+    type: 25gbase-x-sfp28
+  -
+    name: X28
+    type: 25gbase-x-sfp28
+  -
+    name: X29
+    type: 25gbase-x-sfp28
+  -
+    name: X30
+    type: 25gbase-x-sfp28
+  -
+    name: X31
+    type: 25gbase-x-sfp28
+  -
+    name: X32
+    type: 40gbase-x-qsfpp
+  -
+    name: X33
+    type: 40gbase-x-qsfpp

@@ -30,6 +30,30 @@ interfaces:
   -
     name: port1.4
     type: 10gbase-t
+  -
+    name: port1.5
+    type: 10gbase-x-sfpp
+  -
+    name: port1.6
+    type: 10gbase-x-sfpp
+  -
+    name: port1.7
+    type: 10gbase-x-sfpp
+  -
+    name: port1.8
+    type: 10gbase-x-sfpp
+  -
+    name: port1.9
+    type: 10gbase-x-sfpp
+  -
+    name: port1.10
+    type: 10gbase-x-sfpp
+  -
+    name: port1.11
+    type: 10gbase-x-sfpp
+  -
+    name: port1.12
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU

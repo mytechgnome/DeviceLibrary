@@ -92,6 +92,18 @@ interfaces:
     name: '24'
     label: combo
     type: 1000base-t
+  -
+    name: 21F
+    type: 1000base-x-sfp
+  -
+    name: 22F
+    type: 1000base-x-sfp
+  -
+    name: 23F
+    type: 1000base-x-sfp
+  -
+    name: 24F
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 21F

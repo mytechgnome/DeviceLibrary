@@ -67,6 +67,30 @@ interfaces:
   -
     name: loopback
     type: virtual
+  -
+    name: ethernet1/13
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/14
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/15
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/16
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/17
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/18
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/19
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/20
+    type: 1000base-x-sfp
 module-bays:
   -
     name: ethernet1/13

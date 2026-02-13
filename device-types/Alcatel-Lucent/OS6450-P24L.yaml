@@ -90,6 +90,12 @@ interfaces:
   -
     name: 1/24
     type: 100base-tx
+  -
+    name: 1/25
+    type: 10gbase-x-sfpp
+  -
+    name: 1/26
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS2

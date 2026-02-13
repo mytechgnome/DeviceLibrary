@@ -33,6 +33,9 @@ interfaces:
   -
     name: ether8
     type: 1000base-t
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: power1

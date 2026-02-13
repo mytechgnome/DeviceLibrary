@@ -182,3 +182,15 @@ interfaces:
     name: Management 1/1/1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: qx-ethernet 0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: qx-ethernet 0/2
+    type: 40gbase-x-qsfpp
+  -
+    name: qx-ethernet 0/3
+    type: 40gbase-x-qsfpp
+  -
+    name: qx-ethernet 0/4
+    type: 40gbase-x-qsfpp

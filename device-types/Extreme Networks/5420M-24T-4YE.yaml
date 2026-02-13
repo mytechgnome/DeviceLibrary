@@ -125,3 +125,23 @@ interfaces:
   -
     name: '24'
     type: 1000base-t
+  -
+    name: '25'
+    type: 25gbase-x-sfp28
+  -
+    name: '26'
+    type: 25gbase-x-sfp28
+  -
+    name: '27'
+    type: 25gbase-x-sfp28
+  -
+    name: '28'
+    type: 25gbase-x-sfp28
+  -
+    name: U1
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 2x 10Gb ethernet
+  -
+    name: U2
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 2x 10Gb ethernet

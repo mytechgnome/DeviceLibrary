@@ -156,6 +156,18 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
     type: 1000base-t
+  -
+    name: sfp25
+    type: 1000base-x-sfp
+  -
+    name: sfp26
+    type: 1000base-x-sfp
+  -
+    name: sfp27
+    type: 1000base-x-sfp
+  -
+    name: sfp28
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU1

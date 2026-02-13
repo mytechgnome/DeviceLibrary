@@ -4,5 +4,6 @@ model: QSFP-40GE-LR4-S
 part_number: QSFP-40GE-LR4-S
 comments: "Cisco 40GBASE-LR4 QSFP+. Datasheet: https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/data_sheet_c78-660083.html"
 interfaces:
-  - name: "{module}"
+  -
+    name: "{module}"
     type: 40gbase-lr4

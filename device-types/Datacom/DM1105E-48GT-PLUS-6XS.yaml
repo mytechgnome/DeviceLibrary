@@ -269,6 +269,24 @@ interfaces:
     type: 1000base-t
     enabled: true
     mgmt_only: false
+  -
+    name: Ethernet1/0/49
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/50
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/51
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/52
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/53
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/54
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet1/0/49

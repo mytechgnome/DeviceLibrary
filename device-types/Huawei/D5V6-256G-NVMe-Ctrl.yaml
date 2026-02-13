@@ -45,3 +45,9 @@ interfaces:
     name: Maintenance
     type: 1000base-t
     mgmt_only: true
+  -
+    name: RDMA_Expand_1
+    type: 40gbase-x-qsfpp
+  -
+    name: RDMA_Expand_2
+    type: 40gbase-x-qsfpp

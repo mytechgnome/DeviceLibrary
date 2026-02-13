@@ -36,6 +36,54 @@ interfaces:
   -
     name: LAN14
     type: 1000base-t
+  -
+    name: WAN1S
+    type: 10gbase-x-sfpp
+  -
+    name: WAN2S
+    type: 10gbase-x-sfpp
+  -
+    name: LAN1S
+    type: 10gbase-x-sfpp
+  -
+    name: LAN2S
+    type: 10gbase-x-sfpp
+  -
+    name: LAN3S
+    type: 1000base-x-sfp
+  -
+    name: LAN4S
+    type: 1000base-x-sfp
+  -
+    name: LAN5S
+    type: 1000base-x-sfp
+  -
+    name: LAN6S
+    type: 1000base-x-sfp
+  -
+    name: LAN7S
+    type: 1000base-x-sfp
+  -
+    name: LAN8S
+    type: 1000base-x-sfp
+  -
+    name: LAN9S
+    type: 1000base-x-sfp
+  -
+    name: LAN10S
+    type: 1000base-x-sfp
+  -
+    name: LAN11S
+    type: 1000base-x-sfp
+  -
+    name: LAN12S
+    type: 1000base-x-sfp
+  -
+    name: LAN13S
+    type: 1000base-x-sfp
+  -
+    name: LAN14S
+    type: 1000base-x-sfp
 module-bays:
   -
     name: WAN1S

@@ -251,3 +251,171 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet1
+    type: 1000base-x-sfp
+  -
+    name: Ethernet2
+    type: 1000base-x-sfp
+  -
+    name: Ethernet3
+    type: 1000base-x-sfp
+  -
+    name: Ethernet4
+    type: 1000base-x-sfp
+  -
+    name: Ethernet5
+    type: 1000base-x-sfp
+  -
+    name: Ethernet6
+    type: 1000base-x-sfp
+  -
+    name: Ethernet7
+    type: 1000base-x-sfp
+  -
+    name: Ethernet8
+    type: 1000base-x-sfp
+  -
+    name: Ethernet9
+    type: 1000base-x-sfp
+  -
+    name: Ethernet10
+    type: 1000base-x-sfp
+  -
+    name: Ethernet11
+    type: 1000base-x-sfp
+  -
+    name: Ethernet12
+    type: 1000base-x-sfp
+  -
+    name: Ethernet13
+    type: 1000base-x-sfp
+  -
+    name: Ethernet14
+    type: 1000base-x-sfp
+  -
+    name: Ethernet15
+    type: 1000base-x-sfp
+  -
+    name: Ethernet16
+    type: 1000base-x-sfp
+  -
+    name: Ethernet17
+    type: 1000base-x-sfp
+  -
+    name: Ethernet18
+    type: 1000base-x-sfp
+  -
+    name: Ethernet19
+    type: 1000base-x-sfp
+  -
+    name: Ethernet20
+    type: 1000base-x-sfp
+  -
+    name: Ethernet21
+    type: 1000base-x-sfp
+  -
+    name: Ethernet22
+    type: 1000base-x-sfp
+  -
+    name: Ethernet23
+    type: 1000base-x-sfp
+  -
+    name: Ethernet24
+    type: 1000base-x-sfp
+  -
+    name: Ethernet25
+    type: 1000base-x-sfp
+  -
+    name: Ethernet26
+    type: 1000base-x-sfp
+  -
+    name: Ethernet27
+    type: 1000base-x-sfp
+  -
+    name: Ethernet28
+    type: 1000base-x-sfp
+  -
+    name: Ethernet29
+    type: 1000base-x-sfp
+  -
+    name: Ethernet30
+    type: 1000base-x-sfp
+  -
+    name: Ethernet31
+    type: 1000base-x-sfp
+  -
+    name: Ethernet32
+    type: 1000base-x-sfp
+  -
+    name: Ethernet33
+    type: 1000base-x-sfp
+  -
+    name: Ethernet34
+    type: 1000base-x-sfp
+  -
+    name: Ethernet35
+    type: 1000base-x-sfp
+  -
+    name: Ethernet36
+    type: 1000base-x-sfp
+  -
+    name: Ethernet37
+    type: 1000base-x-sfp
+  -
+    name: Ethernet38
+    type: 1000base-x-sfp
+  -
+    name: Ethernet39
+    type: 1000base-x-sfp
+  -
+    name: Ethernet40
+    type: 1000base-x-sfp
+  -
+    name: Ethernet41
+    type: 1000base-x-sfp
+  -
+    name: Ethernet42
+    type: 1000base-x-sfp
+  -
+    name: Ethernet43
+    type: 1000base-x-sfp
+  -
+    name: Ethernet44
+    type: 1000base-x-sfp
+  -
+    name: Ethernet45
+    type: 1000base-x-sfp
+  -
+    name: Ethernet46
+    type: 1000base-x-sfp
+  -
+    name: Ethernet47
+    type: 1000base-x-sfp
+  -
+    name: Ethernet48
+    type: 1000base-x-sfp
+  -
+    name: Ethernet49/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet50/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet51/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet52/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet53/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet54/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet55/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet56/1
+    type: 400gbase-x-qsfpdd

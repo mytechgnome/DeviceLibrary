@@ -16,6 +16,12 @@ interfaces:
     name: BMC
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Gig-E 1
+    type: 25gbase-x-sfp28
+  -
+    name: Gig-E 2
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: PSU1

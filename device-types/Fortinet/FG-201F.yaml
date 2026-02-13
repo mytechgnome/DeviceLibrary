@@ -88,6 +88,42 @@ interfaces:
   -
     name: port16
     type: 1000base-t
+  -
+    name: port17
+    type: 1000base-x-sfp
+  -
+    name: port18
+    type: 1000base-x-sfp
+  -
+    name: port19
+    type: 1000base-x-sfp
+  -
+    name: port20
+    type: 1000base-x-sfp
+  -
+    name: port21
+    type: 1000base-x-sfp
+  -
+    name: port22
+    type: 1000base-x-sfp
+  -
+    name: port23
+    type: 1000base-x-sfp
+  -
+    name: port24
+    type: 1000base-x-sfp
+  -
+    name: x1
+    type: 10gbase-x-sfpp
+  -
+    name: x2
+    type: 10gbase-x-sfpp
+  -
+    name: x3
+    type: 10gbase-x-sfpp
+  -
+    name: x4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port17

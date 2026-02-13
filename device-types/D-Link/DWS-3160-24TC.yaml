@@ -87,6 +87,18 @@ interfaces:
   -
     name: GigabitEthernet1/0/24T
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/21F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/22F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/23F
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/24F
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet1/0/21F

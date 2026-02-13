@@ -101,6 +101,12 @@ interfaces:
   -
     name: ETH2
     type: 10gbase-t
+  -
+    name: SFP+1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: SFP+1

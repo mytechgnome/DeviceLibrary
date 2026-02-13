@@ -146,6 +146,12 @@ interfaces:
   -
     name: GigabitEthernet26
     type: 1000base-t
+  -
+    name: GigabitEthernet27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet27

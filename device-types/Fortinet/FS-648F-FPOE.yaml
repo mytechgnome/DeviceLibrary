@@ -300,3 +300,27 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port49
+    type: 25gbase-x-sfp28
+  -
+    name: port50
+    type: 25gbase-x-sfp28
+  -
+    name: port51
+    type: 25gbase-x-sfp28
+  -
+    name: port52
+    type: 25gbase-x-sfp28
+  -
+    name: port53
+    type: 25gbase-x-sfp28
+  -
+    name: port54
+    type: 25gbase-x-sfp28
+  -
+    name: port55
+    type: 25gbase-x-sfp28
+  -
+    name: port56
+    type: 25gbase-x-sfp28

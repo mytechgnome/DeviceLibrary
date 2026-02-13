@@ -243,3 +243,165 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet2
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet3
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet4
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet5
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet6
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet7
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet8
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet9
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet10
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet11
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet12
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet13
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet14
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet15
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet16
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet17
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet18
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet19
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet20
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet21
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet22
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet23
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet24
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet25
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet26
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet27
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet28
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet29
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet30
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet31
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet32
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet33
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet34
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet35
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet36
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet37
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet38
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet39
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet40
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet41
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet42
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet43
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet44
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet45
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet46
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet47
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet48
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet49/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet50/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet51/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet52/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet53/1
+    type: 400gbase-x-qsfpdd
+  -
+    name: Ethernet54/1
+    type: 400gbase-x-qsfpdd

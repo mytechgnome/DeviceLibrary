@@ -27,6 +27,12 @@ interfaces:
   -
     name: GigabitEthernet1/0/3
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/4
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/5
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PS-1

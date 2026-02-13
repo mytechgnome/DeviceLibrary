@@ -17,6 +17,90 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: cd0
+    type: 400gbase-x-qsfpdd
+  -
+    name: cd1
+    type: 400gbase-x-qsfpdd
+  -
+    name: ce2
+    type: 40gbase-x-qsfpp
+  -
+    name: ce3
+    type: 40gbase-x-qsfpp
+  -
+    name: xe4
+    type: 25gbase-x-sfp28
+  -
+    name: xe5
+    type: 25gbase-x-sfp28
+  -
+    name: xe6
+    type: 25gbase-x-sfp28
+  -
+    name: xe7
+    type: 25gbase-x-sfp28
+  -
+    name: xe8
+    type: 25gbase-x-sfp28
+  -
+    name: xe9
+    type: 25gbase-x-sfp28
+  -
+    name: xe10
+    type: 25gbase-x-sfp28
+  -
+    name: xe11
+    type: 25gbase-x-sfp28
+  -
+    name: xe12
+    type: 25gbase-x-sfp28
+  -
+    name: xe13
+    type: 25gbase-x-sfp28
+  -
+    name: xe14
+    type: 25gbase-x-sfp28
+  -
+    name: xe15
+    type: 25gbase-x-sfp28
+  -
+    name: xe16
+    type: 25gbase-x-sfp28
+  -
+    name: xe17
+    type: 25gbase-x-sfp28
+  -
+    name: xe18
+    type: 25gbase-x-sfp28
+  -
+    name: xe19
+    type: 25gbase-x-sfp28
+  -
+    name: xe20
+    type: 25gbase-x-sfp28
+  -
+    name: xe21
+    type: 25gbase-x-sfp28
+  -
+    name: xe22
+    type: 25gbase-x-sfp28
+  -
+    name: xe23
+    type: 25gbase-x-sfp28
+  -
+    name: xe24
+    type: 25gbase-x-sfp28
+  -
+    name: xe25
+    type: 25gbase-x-sfp28
+  -
+    name: xe26
+    type: 25gbase-x-sfp28
+  -
+    name: xe27
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: Power Supply 0

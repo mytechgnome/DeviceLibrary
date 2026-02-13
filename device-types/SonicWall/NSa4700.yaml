@@ -130,3 +130,21 @@ interfaces:
   -
     name: X23
     type: 1000base-t
+  -
+    name: X24
+    type: 10gbase-x-sfpp
+  -
+    name: X25
+    type: 10gbase-x-sfpp
+  -
+    name: X26
+    type: 10gbase-x-sfpp
+  -
+    name: X27
+    type: 10gbase-x-sfpp
+  -
+    name: X28
+    type: 10gbase-x-sfpp
+  -
+    name: X29
+    type: 10gbase-x-sfpp

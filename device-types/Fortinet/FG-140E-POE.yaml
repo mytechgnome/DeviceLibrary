@@ -197,6 +197,12 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: dmz1
+    type: 1000base-x-sfp
+  -
+    name: dmz2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: dmz1

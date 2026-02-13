@@ -62,6 +62,18 @@ interfaces:
     type: 100base-tx
     label: MGMT/BOOT
     mgmt_only: true
+  -
+    name: sfp1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp2
+    type: 10gbase-x-sfpp
+  -
+    name: sfp3
+    type: 10gbase-x-sfpp
+  -
+    name: sfp4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: serial1

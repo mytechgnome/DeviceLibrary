@@ -88,3 +88,51 @@ interfaces:
     name: eth0
     type: 1000base-t
     description: Management
+  -
+    name: swp1
+    type: 40gbase-x-qsfpp
+  -
+    name: swp2
+    type: 40gbase-x-qsfpp
+  -
+    name: swp3
+    type: 40gbase-x-qsfpp
+  -
+    name: swp4
+    type: 40gbase-x-qsfpp
+  -
+    name: swp5
+    type: 40gbase-x-qsfpp
+  -
+    name: swp6
+    type: 40gbase-x-qsfpp
+  -
+    name: swp7
+    type: 40gbase-x-qsfpp
+  -
+    name: swp8
+    type: 40gbase-x-qsfpp
+  -
+    name: swp9
+    type: 40gbase-x-qsfpp
+  -
+    name: swp10
+    type: 40gbase-x-qsfpp
+  -
+    name: swp11
+    type: 40gbase-x-qsfpp
+  -
+    name: swp12
+    type: 40gbase-x-qsfpp
+  -
+    name: swp13
+    type: 40gbase-x-qsfpp
+  -
+    name: swp14
+    type: 40gbase-x-qsfpp
+  -
+    name: swp15
+    type: 40gbase-x-qsfpp
+  -
+    name: swp16
+    type: 40gbase-x-qsfpp

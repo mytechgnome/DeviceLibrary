@@ -32,6 +32,12 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     label: '2'
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: eth3
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS-1

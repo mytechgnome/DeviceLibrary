@@ -43,6 +43,18 @@ interfaces:
   -
     name: ether12
     type: 1000base-t
+  -
+    name: sfp1
+    type: 1000base-x-sfp
+  -
+    name: sfp2
+    type: 1000base-x-sfp
+  -
+    name: sfp3
+    type: 1000base-x-sfp
+  -
+    name: sfp4
+    type: 1000base-x-sfp
 console-ports:
   -
     name: serial0

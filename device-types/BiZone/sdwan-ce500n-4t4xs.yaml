@@ -37,6 +37,18 @@ interfaces:
   -
     name: port4
     type: 1000base-t
+  -
+    name: port5
+    type: 10gbase-x-sfpp
+  -
+    name: port6
+    type: 10gbase-x-sfpp
+  -
+    name: port7
+    type: 10gbase-x-sfpp
+  -
+    name: port8
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port5

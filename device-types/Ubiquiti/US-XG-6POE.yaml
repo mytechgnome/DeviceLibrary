@@ -33,6 +33,12 @@ interfaces:
     type: 10gbase-t
     poe_mode: pse
     poe_type: type3-ieee802.3bt
+  -
+    name: SFP+ 5
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 6
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

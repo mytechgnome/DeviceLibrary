@@ -8,6 +8,39 @@ interfaces:
   -
     name: ether1
     type: 1000base-t
+  -
+    name: sfp1
+    type: 1000base-x-sfp
+  -
+    name: sfp2
+    type: 1000base-x-sfp
+  -
+    name: sfp3
+    type: 1000base-x-sfp
+  -
+    name: sfp4
+    type: 1000base-x-sfp
+  -
+    name: sfp5
+    type: 1000base-x-sfp
+  -
+    name: sfp6
+    type: 1000base-x-sfp
+  -
+    name: sfp7
+    type: 1000base-x-sfp
+  -
+    name: sfp8
+    type: 1000base-x-sfp
+  -
+    name: sfp9
+    type: 1000base-x-sfp
+  -
+    name: sfp10
+    type: 1000base-x-sfp
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: serial0

@@ -22,6 +22,198 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: swp1
+    type: 40gbase-x-qsfpp
+  -
+    name: swp2
+    type: 40gbase-x-qsfpp
+  -
+    name: swp3
+    type: 40gbase-x-qsfpp
+  -
+    name: swp4
+    type: 40gbase-x-qsfpp
+  -
+    name: swp5
+    type: 40gbase-x-qsfpp
+  -
+    name: swp6
+    type: 40gbase-x-qsfpp
+  -
+    name: swp7
+    type: 40gbase-x-qsfpp
+  -
+    name: swp8
+    type: 40gbase-x-qsfpp
+  -
+    name: swp9
+    type: 40gbase-x-qsfpp
+  -
+    name: swp10
+    type: 40gbase-x-qsfpp
+  -
+    name: swp11
+    type: 40gbase-x-qsfpp
+  -
+    name: swp12
+    type: 40gbase-x-qsfpp
+  -
+    name: swp13
+    type: 40gbase-x-qsfpp
+  -
+    name: swp14
+    type: 40gbase-x-qsfpp
+  -
+    name: swp15
+    type: 40gbase-x-qsfpp
+  -
+    name: swp16
+    type: 40gbase-x-qsfpp
+  -
+    name: swp17
+    type: 40gbase-x-qsfpp
+  -
+    name: swp18
+    type: 40gbase-x-qsfpp
+  -
+    name: swp19
+    type: 40gbase-x-qsfpp
+  -
+    name: swp20
+    type: 40gbase-x-qsfpp
+  -
+    name: swp21
+    type: 40gbase-x-qsfpp
+  -
+    name: swp22
+    type: 40gbase-x-qsfpp
+  -
+    name: swp23
+    type: 40gbase-x-qsfpp
+  -
+    name: swp24
+    type: 40gbase-x-qsfpp
+  -
+    name: swp25
+    type: 40gbase-x-qsfpp
+  -
+    name: swp26
+    type: 40gbase-x-qsfpp
+  -
+    name: swp27
+    type: 40gbase-x-qsfpp
+  -
+    name: swp28
+    type: 40gbase-x-qsfpp
+  -
+    name: swp29
+    type: 40gbase-x-qsfpp
+  -
+    name: swp30
+    type: 40gbase-x-qsfpp
+  -
+    name: swp31
+    type: 40gbase-x-qsfpp
+  -
+    name: swp32
+    type: 40gbase-x-qsfpp
+  -
+    name: swp33
+    type: 40gbase-x-qsfpp
+  -
+    name: swp34
+    type: 40gbase-x-qsfpp
+  -
+    name: swp35
+    type: 40gbase-x-qsfpp
+  -
+    name: swp36
+    type: 40gbase-x-qsfpp
+  -
+    name: swp37
+    type: 40gbase-x-qsfpp
+  -
+    name: swp38
+    type: 40gbase-x-qsfpp
+  -
+    name: swp39
+    type: 40gbase-x-qsfpp
+  -
+    name: swp40
+    type: 40gbase-x-qsfpp
+  -
+    name: swp41
+    type: 40gbase-x-qsfpp
+  -
+    name: swp42
+    type: 40gbase-x-qsfpp
+  -
+    name: swp43
+    type: 40gbase-x-qsfpp
+  -
+    name: swp44
+    type: 40gbase-x-qsfpp
+  -
+    name: swp45
+    type: 40gbase-x-qsfpp
+  -
+    name: swp46
+    type: 40gbase-x-qsfpp
+  -
+    name: swp47
+    type: 40gbase-x-qsfpp
+  -
+    name: swp48
+    type: 40gbase-x-qsfpp
+  -
+    name: swp49
+    type: 40gbase-x-qsfpp
+  -
+    name: swp50
+    type: 40gbase-x-qsfpp
+  -
+    name: swp51
+    type: 40gbase-x-qsfpp
+  -
+    name: swp52
+    type: 40gbase-x-qsfpp
+  -
+    name: swp53
+    type: 40gbase-x-qsfpp
+  -
+    name: swp54
+    type: 40gbase-x-qsfpp
+  -
+    name: swp55
+    type: 40gbase-x-qsfpp
+  -
+    name: swp56
+    type: 40gbase-x-qsfpp
+  -
+    name: swp57
+    type: 40gbase-x-qsfpp
+  -
+    name: swp58
+    type: 40gbase-x-qsfpp
+  -
+    name: swp59
+    type: 40gbase-x-qsfpp
+  -
+    name: swp60
+    type: 40gbase-x-qsfpp
+  -
+    name: swp61
+    type: 40gbase-x-qsfpp
+  -
+    name: swp62
+    type: 40gbase-x-qsfpp
+  -
+    name: swp63
+    type: 40gbase-x-qsfpp
+  -
+    name: swp64
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: swp1

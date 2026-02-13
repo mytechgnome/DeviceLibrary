@@ -158,6 +158,12 @@ interfaces:
   -
     name: ge-0/0/47
     type: 1000base-t
+  -
+    name: et-0/1/0
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/1/1
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console

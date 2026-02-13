@@ -99,6 +99,12 @@ interfaces:
   -
     name: GE-18
     type: 1000base-t
+  -
+    name: GE-19
+    type: 1000base-x-sfp
+  -
+    name: GE-20
+    type: 1000base-x-sfp
 power-ports:
   -
     name: Power

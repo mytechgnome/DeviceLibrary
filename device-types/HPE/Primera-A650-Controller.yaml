@@ -15,6 +15,12 @@ interfaces:
   -
     name: MGMT
     type: 1000base-t
+  -
+    name: Slot-1
+    type: 10gbase-x-sfpp
+  -
+    name: Slot-2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Slot-3

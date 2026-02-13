@@ -48,6 +48,30 @@ interfaces:
   -
     name: ge-0/0/11
     type: 1000base-t
+  -
+    name: ge-0/0/12
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/13
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/14
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/15
+    type: 1000base-x-sfp
+  -
+    name: xe-0/0/16
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/17
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/18
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/19
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU0

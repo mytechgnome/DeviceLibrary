@@ -136,3 +136,21 @@ interfaces:
   -
     name: X25
     type: 10gbase-t
+  -
+    name: X26
+    type: 10gbase-x-sfpp
+  -
+    name: X27
+    type: 10gbase-x-sfpp
+  -
+    name: X28
+    type: 10gbase-x-sfpp
+  -
+    name: X29
+    type: 10gbase-x-sfpp
+  -
+    name: X30
+    type: 10gbase-x-sfpp
+  -
+    name: X31
+    type: 10gbase-x-sfpp

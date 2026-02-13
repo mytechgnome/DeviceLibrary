@@ -42,6 +42,12 @@ interfaces:
   -
     name: switch0
     type: bridge
+  -
+    name: eth8
+    type: 1000base-x-sfp
+  -
+    name: eth9
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth8

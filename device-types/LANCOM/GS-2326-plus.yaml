@@ -89,6 +89,12 @@ interfaces:
   -
     name: Port 26 RJ45
     type: 1000base-t
+  -
+    name: Port 25 SFP
+    type: 1000base-x-sfp
+  -
+    name: Port 26 SFP
+    type: 1000base-x-sfp
 console-ports:
   -
     name: com

@@ -195,3 +195,21 @@ interfaces:
   -
     name: ge48
     type: 1000base-t
+  -
+    name: xe49
+    type: 10gbase-x-sfpp
+  -
+    name: xe50
+    type: 10gbase-x-sfpp
+  -
+    name: xe51
+    type: 10gbase-x-sfpp
+  -
+    name: xe52
+    type: 10gbase-x-sfpp
+  -
+    name: xe53
+    type: 10gbase-x-sfpp
+  -
+    name: xe54
+    type: 10gbase-x-sfpp

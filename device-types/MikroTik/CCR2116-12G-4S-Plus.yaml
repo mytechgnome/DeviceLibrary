@@ -50,6 +50,18 @@ interfaces:
   -
     name: ether13
     type: 1000base-t
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus3
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: serial0

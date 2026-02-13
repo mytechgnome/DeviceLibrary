@@ -218,126 +218,178 @@ module-bays:
   -
     name: HundredGigE1/0/49
     position: HundredGigE1/0/49
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/50
     position: HundredGigE1/0/50
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/51
     position: HundredGigE1/0/51
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/52
     position: HundredGigE1/0/52
-    label: qsfp
+    label: qsfp28
 interfaces:
   -
     name: GigabitEthernet0/0
     type: 1000base-t
     mgmt_only: true
-  - name: TwentyFiveGigE1/0/1
+  -
+    name: TwentyFiveGigE1/0/1
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/2
+  -
+    name: TwentyFiveGigE1/0/2
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/3
+  -
+    name: TwentyFiveGigE1/0/3
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/4
+  -
+    name: TwentyFiveGigE1/0/4
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/5
+  -
+    name: TwentyFiveGigE1/0/5
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/6
+  -
+    name: TwentyFiveGigE1/0/6
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/7
+  -
+    name: TwentyFiveGigE1/0/7
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/8
+  -
+    name: TwentyFiveGigE1/0/8
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/9
+  -
+    name: TwentyFiveGigE1/0/9
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/10
+  -
+    name: TwentyFiveGigE1/0/10
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/11
+  -
+    name: TwentyFiveGigE1/0/11
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/12
+  -
+    name: TwentyFiveGigE1/0/12
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/13
+  -
+    name: TwentyFiveGigE1/0/13
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/14
+  -
+    name: TwentyFiveGigE1/0/14
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/15
+  -
+    name: TwentyFiveGigE1/0/15
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/16
+  -
+    name: TwentyFiveGigE1/0/16
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/17
+  -
+    name: TwentyFiveGigE1/0/17
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/18
+  -
+    name: TwentyFiveGigE1/0/18
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/19
+  -
+    name: TwentyFiveGigE1/0/19
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/20
+  -
+    name: TwentyFiveGigE1/0/20
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/21
+  -
+    name: TwentyFiveGigE1/0/21
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/22
+  -
+    name: TwentyFiveGigE1/0/22
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/23
+  -
+    name: TwentyFiveGigE1/0/23
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/24
+  -
+    name: TwentyFiveGigE1/0/24
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/25
+  -
+    name: TwentyFiveGigE1/0/25
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/26
+  -
+    name: TwentyFiveGigE1/0/26
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/27
+  -
+    name: TwentyFiveGigE1/0/27
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/28
+  -
+    name: TwentyFiveGigE1/0/28
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/29
+  -
+    name: TwentyFiveGigE1/0/29
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/30
+  -
+    name: TwentyFiveGigE1/0/30
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/31
+  -
+    name: TwentyFiveGigE1/0/31
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/32
+  -
+    name: TwentyFiveGigE1/0/32
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/33
+  -
+    name: TwentyFiveGigE1/0/33
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/34
+  -
+    name: TwentyFiveGigE1/0/34
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/35
+  -
+    name: TwentyFiveGigE1/0/35
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/36
+  -
+    name: TwentyFiveGigE1/0/36
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/37
+  -
+    name: TwentyFiveGigE1/0/37
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/38
+  -
+    name: TwentyFiveGigE1/0/38
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/39
+  -
+    name: TwentyFiveGigE1/0/39
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/40
+  -
+    name: TwentyFiveGigE1/0/40
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/41
+  -
+    name: TwentyFiveGigE1/0/41
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/42
+  -
+    name: TwentyFiveGigE1/0/42
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/43
+  -
+    name: TwentyFiveGigE1/0/43
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/44
+  -
+    name: TwentyFiveGigE1/0/44
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/45
+  -
+    name: TwentyFiveGigE1/0/45
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/46
+  -
+    name: TwentyFiveGigE1/0/46
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/47
+  -
+    name: TwentyFiveGigE1/0/47
     type: 25gbase-x-sfp28
-  - name: TwentyFiveGigE1/0/48
+  -
+    name: TwentyFiveGigE1/0/48
     type: 25gbase-x-sfp28
-  - name: HundredGigE1/0/49
+  -
+    name: HundredGigE1/0/49
     type: 100gbase-x-qsfp28
-  - name: HundredGigE1/0/50
+  -
+    name: HundredGigE1/0/50
     type: 100gbase-x-qsfp28
-  - name: HundredGigE1/0/51
+  -
+    name: HundredGigE1/0/51
     type: 100gbase-x-qsfp28
-  - name: HundredGigE1/0/52
+  -
+    name: HundredGigE1/0/52
     type: 100gbase-x-qsfp28
 

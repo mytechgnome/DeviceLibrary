@@ -142,6 +142,24 @@ interfaces:
     name: Management
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Port 25
+    type: 1000base-x-sfp
+  -
+    name: Port 26
+    type: 1000base-x-sfp
+  -
+    name: Port 27
+    type: 1000base-x-sfp
+  -
+    name: Port 28
+    type: 1000base-x-sfp
+  -
+    name: Dedicated Stack Port 1
+    type: 40gbase-x-qsfpp
+  -
+    name: Dedicated Stack Port 2
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Port 25

@@ -29,6 +29,9 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: sfp1
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: DC jack

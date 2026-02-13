@@ -37,6 +37,12 @@ interfaces:
   -
     name: GigabitEthernet1/0/8
     type: 1000base-t
+  -
+    name: GigabitEthernet1/1/1
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/1/2
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU

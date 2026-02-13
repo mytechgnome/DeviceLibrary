@@ -67,6 +67,12 @@ interfaces:
   -
     name: interface 0/16
     type: 1000base-t
+  -
+    name: interface 0/17
+    type: 1000base-x-sfp
+  -
+    name: interface 0/18
+    type: 1000base-x-sfp
 module-bays:
   -
     name: interface 0/17

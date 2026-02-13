@@ -96,6 +96,12 @@ interfaces:
   -
     name: gigabitethernet 0/0/23
     type: 1000base-t
+  -
+    name: gigabitethernet 0/0/24
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/0/25
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: gigabitethernet 0/0/24

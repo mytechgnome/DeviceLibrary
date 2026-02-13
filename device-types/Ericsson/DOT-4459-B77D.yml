@@ -20,6 +20,9 @@ interfaces:
   -
     name: Radio
     type: 5g
+  -
+    name: LAN2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: LAN2

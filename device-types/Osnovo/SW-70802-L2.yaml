@@ -41,6 +41,12 @@ interfaces:
   -
     name: gi8
     type: 1000base-t
+  -
+    name: gi9-sfp
+    type: 1000base-x-sfp
+  -
+    name: gi10-sfp
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gi9-sfp

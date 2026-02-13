@@ -32,6 +32,12 @@ interfaces:
   -
     name: ether8
     type: 2.5gbase-t
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: power1

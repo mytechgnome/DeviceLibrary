@@ -151,6 +151,18 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet25
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet26
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet27
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet25

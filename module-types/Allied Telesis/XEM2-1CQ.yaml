@@ -4,5 +4,5 @@ model: XEM2-1CQ
 part_number: AT-XEM2-1CQ
 interfaces:
   -
-    name: port1.{module}.1
+    name: '{module}'
     type: 100gbase-x-qsfp28

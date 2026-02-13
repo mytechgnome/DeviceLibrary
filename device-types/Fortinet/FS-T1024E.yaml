@@ -107,3 +107,9 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port25
+    type: 40gbase-x-qsfpp
+  -
+    name: port26
+    type: 40gbase-x-qsfpp

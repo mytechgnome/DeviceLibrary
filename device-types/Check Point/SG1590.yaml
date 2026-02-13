@@ -47,6 +47,9 @@ interfaces:
   -
     name: WAN
     type: 1000base-t
+  -
+    name: DMZ-SFP
+    type: 1000base-x-sfp
 module-bays:
   -
     name: DMZ-SFP

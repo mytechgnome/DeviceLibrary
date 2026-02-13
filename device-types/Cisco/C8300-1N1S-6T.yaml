@@ -50,3 +50,9 @@ interfaces:
   -
     name: GigabitEthernet0/0/3
     type: 1000base-t
+  -
+    name: GigabitEthernet0/0/4
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/5
+    type: 1000base-x-sfp

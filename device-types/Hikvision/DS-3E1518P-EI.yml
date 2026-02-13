@@ -98,6 +98,9 @@ interfaces:
     name: '17'
     type: 1000base-t
 # slots:
+  -
+    name: '18'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '18'

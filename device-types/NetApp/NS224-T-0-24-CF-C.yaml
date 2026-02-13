@@ -11,7 +11,19 @@ weight: 23.0
 weight_unit: kg
 front_image: true
 rear_image: true
-interfaces: []
+interfaces:
+  -
+    name: a-e0a
+    type: 40gbase-x-qsfpp
+  -
+    name: a-e0b
+    type: 40gbase-x-qsfpp
+  -
+    name: b-e0a
+    type: 40gbase-x-qsfpp
+  -
+    name: b-e0b
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU 1

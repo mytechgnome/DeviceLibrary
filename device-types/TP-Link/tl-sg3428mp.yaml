@@ -79,6 +79,18 @@ interfaces:
   -
     name: '24'
     type: 1000base-t
+  -
+    name: '25'
+    type: 10gbase-x-sfpp
+  -
+    name: '26'
+    type: 10gbase-x-sfpp
+  -
+    name: '27'
+    type: 10gbase-x-sfpp
+  -
+    name: '28'
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

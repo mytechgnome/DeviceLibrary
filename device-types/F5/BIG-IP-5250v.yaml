@@ -40,6 +40,30 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '2.1'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.2'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.3'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.4'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.5'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.6'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.7'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.8'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '2.1'

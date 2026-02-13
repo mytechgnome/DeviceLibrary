@@ -91,6 +91,18 @@ interfaces:
   -
     name: GigabitEthernet0/24
     type: 1000base-t
+  -
+    name: TenGigabitEthernet0/25
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/26
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/27
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TenGigabitEthernet0/25

@@ -16,6 +16,30 @@ interfaces:
     name: mgmt0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Port 1
+    type: 1000base-x-sfp
+  -
+    name: Port 2
+    type: 1000base-x-sfp
+  -
+    name: Port 3
+    type: 1000base-x-sfp
+  -
+    name: Port 4
+    type: 1000base-x-sfp
+  -
+    name: Port 5
+    type: 1000base-x-sfp
+  -
+    name: Port 6
+    type: 1000base-x-sfp
+  -
+    name: Port 7
+    type: 1000base-x-sfp
+  -
+    name: Port 8
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PS-1

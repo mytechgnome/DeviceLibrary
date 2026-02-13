@@ -40,6 +40,12 @@ interfaces:
     name: wan1
     type: 1000base-t
     label: wan1
+  -
+    name: tlan0
+    type: 10gbase-x-sfpp
+  -
+    name: twan0
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

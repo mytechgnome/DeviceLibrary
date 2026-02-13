@@ -161,6 +161,18 @@ interfaces:
   -
     name: Ethernet1/0/48
     type: 1000base-t
+  -
+    name: Ethernet1/0/49
+    type: 1000base-x-sfp
+  -
+    name: Ethernet1/0/50
+    type: 1000base-x-sfp
+  -
+    name: Ethernet1/0/51
+    type: 1000base-x-sfp
+  -
+    name: Ethernet1/0/52
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU0

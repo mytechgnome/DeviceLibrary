@@ -143,6 +143,18 @@ interfaces:
     name: StackPort1/2
     type: cisco-stackwise-plus
     mgmt_only: false
+  -
+    name: GigabitEthernet1/0/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/28
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con0

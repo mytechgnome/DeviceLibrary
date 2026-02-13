@@ -28,6 +28,18 @@ interfaces:
     name: IPMI
     type: 1000base-t
     mgmt_only: true
+  -
+    name: PortA
+    type: 40gbase-x-qsfpp
+  -
+    name: PortB
+    type: 40gbase-x-qsfpp
+  -
+    name: mgmt-sfp-1
+    type: 10gbase-x-sfpp
+  -
+    name: mgmt-sfp-2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU1
