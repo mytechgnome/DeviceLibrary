@@ -58,22 +58,26 @@ interfaces:
     type: 10gbase-t
     label: COMBO4T
   -
+    name: sfp1
+    type: 10gbase-x-sfpp
+    label: COMBO1F
+  -
+    name: sfp2
+    type: 10gbase-x-sfpp
+    label: COMBO2F
+  -
+    name: sfp3
+    type: 10gbase-x-sfpp
+    label: COMBO3F
+  -
+    name: sfp4
+    type: 10gbase-x-sfpp
+    label: COMBO4F
+  -
     name: mgmt1
     type: 100base-tx
     label: MGMT/BOOT
     mgmt_only: true
-  -
-    name: sfp1
-    type: 10gbase-x-sfpp
-  -
-    name: sfp2
-    type: 10gbase-x-sfpp
-  -
-    name: sfp3
-    type: 10gbase-x-sfpp
-  -
-    name: sfp4
-    type: 10gbase-x-sfpp
 console-ports:
   -
     name: serial1

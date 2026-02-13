@@ -25,10 +25,6 @@ interfaces:
     name: Interface 1/1
     type: 1000base-t
   -
-    name: LOM
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Interface 10/1
     type: 10gbase-x-sfpp
   -
@@ -76,6 +72,10 @@ interfaces:
   -
     name: Interface 10/16
     type: 10gbase-x-sfpp
+  -
+    name: LOM
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Interface 10/1

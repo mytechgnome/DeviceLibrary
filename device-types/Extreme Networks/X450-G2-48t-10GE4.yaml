@@ -163,16 +163,6 @@ interfaces:
     name: '48'
     type: 1000base-t
   -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: SP1
-    type: extreme-summitstack
-  -
-    name: SP2
-    type: extreme-summitstack
-  -
     name: '49'
     type: 10gbase-x-sfpp
   -
@@ -184,6 +174,16 @@ interfaces:
   -
     name: '52'
     type: 10gbase-x-sfpp
+  -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: SP1
+    type: extreme-summitstack
+  -
+    name: SP2
+    type: extreme-summitstack
 module-bays:
   -
     name: '49'

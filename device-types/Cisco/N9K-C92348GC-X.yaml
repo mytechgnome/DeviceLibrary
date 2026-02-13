@@ -155,10 +155,6 @@ interfaces:
     name: Ethernet1/48
     type: 1000base-t
   -
-    name: mgmt0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1/49
     type: 25gbase-x-sfp28
   -
@@ -172,10 +168,14 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: Ethernet1/53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet1/54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS1
@@ -202,8 +202,8 @@ module-bays:
   -
     name: Ethernet1/53
     position: Ethernet1/53
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet1/54
     position: Ethernet1/54
-    label: qsfp
+    label: qsfp28

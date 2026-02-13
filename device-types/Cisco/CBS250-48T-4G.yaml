@@ -156,9 +156,6 @@ interfaces:
     name: GigabitEthernet48
     type: 1000base-t
   -
-    name: Vlan1
-    type: virtual
-  -
     name: GigabitEthernet49
     type: 1000base-x-sfp
   -
@@ -170,6 +167,9 @@ interfaces:
   -
     name: GigabitEthernet52
     type: 1000base-x-sfp
+  -
+    name: Vlan1
+    type: virtual
 console-ports:
   -
     name: Console

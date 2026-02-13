@@ -135,10 +135,6 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   -
-    name: Management
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Port 25
     type: 10gbase-x-sfpp
   -
@@ -150,6 +146,10 @@ interfaces:
   -
     name: Port 28
     type: 10gbase-x-sfpp
+  -
+    name: Management
+    type: 1000base-t
+    mgmt_only: true
   -
     name: Dedicated Stack Port 1
     type: 40gbase-x-qsfpp
@@ -176,8 +176,8 @@ module-bays:
   -
     name: Dedicated Stack Port 1
     position: Dedicated Stack Port 1
-    label: qsfp
+    label: qsfp+
   -
     name: Dedicated Stack Port 2
     position: Dedicated Stack Port 2
-    label: qsfp
+    label: qsfp+

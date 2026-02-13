@@ -14,10 +14,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1.0.1
     type: 10gbase-x-sfpp
   -
@@ -67,10 +63,14 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: port1.0.17
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port1.0.18
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
 power-ports:
   -
     name: PSU
@@ -144,8 +144,8 @@ module-bays:
   -
     name: port1.0.17
     position: port1.0.17
-    label: qsfp
+    label: qsfp28
   -
     name: port1.0.18
     position: port1.0.18
-    label: qsfp
+    label: qsfp28

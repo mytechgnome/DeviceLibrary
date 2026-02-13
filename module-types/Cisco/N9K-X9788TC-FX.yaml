@@ -151,6 +151,18 @@ interfaces:
   -
     name: Ethernet{module}/48
     type: 10gbase-t
+  -
+    name: Ethernet{module}/49
+    type: 100gbase-x-qsfp28
+  -
+    name: Ethernet{module}/50
+    type: 100gbase-x-qsfp28
+  -
+    name: Ethernet{module}/51
+    type: 100gbase-x-qsfp28
+  -
+    name: Ethernet{module}/52
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: Ethernet{module}/49

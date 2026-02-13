@@ -171,9 +171,11 @@ interfaces:
   -
     name: gigabitethernet 0/27
     type: 1000base-x-sfp
+    label: SFP 27
   -
     name: gigabitethernet 0/28
     type: 1000base-x-sfp
+    label: SFP 28
 module-bays:
   -
     name: gigabitethernet 0/27

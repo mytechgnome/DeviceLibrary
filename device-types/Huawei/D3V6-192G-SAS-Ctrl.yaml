@@ -35,6 +35,18 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: Net P2
+    type: 10gbase-x-sfpp
+  -
+    name: Net P3
+    type: 10gbase-x-sfpp
+  -
+    name: Net P4
+    type: 10gbase-x-sfpp
+  -
+    name: Net P5
+    type: 10gbase-x-sfpp
+  -
     name: Net P6
     type: 1000base-t
   -
@@ -54,15 +66,3 @@ interfaces:
     name: service
     type: 1000base-t
     mgmt_only: true
-  -
-    name: Net P2
-    type: 10gbase-x-sfpp
-  -
-    name: Net P3
-    type: 10gbase-x-sfpp
-  -
-    name: Net P4
-    type: 10gbase-x-sfpp
-  -
-    name: Net P5
-    type: 10gbase-x-sfpp

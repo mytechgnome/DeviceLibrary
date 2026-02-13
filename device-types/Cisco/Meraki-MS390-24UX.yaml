@@ -35,11 +35,11 @@ module-bays:
   -
     name: Dedicated Stack Port 1
     position: Dedicated Stack Port 1
-    label: qsfp
+    label: qsfp+
   -
     name: Dedicated Stack Port 2
     position: Dedicated Stack Port 2
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Management
@@ -179,6 +179,7 @@ interfaces:
   -
     name: Port 28
     type: 10gbase-x-sfpp
+  # Dedicated 40 G stacking ports (QSFP)
   -
     name: Dedicated Stack Port 1
     type: 40gbase-x-qsfpp

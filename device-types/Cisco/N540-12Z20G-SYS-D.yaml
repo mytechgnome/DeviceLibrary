@@ -19,10 +19,6 @@ console-ports:
     description: 'Serial Console port, default: Baud rate (TX/RX) is 115200, "No" Parity, 2 stopbits, 8 databits'
 interfaces:
   -
-    name: MgmtEth0/RP0/CPU0/0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: GigabitEthernet0/0/0/0
     type: 1000base-x-sfp
   -
@@ -118,6 +114,10 @@ interfaces:
   -
     name: TenGigabitEthernet0/0/0/31
     type: 10gbase-x-sfpp
+  -
+    name: MgmtEth0/RP0/CPU0/0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: GigabitEthernet0/0/0/0

@@ -121,16 +121,12 @@ module-bays:
   -
     name: port25
     position: port25
-    label: qsfp
+    label: qsfp28
   -
     name: port26
     position: port26
-    label: qsfp
+    label: qsfp28
 interfaces:
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
   -
     name: port1
     type: 10gbase-x-sfpp
@@ -205,7 +201,11 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: port25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true

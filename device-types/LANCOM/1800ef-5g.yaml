@@ -31,11 +31,11 @@ interfaces:
     name: WAN
     type: 1000base-t
   -
-    name: LTE
-    type: lte
-  -
     name: SFP
     type: 1000base-x-sfp
+  -
+    name: LTE
+    type: lte
 console-ports:
   -
     name: usb

@@ -8,15 +8,19 @@ interfaces:
   -
     name: (BASE-X)gigabitethernet 0/0/0
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: (BASE-X)gigabitethernet 0/0/1
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: (BASE-X)gigabitethernet 0/0/2
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: (BASE-X)gigabitethernet 0/0/3
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
 power-ports:
   -
     name: PEM0

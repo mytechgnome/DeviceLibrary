@@ -83,10 +83,6 @@ interfaces:
     name: port1.0.24
     type: 1000base-t
   -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1.0.25
     type: 10gbase-x-sfpp
   -
@@ -98,6 +94,10 @@ interfaces:
   -
     name: port1.0.28
     type: 10gbase-x-sfpp
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU A

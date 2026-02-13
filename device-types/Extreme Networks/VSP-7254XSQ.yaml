@@ -14,10 +14,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: 1/1
     type: 10gbase-x-sfpp
   -
@@ -179,6 +175,10 @@ interfaces:
   -
     name: 2/6
     type: 40gbase-x-qsfpp
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Ps#1
@@ -381,24 +381,24 @@ module-bays:
   -
     name: 2/1
     position: 2/1
-    label: qsfp
+    label: qsfp+
   -
     name: 2/2
     position: 2/2
-    label: qsfp
+    label: qsfp+
   -
     name: 2/3
     position: 2/3
-    label: qsfp
+    label: qsfp+
   -
     name: 2/4
     position: 2/4
-    label: qsfp
+    label: qsfp+
   -
     name: 2/5
     position: 2/5
-    label: qsfp
+    label: qsfp+
   -
     name: 2/6
     position: 2/6
-    label: qsfp
+    label: qsfp+

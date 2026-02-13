@@ -310,9 +310,11 @@ interfaces:
   -
     name: TenGigabitEthernet 0/49
     type: 10gbase-x-sfpp
+    label: '49'
   -
     name: TenGigabitEthernet 0/50
     type: 10gbase-x-sfpp
+    label: '50'
 module-bays:
   -
     name: Expansion Module 1

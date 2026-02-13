@@ -16,6 +16,18 @@ power-ports:
     type: iec-60320-c14
 interfaces:
   -
+    name: Te/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: Te1/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: Te1/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: Te1/0/4
+    type: 10gbase-x-sfpp
+  -
     name: Gi1/0/5
     type: 1000base-t
   -
@@ -87,18 +99,6 @@ interfaces:
   -
     name: Gi1/0/28
     type: 1000base-t
-  -
-    name: Te/0/1
-    type: 10gbase-x-sfpp
-  -
-    name: Te1/0/2
-    type: 10gbase-x-sfpp
-  -
-    name: Te1/0/3
-    type: 10gbase-x-sfpp
-  -
-    name: Te1/0/4
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Te/0/1

@@ -20,18 +20,6 @@ power-ports:
     maximum_draw: 36
 interfaces:
   -
-    name: interface 0/13
-    type: 10gbase-t
-  -
-    name: interface 0/14
-    type: 10gbase-t
-  -
-    name: interface 0/15
-    type: 10gbase-t
-  -
-    name: interface 0/16
-    type: 10gbase-t
-  -
     name: interface 0/1
     type: 10gbase-x-sfpp
   -
@@ -67,6 +55,18 @@ interfaces:
   -
     name: interface 0/12
     type: 10gbase-x-sfpp
+  -
+    name: interface 0/13
+    type: 10gbase-t
+  -
+    name: interface 0/14
+    type: 10gbase-t
+  -
+    name: interface 0/15
+    type: 10gbase-t
+  -
+    name: interface 0/16
+    type: 10gbase-t
 module-bays:
   -
     name: interface 0/1

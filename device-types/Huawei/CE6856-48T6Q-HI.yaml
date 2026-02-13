@@ -28,27 +28,27 @@ module-bays:
   -
     name: 40GE1/0/1
     position: 40GE1/0/1
-    label: qsfp
+    label: qsfp+
   -
     name: 40GE1/0/2
     position: 40GE1/0/2
-    label: qsfp
+    label: qsfp+
   -
     name: 40GE1/0/3
     position: 40GE1/0/3
-    label: qsfp
+    label: qsfp+
   -
     name: 40GE1/0/4
     position: 40GE1/0/4
-    label: qsfp
+    label: qsfp+
   -
     name: 40GE1/0/5
     position: 40GE1/0/5
-    label: qsfp
+    label: qsfp+
   -
     name: 40GE1/0/6
     position: 40GE1/0/6
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: MEth0/0/0

@@ -6,7 +6,13 @@ console-ports:
   -
     name: console{module}
     type: rj-45
-interfaces: []
+interfaces:
+  -
+    name: Gi{module}/1
+    type: 1000base-x-sfp
+  -
+    name: Gi{module}/2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Gi{module}/1

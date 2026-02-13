@@ -30,6 +30,14 @@ power-ports:
     allocated_draw: 18
 interfaces:
   -
+    name: GigabitEthernet1/1
+    type: 1000base-x-sfp
+    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
+  -
+    name: GigabitEthernet1/2
+    type: 1000base-x-sfp
+    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
+  -
     name: GigabitEthernet1/3
     type: 1000base-t
   -
@@ -53,14 +61,6 @@ interfaces:
   -
     name: GigabitEthernet1/10
     type: 1000base-t
-  -
-    name: GigabitEthernet1/1
-    type: 1000base-x-sfp
-    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
-  -
-    name: GigabitEthernet1/2
-    type: 1000base-x-sfp
-    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
 module-bays:
   -
     name: GigabitEthernet1/1

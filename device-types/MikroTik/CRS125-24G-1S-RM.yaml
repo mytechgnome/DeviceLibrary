@@ -78,11 +78,11 @@ interfaces:
     name: ether24
     type: 1000base-t
   -
-    name: usb1-0
-    type: other
-  -
     name: sfp1
     type: 1000base-x-sfp
+  -
+    name: usb1-0
+    type: other
 console-ports:
   -
     name: serial0

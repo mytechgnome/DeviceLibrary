@@ -24,6 +24,12 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: GigabitEthernet1
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet2
+    type: 1000base-x-sfp
+  -
     name: GigabitEthernet3
     type: 1000base-t
   -
@@ -33,12 +39,6 @@ interfaces:
     name: MGMT
     type: 100base-tx
     mgmt_only: true
-  -
-    name: GigabitEthernet1
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet2
-    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet1

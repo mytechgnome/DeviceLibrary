@@ -24,6 +24,14 @@ power-ports:
     description: 9.6-60 VDC input (secondary)
 interfaces:
   -
+    name: Te1/1
+    type: 10gbase-x-sfpp
+    description: 10G SFP+ uplink
+  -
+    name: Te1/2
+    type: 10gbase-x-sfpp
+    description: 10G SFP+ uplink
+  -
     name: Gi1/3
     type: 1000base-t
   -
@@ -47,14 +55,6 @@ interfaces:
   -
     name: Gi1/10
     type: 1000base-t
-  -
-    name: Te1/1
-    type: 10gbase-x-sfpp
-    description: 10G SFP+ uplink
-  -
-    name: Te1/2
-    type: 10gbase-x-sfpp
-    description: 10G SFP+ uplink
 module-bays:
   -
     name: Te1/1

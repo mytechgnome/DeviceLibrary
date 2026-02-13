@@ -10,6 +10,18 @@ interfaces:
   -
     name: MGT{module}
     type: 1000base-t
+  -
+    name: 10GigabitEthernet{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet{module}/2
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet{module}/3
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet{module}/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: 10GigabitEthernet{module}/1

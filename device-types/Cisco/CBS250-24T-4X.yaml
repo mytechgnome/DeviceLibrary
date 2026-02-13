@@ -84,9 +84,6 @@ interfaces:
     name: GigabitEthernet24
     type: 1000base-t
   -
-    name: Vlan1
-    type: virtual
-  -
     name: TenGigabitEthernet1
     type: 10gbase-x-sfpp
   -
@@ -98,6 +95,9 @@ interfaces:
   -
     name: TenGigabitEthernet4
     type: 10gbase-x-sfpp
+  -
+    name: Vlan1
+    type: virtual
 console-ports:
   -
     name: Console

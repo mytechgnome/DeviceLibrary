@@ -99,19 +99,19 @@ module-bays:
   -
     name: 100GE0/3/0
     position: 100GE0/3/0
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/3/1
     position: 100GE0/3/1
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/3/2
     position: 100GE0/3/2
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/3/3
     position: 100GE0/3/3
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: GigabitEthernet0/0/0

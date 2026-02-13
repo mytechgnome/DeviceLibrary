@@ -18,6 +18,18 @@ interfaces:
   -
     name: FSP1({module})
     type: 1000base-t
+  -
+    name: SFP+0({module})
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+1({module})
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+2({module})
+    type: 1000base-x-sfp
+  -
+    name: SFP+3({module})
+    type: 1000base-x-sfp
 console-ports:
   -
     name: Console({module})

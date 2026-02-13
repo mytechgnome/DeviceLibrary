@@ -18,10 +18,6 @@ console-ports:
     description: RJ-45 console port
 interfaces:
   -
-    name: mgmt0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1/1
     type: 40gbase-x-qsfpp
   -
@@ -57,6 +53,10 @@ interfaces:
   -
     name: Ethernet1/12
     type: 40gbase-x-qsfpp
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: GEM
@@ -76,48 +76,48 @@ module-bays:
   -
     name: Ethernet1/1
     position: Ethernet1/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/2
     position: Ethernet1/2
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/3
     position: Ethernet1/3
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/4
     position: Ethernet1/4
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/5
     position: Ethernet1/5
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/6
     position: Ethernet1/6
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/7
     position: Ethernet1/7
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/8
     position: Ethernet1/8
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/9
     position: Ethernet1/9
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/10
     position: Ethernet1/10
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/11
     position: Ethernet1/11
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/12
     position: Ethernet1/12
-    label: qsfp
+    label: qsfp+

@@ -15,10 +15,6 @@ power-ports:
     maximum_draw: 68
 interfaces:
   -
-    name: Management
-    type: virtual
-    mgmt_only: true
-  -
     name: g1
     type: 1000base-x-sfp
   -
@@ -81,15 +77,23 @@ interfaces:
   -
     name: g21
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: g22
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: g23
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: g24
     type: 1000base-x-sfp
+    # comments: Combo port either 1000base-x-sfp or 1000base-t
+  -
+    name: Management
+    type: virtual
+    mgmt_only: true
 module-bays:
   -
     name: g1

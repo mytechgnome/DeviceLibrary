@@ -142,10 +142,6 @@ module-bays:
     label: sfp56
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: 1/1/1
     type: 10gbase-x-sfpp
   -
@@ -229,3 +225,7 @@ interfaces:
   -
     name: 1/1/28
     type: 50gbase-x-sfp28
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true

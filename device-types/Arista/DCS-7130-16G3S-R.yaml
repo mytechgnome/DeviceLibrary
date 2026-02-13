@@ -89,10 +89,6 @@ module-bays:
     label: sfp+
 interfaces:
   -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1
     type: 10gbase-x-sfpp
   -
@@ -140,3 +136,7 @@ interfaces:
   -
     name: Ethernet16
     type: 10gbase-x-sfpp
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true

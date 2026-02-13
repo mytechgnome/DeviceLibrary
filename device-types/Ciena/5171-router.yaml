@@ -30,10 +30,6 @@ console-ports:
     description: RJ45 interface G.703 1PPS and ToD/10MHz input/output (software selectable)
 interfaces:
   -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '1'
     type: 50gbase-x-sfp28
   -
@@ -153,6 +149,10 @@ interfaces:
   -
     name: '40'
     type: 25gbase-x-sfp28
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS A

@@ -23,6 +23,9 @@ interfaces:
     name: DMZ-RJ-45
     type: 1000base-t
   -
+    name: DMZ-SFP
+    type: 1000base-x-sfp
+  -
     name: WAN
     type: 1000base-t
   -
@@ -89,9 +92,6 @@ interfaces:
     name: eth16
     label: '16'
     type: 1000base-t
-  -
-    name: DMZ-SFP
-    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU-External

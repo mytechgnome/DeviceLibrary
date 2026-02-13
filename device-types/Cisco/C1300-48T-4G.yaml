@@ -205,22 +205,26 @@ interfaces:
     type: 1000base-t
     enabled: true
   -
+    name: GigabitEthernet49
+    type: 1000base-x-sfp
+    enabled: true
+  -
+    name: GigabitEthernet50
+    type: 1000base-x-sfp
+    enabled: true
+  -
+    name: GigabitEthernet51
+    type: 1000base-x-sfp
+    enabled: true
+  -
+    name: GigabitEthernet52
+    type: 1000base-x-sfp
+    enabled: true
+  -
     name: Vlan1
     type: virtual
     enabled: true
     mgmt_only: false
-  -
-    name: GigabitEthernet49
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet50
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet51
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet52
-    type: 1000base-x-sfp
 console-ports:
   -
     name: con0

@@ -25,21 +25,6 @@ power-ports:
     allocated_draw: 242
 interfaces:
   -
-    name: EMP-CHAS1
-    type: virtual
-    mgmt_only: true
-  -
-    name: EMP-VC
-    type: virtual
-    mgmt_only: true
-  -
-    name: EMP
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: Loopback0
-    type: virtual
-  -
     name: 1/1/1
     type: 10gbase-x-sfpp
   -
@@ -159,6 +144,21 @@ interfaces:
   -
     name: 1/1/40
     type: 10gbase-x-sfpp
+  -
+    name: EMP-CHAS1
+    type: virtual
+    mgmt_only: true
+  -
+    name: EMP-VC
+    type: virtual
+    mgmt_only: true
+  -
+    name: EMP
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: Loopback0
+    type: virtual
 module-bays:
   -
     name: SLOT-2

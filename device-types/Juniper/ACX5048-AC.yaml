@@ -229,37 +229,32 @@ module-bays:
   -
     name: et-0/0/48
     position: et-0/0/48
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/49
     position: et-0/0/49
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/50
     position: et-0/0/50
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/51
     position: et-0/0/51
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/52
     position: et-0/0/52
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/53
     position: et-0/0/53
-    label: qsfp
+    label: qsfp+
   -
     name: em1
     position: em1
     label: sfp
 interfaces:
-  -
-    name: em0
-    type: 1000base-t
-    mgmt_only: true
-    # comments: Combination (COMBO) port, either Gigabit Ethernet RJ-45 (1000base-t) or Gigabit Ethernet SFP (1000base-x-sfp)
   -
     name: xe-0/0/0
     type: 10gbase-x-sfpp
@@ -423,5 +418,11 @@ interfaces:
     name: et-0/0/53
     type: 40gbase-x-qsfpp
   -
+    name: em0
+    type: 1000base-t
+    mgmt_only: true
+    # comments: Combination (COMBO) port, either Gigabit Ethernet RJ-45 (1000base-t) or Gigabit Ethernet SFP (1000base-x-sfp)
+  -
     name: em1
     type: 1000base-x-sfp
+    mgmt_only: true

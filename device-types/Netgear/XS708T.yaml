@@ -49,9 +49,11 @@ interfaces:
   -
     name: TenGigabitEthernet/7F
     type: 10gbase-x-sfpp
+    label: 7F
   -
     name: TenGigabitEthernet/8F
     type: 10gbase-x-sfpp
+    label: 8F
 module-bays:
   -
     name: TenGigabitEthernet/7F

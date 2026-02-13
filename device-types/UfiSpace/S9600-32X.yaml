@@ -17,122 +17,126 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: ce0
+    type: 100gbase-x-qsfp28
+    description: May be disabled and replaced by xe0-3, requires reboot
+  -
+    name: ce1
+    type: 100gbase-x-qsfp28
+  -
+    name: ce2
+    type: 100gbase-x-qsfp28
+  -
+    name: ce3
+    type: 100gbase-x-qsfp28
+  -
+    name: ce4
+    type: 100gbase-x-qsfp28
+  -
+    name: ce5
+    type: 100gbase-x-qsfp28
+  -
+    name: ce6
+    type: 100gbase-x-qsfp28
+  -
+    name: ce7
+    type: 100gbase-x-qsfp28
+  -
+    name: ce8
+    type: 100gbase-x-qsfp28
+  -
+    name: ce9
+    type: 100gbase-x-qsfp28
+  -
+    name: ce10
+    type: 100gbase-x-qsfp28
+  -
+    name: ce11
+    type: 100gbase-x-qsfp28
+  -
+    name: ce12
+    type: 100gbase-x-qsfp28
+  -
+    name: ce13
+    type: 100gbase-x-qsfp28
+  -
+    name: ce14
+    type: 100gbase-x-qsfp28
+  -
+    name: ce15
+    type: 100gbase-x-qsfp28
+  -
+    name: ce16
+    type: 100gbase-x-qsfp28
+  -
+    name: ce17
+    type: 100gbase-x-qsfp28
+  -
+    name: ce18
+    type: 100gbase-x-qsfp28
+  -
+    name: ce19
+    type: 100gbase-x-qsfp28
+  -
+    name: ce20
+    type: 100gbase-x-qsfp28
+  -
+    name: ce21
+    type: 100gbase-x-qsfp28
+  -
+    name: ce22
+    type: 100gbase-x-qsfp28
+  -
+    name: ce23
+    type: 100gbase-x-qsfp28
+  -
+    name: ce24
+    type: 100gbase-x-qsfp28
+  -
+    name: ce25
+    type: 100gbase-x-qsfp28
+  -
+    name: ce26
+    type: 100gbase-x-qsfp28
+  -
+    name: ce27
+    type: 100gbase-x-qsfp28
+  -
+    name: ce28
+    type: 100gbase-x-qsfp28
+  -
+    name: ce29
+    type: 100gbase-x-qsfp28
+  -
+    name: ce30
+    type: 100gbase-x-qsfp28
+  -
+    name: ce31
+    type: 100gbase-x-qsfp28
+  -
     name: eth0
     type: 1000base-t
     mgmt_only: true
     description: Management Interface
   -
-    name: ce0
-    type: 40gbase-x-qsfpp
-    description: May be disabled and replaced by xe0-3, requires reboot
-  -
-    name: ce1
-    type: 40gbase-x-qsfpp
-  -
-    name: ce2
-    type: 40gbase-x-qsfpp
-  -
-    name: ce3
-    type: 40gbase-x-qsfpp
-  -
-    name: ce4
-    type: 40gbase-x-qsfpp
-  -
-    name: ce5
-    type: 40gbase-x-qsfpp
-  -
-    name: ce6
-    type: 40gbase-x-qsfpp
-  -
-    name: ce7
-    type: 40gbase-x-qsfpp
-  -
-    name: ce8
-    type: 40gbase-x-qsfpp
-  -
-    name: ce9
-    type: 40gbase-x-qsfpp
-  -
-    name: ce10
-    type: 40gbase-x-qsfpp
-  -
-    name: ce11
-    type: 40gbase-x-qsfpp
-  -
-    name: ce12
-    type: 40gbase-x-qsfpp
-  -
-    name: ce13
-    type: 40gbase-x-qsfpp
-  -
-    name: ce14
-    type: 40gbase-x-qsfpp
-  -
-    name: ce15
-    type: 40gbase-x-qsfpp
-  -
-    name: ce16
-    type: 40gbase-x-qsfpp
-  -
-    name: ce17
-    type: 40gbase-x-qsfpp
-  -
-    name: ce18
-    type: 40gbase-x-qsfpp
-  -
-    name: ce19
-    type: 40gbase-x-qsfpp
-  -
-    name: ce20
-    type: 40gbase-x-qsfpp
-  -
-    name: ce21
-    type: 40gbase-x-qsfpp
-  -
-    name: ce22
-    type: 40gbase-x-qsfpp
-  -
-    name: ce23
-    type: 40gbase-x-qsfpp
-  -
-    name: ce24
-    type: 40gbase-x-qsfpp
-  -
-    name: ce25
-    type: 40gbase-x-qsfpp
-  -
-    name: ce26
-    type: 40gbase-x-qsfpp
-  -
-    name: ce27
-    type: 40gbase-x-qsfpp
-  -
-    name: ce28
-    type: 40gbase-x-qsfpp
-  -
-    name: ce29
-    type: 40gbase-x-qsfpp
-  -
-    name: ce30
-    type: 40gbase-x-qsfpp
-  -
-    name: ce31
-    type: 40gbase-x-qsfpp
-  -
     name: xe0
     type: 25gbase-x-sfp28
+    enabled: false
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
     name: xe1
     type: 25gbase-x-sfp28
+    enabled: false
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
     name: xe2
     type: 25gbase-x-sfp28
+    enabled: false
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
   -
     name: xe3
     type: 25gbase-x-sfp28
+    enabled: false
     description: Ports xe0-3 replace ce0 when enabled, requires reboot.
 module-bays:
   -
@@ -156,132 +160,132 @@ module-bays:
   -
     name: ce0
     position: ce0
-    label: qsfp
+    label: qsfp28
     description: May be disabled and replaced by xe0-3, requires reboot
   -
     name: ce1
     position: ce1
-    label: qsfp
+    label: qsfp28
   -
     name: ce2
     position: ce2
-    label: qsfp
+    label: qsfp28
   -
     name: ce3
     position: ce3
-    label: qsfp
+    label: qsfp28
   -
     name: ce4
     position: ce4
-    label: qsfp
+    label: qsfp28
   -
     name: ce5
     position: ce5
-    label: qsfp
+    label: qsfp28
   -
     name: ce6
     position: ce6
-    label: qsfp
+    label: qsfp28
   -
     name: ce7
     position: ce7
-    label: qsfp
+    label: qsfp28
   -
     name: ce8
     position: ce8
-    label: qsfp
+    label: qsfp28
   -
     name: ce9
     position: ce9
-    label: qsfp
+    label: qsfp28
   -
     name: ce10
     position: ce10
-    label: qsfp
+    label: qsfp28
   -
     name: ce11
     position: ce11
-    label: qsfp
+    label: qsfp28
   -
     name: ce12
     position: ce12
-    label: qsfp
+    label: qsfp28
   -
     name: ce13
     position: ce13
-    label: qsfp
+    label: qsfp28
   -
     name: ce14
     position: ce14
-    label: qsfp
+    label: qsfp28
   -
     name: ce15
     position: ce15
-    label: qsfp
+    label: qsfp28
   -
     name: ce16
     position: ce16
-    label: qsfp
+    label: qsfp28
   -
     name: ce17
     position: ce17
-    label: qsfp
+    label: qsfp28
   -
     name: ce18
     position: ce18
-    label: qsfp
+    label: qsfp28
   -
     name: ce19
     position: ce19
-    label: qsfp
+    label: qsfp28
   -
     name: ce20
     position: ce20
-    label: qsfp
+    label: qsfp28
   -
     name: ce21
     position: ce21
-    label: qsfp
+    label: qsfp28
   -
     name: ce22
     position: ce22
-    label: qsfp
+    label: qsfp28
   -
     name: ce23
     position: ce23
-    label: qsfp
+    label: qsfp28
   -
     name: ce24
     position: ce24
-    label: qsfp
+    label: qsfp28
   -
     name: ce25
     position: ce25
-    label: qsfp
+    label: qsfp28
   -
     name: ce26
     position: ce26
-    label: qsfp
+    label: qsfp28
   -
     name: ce27
     position: ce27
-    label: qsfp
+    label: qsfp28
   -
     name: ce28
     position: ce28
-    label: qsfp
+    label: qsfp28
   -
     name: ce29
     position: ce29
-    label: qsfp
+    label: qsfp28
   -
     name: ce30
     position: ce30
-    label: qsfp
+    label: qsfp28
   -
     name: ce31
     position: ce31
-    label: qsfp
+    label: qsfp28
   -
     name: xe0
     position: xe0

@@ -57,67 +57,67 @@ module-bays:
   -
     name: HundredGigE0/0/0/0
     position: HundredGigE0/0/0/0
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/1
     position: HundredGigE0/0/0/1
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/2
     position: HundredGigE0/0/0/2
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/3
     position: HundredGigE0/0/0/3
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/4
     position: HundredGigE0/0/0/4
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/5
     position: HundredGigE0/0/0/5
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/6
     position: HundredGigE0/0/0/6
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/7
     position: HundredGigE0/0/0/7
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/8
     position: HundredGigE0/0/0/8
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/9
     position: HundredGigE0/0/0/9
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/10
     position: HundredGigE0/0/0/10
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/11
     position: HundredGigE0/0/0/11
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/12
     position: HundredGigE0/0/0/12
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/13
     position: HundredGigE0/0/0/13
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/14
     position: HundredGigE0/0/0/14
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE0/0/0/15
     position: HundredGigE0/0/0/15
-    label: qsfp
+    label: qsfp28
   -
     name: TenGigE0/0/0/16
     position: TenGigE0/0/0/16
@@ -201,52 +201,52 @@ module-bays:
 interfaces:
   -
     name: HundredGigE0/0/0/0
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/5
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/6
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/7
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/8
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/9
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/10
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/11
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/12
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/13
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/14
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/15
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: TenGigE0/0/0/16
     type: 10gbase-x-sfpp

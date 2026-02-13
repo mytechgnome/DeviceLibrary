@@ -19,30 +19,6 @@ power-ports:
     allocated_draw: 90
 interfaces:
   -
-    name: GigabitEthernet0/0/17-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/18-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/19-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/20-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/21-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/22-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/23-RJ45
-    type: 1000base-t
-  -
-    name: GigabitEthernet0/0/24-RJ45
-    type: 1000base-t
-  -
     name: GigabitEthernet0/0/1
     type: 1000base-x-sfp
   -
@@ -94,26 +70,50 @@ interfaces:
     name: GigabitEthernet0/0/17
     type: 1000base-x-sfp
   -
+    name: GigabitEthernet0/0/17-RJ45
+    type: 1000base-t
+  -
     name: GigabitEthernet0/0/18
     type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/18-RJ45
+    type: 1000base-t
   -
     name: GigabitEthernet0/0/19
     type: 1000base-x-sfp
   -
+    name: GigabitEthernet0/0/19-RJ45
+    type: 1000base-t
+  -
     name: GigabitEthernet0/0/20
     type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/20-RJ45
+    type: 1000base-t
   -
     name: GigabitEthernet0/0/21
     type: 1000base-x-sfp
   -
+    name: GigabitEthernet0/0/21-RJ45
+    type: 1000base-t
+  -
     name: GigabitEthernet0/0/22
     type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/22-RJ45
+    type: 1000base-t
   -
     name: GigabitEthernet0/0/23
     type: 1000base-x-sfp
   -
+    name: GigabitEthernet0/0/23-RJ45
+    type: 1000base-t
+  -
     name: GigabitEthernet0/0/24
     type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/24-RJ45
+    type: 1000base-t
   -
     name: XGigabitEthernet0/0/1
     type: 10gbase-x-sfpp

@@ -223,6 +223,7 @@ interfaces:
   -
     name: Ethernet64
     type: 1000base-x-sfp
+
 module-bays:
   -
     name: Supervisor Slot

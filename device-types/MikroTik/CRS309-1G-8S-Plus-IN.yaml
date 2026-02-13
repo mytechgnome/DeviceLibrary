@@ -8,33 +8,41 @@ u_height: 1
 front_image: true
 interfaces:
   -
-    name: ether1
-    label: POE/BOOT
-    type: 1000base-t
-  -
     name: sfp-sfpplus1
+    label: SFP+ 1
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus2
+    label: SFP+ 2
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus3
+    label: SFP+ 3
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus4
+    label: SFP+ 4
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus5
+    label: SFP+ 5
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus6
+    label: SFP+ 6
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus7
+    label: SFP+ 7
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus8
+    label: SFP+ 8
     type: 10gbase-x-sfpp
+  -
+    name: ether1
+    label: POE/BOOT
+    type: 1000base-t
 power-ports:
   -
     name: psu1

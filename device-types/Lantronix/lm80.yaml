@@ -21,6 +21,7 @@ interfaces:
   -
     name: E3
     type: 1000base-x-sfp
+    mgmt_only: true
 console-ports:
   -
     name: console

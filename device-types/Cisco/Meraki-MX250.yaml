@@ -27,6 +27,12 @@ interfaces:
     name: USB
     type: lte
   -
+    name: Internet 1
+    type: 10gbase-x-sfpp
+  -
+    name: Internet 2
+    type: 10gbase-x-sfpp
+  -
     name: Port 3
     type: 1000base-t
   -
@@ -50,12 +56,6 @@ interfaces:
   -
     name: Port 10
     type: 1000base-t
-  -
-    name: Internet 1
-    type: 10gbase-x-sfpp
-  -
-    name: Internet 2
-    type: 10gbase-x-sfpp
   -
     name: Port 11
     type: 1000base-x-sfp

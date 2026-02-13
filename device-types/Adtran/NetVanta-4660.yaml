@@ -19,9 +19,6 @@ power-ports:
     maximum_draw: 40
 interfaces:
   -
-    name: T4
-    type: other
-  -
     name: GIG 0/1
     type: 1000base-x-sfp
   -
@@ -36,6 +33,9 @@ interfaces:
   -
     name: GIG 0/5
     type: 1000base-x-sfp
+  -
+    name: T4
+    type: other
 module-bays:
   -
     name: Slot 1

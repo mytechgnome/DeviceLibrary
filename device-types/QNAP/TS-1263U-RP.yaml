@@ -37,6 +37,7 @@ interfaces:
   -
     name: eth4
     type: 10gbase-x-sfpp
+    label: SFP+
 module-bays:
   -
     name: eth4

@@ -122,19 +122,19 @@ module-bays:
   -
     name: port23
     position: port23
-    label: qsfp
+    label: qsfp28
   -
     name: port24
     position: port24
-    label: qsfp
+    label: qsfp28
   -
     name: port25
     position: port25
-    label: qsfp
+    label: qsfp28
   -
     name: port26
     position: port26
-    label: qsfp
+    label: qsfp28
 interfaces:
   -
     name: mgmt1
@@ -218,13 +218,13 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port23
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port24
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

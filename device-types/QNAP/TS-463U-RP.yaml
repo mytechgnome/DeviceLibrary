@@ -39,4 +39,5 @@ interfaces:
     type: 1000base-t
   -
     name: eth4
+    label: '5'
     type: 10gbase-x-sfpp

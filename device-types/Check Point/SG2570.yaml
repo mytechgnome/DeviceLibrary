@@ -29,6 +29,15 @@ interfaces:
     name: WAN
     type: 1000base-t
   -
+    name: DMZ
+    type: 1000base-x-sfp
+  -
+    name: X1
+    type: 10gbase-x-sfpp
+  -
+    name: X2
+    type: 10gbase-x-sfpp
+  -
     name: '1'
     type: 1000base-t
   -
@@ -52,15 +61,6 @@ interfaces:
   -
     name: '8'
     type: 1000base-t
-  -
-    name: DMZ
-    type: 1000base-x-sfp
-  -
-    name: X1
-    type: 10gbase-x-sfpp
-  -
-    name: X2
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: DMZ

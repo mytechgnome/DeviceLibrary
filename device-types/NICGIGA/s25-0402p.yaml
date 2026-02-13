@@ -45,9 +45,13 @@ interfaces:
   -
     name: SFP+ 1
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: SFP+ 2
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
 module-bays:
   -
     name: SFP+ 1

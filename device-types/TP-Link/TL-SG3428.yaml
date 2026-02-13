@@ -146,15 +146,23 @@ interfaces:
   -
     name: gigabitEthernet 1/0/25
     type: 1000base-x-sfp
+    mgmt_only: false
+    label: '25'
   -
     name: gigabitEthernet 1/0/26
     type: 1000base-x-sfp
+    mgmt_only: false
+    label: '26'
   -
     name: gigabitEthernet 1/0/27
     type: 1000base-x-sfp
+    mgmt_only: false
+    label: '27'
   -
     name: gigabitEthernet 1/0/28
     type: 1000base-x-sfp
+    mgmt_only: false
+    label: '28'
 module-bays:
   -
     name: gigabitEthernet 1/0/25

@@ -44,9 +44,11 @@ interfaces:
     type: 1000base-t
   -
     name: SFP1
+    label: SFP+ 1
     type: 10gbase-x-sfpp
   -
     name: SFP2
+    label: SFP+ 2
     type: 10gbase-x-sfpp
 power-ports:
   -
