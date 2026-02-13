@@ -150,10 +150,6 @@ interfaces:
     name: Ethernet48
     type: 10gbase-t
   -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet49
     type: 40gbase-x-qsfpp
   -
@@ -165,6 +161,10 @@ interfaces:
   -
     name: Ethernet52
     type: 40gbase-x-qsfpp
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
 console-ports:
   -
     name: Console
@@ -184,16 +184,16 @@ module-bays:
   -
     name: Ethernet49
     position: Ethernet49
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet50
     position: Ethernet50
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet51
     position: Ethernet51
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet52
     position: Ethernet52
-    label: qsfp
+    label: qsfp+

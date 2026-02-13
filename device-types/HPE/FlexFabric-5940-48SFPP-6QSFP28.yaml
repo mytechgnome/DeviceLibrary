@@ -170,22 +170,22 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: HundredGigE1/0/49
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/50
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/51
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/52
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PWR1
@@ -394,24 +394,24 @@ module-bays:
   -
     name: HundredGigE1/0/49
     position: HundredGigE1/0/49
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/50
     position: HundredGigE1/0/50
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/51
     position: HundredGigE1/0/51
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/52
     position: HundredGigE1/0/52
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/53
     position: HundredGigE1/0/53
-    label: qsfp
+    label: qsfp28
   -
     name: HundredGigE1/0/54
     position: HundredGigE1/0/54
-    label: qsfp
+    label: qsfp28

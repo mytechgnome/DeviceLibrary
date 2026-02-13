@@ -28,8 +28,14 @@ interfaces:
     name: DMZ-RJ-45
     type: 1000base-t
   -
+    name: DMZ-SFP
+    type: 1000base-x-sfp
+  -
     name: WAN-RJ-45
     type: 1000base-t
+  -
+    name: WAN-SFP
+    type: 1000base-x-sfp
   -
     name: eth1
     label: '1'
@@ -94,12 +100,6 @@ interfaces:
     name: eth16
     label: '16'
     type: 1000base-t
-  -
-    name: DMZ-SFP
-    type: 1000base-x-sfp
-  -
-    name: WAN-SFP
-    type: 1000base-x-sfp
 module-bays:
   -
     name: DMZ-SFP

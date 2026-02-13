@@ -19,10 +19,6 @@ power-ports:
     type: iec-60320-c14
 interfaces:
   -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet 1/1
     type: 10gbase-x-sfpp
   -
@@ -96,22 +92,22 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Ethernet 1/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/29
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/30
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/31
     type: 10gbase-x-sfpp
@@ -184,6 +180,10 @@ interfaces:
   -
     name: Ethernet 1/54
     type: 10gbase-x-sfpp
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Ethernet 1/1
@@ -284,27 +284,27 @@ module-bays:
   -
     name: Ethernet 1/25
     position: Ethernet 1/25
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/26
     position: Ethernet 1/26
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/27
     position: Ethernet 1/27
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/28
     position: Ethernet 1/28
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/29
     position: Ethernet 1/29
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/30
     position: Ethernet 1/30
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/31
     position: Ethernet 1/31

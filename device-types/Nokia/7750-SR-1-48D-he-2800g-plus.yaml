@@ -18,16 +18,6 @@ console-ports:
     type: usb-a
 interfaces:
   -
-    name: A/1
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: A/4
-    type: 1000base-t
-  -
-    name: A/gnss
-    type: other-wireless
-  -
     name: 1/1/c1
     type: 400gbase-x-qsfpdd
   -
@@ -172,8 +162,18 @@ interfaces:
     name: 1/1/c48
     type: 400gbase-x-qsfpdd
   -
+    name: A/1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: A/3
     type: 1000base-x-sfp
+  -
+    name: A/4
+    type: 1000base-t
+  -
+    name: A/gnss
+    type: other-wireless
 module-bays:
   -
     name: PS1

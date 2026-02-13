@@ -17,33 +17,6 @@ power-ports:
     maximum_draw: 34
 interfaces:
   -
-    name: Port-channel1
-    type: lag
-  -
-    name: Port-channel2
-    type: lag
-  -
-    name: Port-channel3
-    type: lag
-  -
-    name: Port-channel4
-    type: lag
-  -
-    name: Port-channel5
-    type: lag
-  -
-    name: Port-channel6
-    type: lag
-  -
-    name: Port-channel7
-    type: lag
-  -
-    name: Port-channel8
-    type: lag
-  -
-    name: vlan1
-    type: virtual
-  -
     name: GigabitEthernet1
     type: 1000base-x-sfp
   -
@@ -127,6 +100,33 @@ interfaces:
   -
     name: GigabitEthernet28
     type: 1000base-x-sfp
+  -
+    name: Port-channel1
+    type: lag
+  -
+    name: Port-channel2
+    type: lag
+  -
+    name: Port-channel3
+    type: lag
+  -
+    name: Port-channel4
+    type: lag
+  -
+    name: Port-channel5
+    type: lag
+  -
+    name: Port-channel6
+    type: lag
+  -
+    name: Port-channel7
+    type: lag
+  -
+    name: Port-channel8
+    type: lag
+  -
+    name: vlan1
+    type: virtual
 module-bays:
   -
     name: GigabitEthernet1

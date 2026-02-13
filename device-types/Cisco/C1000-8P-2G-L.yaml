@@ -60,9 +60,6 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
-    name: Vlan1
-    type: virtual
-  -
     name: GigabitEthernet1/0/9
     type: 1000base-x-sfp
     description: 1G SFP and RJ-45 combo uplink
@@ -70,6 +67,9 @@ interfaces:
     name: GigabitEthernet1/0/10
     type: 1000base-x-sfp
     description: 1G SFP and RJ-45 combo uplink
+  -
+    name: Vlan1
+    type: virtual
 module-bays:
   -
     name: GigabitEthernet1/0/9

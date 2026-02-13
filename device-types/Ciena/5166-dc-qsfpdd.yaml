@@ -29,10 +29,6 @@ console-ports:
     description: 1 RJ45 BITS in or out, ToD in or out, or 1 PPS in or out (software selectable)
 interfaces:
   -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '1'
     type: 25gbase-x-sfp28
   -
@@ -134,6 +130,10 @@ interfaces:
   -
     name: '34'
     type: 400gbase-x-qsfpdd
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
 power-ports:
   -
     name: PS-A

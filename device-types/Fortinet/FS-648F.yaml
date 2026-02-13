@@ -200,10 +200,6 @@ interfaces:
     name: port48
     type: 5gbase-t
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port49
     type: 25gbase-x-sfp28
   -
@@ -227,3 +223,7 @@ interfaces:
   -
     name: port56
     type: 25gbase-x-sfp28
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true

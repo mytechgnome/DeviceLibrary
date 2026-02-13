@@ -89,11 +89,11 @@ interfaces:
     name: ether24
     type: 1000base-t
   -
-    name: wlan1
-    type: ieee802.11n
-  -
     name: sfp1
     type: 1000base-x-sfp
+  -
+    name: wlan1
+    type: ieee802.11n
 module-bays:
   -
     name: sfp1

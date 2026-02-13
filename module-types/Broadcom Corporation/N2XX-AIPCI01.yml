@@ -3,7 +3,13 @@ manufacturer: Broadcom Corporation
 model: N2XX-AIPCI01
 part_number: N2XX-AIPCI01
 comments: Intel X520 Dual Port 10Gb SFP+ Adapter
-interfaces: []
+interfaces:
+  -
+    name: Ethernet{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet{module}/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet{module}/1

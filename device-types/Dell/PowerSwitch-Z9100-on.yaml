@@ -19,240 +19,240 @@ power-ports:
     type: iec-60320-c14
 interfaces:
   -
-    name: mgmt1/1/1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet 1/1/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/5
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/6
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/7
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/8
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/9
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/10
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/11
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/12
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/13
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/14
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/15
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/16
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/17
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/18
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/19
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/20
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/21
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/22
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/23
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/24
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/29
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/30
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/31
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/32
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/33
     type: 10gbase-x-sfpp
   -
     name: Ethernet 1/1/34
     type: 10gbase-x-sfpp
+  -
+    name: mgmt1/1/1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Ethernet 1/1/1
     position: Ethernet 1/1/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/2
     position: Ethernet 1/1/2
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/3
     position: Ethernet 1/1/3
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/4
     position: Ethernet 1/1/4
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/5
     position: Ethernet 1/1/5
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/6
     position: Ethernet 1/1/6
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/7
     position: Ethernet 1/1/7
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/8
     position: Ethernet 1/1/8
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/9
     position: Ethernet 1/1/9
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/10
     position: Ethernet 1/1/10
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/11
     position: Ethernet 1/1/11
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/12
     position: Ethernet 1/1/12
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/13
     position: Ethernet 1/1/13
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/14
     position: Ethernet 1/1/14
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/15
     position: Ethernet 1/1/15
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/16
     position: Ethernet 1/1/16
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/17
     position: Ethernet 1/1/17
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/18
     position: Ethernet 1/1/18
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/19
     position: Ethernet 1/1/19
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/20
     position: Ethernet 1/1/20
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/21
     position: Ethernet 1/1/21
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/22
     position: Ethernet 1/1/22
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/23
     position: Ethernet 1/1/23
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/24
     position: Ethernet 1/1/24
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/25
     position: Ethernet 1/1/25
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/26
     position: Ethernet 1/1/26
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/27
     position: Ethernet 1/1/27
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/28
     position: Ethernet 1/1/28
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/29
     position: Ethernet 1/1/29
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/30
     position: Ethernet 1/1/30
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/31
     position: Ethernet 1/1/31
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/32
     position: Ethernet 1/1/32
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 1/1/33
     position: Ethernet 1/1/33

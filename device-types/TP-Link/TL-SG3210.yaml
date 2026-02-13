@@ -59,9 +59,11 @@ interfaces:
   -
     name: gigabitEthernet 1/0/9
     type: 1000base-x-sfp
+    label: '9'
   -
     name: gigabitEthernet 1/0/10
     type: 1000base-x-sfp
+    label: '10'
 module-bays:
   -
     name: gigabitEthernet 1/0/9

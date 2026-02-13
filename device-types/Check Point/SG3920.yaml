@@ -52,18 +52,21 @@ interfaces:
     label: '8'
     type: 1000base-t
   -
-    name: Mgmt
-    label: MGMT
-    type: 10gbase-t
-  -
     name: eth9
+    label: '9'
     type: 1000base-x-sfp
   -
     name: eth10
+    label: '10'
     type: 10gbase-x-sfpp
   -
     name: eth11
+    label: '11'
     type: 10gbase-x-sfpp
+  -
+    name: Mgmt
+    label: MGMT
+    type: 10gbase-t
 power-ports:
   -
     name: PS1-12V

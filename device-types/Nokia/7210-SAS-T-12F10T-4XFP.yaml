@@ -14,6 +14,42 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: 1/1/1
+    type: 1000base-x-sfp
+  -
+    name: 1/1/2
+    type: 1000base-x-sfp
+  -
+    name: 1/1/3
+    type: 1000base-x-sfp
+  -
+    name: 1/1/4
+    type: 1000base-x-sfp
+  -
+    name: 1/1/5
+    type: 1000base-x-sfp
+  -
+    name: 1/1/6
+    type: 1000base-x-sfp
+  -
+    name: 1/1/7
+    type: 1000base-x-sfp
+  -
+    name: 1/1/8
+    type: 1000base-x-sfp
+  -
+    name: 1/1/9
+    type: 1000base-x-sfp
+  -
+    name: 1/1/10
+    type: 1000base-x-sfp
+  -
+    name: 1/1/11
+    type: 1000base-x-sfp
+  -
+    name: 1/1/12
+    type: 1000base-x-sfp
+  -
     name: 1/1/13
     type: 1000base-t
   -
@@ -55,42 +91,6 @@ interfaces:
   -
     name: 1/1/26
     type: 10gbase-x-xfp
-  -
-    name: 1/1/1
-    type: 1000base-x-sfp
-  -
-    name: 1/1/2
-    type: 1000base-x-sfp
-  -
-    name: 1/1/3
-    type: 1000base-x-sfp
-  -
-    name: 1/1/4
-    type: 1000base-x-sfp
-  -
-    name: 1/1/5
-    type: 1000base-x-sfp
-  -
-    name: 1/1/6
-    type: 1000base-x-sfp
-  -
-    name: 1/1/7
-    type: 1000base-x-sfp
-  -
-    name: 1/1/8
-    type: 1000base-x-sfp
-  -
-    name: 1/1/9
-    type: 1000base-x-sfp
-  -
-    name: 1/1/10
-    type: 1000base-x-sfp
-  -
-    name: 1/1/11
-    type: 1000base-x-sfp
-  -
-    name: 1/1/12
-    type: 1000base-x-sfp
 module-bays:
   -
     name: Power Supply 1

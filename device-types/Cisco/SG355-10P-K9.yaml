@@ -58,6 +58,12 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: GigabitEthernet9
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet10
+    type: 1000base-x-sfp
+  -
     name: Port-Channel1
     type: lag
   -
@@ -84,12 +90,6 @@ interfaces:
   -
     name: vlan 1
     type: virtual
-  -
-    name: GigabitEthernet9
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet10
-    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet9

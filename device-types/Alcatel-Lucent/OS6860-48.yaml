@@ -171,9 +171,6 @@ interfaces:
     name: 1/1/48
     type: 1000base-t
   -
-    name: Loopback0
-    type: virtual
-  -
     name: 1/1/49
     type: 10gbase-x-sfpp
   -
@@ -191,6 +188,9 @@ interfaces:
   -
     name: 1/1/54
     type: 40gbase-x-qsfpp
+  -
+    name: Loopback0
+    type: virtual
 module-bays:
   -
     name: 1/1/49
@@ -211,8 +211,8 @@ module-bays:
   -
     name: 1/1/53
     position: 1/1/53
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/54
     position: 1/1/54
-    label: qsfp
+    label: qsfp+

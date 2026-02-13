@@ -164,12 +164,13 @@ interfaces:
   -
     name: Ethernet48
     type: 10gbase-x-sfpp
+# QSFP28(100G) ports can be broke into 4x25 with a model of [49-54]/[1-4]
   -
     name: Ethernet49/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet50/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PS1
@@ -372,8 +373,8 @@ module-bays:
   -
     name: Ethernet49/1
     position: Ethernet49/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet50/1
     position: Ethernet50/1
-    label: qsfp
+    label: qsfp28

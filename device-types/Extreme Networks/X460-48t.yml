@@ -255,22 +255,30 @@ interfaces:
     enabled: true
     mgmt_only: false
   -
+    name: '49'
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+  -
+    name: '50'
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+  -
+    name: '51'
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+  -
+    name: '52'
+    type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
+  -
     name: Management
     type: 100base-tx
     enabled: true
     mgmt_only: true
-  -
-    name: '49'
-    type: 1000base-x-sfp
-  -
-    name: '50'
-    type: 1000base-x-sfp
-  -
-    name: '51'
-    type: 1000base-x-sfp
-  -
-    name: '52'
-    type: 1000base-x-sfp
 module-bays:
   -
     name: PSU-1

@@ -191,46 +191,74 @@ interfaces:
   -
     name: GigabitEthernet0/0/25
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/26
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/27
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/28
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/29
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/30
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/31
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: GigabitEthernet0/0/32
     type: 1000base-x-sfp
+    enabled: true
+    mgmt_only: false
   -
     name: XGigabitEthernet0/0/1
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: XGigabitEthernet0/0/2
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: XGigabitEthernet0/0/3
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: XGigabitEthernet0/0/4
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: XGigabitEthernet0/0/5
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
     description: Stack port
   -
     name: XGigabitEthernet0/0/6
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
     description: Stack port
 module-bays:
   -

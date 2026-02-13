@@ -20,19 +20,19 @@ module-bays:
   -
     name: qx-ethernet 0/1
     position: qx-ethernet 0/1
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/2
     position: qx-ethernet 0/2
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/3
     position: qx-ethernet 0/3
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/4
     position: qx-ethernet 0/4
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: extreme-ethernet 0/1
@@ -179,10 +179,6 @@ interfaces:
     name: extreme-ethernet 0/48
     type: 10gbase-t
   -
-    name: Management 1/1/1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: qx-ethernet 0/1
     type: 40gbase-x-qsfpp
   -
@@ -194,3 +190,7 @@ interfaces:
   -
     name: qx-ethernet 0/4
     type: 40gbase-x-qsfpp
+  -
+    name: Management 1/1/1
+    type: 1000base-t
+    mgmt_only: true

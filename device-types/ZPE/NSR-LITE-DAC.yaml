@@ -54,14 +54,17 @@ interfaces:
     type: 1000base-t
 
   -
-    name: backplane0
-    type: 10gbase-kr
-  -
     name: sfp0
+    label: SFP 0
     type: 10gbase-x-sfpp
   -
     name: sfp1
+    label: SFP 1
     type: 10gbase-x-sfpp
+
+  -
+    name: backplane0
+    type: 10gbase-kr
 module-bays:
   -
     name: slot-1

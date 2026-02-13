@@ -215,58 +215,54 @@ module-bays:
   -
     name: Ethernet49/1
     position: Ethernet49/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet50/1
     position: Ethernet50/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet51/1
     position: Ethernet51/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet52/1
     position: Ethernet52/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet53/1
     position: Ethernet53/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet54/1
     position: Ethernet54/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet55/1
     position: Ethernet55/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet56/1
     position: Ethernet56/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet57/1
     position: Ethernet57/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet58/1
     position: Ethernet58/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet59/1
     position: Ethernet59/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet60/1
     position: Ethernet60/1
-    label: qsfp
+    label: qsfp28
 front_image: true
 rear_image: true
 interfaces:
-  -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
   -
     name: Ethernet1
     type: 25gbase-x-sfp28
@@ -411,39 +407,44 @@ interfaces:
   -
     name: Ethernet48
     type: 25gbase-x-sfp28
+# QSFP28(100G) ports can be broke into 4x25 with a model of [49-60]/[1-4]
   -
     name: Ethernet49/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet50/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet51/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet52/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet53/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet54/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet55/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet56/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet57/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet58/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet59/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet60/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true

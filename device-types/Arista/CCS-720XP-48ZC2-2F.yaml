@@ -39,11 +39,11 @@ module-bays:
   -
     name: Ethernet53/1
     position: Ethernet53/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet54/1
     position: Ethernet54/1
-    label: qsfp
+    label: qsfp28
 front_image: true
 rear_image: false
 interfaces:
@@ -303,9 +303,10 @@ interfaces:
   -
     name: Ethernet52
     type: 25gbase-x-sfp28
+# QSFP28(100G) ports can be broke into 4x25 with a model of [53-54]/[1-4]
   -
     name: Ethernet53/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet54/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

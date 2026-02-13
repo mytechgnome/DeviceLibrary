@@ -44,14 +44,14 @@ interfaces:
     name: X7
     type: 1000base-t
   -
-    name: W0
-    type: ieee802.11ac
-  -
     name: X8
     type: 1000base-x-sfp
   -
     name: X9
     type: 1000base-x-sfp
+  -
+    name: W0
+    type: ieee802.11ac
 module-bays:
   -
     name: X8

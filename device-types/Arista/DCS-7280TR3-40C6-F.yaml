@@ -23,27 +23,27 @@ module-bays:
   -
     name: Ethernet41/1
     position: Ethernet41/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet42/1
     position: Ethernet42/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet43/1
     position: Ethernet43/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet44/1
     position: Ethernet44/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet45/1
     position: Ethernet45/1
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet46/1
     position: Ethernet46/1
-    label: qsfp
+    label: qsfp28
 front_image: true
 rear_image: true
 interfaces:
@@ -174,19 +174,19 @@ interfaces:
 # QSFP28(100G) ports can be broke into 4x25 with a model of [41-46]/[1-4]
   -
     name: Ethernet41/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet42/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet43/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet44/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet45/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet46/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

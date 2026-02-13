@@ -243,35 +243,35 @@ module-bays:
   -
     name: ce49
     position: ce49
-    label: qsfp
+    label: qsfp28
   -
     name: ce50
     position: ce50
-    label: qsfp
+    label: qsfp28
   -
     name: ce51
     position: ce51
-    label: qsfp
+    label: qsfp28
   -
     name: ce52
     position: ce52
-    label: qsfp
+    label: qsfp28
   -
     name: ce53
     position: ce53
-    label: qsfp
+    label: qsfp28
   -
     name: ce54
     position: ce54
-    label: qsfp
+    label: qsfp28
   -
     name: ce55
     position: ce55
-    label: qsfp
+    label: qsfp28
   -
     name: ce56
     position: ce56
-    label: qsfp
+    label: qsfp28
 interfaces:
   -
     name: eth0
@@ -280,9 +280,11 @@ interfaces:
   -
     name: xe57
     type: 10gbase-x-sfpp
+    mgmt_only: true
   -
     name: xe58
     type: 10gbase-x-sfpp
+    mgmt_only: true
   -
     name: xe1
     type: 25gbase-x-sfp28
@@ -429,25 +431,25 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: ce49
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce50
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce51
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce52
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce55
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ce56
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

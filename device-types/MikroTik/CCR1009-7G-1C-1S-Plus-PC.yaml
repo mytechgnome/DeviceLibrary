@@ -42,6 +42,7 @@ interfaces:
   -
     name: combo1
     type: 1000base-x-sfp
+    label: SFP/ETH
 console-ports:
   -
     name: serial0

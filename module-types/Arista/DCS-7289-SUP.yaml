@@ -15,6 +15,10 @@ interfaces:
     name: Management{module}/1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Management{module}/2
+    type: 1000base-x-sfp
+    mgmt_only: true
 module-bays:
   -
     name: Management{module}/2

@@ -162,6 +162,7 @@ interfaces:
   -
     name: '48'
     type: 1000base-x-sfp
+# slots:
   -
     name: '49'
     type: 10gbase-x-sfpp

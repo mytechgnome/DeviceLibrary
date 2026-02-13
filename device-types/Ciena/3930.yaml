@@ -65,10 +65,6 @@ module-bays:
     label: sfp+
 interfaces:
   -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '1'
     type: 1000base-x-sfp
   -
@@ -98,3 +94,7 @@ interfaces:
   -
     name: '10'
     type: 10gbase-x-sfpp
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true

@@ -13,10 +13,6 @@ console-ports:
     type: de-9
 interfaces:
   -
-    name: mgmt-1/1/1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: gigabit-ethernet-1/1/1
     type: 1000base-x-sfp
   -
@@ -88,6 +84,10 @@ interfaces:
   -
     name: ten-gigabit-ethernet-1/1/8
     type: 10gbase-x-sfpp
+  -
+    name: mgmt-1/1/1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU1

@@ -130,11 +130,11 @@ module-bays:
   -
     name: FortyGigabitEthernet1/0/25
     position: FortyGigabitEthernet1/0/25
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet1/0/26
     position: FortyGigabitEthernet1/0/26
-    label: qsfp
+    label: qsfp+
 power-ports:
   -
     name: Slot 1

@@ -6,9 +6,6 @@ is_full_depth: false
 u_height: 1
 interfaces:
   -
-    name: ether1
-    type: 1000base-t
-  -
     name: sfp1
     type: 1000base-x-sfp
   -
@@ -41,6 +38,9 @@ interfaces:
   -
     name: sfp-sfpplus1
     type: 10gbase-x-sfpp
+  -
+    name: ether1
+    type: 1000base-t
 console-ports:
   -
     name: serial0

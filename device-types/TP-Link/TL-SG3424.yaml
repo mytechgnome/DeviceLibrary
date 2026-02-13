@@ -95,14 +95,18 @@ interfaces:
   -
     name: 21F
     type: 1000base-x-sfp
+    label: combo
   -
     name: 22F
+    label: combo
     type: 1000base-x-sfp
   -
     name: 23F
+    label: combo
     type: 1000base-x-sfp
   -
     name: 24F
+    label: combo
     type: 1000base-x-sfp
 module-bays:
   -

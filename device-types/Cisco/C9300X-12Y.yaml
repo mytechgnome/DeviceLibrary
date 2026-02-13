@@ -20,16 +20,6 @@ console-ports:
     type: usb-mini-b
 interfaces:
   -
-    name: StackPort1/1
-    type: cisco-stackwise-1t
-  -
-    name: StackPort1/2
-    type: cisco-stackwise-1t
-  -
-    name: GigabitEthernet0/0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: TwentyFiveGigE1/0/1
     type: 25gbase-x-sfp28
   -
@@ -65,6 +55,16 @@ interfaces:
   -
     name: TwentyFiveGigE1/0/12
     type: 25gbase-x-sfp28
+  -
+    name: StackPort1/1
+    type: cisco-stackwise-1t
+  -
+    name: StackPort1/2
+    type: cisco-stackwise-1t
+  -
+    name: GigabitEthernet0/0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Network Module

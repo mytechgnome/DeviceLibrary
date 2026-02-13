@@ -136,6 +136,12 @@ module-bays:
     label: qsfp-dd
 interfaces:
   -
+    name: ha1
+    type: 50gbase-x-sfp28
+  -
+    name: ha2
+    type: 50gbase-x-sfp28
+  -
     name: mgmt1
     type: 10gbase-t
     mgmt_only: true
@@ -143,12 +149,6 @@ interfaces:
     name: mgmt2
     type: 10gbase-t
     mgmt_only: true
-  -
-    name: ha1
-    type: 50gbase-x-sfp28
-  -
-    name: ha2
-    type: 50gbase-x-sfp28
   -
     name: port1
     type: 25gbase-x-sfp28

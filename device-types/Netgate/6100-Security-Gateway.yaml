@@ -28,6 +28,22 @@ power-ports:
     type: dc-terminal
 interfaces:
   -
+    name: ix3
+    type: 1000base-x-sfp
+    label: WAN1
+  -
+    name: ix2
+    type: 1000base-x-sfp
+    label: WAN2
+  -
+    name: ix0
+    type: 10gbase-x-sfpp
+    label: WAN3
+  -
+    name: ix1
+    type: 10gbase-x-sfpp
+    label: WAN4
+  -
     name: igc0
     type: 2.5gbase-t
     label: LAN1
@@ -43,18 +59,6 @@ interfaces:
     name: igc3
     type: 2.5gbase-t
     label: LAN4
-  -
-    name: ix3
-    type: 1000base-x-sfp
-  -
-    name: ix2
-    type: 1000base-x-sfp
-  -
-    name: ix0
-    type: 10gbase-x-sfpp
-  -
-    name: ix1
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: ix3

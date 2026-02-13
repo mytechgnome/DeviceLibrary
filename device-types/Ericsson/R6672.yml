@@ -17,23 +17,6 @@ power-ports:
     type: iec-60320-c16
 interfaces:
   -
-    name: 1/17
-    type: 1000base-t
-  -
-    name: 1/18
-    type: 1000base-t
-  -
-    name: 1/19
-    type: 1000base-t
-  -
-    name: 1/20
-    type: 1000base-t
-  -
-    name: LMT
-    type: 1000base-t
-    mgmt_only: true
-    description: OoB MGMT
-  -
     name: 1/1
     type: 1000base-x-sfp
   -
@@ -81,6 +64,23 @@ interfaces:
   -
     name: 1/16
     type: 10gbase-x-sfpp
+  -
+    name: 1/17
+    type: 1000base-t
+  -
+    name: 1/18
+    type: 1000base-t
+  -
+    name: 1/19
+    type: 1000base-t
+  -
+    name: 1/20
+    type: 1000base-t
+  -
+    name: LMT
+    type: 1000base-t
+    mgmt_only: true
+    description: OoB MGMT
 module-bays:
   -
     name: 1/1

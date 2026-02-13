@@ -56,11 +56,6 @@ interfaces:
     name: GigabitEthernet1/0/12
     type: 1000base-t
   -
-    name: GigabitEthernet1/1/5
-    type: 1000base-t
-    poe_mode: pd
-    poe_type: type3-ieee802.3bt
-  -
     name: GigabitEthernet1/1/1
     type: 1000base-x-sfp
   -
@@ -72,6 +67,11 @@ interfaces:
   -
     name: TenGigabitEthernet1/1/4
     type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/1/5
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type3-ieee802.3bt
 module-bays:
   -
     name: GigabitEthernet1/1/1

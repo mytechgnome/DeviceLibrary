@@ -232,19 +232,19 @@ module-bays:
   -
     name: FortyGigabitEthernet1/1/1
     position: FortyGigabitEthernet1/1/1
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet1/1/2
     position: FortyGigabitEthernet1/1/2
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet1/1/3
     position: FortyGigabitEthernet1/1/3
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet1/1/4
     position: FortyGigabitEthernet1/1/4
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: GigabitEthernet0/0

@@ -55,6 +55,38 @@ module-bays:
     label: sfp
 interfaces:
   -
+    name: ice0
+    type: 10gbase-x-sfpp
+    label: P0
+  -
+    name: ice1
+    type: 10gbase-x-sfpp
+    label: P1
+  -
+    name: ice2
+    type: 10gbase-x-sfpp
+    label: P2
+  -
+    name: ice3
+    type: 10gbase-x-sfpp
+    label: P3
+  -
+    name: ice4
+    type: 1000base-x-sfp
+    label: P4
+  -
+    name: ice5
+    type: 1000base-x-sfp
+    label: P5
+  -
+    name: ice6
+    type: 1000base-x-sfp
+    label: P5
+  -
+    name: ice7
+    type: 1000base-x-sfp
+    label: P6
+  -
     name: igc2
     type: 2.5gbase-t
     label: P7
@@ -66,27 +98,3 @@ interfaces:
     name: igc0
     type: 2.5gbase-t
     label: P7
-  -
-    name: ice0
-    type: 10gbase-x-sfpp
-  -
-    name: ice1
-    type: 10gbase-x-sfpp
-  -
-    name: ice2
-    type: 10gbase-x-sfpp
-  -
-    name: ice3
-    type: 10gbase-x-sfpp
-  -
-    name: ice4
-    type: 1000base-x-sfp
-  -
-    name: ice5
-    type: 1000base-x-sfp
-  -
-    name: ice6
-    type: 1000base-x-sfp
-  -
-    name: ice7
-    type: 1000base-x-sfp

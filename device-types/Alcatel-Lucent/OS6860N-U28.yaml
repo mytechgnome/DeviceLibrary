@@ -150,16 +150,12 @@ module-bays:
   -
     name: 1/1/33
     position: 1/1/33
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/34
     position: 1/1/34
-    label: qsfp
+    label: qsfp+
 interfaces:
-  -
-    name: EMP
-    type: 1000base-t
-    mgmt_only: true
   -
     name: 1/1/1
     type: 1000base-x-sfp
@@ -262,3 +258,7 @@ interfaces:
   -
     name: 1/1/34
     type: 40gbase-x-qsfpp
+  -
+    name: EMP
+    type: 1000base-t
+    mgmt_only: true

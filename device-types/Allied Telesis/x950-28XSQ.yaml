@@ -11,10 +11,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1.0.1
     type: 10gbase-x-sfpp
   -
@@ -88,16 +84,20 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: port1.0.25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port1.0.29
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port1.0.33
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: port1.0.37
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU A
@@ -207,19 +207,19 @@ module-bays:
   -
     name: port1.0.25
     position: port1.0.25
-    label: qsfp
+    label: qsfp28
   -
     name: port1.0.29
     position: port1.0.29
-    label: qsfp
+    label: qsfp28
   -
     name: port1.0.33
     position: port1.0.33
-    label: qsfp
+    label: qsfp28
   -
     name: port1.0.37
     position: port1.0.37
-    label: qsfp
+    label: qsfp28
 inventory-items:
   -
     name: Fan-Module A

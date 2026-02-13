@@ -20,10 +20,6 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
-    name: Management0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet 0/1
     type: 25gbase-x-sfp28
   -
@@ -169,28 +165,32 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: Ethernet 0/49
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/50
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/51
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/52
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/55
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 0/56
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: Management0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Ethernet 0/1
@@ -387,32 +387,32 @@ module-bays:
   -
     name: Ethernet 0/49
     position: Ethernet 0/49
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/50
     position: Ethernet 0/50
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/51
     position: Ethernet 0/51
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/52
     position: Ethernet 0/52
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/53
     position: Ethernet 0/53
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/54
     position: Ethernet 0/54
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/55
     position: Ethernet 0/55
-    label: qsfp
+    label: qsfp28
   -
     name: Ethernet 0/56
     position: Ethernet 0/56
-    label: qsfp
+    label: qsfp28

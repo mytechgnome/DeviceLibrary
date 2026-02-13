@@ -78,14 +78,16 @@ interfaces:
     label: '16'
     type: 1000base-t
   -
-    name: usb
-    type: lte
-  -
     name: sfp-sfpplus1
+    label: SFP+ 1
     type: 10gbase-x-sfpp
   -
     name: sfp-sfpplus2
+    label: SFP+ 2
     type: 10gbase-x-sfpp
+  -
+    name: usb
+    type: lte
 console-ports:
   -
     name: serial0

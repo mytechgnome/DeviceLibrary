@@ -32,6 +32,7 @@ interfaces:
   -
     name: sfp1
     type: 10gbase-x-sfpp
+    label: 2.5G SFP
 power-ports:
   -
     name: DC jack

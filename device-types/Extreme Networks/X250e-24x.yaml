@@ -19,10 +19,6 @@ console-ports:
     type: de-9
 interfaces:
   -
-    name: Mgmt
-    type: 100base-tx
-    mgmt_only: true
-  -
     name: '1'
     type: 1000base-x-sfp
   -
@@ -100,6 +96,10 @@ interfaces:
   -
     name: '26'
     type: 1000base-x-sfp
+  -
+    name: Mgmt
+    type: 100base-tx
+    mgmt_only: true
 module-bays:
   -
     name: '1'

@@ -211,15 +211,19 @@ interfaces:
   -
     name: XGE1
     type: 10gbase-x-sfpp
+    label: '49'
   -
     name: XGE2
     type: 10gbase-x-sfpp
+    label: '50'
   -
     name: XGE3
     type: 10gbase-x-sfpp
+    label: '51'
   -
     name: XGE4
     type: 10gbase-x-sfpp
+    label: '52'
 module-bays:
   -
     name: FAN1

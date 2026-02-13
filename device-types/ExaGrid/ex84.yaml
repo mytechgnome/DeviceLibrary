@@ -54,10 +54,6 @@ interfaces:
     name: GbE-2
     type: 1000base-t
   -
-    name: iLO
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: SPF-1
     type: 10gbase-x-sfpp
   -
@@ -81,3 +77,7 @@ interfaces:
   -
     name: SFP-8
     type: 25gbase-x-sfp28
+  -
+    name: iLO
+    type: 1000base-t
+    mgmt_only: true
