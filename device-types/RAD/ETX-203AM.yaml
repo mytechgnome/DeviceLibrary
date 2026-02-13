@@ -23,6 +23,12 @@ interfaces:
     name: MNT-ETH
     type: 1000base-t
     mgmt_only: true
+  -
+    name: User3
+    type: 1000base-x-sfp
+  -
+    name: User4
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Network Module

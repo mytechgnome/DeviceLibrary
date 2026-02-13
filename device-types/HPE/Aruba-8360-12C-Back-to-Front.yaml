@@ -34,6 +34,42 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 1/1/1
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/2
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/3
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/4
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/5
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/6
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/7
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/8
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/9
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/10
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/11
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/12
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: 1/1/1

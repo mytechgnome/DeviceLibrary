@@ -11,7 +11,19 @@ console-ports:
   -
     name: con0
     type: rj-45
-interfaces: []
+interfaces:
+  -
+    name: e0a
+    type: 10gbase-x-sfpp
+  -
+    name: e0b
+    type: 10gbase-x-sfpp
+  -
+    name: e0c
+    type: 10gbase-x-sfpp
+  -
+    name: e0d
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PSU1

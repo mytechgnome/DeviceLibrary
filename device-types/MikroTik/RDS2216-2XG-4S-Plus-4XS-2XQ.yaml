@@ -32,6 +32,36 @@ interfaces:
     name: SSF-8644 2
     type: other
     description: SSF-8644 2, PCIe 3.0 x4 mode only
+  -
+    name: qsfp28-1-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-2-1
+    type: 40gbase-x-qsfpp
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus3
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus4
+    type: 10gbase-x-sfpp
+  -
+    name: sfp28-1
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-2
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-3
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-4
+    type: 25gbase-x-sfp28
 console-ports:
   -
     name: serial0

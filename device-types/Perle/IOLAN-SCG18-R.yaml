@@ -225,7 +225,15 @@ console-server-ports:
     name: tty51
     type: usb-a
     label: B
-interfaces: []
+interfaces:
+  -
+    name: eth1
+    type: 1000base-x-sfp
+    description: 1G SFP and RJ-45 combo uplink
+  -
+    name: eth2
+    type: 1000base-x-sfp
+    description: 1G SFP and RJ-45 combo uplink
 module-bays:
   -
     name: eth1

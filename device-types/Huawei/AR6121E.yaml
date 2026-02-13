@@ -48,6 +48,18 @@ interfaces:
   -
     name: GE10/ETH
     type: 1000base-t
+  -
+    name: 10GE0
+    type: 10gbase-x-sfpp
+  -
+    name: GE8/SFP
+    type: 1000base-x-sfp
+  -
+    name: GE9/SFP
+    type: 1000base-x-sfp
+  -
+    name: GE10/SFP
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 10GE0

@@ -59,3 +59,9 @@ interfaces:
   -
     name: GigabitEthernet0/0/3
     type: 1000base-t
+  -
+    name: TenGigabitEthernet0/0/4
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/5
+    type: 10gbase-x-sfpp

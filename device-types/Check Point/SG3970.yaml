@@ -92,6 +92,42 @@ interfaces:
     label: MGMT
     type: 1000base-t
     mgmt_only: true
+  -
+    name: eth1
+    type: 1000base-x-sfp
+  -
+    name: eth2
+    type: 1000base-x-sfp
+  -
+    name: eth3
+    type: 1000base-x-sfp
+  -
+    name: eth4
+    type: 1000base-x-sfp
+  -
+    name: eth5
+    type: 1000base-x-sfp
+  -
+    name: eth6
+    type: 1000base-x-sfp
+  -
+    name: eth7
+    type: 1000base-x-sfp
+  -
+    name: eth8
+    type: 1000base-x-sfp
+  -
+    name: eth25
+    type: 10gbase-x-sfpp
+  -
+    name: eth26
+    type: 10gbase-x-sfpp
+  -
+    name: eth27
+    type: 10gbase-x-sfpp
+  -
+    name: eth28
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PS1

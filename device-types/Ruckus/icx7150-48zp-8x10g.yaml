@@ -250,6 +250,30 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: 1/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/3
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/4
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/5
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/6
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/7
+    type: 10gbase-x-sfpp
+  -
+    name: 1/2/8
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

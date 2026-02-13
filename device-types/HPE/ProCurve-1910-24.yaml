@@ -91,6 +91,12 @@ interfaces:
   -
     name: FastEthernet 1/0/24
     type: 100base-tx
+  -
+    name: GigabitEthernet 1/0/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet 1/0/26
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet 1/0/25

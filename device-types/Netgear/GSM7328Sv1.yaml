@@ -90,6 +90,18 @@ interfaces:
   -
     name: 1/0/24
     type: 1000base-t
+  -
+    name: 1/0/25
+    type: 1000base-x-sfp
+  -
+    name: 1/0/26
+    type: 1000base-x-sfp
+  -
+    name: 1/0/27
+    type: 1000base-x-sfp
+  -
+    name: 1/0/28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 1/0/25

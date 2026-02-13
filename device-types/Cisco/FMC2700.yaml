@@ -47,3 +47,9 @@ interfaces:
     type: 10gbase-t
     mgmt_only: true
     label: '2'
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: eth3
+    type: 10gbase-x-sfpp

@@ -25,6 +25,33 @@ interfaces:
     name: Redundancy Port-RJ-45
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Redundancy Port-SFP
+    type: 1000base-x-sfp
+  -
+    name: TenGigabitEthernet0/0/0
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/4
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/5
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/6
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/7
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PSU0

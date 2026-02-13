@@ -63,6 +63,12 @@ interfaces:
     type: 2.5gbase-t
     mgmt_only: false
     label: '8'
+  -
+    name: Ethernet 9
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet 10
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet 9

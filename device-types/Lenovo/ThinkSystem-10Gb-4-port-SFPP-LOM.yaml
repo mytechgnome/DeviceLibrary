@@ -6,7 +6,19 @@ part_number: 7ZT7A00547
 u_height: 0
 is_full_depth: false
 subdevice_role: child
-interfaces: []
+interfaces:
+  -
+    name: '1'
+    type: 10gbase-x-sfpp
+  -
+    name: '2'
+    type: 10gbase-x-sfpp
+  -
+    name: '3'
+    type: 10gbase-x-sfpp
+  -
+    name: '4'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '1'

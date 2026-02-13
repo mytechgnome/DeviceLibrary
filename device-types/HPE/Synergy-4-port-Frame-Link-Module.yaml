@@ -13,7 +13,19 @@ console-ports:
   -
     name: Console
     type: usb-c
-interfaces: []
+interfaces:
+  -
+    name: MGMT
+    type: 10gbase-x-sfpp
+  -
+    name: LINK
+    type: 10gbase-x-sfpp
+  -
+    name: Appliance 1
+    type: 10gbase-x-sfpp
+  -
+    name: Appliance 2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: MGMT

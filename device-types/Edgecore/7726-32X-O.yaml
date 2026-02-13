@@ -15,6 +15,108 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: eth1
+    type: 10gbase-x-sfpp
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet0
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet4
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet8
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet12
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet16
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet20
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet24
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet28
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet32
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet36
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet40
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet44
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet48
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet52
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet56
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet60
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet64
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet68
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet72
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet76
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet80
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet84
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet88
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet92
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet96
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet100
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet104
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet108
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet112
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet116
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet120
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet124
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU 1

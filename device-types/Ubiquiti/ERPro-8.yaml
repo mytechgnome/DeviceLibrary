@@ -33,6 +33,12 @@ interfaces:
   -
     name: eth5
     type: 1000base-t
+  -
+    name: eth6
+    type: 1000base-x-sfp
+  -
+    name: eth7
+    type: 1000base-x-sfp
 console-ports:
   -
     name: Console

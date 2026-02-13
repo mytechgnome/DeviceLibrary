@@ -111,6 +111,12 @@ interfaces:
     name: ether24
     label: '24'
     type: 1000base-t
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: DC

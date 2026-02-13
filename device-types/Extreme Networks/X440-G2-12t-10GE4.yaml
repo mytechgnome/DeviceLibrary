@@ -64,6 +64,20 @@ interfaces:
   -
     name: '12'
     type: 1000base-t
+  -
+    name: '13'
+    type: 10gbase-x-sfpp
+  -
+    name: '14'
+    type: 10gbase-x-sfpp
+  -
+    name: '15'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
+  -
+    name: '16'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
 module-bays:
   -
     name: '13'

@@ -158,6 +158,12 @@ interfaces:
   -
     name: GigabitEthernet40
     type: 1000base-t
+  -
+    name: GbESfpDMZInerface1
+    type: 1000base-x-sfp
+  -
+    name: GbESfpDMZInerface2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GbESfpDMZInerface1

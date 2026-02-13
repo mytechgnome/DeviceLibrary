@@ -128,6 +128,18 @@ interfaces:
     name: GigabitEthernet0/0/24
     label: '24'
     type: 1000base-t
+  -
+    name: GigabitEthernet0/0/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet0/0/25

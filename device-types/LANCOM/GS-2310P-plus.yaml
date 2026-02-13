@@ -41,6 +41,12 @@ interfaces:
   -
     name: Port 10 RJ45
     type: 1000base-t
+  -
+    name: Port 9 SFP
+    type: 1000base-x-sfp
+  -
+    name: Port 10 SFP
+    type: 1000base-x-sfp
 console-ports:
   -
     name: com

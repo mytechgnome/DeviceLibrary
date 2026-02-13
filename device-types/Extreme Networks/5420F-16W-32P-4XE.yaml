@@ -295,3 +295,23 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '49'
+    type: 10gbase-x-sfpp
+  -
+    name: '50'
+    type: 10gbase-x-sfpp
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
+  -
+    name: U1
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 10Gb ethernet
+  -
+    name: U2
+    type: 1000base-x-sfp
+    description: Can be used for stacking or 10Gb ethernet

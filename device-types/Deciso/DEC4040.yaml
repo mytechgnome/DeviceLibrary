@@ -18,6 +18,18 @@ interfaces:
   -
     name: igb3
     type: 1000base-t
+  -
+    name: x0
+    type: 10gbase-x-sfpp
+  -
+    name: x1
+    type: 10gbase-x-sfpp
+  -
+    name: xxv0
+    type: 25gbase-x-sfp28
+  -
+    name: xxv1
+    type: 25gbase-x-sfp28
 console-ports:
   -
     name: Console

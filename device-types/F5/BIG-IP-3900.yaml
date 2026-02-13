@@ -56,6 +56,18 @@ interfaces:
   -
     name: '1.8'
     type: 1000base-t
+  -
+    name: '2.1'
+    type: 1000base-x-sfp
+  -
+    name: '2.2'
+    type: 1000base-x-sfp
+  -
+    name: '2.3'
+    type: 1000base-x-sfp
+  -
+    name: '2.4'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '2.1'

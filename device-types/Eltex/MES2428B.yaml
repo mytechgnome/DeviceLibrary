@@ -90,6 +90,22 @@ interfaces:
   -
     name: gi0/24
     type: 1000base-t
+  -
+    name: gi0/25
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
+  -
+    name: gi0/26
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
+  -
+    name: gi0/27
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
+  -
+    name: gi0/28
+    type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
 module-bays:
   -
     name: gi0/25

@@ -58,6 +58,14 @@ interfaces:
     type: 1000base-t
     description: |
       Marvell 88E6190 switched uplinked at 5 Gbps (2x 2.5 Gbps) to Intel SoC
+  -
+    name: ix0
+    type: 10gbase-x-sfpp
+    description: Intel x553
+  -
+    name: ix1
+    type: 10gbase-x-sfpp
+    description: Intel x553
 module-bays:
   -
     name: pci1

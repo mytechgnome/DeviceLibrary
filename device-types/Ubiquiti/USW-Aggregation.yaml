@@ -15,7 +15,31 @@ weight_unit: kg
 airflow: passive
 front_image: true
 is_full_depth: false
-interfaces: []
+interfaces:
+  -
+    name: SFP+ 1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 2
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 3
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 4
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 5
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 6
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 7
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 8
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: Input

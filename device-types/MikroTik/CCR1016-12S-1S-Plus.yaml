@@ -30,7 +30,46 @@ power-outlets:
     name: microUSB
     type: usb-micro-b
     description: OTG support
-interfaces: []
+interfaces:
+  -
+    name: sfp1
+    type: 1000base-x-sfp
+  -
+    name: sfp2
+    type: 1000base-x-sfp
+  -
+    name: sfp3
+    type: 1000base-x-sfp
+  -
+    name: sfp4
+    type: 1000base-x-sfp
+  -
+    name: sfp5
+    type: 1000base-x-sfp
+  -
+    name: sfp6
+    type: 1000base-x-sfp
+  -
+    name: sfp7
+    type: 1000base-x-sfp
+  -
+    name: sfp8
+    type: 1000base-x-sfp
+  -
+    name: sfp9
+    type: 1000base-x-sfp
+  -
+    name: sfp10
+    type: 1000base-x-sfp
+  -
+    name: sfp11
+    type: 1000base-x-sfp
+  -
+    name: sfp12
+    type: 1000base-x-sfp
+  -
+    name: sfpplus1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: sfp1

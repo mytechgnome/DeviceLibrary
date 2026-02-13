@@ -53,6 +53,18 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port1.0.13
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.14
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.15
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.16
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU

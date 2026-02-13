@@ -139,6 +139,18 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
 # slots:
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
+  -
+    name: '27'
+    type: 1000base-x-sfp
+  -
+    name: '28'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '25'

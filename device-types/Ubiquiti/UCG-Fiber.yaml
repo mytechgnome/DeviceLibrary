@@ -34,6 +34,12 @@ interfaces:
   -
     name: WAN1
     type: 10gbase-t
+  -
+    name: LAN5
+    type: 10gbase-x-sfpp
+  -
+    name: WAN2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: LAN5

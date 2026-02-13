@@ -4,5 +4,6 @@ model: QSFP-40G-SR-BD
 part_number: QSFP-40G-SR-BD
 comments: "Cisco 40GBASE-SR BiDi QSFP+. Datasheet: https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/data_sheet_c78-660083.html"
 interfaces:
-  - name: "{module}"
+  -
+    name: "{module}"
     type: 40gbase-sr4

@@ -117,6 +117,12 @@ interfaces:
   -
     name: Port 24
     type: 1000base-t
+  -
+    name: SFP 1
+    type: 1000base-x-sfp
+  -
+    name: SFP 2
+    type: 1000base-x-sfp
 power-ports:
   -
     name: Input

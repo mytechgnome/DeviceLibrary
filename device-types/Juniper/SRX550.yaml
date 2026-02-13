@@ -30,6 +30,18 @@ interfaces:
   -
     name: ge-0/0/5
     type: 1000base-t
+  -
+    name: ge-0/0/6
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/7
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/8
+    type: 1000base-x-sfp
+  -
+    name: ge-0/0/9
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PIM1

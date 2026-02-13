@@ -47,6 +47,9 @@ interfaces:
   -
     name: TenGigabitEthernet/11
     type: 10gbase-t
+  -
+    name: TenGigabitSfpPlus/12
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TenGigabitSfpPlus/12

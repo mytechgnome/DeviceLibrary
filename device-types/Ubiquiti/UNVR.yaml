@@ -19,6 +19,9 @@ interfaces:
   -
     name: LAN 1
     type: 1000base-t
+  -
+    name: SFP+ 2 (LAN)
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: Input

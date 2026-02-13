@@ -15,7 +15,43 @@ console-ports:
   -
     name: usb1
     type: usb-a
-interfaces: []
+interfaces:
+  -
+    name: Eth1
+    type: 25gbase-x-sfp28
+  -
+    name: Eth2
+    type: 25gbase-x-sfp28
+  -
+    name: Eth3
+    type: 25gbase-x-sfp28
+  -
+    name: Eth4
+    type: 25gbase-x-sfp28
+  -
+    name: Eth5
+    type: 25gbase-x-sfp28
+  -
+    name: Eth6
+    type: 25gbase-x-sfp28
+  -
+    name: Eth7
+    type: 25gbase-x-sfp28
+  -
+    name: Eth8
+    type: 25gbase-x-sfp28
+  -
+    name: Eth9
+    type: 25gbase-x-sfp28
+  -
+    name: Eth10
+    type: 25gbase-x-sfp28
+  -
+    name: Eth11
+    type: 25gbase-x-sfp28
+  -
+    name: Eth12
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: PS1

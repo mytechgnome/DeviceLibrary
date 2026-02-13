@@ -91,6 +91,24 @@ interfaces:
     name: '24'
     type: 1000base-t
 # slots:
+  -
+    name: '25'
+    type: 10gbase-x-sfpp
+  -
+    name: '26'
+    type: 10gbase-x-sfpp
+  -
+    name: '27'
+    type: 10gbase-x-sfpp
+  -
+    name: '28'
+    type: 10gbase-x-sfpp
+  -
+    name: '29'
+    type: 10gbase-x-sfpp
+  -
+    name: '30'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '25'

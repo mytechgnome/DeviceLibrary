@@ -69,6 +69,12 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
+  -
+    name: Port 9
+    type: 1000base-x-sfp
+  -
+    name: Port 10
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Port 9

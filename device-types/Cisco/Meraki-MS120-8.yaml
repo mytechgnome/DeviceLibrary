@@ -39,6 +39,12 @@ interfaces:
   -
     name: Port 8
     type: 1000base-t
+  -
+    name: Port 9
+    type: 1000base-x-sfp
+  -
+    name: Port 10
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Port 9

@@ -30,6 +30,12 @@ interfaces:
   -
     name: Adapter 4
     type: 1000base-t
+  -
+    name: Adapter 5
+    type: 10gbase-x-sfpp
+  -
+    name: Adapter 6
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Adapter 5

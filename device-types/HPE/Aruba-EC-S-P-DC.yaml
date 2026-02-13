@@ -58,6 +58,18 @@ interfaces:
     name: wan3
     type: 1000base-t
     label: wan3
+  -
+    name: tlan0
+    type: 10gbase-x-sfpp
+  -
+    name: twan0
+    type: 10gbase-x-sfpp
+  -
+    name: tlan1
+    type: 10gbase-x-sfpp
+  -
+    name: twan1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

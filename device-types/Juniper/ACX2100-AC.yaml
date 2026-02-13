@@ -102,6 +102,30 @@ interfaces:
     name: fxp0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: ge-1/1/0
+    type: 1000base-x-sfp
+  -
+    name: ge-1/1/1
+    type: 1000base-x-sfp
+  -
+    name: ge-1/1/2
+    type: 1000base-x-sfp
+  -
+    name: ge-1/1/3
+    type: 1000base-x-sfp
+  -
+    name: ge-1/2/0
+    type: 1000base-x-sfp
+  -
+    name: ge-1/2/1
+    type: 1000base-x-sfp
+  -
+    name: xe-1/3/0
+    type: 10gbase-x-sfpp
+  -
+    name: xe-1/3/1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: ge-1/1/0

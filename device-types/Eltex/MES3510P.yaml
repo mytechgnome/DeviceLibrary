@@ -51,6 +51,18 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: gigabitethernet1/0/9
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet1/0/10
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet1/0/11
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet1/0/12
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con0

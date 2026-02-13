@@ -168,6 +168,12 @@ interfaces:
     name: gigabitethernet 0/26
     type: 1000base-t
     label: LAN 26
+  -
+    name: gigabitethernet 0/27
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gigabitethernet 0/27

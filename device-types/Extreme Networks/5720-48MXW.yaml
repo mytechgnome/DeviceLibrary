@@ -277,3 +277,11 @@ interfaces:
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
+  -
+    name: U1
+    type: 40gbase-x-qsfpp
+    description: Can be used for stacking or as various speed normal interfaces
+  -
+    name: U2
+    type: 40gbase-x-qsfpp
+    description: Can be used for stacking or as various speed normal interfaces

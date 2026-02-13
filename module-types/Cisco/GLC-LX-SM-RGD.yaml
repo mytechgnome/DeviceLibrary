@@ -4,5 +4,6 @@ model: GLC-LX-SM-RGD
 part_number: GLC-LX-SM-RGD
 comments: "Cisco ruggedized 1000BASE-LX/LH SFP. Datasheet: https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/data_sheet_c78-455693.html"
 interfaces:
-  - name: "{module}"
+  -
+    name: "{module}"
     type: 1000base-lx

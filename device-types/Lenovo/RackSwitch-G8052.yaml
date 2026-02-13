@@ -208,6 +208,18 @@ interfaces:
     name: '48'
     type: 1000base-tx
     label: '48'
+  -
+    name: XGE1
+    type: 10gbase-x-sfpp
+  -
+    name: XGE2
+    type: 10gbase-x-sfpp
+  -
+    name: XGE3
+    type: 10gbase-x-sfpp
+  -
+    name: XGE4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: FAN1

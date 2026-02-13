@@ -12,6 +12,166 @@ interfaces:
     name: management
     type: 1000base-t
     mgmt_only: true
+  -
+    name: FC port 0
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 1
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 2
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 3
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 4
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 5
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 6
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 7
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 8
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 9
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 10
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 11
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 12
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 13
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 14
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 15
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 16
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 17
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 18
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 19
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 20
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 21
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 22
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 23
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 24
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 25
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 26
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 27
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 28
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 29
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 30
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 31
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 32
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 33
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 34
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 35
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 36
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 37
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 38
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 39
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 40
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 41
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 42
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 43
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 44
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 45
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 46
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 47
+    type: 10gbase-x-sfpp
+  -
+    name: FC port 48
+    type: 1000base-x-sfp
+    description: Only usable with SFP-DD optic in port 48
+  -
+    name: FC port 49
+    type: 1000base-x-sfp
+    description: Only usable with SFP-DD optic in port 49
+  -
+    name: FC port 50
+    type: 1000base-x-sfp
+    description: Only usable with SFP-DD optic in port 50
+  -
+    name: FC port 51
+    type: 1000base-x-sfp
+    description: Only usable with SFP-DD optic in port 51
 module-bays:
   -
     name: PSU0

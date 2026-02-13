@@ -175,6 +175,18 @@ interfaces:
   -
     name: Ethernet48
     type: 1000base-t
+  -
+    name: Ethernet49
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet50
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet51
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet52
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet49

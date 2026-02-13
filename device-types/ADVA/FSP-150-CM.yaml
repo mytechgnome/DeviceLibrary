@@ -18,6 +18,12 @@ interfaces:
     name: SER
     type: 1000base-t
     mgmt_only: true
+  -
+    name: DCN1
+    type: 10gbase-x-sfpp
+  -
+    name: DCN2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PSU1

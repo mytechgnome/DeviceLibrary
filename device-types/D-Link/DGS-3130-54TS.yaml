@@ -176,6 +176,18 @@ interfaces:
   -
     name: Ethernet1/0/50
     type: 10gbase-t
+  -
+    name: Ethernet1/0/51
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/52
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/53
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/54
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet1/0/51

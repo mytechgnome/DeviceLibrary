@@ -18,6 +18,9 @@ interfaces:
   -
     name: Adapter 2
     type: 1000base-t
+  -
+    name: Adapter 3
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Adapter 3

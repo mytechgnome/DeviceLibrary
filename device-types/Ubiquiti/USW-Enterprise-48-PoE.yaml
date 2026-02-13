@@ -256,6 +256,18 @@ interfaces:
     type: 2.5gbase-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: SFP+ 49
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 50
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 51
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 52
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: Input

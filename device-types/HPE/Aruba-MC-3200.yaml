@@ -4,7 +4,19 @@ model: Aruba MC 3200
 slug: hpe-aruba-mc-3200
 is_full_depth: false
 u_height: 1
-interfaces: []
+interfaces:
+  -
+    name: (BASE-X)gigabitethernet 0/0/0
+    type: 1000base-x-sfp
+  -
+    name: (BASE-X)gigabitethernet 0/0/1
+    type: 1000base-x-sfp
+  -
+    name: (BASE-X)gigabitethernet 0/0/2
+    type: 1000base-x-sfp
+  -
+    name: (BASE-X)gigabitethernet 0/0/3
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PEM0

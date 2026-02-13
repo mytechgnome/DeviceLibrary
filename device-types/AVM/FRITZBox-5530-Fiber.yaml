@@ -32,6 +32,9 @@ interfaces:
   -
     name: WiFi
     type: ieee802.11ax
+  -
+    name: Fiber
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Fiber

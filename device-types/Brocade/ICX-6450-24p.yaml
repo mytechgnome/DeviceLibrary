@@ -86,6 +86,18 @@ interfaces:
   -
     name: ethernet 1/1/24
     type: 1000base-t
+  -
+    name: ethernet 1/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/2/3
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/2/4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

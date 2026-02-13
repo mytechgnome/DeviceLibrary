@@ -70,6 +70,12 @@ interfaces:
     type: virtual
     enabled: true
     mgmt_only: false
+  -
+    name: TenGigabitEthernet1/0/13
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/14
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

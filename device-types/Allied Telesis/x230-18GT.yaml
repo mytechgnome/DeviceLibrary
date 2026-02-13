@@ -63,6 +63,12 @@ interfaces:
   -
     name: port1.0.16
     type: 1000base-t
+  -
+    name: port1.0.17
+    type: 1000base-x-sfp
+  -
+    name: port1.0.18
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1.0.17

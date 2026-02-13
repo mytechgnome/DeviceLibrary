@@ -261,6 +261,12 @@ interfaces:
   -
     name: '50'
     type: 10gbase-t
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '51'

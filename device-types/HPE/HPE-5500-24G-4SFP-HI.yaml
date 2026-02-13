@@ -126,3 +126,21 @@ interfaces:
   -
     name: GigabitEthernet1/0/24
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/28
+    type: 1000base-x-sfp
+  -
+    name: Ten-GigabitEthernet1/0/29
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/30
+    type: 10gbase-x-sfpp

@@ -60,6 +60,18 @@ interfaces:
   -
     name: GigabitEthernet16
     type: 1000base-t
+  -
+    name: TenGigabitEthernet1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet3
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet4
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU0

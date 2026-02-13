@@ -29,6 +29,42 @@ interfaces:
     name: GigabitEthernet0/0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: TwentyFiveGigE1/0/1
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/2
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/3
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/4
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/5
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/6
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/7
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/8
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/9
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/10
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/11
+    type: 25gbase-x-sfp28
+  -
+    name: TwentyFiveGigE1/0/12
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: Network Module

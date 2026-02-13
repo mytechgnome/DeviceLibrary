@@ -121,3 +121,15 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 1/1/25
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/26
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/27
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/28
+    type: 50gbase-x-sfp28

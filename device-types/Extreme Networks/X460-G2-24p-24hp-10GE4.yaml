@@ -305,6 +305,18 @@ interfaces:
     name: Mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '49'
+    type: 10gbase-x-sfpp
+  -
+    name: '50'
+    type: 10gbase-x-sfpp
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PSU-1

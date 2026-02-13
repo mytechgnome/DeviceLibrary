@@ -173,6 +173,12 @@ interfaces:
   -
     name: GigabitEthernet1/0/50
     type: 10gbase-t
+  -
+    name: GigabitEthernet1/0/51
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/0/52
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: GigabitEthernet1/0/51

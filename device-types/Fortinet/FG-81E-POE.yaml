@@ -83,6 +83,12 @@ interfaces:
   -
     name: ha
     type: 1000base-t
+  -
+    name: wan1
+    type: 1000base-x-sfp
+  -
+    name: wan2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: wan1

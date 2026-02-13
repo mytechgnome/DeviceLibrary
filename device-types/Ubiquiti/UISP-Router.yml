@@ -48,6 +48,9 @@ interfaces:
     name: eth7
     type: 1000base-t
     label: '8'
+  -
+    name: eth8
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth8

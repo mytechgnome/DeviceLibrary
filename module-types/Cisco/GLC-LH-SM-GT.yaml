@@ -4,5 +4,6 @@ model: GLC-LH-SM-GT
 part_number: GLC-LH-SM-GT
 comments: "GigaTech 1000BASE-LX/LH SFP, Cisco-compatible. Vendor page: https://www.gigatechproducts.com"
 interfaces:
-  - name: "{module}"
+  -
+    name: "{module}"
     type: 1000base-lx

@@ -62,6 +62,12 @@ interfaces:
     label: '8'
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: Ethernet 9
+    type: 1000base-x-sfp
+  -
+    name: Ethernet 10
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Ethernet 9

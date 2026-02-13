@@ -163,3 +163,15 @@ interfaces:
     type: 5gbase-t
     poe_mode: pse
     poe_type: type3-ieee802.3bt
+  -
+    name: Ethernet25
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet26
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet27
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet28
+    type: 25gbase-x-sfp28

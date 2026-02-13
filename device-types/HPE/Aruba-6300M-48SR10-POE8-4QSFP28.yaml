@@ -294,3 +294,15 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 1/1/49
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/50
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/51
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/52
+    type: 40gbase-x-qsfpp

@@ -172,3 +172,33 @@ interfaces:
   -
     name: Ten-GigabitEthernet1/0/32
     type: 10gbase-t
+  -
+    name: Ten-GigabitEthernet1/0/33
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/34
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/35
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/36
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/37
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/38
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/39
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/40
+    type: 10gbase-x-sfpp
+  -
+    name: FortyGigE1/0/41
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigE1/0/42
+    type: 40gbase-x-qsfpp

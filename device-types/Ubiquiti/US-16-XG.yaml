@@ -27,6 +27,42 @@ interfaces:
   -
     name: Port 16
     type: 10gbase-t
+  -
+    name: SFP+ 1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 2
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 3
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 4
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 5
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 6
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 7
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 8
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 9
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 10
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 11
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 12
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

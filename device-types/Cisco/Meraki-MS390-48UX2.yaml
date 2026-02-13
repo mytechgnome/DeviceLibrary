@@ -286,3 +286,21 @@ interfaces:
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   # 4 x 10 G SFP+
+  -
+    name: Port 49
+    type: 10gbase-x-sfpp
+  -
+    name: Port 50
+    type: 10gbase-x-sfpp
+  -
+    name: Port 51
+    type: 10gbase-x-sfpp
+  -
+    name: Port 52
+    type: 10gbase-x-sfpp
+  -
+    name: Dedicated Stack Port 1
+    type: 40gbase-x-qsfpp
+  -
+    name: Dedicated Stack Port 2
+    type: 40gbase-x-qsfpp

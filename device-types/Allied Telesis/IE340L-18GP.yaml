@@ -99,6 +99,12 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: port1.0.17
+    type: 1000base-x-sfp
+  -
+    name: port1.0.18
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1.0.17

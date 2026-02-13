@@ -29,6 +29,18 @@ interfaces:
   -
     name: ethernet 5
     type: 1000base-t
+  -
+    name: ethernet 6
+    type: 1000base-x-sfp
+  -
+    name: ethernet 7
+    type: 1000base-x-sfp
+  -
+    name: ethernet 8
+    type: 1000base-x-sfp
+  -
+    name: ethernet 9
+    type: 1000base-x-sfp
 module-bays:
   -
     name: ethernet 6

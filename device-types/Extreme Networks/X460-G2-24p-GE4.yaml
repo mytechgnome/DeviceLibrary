@@ -137,6 +137,30 @@ interfaces:
     name: Mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
+  -
+    name: '27'
+    type: 1000base-x-sfp
+  -
+    name: '28'
+    type: 1000base-x-sfp
+  -
+    name: '29'
+    type: 1000base-x-sfp
+  -
+    name: '30'
+    type: 1000base-x-sfp
+  -
+    name: '31'
+    type: 1000base-x-sfp
+  -
+    name: '32'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PSU-1

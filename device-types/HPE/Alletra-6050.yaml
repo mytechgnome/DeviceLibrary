@@ -38,6 +38,30 @@ interfaces:
     name: Controller-B eth0d
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Controller-A fc2a
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-A fc2b
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-A fc2c
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-A fc2d
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-B fc2a
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-B fc2b
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-B fc2c
+    type: 25gbase-x-sfp28
+  -
+    name: Controller-B fc2d
+    type: 25gbase-x-sfp28
 power-ports:
   -
     name: PSU1

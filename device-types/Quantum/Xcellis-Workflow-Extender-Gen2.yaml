@@ -60,3 +60,21 @@ interfaces:
     name: iLO
     type: 1000base-t
     mgmt_only: true
+  -
+    name: FC-1
+    type: 25gbase-x-sfp28
+  -
+    name: FC-2
+    type: 25gbase-x-sfp28
+  -
+    name: FC-3
+    type: 25gbase-x-sfp28
+  -
+    name: FC-4
+    type: 25gbase-x-sfp28
+  -
+    name: p1p1
+    type: 40gbase-x-qsfpp
+  -
+    name: p1p2
+    type: 40gbase-x-qsfpp

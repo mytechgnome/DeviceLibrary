@@ -260,6 +260,24 @@ interfaces:
     type: 10gbase-t
     poe_mode: pse
     poe_type: type3-ieee802.3bt
+  -
+    name: 25GE0/0/1
+    type: 25gbase-x-sfp28
+  -
+    name: 25GE0/0/2
+    type: 25gbase-x-sfp28
+  -
+    name: 25GE0/0/3
+    type: 25gbase-x-sfp28
+  -
+    name: 25GE0/0/4
+    type: 25gbase-x-sfp28
+  -
+    name: 40GE0/0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: 40GE0/0/2
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: FAN1

@@ -104,6 +104,12 @@ interfaces:
   -
     name: 28T
     type: 1000base-t
+  -
+    name: 27S
+    type: 1000base-x-sfp
+  -
+    name: 28S
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 27S

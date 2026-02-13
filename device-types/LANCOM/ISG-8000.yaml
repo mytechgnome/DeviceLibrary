@@ -39,6 +39,12 @@ interfaces:
   -
     name: ETH-8
     type: 1000base-t
+  -
+    name: ETH-9
+    type: 10gbase-x-sfpp
+  -
+    name: ETH-10
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: com

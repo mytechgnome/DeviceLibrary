@@ -26,6 +26,9 @@ interfaces:
   -
     name: USB2
     type: other
+  -
+    name: eth0
+    type: 1000base-x-sfp
 console-ports:
   -
     name: ttyS0

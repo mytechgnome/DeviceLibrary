@@ -23,6 +23,66 @@ interfaces:
     name: ether2
     type: 10gbase-t
     mgmt_only: true
+  -
+    name: qsfp28-1-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-2-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-3-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-4-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-5-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-6-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-7-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-8-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-9-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-10-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-11-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-12-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-13-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-14-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-15-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-16-1
+    type: 40gbase-x-qsfpp
+  -
+    name: sfp28-1
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-2
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-3
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-4
+    type: 25gbase-x-sfp28
 console-ports:
   -
     name: serial0

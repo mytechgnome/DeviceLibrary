@@ -24,6 +24,9 @@ interfaces:
     type: 1000base-t
     enabled: true
     mgmt_only: false
+  -
+    name: SFP+
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: SFP+

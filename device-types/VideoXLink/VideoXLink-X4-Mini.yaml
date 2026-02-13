@@ -47,6 +47,12 @@ interfaces:
     enabled: true
     mgmt_only: true
     label: MGMT
+  -
+    name: ETH2
+    type: 10gbase-x-sfpp
+  -
+    name: ETH3
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: ETH2

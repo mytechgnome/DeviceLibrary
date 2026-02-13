@@ -291,3 +291,21 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
+  -
+    name: Ethernet49
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet50
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet51
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet52
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet53
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet54
+    type: 25gbase-x-sfp28

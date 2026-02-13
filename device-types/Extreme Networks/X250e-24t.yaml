@@ -94,6 +94,12 @@ interfaces:
     name: Mgmt
     type: 100base-tx
     mgmt_only: true
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '25'

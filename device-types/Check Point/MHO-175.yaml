@@ -156,3 +156,99 @@ interfaces:
     name: '1'
     type: 1000base-t
     mgmt_only: true
+  -
+    name: qsfp1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp2
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp3
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp4
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp5
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp6
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp7
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp8
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp9
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp10
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp11
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp12
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp13
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp14
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp15
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp16
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp17
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp18
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp19
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp20
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp21
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp22
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp23
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp24
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp25
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp26
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp27
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp29
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp30
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp31
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp32
+    type: 40gbase-x-qsfpp

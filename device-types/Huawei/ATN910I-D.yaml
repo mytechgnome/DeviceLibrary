@@ -16,6 +16,18 @@ interfaces:
   -
     name: FE/GE1
     type: 1000base-t
+  -
+    name: FE/GE2
+    type: 1000base-x-sfp
+  -
+    name: FE/GE3
+    type: 1000base-x-sfp
+  -
+    name: FE/GE4
+    type: 1000base-x-sfp
+  -
+    name: FE/GE5
+    type: 1000base-x-sfp
 module-bays:
   -
     name: FE/GE2

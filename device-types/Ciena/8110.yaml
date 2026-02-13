@@ -33,6 +33,84 @@ interfaces:
     name: MGMT
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '1'
+    type: 25gbase-x-sfp28
+  -
+    name: '2'
+    type: 25gbase-x-sfp28
+  -
+    name: '3'
+    type: 25gbase-x-sfp28
+  -
+    name: '4'
+    type: 25gbase-x-sfp28
+  -
+    name: '5'
+    type: 40gbase-x-qsfpp
+  -
+    name: '6'
+    type: 40gbase-x-qsfpp
+  -
+    name: '7'
+    type: 40gbase-x-qsfpp
+  -
+    name: '8'
+    type: 40gbase-x-qsfpp
+  -
+    name: '9'
+    type: 40gbase-x-qsfpp
+  -
+    name: '10'
+    type: 40gbase-x-qsfpp
+  -
+    name: '11'
+    type: 40gbase-x-qsfpp
+  -
+    name: '12'
+    type: 40gbase-x-qsfpp
+  -
+    name: '13'
+    type: 40gbase-x-qsfpp
+  -
+    name: '14'
+    type: 40gbase-x-qsfpp
+  -
+    name: '15'
+    type: 40gbase-x-qsfpp
+  -
+    name: '16'
+    type: 40gbase-x-qsfpp
+  -
+    name: '17'
+    type: 40gbase-x-qsfpp
+  -
+    name: '18'
+    type: 40gbase-x-qsfpp
+  -
+    name: '19'
+    type: 40gbase-x-qsfpp
+  -
+    name: '20'
+    type: 40gbase-x-qsfpp
+  -
+    name: '21'
+    type: 40gbase-x-qsfpp
+  -
+    name: '22'
+    type: 40gbase-x-qsfpp
+  -
+    name: '23'
+    type: 40gbase-x-qsfpp
+  -
+    name: '24'
+    type: 40gbase-x-qsfpp
+  -
+    name: '25'
+    type: 40gbase-x-qsfpp
+  -
+    name: '26'
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PS A

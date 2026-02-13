@@ -87,6 +87,14 @@ interfaces:
     name: fxp0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: xe-0/0/12
+    type: 10gbase-x-sfpp
+    description: uplink port
+  -
+    name: xe-0/0/13
+    type: 10gbase-x-sfpp
+    description: uplink port
 module-bays:
   -
     name: xe-0/0/12

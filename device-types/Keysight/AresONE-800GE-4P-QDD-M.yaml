@@ -48,3 +48,15 @@ interfaces:
     name: MGMT
     type: 10gbase-t
     mgmt_only: true
+  -
+    name: '1'
+    type: 400gbase-x-qsfpdd
+  -
+    name: '2'
+    type: 400gbase-x-qsfpdd
+  -
+    name: '3'
+    type: 400gbase-x-qsfpdd
+  -
+    name: '4'
+    type: 400gbase-x-qsfpdd

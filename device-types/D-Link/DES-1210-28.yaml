@@ -100,6 +100,12 @@ interfaces:
   -
     name: slot0/28
     type: 1000base-t
+  -
+    name: slot0/27F
+    type: 1000base-x-sfp
+  -
+    name: slot0/28F
+    type: 1000base-x-sfp
 module-bays:
   -
     name: slot0/27F

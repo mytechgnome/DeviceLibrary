@@ -102,6 +102,12 @@ interfaces:
   -
     name: port1.0.28
     type: 1000base-t
+  -
+    name: port1.0.29
+    type: 1000base-x-sfp
+  -
+    name: port1.0.30
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1.0.29

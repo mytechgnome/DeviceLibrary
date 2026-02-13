@@ -45,6 +45,12 @@ interfaces:
     enabled: true
     mgmt_only: true
     label: MGMT
+  -
+    name: ETH2
+    type: 25gbase-x-sfp28
+  -
+    name: ETH3
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: ETH2

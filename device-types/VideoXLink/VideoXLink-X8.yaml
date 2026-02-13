@@ -69,6 +69,18 @@ interfaces:
     enabled: true
     mgmt_only: true
     label: MGMT
+  -
+    name: ETH6
+    type: 10gbase-x-sfpp
+  -
+    name: ETH7
+    type: 10gbase-x-sfpp
+  -
+    name: ETH8
+    type: 25gbase-x-sfp28
+  -
+    name: ETH9
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: ETH6

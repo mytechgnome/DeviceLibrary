@@ -31,6 +31,9 @@ interfaces:
   -
     name: wan/lan6
     type: 1000base-t
+  -
+    name: wan/lan7
+    type: 1000base-x-sfp
 module-bays:
   -
     name: wan/lan7

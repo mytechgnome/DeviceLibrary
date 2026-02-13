@@ -165,6 +165,24 @@ interfaces:
   -
     name: Ethernet1/48
     type: 10gbase-t
+  -
+    name: Ethernet1/49
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet1/50
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet1/51
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet1/52
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet1/53
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet1/54
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PS1

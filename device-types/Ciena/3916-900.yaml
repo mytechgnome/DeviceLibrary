@@ -22,6 +22,24 @@ interfaces:
     name: MGMT
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '1'
+    type: 1000base-x-sfp
+  -
+    name: '2'
+    type: 1000base-x-sfp
+  -
+    name: '3'
+    type: 1000base-x-sfp
+  -
+    name: '4'
+    type: 1000base-x-sfp
+  -
+    name: '5'
+    type: 1000base-x-sfp
+  -
+    name: '6'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '1'

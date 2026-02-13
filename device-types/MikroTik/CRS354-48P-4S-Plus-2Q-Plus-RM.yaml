@@ -155,6 +155,24 @@ interfaces:
     type: 100base-tx
     label: MGMT
     mgmt_only: true
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus3
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus4
+    type: 10gbase-x-sfpp
+  -
+    name: qsfpplus1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfpplus2
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: serial0

@@ -30,6 +30,12 @@ interfaces:
   -
     name: igb7
     type: 1000base-t
+  -
+    name: ixl0
+    type: 10gbase-x-sfpp
+  -
+    name: ixl1
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

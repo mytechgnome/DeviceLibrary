@@ -72,6 +72,12 @@ interfaces:
   -
     name: gigabitethernet 0/0/15
     type: 1000base-t
+  -
+    name: gigabitethernet 0/0/16
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/0/17
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gigabitethernet 0/0/16

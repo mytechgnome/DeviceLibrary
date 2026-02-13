@@ -39,6 +39,9 @@ interfaces:
   -
     name: Zigbee
     type: other-wireless
+  -
+    name: E1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: E1

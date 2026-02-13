@@ -66,3 +66,27 @@ interfaces:
     name: igc0
     type: 2.5gbase-t
     label: P7
+  -
+    name: ice0
+    type: 10gbase-x-sfpp
+  -
+    name: ice1
+    type: 10gbase-x-sfpp
+  -
+    name: ice2
+    type: 10gbase-x-sfpp
+  -
+    name: ice3
+    type: 10gbase-x-sfpp
+  -
+    name: ice4
+    type: 1000base-x-sfp
+  -
+    name: ice5
+    type: 1000base-x-sfp
+  -
+    name: ice6
+    type: 1000base-x-sfp
+  -
+    name: ice7
+    type: 1000base-x-sfp

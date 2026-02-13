@@ -47,6 +47,14 @@ interfaces:
   -
     name: Gi1/10
     type: 1000base-t
+  -
+    name: Te1/1
+    type: 10gbase-x-sfpp
+    description: 10G SFP+ uplink
+  -
+    name: Te1/2
+    type: 10gbase-x-sfpp
+    description: 10G SFP+ uplink
 module-bays:
   -
     name: Te1/1

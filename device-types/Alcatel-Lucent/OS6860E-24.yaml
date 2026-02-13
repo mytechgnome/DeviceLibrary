@@ -111,6 +111,24 @@ interfaces:
   -
     name: Loopback0
     type: virtual
+  -
+    name: 1/1/25
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/26
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/27
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/28
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/29
+    type: 40gbase-x-qsfpp
+  -
+    name: 1/1/30
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: 1/1/25

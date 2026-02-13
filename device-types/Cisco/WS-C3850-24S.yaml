@@ -79,6 +79,9 @@ interfaces:
   -
     name: GigabitEthernet1/0/23
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/24
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Network Module

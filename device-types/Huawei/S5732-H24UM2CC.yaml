@@ -95,6 +95,24 @@ interfaces:
   -
     name: XGigabitEthernet0/0/24
     type: 10gbase-t
+  -
+    name: XGigabitEthernet0/0/25
+    type: 25gbase-x-sfp28
+  -
+    name: XGigabitEthernet0/0/26
+    type: 25gbase-x-sfp28
+  -
+    name: XGigabitEthernet0/0/27
+    type: 25gbase-x-sfp28
+  -
+    name: XGigabitEthernet0/0/28
+    type: 25gbase-x-sfp28
+  -
+    name: 100GE0/0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: 100GE0/0/2
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: XGigabitEthernet0/0/25

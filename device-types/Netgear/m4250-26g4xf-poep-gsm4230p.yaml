@@ -148,6 +148,18 @@ interfaces:
   -
     name: 0/26
     type: 1000base-t
+  -
+    name: 0/27
+    type: 10gbase-x-sfpp
+  -
+    name: 0/28
+    type: 10gbase-x-sfpp
+  -
+    name: 0/29
+    type: 10gbase-x-sfpp
+  -
+    name: 0/30
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: 0/27

@@ -33,6 +33,9 @@ interfaces:
   -
     name: LTE
     type: lte
+  -
+    name: SFP
+    type: 1000base-x-sfp
 console-ports:
   -
     name: usb

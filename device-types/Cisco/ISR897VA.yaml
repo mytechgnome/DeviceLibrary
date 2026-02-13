@@ -39,6 +39,9 @@ interfaces:
   -
     name: GigabitEthernet0/8
     type: 1000base-t
+  -
+    name: GigabitEthernet1/8
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con 0

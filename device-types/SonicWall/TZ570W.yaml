@@ -46,6 +46,12 @@ interfaces:
   -
     name: W0
     type: ieee802.11ac
+  -
+    name: X8
+    type: 1000base-x-sfp
+  -
+    name: X9
+    type: 1000base-x-sfp
 module-bays:
   -
     name: X8

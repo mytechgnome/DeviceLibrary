@@ -140,6 +140,18 @@ interfaces:
   -
     name: GigabitEthernet0/44
     type: 1000base-t
+  -
+    name: GigabitEthernet0/45
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/46
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/47
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/48
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con0

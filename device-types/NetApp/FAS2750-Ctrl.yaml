@@ -29,6 +29,24 @@ interfaces:
     name: 0b
     type: other
     label: sas1
+  -
+    name: e0a
+    type: 10gbase-x-sfpp
+  -
+    name: e0b
+    type: 10gbase-x-sfpp
+  -
+    name: e0c
+    type: 10gbase-x-sfpp
+  -
+    name: e0d
+    type: 10gbase-x-sfpp
+  -
+    name: e0e
+    type: 10gbase-x-sfpp
+  -
+    name: e0f
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: e0a

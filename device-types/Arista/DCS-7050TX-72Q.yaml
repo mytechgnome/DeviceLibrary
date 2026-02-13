@@ -155,6 +155,24 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet49/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet50/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet51/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet52/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet53/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet54/1
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console

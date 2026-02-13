@@ -31,6 +31,24 @@ interfaces:
   -
     name: LAN4
     type: 1000base-t
+  -
+    name: WAN1S
+    type: 1000base-x-sfp
+  -
+    name: WAN2S
+    type: 1000base-x-sfp
+  -
+    name: LAN1S
+    type: 1000base-x-sfp
+  -
+    name: LAN2S
+    type: 1000base-x-sfp
+  -
+    name: LAN3S
+    type: 1000base-x-sfp
+  -
+    name: LAN4S
+    type: 1000base-x-sfp
 module-bays:
   -
     name: WAN1S

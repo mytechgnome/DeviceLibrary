@@ -88,6 +88,54 @@ interfaces:
     name: Management 2
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Interface 1
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 2
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 3
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 4
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 5
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 6
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 7
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 8
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 9
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 10
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 11
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 12
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 13
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 14
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 15
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 16
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

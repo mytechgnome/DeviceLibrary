@@ -17,6 +17,12 @@ interfaces:
   -
     name: ethernet-2/2
     type: 2.5gbase-t
+  -
+    name: sfpp-1/1
+    type: 10gbase-x-sfpp
+  -
+    name: sfpp-1/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PCIe Slot
