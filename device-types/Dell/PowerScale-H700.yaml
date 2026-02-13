@@ -15,6 +15,18 @@ interfaces:
     name: Management
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Gig-E 1
+    type: 25gbase-x-sfp28
+  -
+    name: Gig-E 2
+    type: 25gbase-x-sfp28
+  -
+    name: Gig-E 3
+    type: 40gbase-x-qsfpp
+  -
+    name: Gig-E 4
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU 1

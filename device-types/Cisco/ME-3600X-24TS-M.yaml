@@ -101,3 +101,9 @@ interfaces:
   -
     name: GigabitEthernet0/24
     type: 1000base-t
+  -
+    name: TenGigabitEthernet0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/2
+    type: 10gbase-x-sfpp

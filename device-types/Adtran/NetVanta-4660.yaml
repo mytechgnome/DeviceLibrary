@@ -21,6 +21,21 @@ interfaces:
   -
     name: T4
     type: other
+  -
+    name: GIG 0/1
+    type: 1000base-x-sfp
+  -
+    name: GIG 0/2
+    type: 1000base-x-sfp
+  -
+    name: GIG 0/3
+    type: 1000base-x-sfp
+  -
+    name: GIG 0/4
+    type: 1000base-x-sfp
+  -
+    name: GIG 0/5
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Slot 1

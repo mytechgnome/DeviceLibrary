@@ -27,6 +27,12 @@ interfaces:
   -
     name: LAN-igb3
     type: 1000base-t
+  -
+    name: LAN-ice0
+    type: 25gbase-x-sfp28
+  -
+    name: LAN-ice1
+    type: 25gbase-x-sfp28
 power-ports:
   -
     name: PS1

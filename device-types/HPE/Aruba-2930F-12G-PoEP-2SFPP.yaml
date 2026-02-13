@@ -90,6 +90,12 @@ interfaces:
   -
     name: '14'
     type: 1000base-t
+  -
+    name: '15'
+    type: 10gbase-x-sfpp
+  -
+    name: '16'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '15'

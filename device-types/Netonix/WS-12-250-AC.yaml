@@ -50,6 +50,12 @@ interfaces:
   -
     name: '12'
     type: 1000base-t
+  -
+    name: '13'
+    type: 1000base-x-sfp
+  -
+    name: '14'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '13'

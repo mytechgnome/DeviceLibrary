@@ -72,6 +72,12 @@ interfaces:
   -
     name: port1.0.18
     type: 10gbase-t
+  -
+    name: port1.0.19
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.20
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port1.0.19

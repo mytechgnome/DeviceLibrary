@@ -27,6 +27,36 @@ interfaces:
   -
     name: Failover
     type: 1000base-t
+  -
+    name: '1.0'
+    type: 40gbase-x-qsfpp
+  -
+    name: '2.0'
+    type: 40gbase-x-qsfpp
+  -
+    name: '3.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '4.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '5.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '6.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '7.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '8.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '9.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '10.0'
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: psu1

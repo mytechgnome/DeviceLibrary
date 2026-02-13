@@ -77,6 +77,14 @@ interfaces:
   -
     name: GigabitEthernet1/18
     type: 1000base-t
+  -
+    name: GigabitEthernet1/1
+    type: 1000base-x-sfp
+    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
+  -
+    name: GigabitEthernet1/2
+    type: 1000base-x-sfp
+    description: Combo Port (Change type to 1000base-t if using RJ45 interface)
 module-bays:
   -
     name: GigabitEthernet1/1

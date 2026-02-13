@@ -170,6 +170,12 @@ interfaces:
   -
     name: GigabitEthernet50
     type: 1000base-t
+  -
+    name: GigabitEthernet51
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet52
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet51

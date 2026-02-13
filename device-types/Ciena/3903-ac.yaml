@@ -21,7 +21,16 @@ power-ports:
     name: PSB
     type: iec-60320-c14
     maximum_draw: 96
-interfaces: []
+interfaces:
+  -
+    name: '1'
+    type: 1000base-x-sfp
+  -
+    name: '2'
+    type: 1000base-x-sfp
+  -
+    name: '3'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '1'

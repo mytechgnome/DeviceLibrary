@@ -250,6 +250,12 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: FortyGigabitEthernet1/1/1
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/1/2
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: con0

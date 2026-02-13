@@ -36,6 +36,9 @@ interfaces:
   -
     name: Bluetooth
     type: ieee802.15.1
+  -
+    name: E1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: E1

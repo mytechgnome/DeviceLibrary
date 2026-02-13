@@ -104,3 +104,9 @@ interfaces:
   -
     name: GigabitEthernet0/24
     type: 100base-tx
+  -
+    name: GigabitEthernet0/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/26
+    type: 1000base-x-sfp

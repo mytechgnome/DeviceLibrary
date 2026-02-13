@@ -40,6 +40,21 @@ interfaces:
     name: mgmt-1/1/1
     mgmt_only: true
     type: 100base-tx
+  -
+    name: gigabit-ethernet-1/1/4
+    type: 1000base-x-sfp
+  -
+    name: gigabit-ethernet-1/1/5
+    type: 1000base-x-sfp
+  -
+    name: gigabit-ethernet-1/1/6
+    type: 1000base-x-sfp
+  -
+    name: gigabit-ethernet-1/1/7
+    type: 1000base-x-sfp
+  -
+    name: gigabit-ethernet-1/1/8
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gigabit-ethernet-1/1/4

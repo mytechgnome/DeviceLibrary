@@ -48,6 +48,36 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: gpon1/1
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/2
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/3
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/4
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/5
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/6
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/7
+    type: 10gbase-x-sfpp
+  -
+    name: gpon1/8
+    type: 10gbase-x-sfpp
+  -
+    name: 10giga-ethernet0/0
+    type: 10gbase-x-sfpp
+  -
+    name: 10giga-ethernet0/1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: gpon1/1

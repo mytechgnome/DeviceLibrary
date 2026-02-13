@@ -77,6 +77,9 @@ interfaces:
   -
     name: ether24
     type: 1000base-t
+  -
+    name: sfp1
+    type: 1000base-x-sfp
 console-ports:
   -
     name: serial0

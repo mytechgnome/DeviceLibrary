@@ -85,3 +85,12 @@ interfaces:
   -
     name: X15
     type: 1000base-t
+  -
+    name: X16
+    type: 10gbase-x-sfpp
+  -
+    name: X17
+    type: 10gbase-x-sfpp
+  -
+    name: X18
+    type: 10gbase-x-sfpp

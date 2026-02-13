@@ -49,6 +49,12 @@ interfaces:
   -
     name: GigabitEthernet0/0/10
     type: 1000base-t
+  -
+    name: XGigabitEthernet0/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: XGigabitEthernet0/0/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: XGigabitEthernet0/0/1

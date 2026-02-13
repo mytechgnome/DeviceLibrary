@@ -45,3 +45,15 @@ interfaces:
   -
     name: '1'
     type: 1000base-t
+  -
+    name: '2'
+    type: 10gbase-x-sfpp
+  -
+    name: '3'
+    type: 10gbase-x-sfpp
+  -
+    name: '4'
+    type: 10gbase-x-sfpp
+  -
+    name: '5'
+    type: 10gbase-x-sfpp

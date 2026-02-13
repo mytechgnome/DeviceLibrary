@@ -133,3 +133,15 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
+  -
+    name: xe-0/0/16
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/17
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/18
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/0/19
+    type: 10gbase-x-sfpp

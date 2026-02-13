@@ -80,6 +80,9 @@ interfaces:
   -
     name: usb1-0
     type: other
+  -
+    name: sfp1
+    type: 1000base-x-sfp
 console-ports:
   -
     name: serial0

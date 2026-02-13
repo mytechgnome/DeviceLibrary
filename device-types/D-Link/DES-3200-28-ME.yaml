@@ -97,6 +97,18 @@ interfaces:
   -
     name: 26C
     type: 1000base-t
+  -
+    name: 25F
+    type: 1000base-x-sfp
+  -
+    name: 26F
+    type: 1000base-x-sfp
+  -
+    name: '27'
+    type: 1000base-x-sfp
+  -
+    name: '28'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: 25F

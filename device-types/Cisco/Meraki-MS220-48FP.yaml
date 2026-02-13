@@ -257,6 +257,18 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: Port 49
+    type: 1000base-x-sfp
+  -
+    name: Port 50
+    type: 1000base-x-sfp
+  -
+    name: Port 51
+    type: 1000base-x-sfp
+  -
+    name: Port 52
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Port 49

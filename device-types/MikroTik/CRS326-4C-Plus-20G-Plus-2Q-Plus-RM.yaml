@@ -83,6 +83,24 @@ interfaces:
     name: ether21
     type: 100base-t1
     mgmt_only: true
+  -
+    name: combo1
+    type: 10gbase-x-sfpp
+  -
+    name: combo2
+    type: 10gbase-x-sfpp
+  -
+    name: combo3
+    type: 10gbase-x-sfpp
+  -
+    name: combo4
+    type: 10gbase-x-sfpp
+  -
+    name: qsfp-qsfpplus1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp-qsfpplus2
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: serial0

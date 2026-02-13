@@ -163,6 +163,12 @@ interfaces:
     label: '24'
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: TenGigabitEthernet 0/25
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet 0/26
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Expansion Module 1

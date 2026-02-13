@@ -165,6 +165,12 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Te1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: Te1/0/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Te1/0/1

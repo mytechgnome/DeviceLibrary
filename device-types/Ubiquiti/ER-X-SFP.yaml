@@ -29,6 +29,9 @@ interfaces:
   -
     name: eth4
     type: 1000base-t
+  -
+    name: eth5
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth5

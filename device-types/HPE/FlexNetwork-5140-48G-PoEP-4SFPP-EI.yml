@@ -259,6 +259,18 @@ interfaces:
     type: 1000base-t
     poe_type: type2-ieee802.3at
     poe_mode: pse
+  -
+    name: Ten-GigabitEthernet1/0/49
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/50
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/51
+    type: 10gbase-x-sfpp
+  -
+    name: Ten-GigabitEthernet1/0/52
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ten-GigabitEthernet1/0/49

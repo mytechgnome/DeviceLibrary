@@ -78,6 +78,18 @@ interfaces:
   -
     name: port1.0.20
     type: 1000base-t
+  -
+    name: port1.0.21
+    type: 1000base-x-sfp
+  -
+    name: port1.0.22
+    type: 1000base-x-sfp
+  -
+    name: port1.0.23
+    type: 1000base-x-sfp
+  -
+    name: port1.0.24
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1.0.21

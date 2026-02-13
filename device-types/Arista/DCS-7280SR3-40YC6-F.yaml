@@ -211,3 +211,141 @@ interfaces:
     name: Management1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet1
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet2
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet3
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet4
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet5
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet6
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet7
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet8
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet9
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet10
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet11
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet12
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet13
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet14
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet15
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet16
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet17
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet18
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet19
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet20
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet21
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet22
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet23
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet24
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet25
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet26
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet27
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet28
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet29
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet30
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet31
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet32
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet33
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet34
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet35
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet36
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet37
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet38
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet39
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet40
+    type: 25gbase-x-sfp28
+  -
+    name: Ethernet41/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet42/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet43/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet44/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet45/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet46/1
+    type: 40gbase-x-qsfpp

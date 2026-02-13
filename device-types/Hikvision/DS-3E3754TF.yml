@@ -90,6 +90,96 @@ interfaces:
   -
     name: '24'
     type: 1000base-t
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
+  -
+    name: '27'
+    type: 1000base-x-sfp
+  -
+    name: '28'
+    type: 1000base-x-sfp
+  -
+    name: '29'
+    type: 1000base-x-sfp
+  -
+    name: '30'
+    type: 1000base-x-sfp
+  -
+    name: '31'
+    type: 1000base-x-sfp
+  -
+    name: '32'
+    type: 1000base-x-sfp
+  -
+    name: '33'
+    type: 1000base-x-sfp
+  -
+    name: '34'
+    type: 1000base-x-sfp
+  -
+    name: '35'
+    type: 1000base-x-sfp
+  -
+    name: '36'
+    type: 1000base-x-sfp
+  -
+    name: '37'
+    type: 1000base-x-sfp
+  -
+    name: '38'
+    type: 1000base-x-sfp
+  -
+    name: '39'
+    type: 1000base-x-sfp
+  -
+    name: '40'
+    type: 1000base-x-sfp
+  -
+    name: '41'
+    type: 1000base-x-sfp
+  -
+    name: '42'
+    type: 1000base-x-sfp
+  -
+    name: '43'
+    type: 1000base-x-sfp
+  -
+    name: '44'
+    type: 1000base-x-sfp
+  -
+    name: '45'
+    type: 1000base-x-sfp
+  -
+    name: '46'
+    type: 1000base-x-sfp
+  -
+    name: '47'
+    type: 1000base-x-sfp
+  -
+    name: '48'
+    type: 1000base-x-sfp
+  -
+    name: '49'
+    type: 10gbase-x-sfpp
+  -
+    name: '50'
+    type: 10gbase-x-sfpp
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
+  -
+    name: '53'
+    type: 10gbase-x-sfpp
+  -
+    name: '54'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '25'

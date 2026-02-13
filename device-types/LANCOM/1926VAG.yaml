@@ -53,6 +53,9 @@ interfaces:
   -
     name: ISDN 2 (NT)
     type: 1000base-t
+  -
+    name: WAN 1 (SFP)
+    type: 1000base-x-sfp
 console-ports:
   -
     name: COM

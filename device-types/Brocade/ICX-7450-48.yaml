@@ -157,6 +157,42 @@ interfaces:
   -
     name: GigabitEthernet1/48
     type: 1000base-t
+  -
+    name: 10GigabitEthernet2/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet2/2
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet2/3
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet2/4
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet3/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet3/2
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet3/3
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet3/4
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet4/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet4/2
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet4/3
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet4/4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

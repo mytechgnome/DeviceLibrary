@@ -25,6 +25,15 @@ interfaces:
     name: Management1
     type: 100base-tx
     mgmt_only: true
+  -
+    name: Management2
+    type: 1000base-x-sfp
+  -
+    name: SFP1
+    type: 1000base-x-sfp
+  -
+    name: SFP2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PWR1

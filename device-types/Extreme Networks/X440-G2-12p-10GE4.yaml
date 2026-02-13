@@ -88,6 +88,20 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '13'
+    type: 10gbase-x-sfpp
+  -
+    name: '14'
+    type: 10gbase-x-sfpp
+  -
+    name: '15'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
+  -
+    name: '16'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
 module-bays:
   -
     name: '13'

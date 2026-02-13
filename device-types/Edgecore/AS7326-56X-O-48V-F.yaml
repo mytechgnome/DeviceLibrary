@@ -277,3 +277,177 @@ interfaces:
     name: eth0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: xe57
+    type: 10gbase-x-sfpp
+  -
+    name: xe58
+    type: 10gbase-x-sfpp
+  -
+    name: xe1
+    type: 25gbase-x-sfp28
+  -
+    name: xe2
+    type: 25gbase-x-sfp28
+  -
+    name: xe3
+    type: 25gbase-x-sfp28
+  -
+    name: xe4
+    type: 25gbase-x-sfp28
+  -
+    name: xe5
+    type: 25gbase-x-sfp28
+  -
+    name: xe6
+    type: 25gbase-x-sfp28
+  -
+    name: xe7
+    type: 25gbase-x-sfp28
+  -
+    name: xe8
+    type: 25gbase-x-sfp28
+  -
+    name: xe9
+    type: 25gbase-x-sfp28
+  -
+    name: xe10
+    type: 25gbase-x-sfp28
+  -
+    name: xe11
+    type: 25gbase-x-sfp28
+  -
+    name: xe12
+    type: 25gbase-x-sfp28
+  -
+    name: xe13
+    type: 25gbase-x-sfp28
+  -
+    name: xe14
+    type: 25gbase-x-sfp28
+  -
+    name: xe15
+    type: 25gbase-x-sfp28
+  -
+    name: xe16
+    type: 25gbase-x-sfp28
+  -
+    name: xe17
+    type: 25gbase-x-sfp28
+  -
+    name: xe18
+    type: 25gbase-x-sfp28
+  -
+    name: xe19
+    type: 25gbase-x-sfp28
+  -
+    name: xe20
+    type: 25gbase-x-sfp28
+  -
+    name: xe21
+    type: 25gbase-x-sfp28
+  -
+    name: xe22
+    type: 25gbase-x-sfp28
+  -
+    name: xe23
+    type: 25gbase-x-sfp28
+  -
+    name: xe24
+    type: 25gbase-x-sfp28
+  -
+    name: xe25
+    type: 25gbase-x-sfp28
+  -
+    name: xe26
+    type: 25gbase-x-sfp28
+  -
+    name: xe27
+    type: 25gbase-x-sfp28
+  -
+    name: xe28
+    type: 25gbase-x-sfp28
+  -
+    name: xe29
+    type: 25gbase-x-sfp28
+  -
+    name: xe30
+    type: 25gbase-x-sfp28
+  -
+    name: xe31
+    type: 25gbase-x-sfp28
+  -
+    name: xe32
+    type: 25gbase-x-sfp28
+  -
+    name: xe33
+    type: 25gbase-x-sfp28
+  -
+    name: xe34
+    type: 25gbase-x-sfp28
+  -
+    name: xe35
+    type: 25gbase-x-sfp28
+  -
+    name: xe36
+    type: 25gbase-x-sfp28
+  -
+    name: xe37
+    type: 25gbase-x-sfp28
+  -
+    name: xe38
+    type: 25gbase-x-sfp28
+  -
+    name: xe39
+    type: 25gbase-x-sfp28
+  -
+    name: xe40
+    type: 25gbase-x-sfp28
+  -
+    name: xe41
+    type: 25gbase-x-sfp28
+  -
+    name: xe42
+    type: 25gbase-x-sfp28
+  -
+    name: xe43
+    type: 25gbase-x-sfp28
+  -
+    name: xe44
+    type: 25gbase-x-sfp28
+  -
+    name: xe45
+    type: 25gbase-x-sfp28
+  -
+    name: xe46
+    type: 25gbase-x-sfp28
+  -
+    name: xe47
+    type: 25gbase-x-sfp28
+  -
+    name: xe48
+    type: 25gbase-x-sfp28
+  -
+    name: ce49
+    type: 40gbase-x-qsfpp
+  -
+    name: ce50
+    type: 40gbase-x-qsfpp
+  -
+    name: ce51
+    type: 40gbase-x-qsfpp
+  -
+    name: ce52
+    type: 40gbase-x-qsfpp
+  -
+    name: ce53
+    type: 40gbase-x-qsfpp
+  -
+    name: ce54
+    type: 40gbase-x-qsfpp
+  -
+    name: ce55
+    type: 40gbase-x-qsfpp
+  -
+    name: ce56
+    type: 40gbase-x-qsfpp

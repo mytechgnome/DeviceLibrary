@@ -182,3 +182,117 @@ interfaces:
   -
     name: Management2
     type: 1000base-t
+  -
+    name: Host1
+    type: 1000base-x-sfp
+  -
+    name: Host2
+    type: 1000base-x-sfp
+  -
+    name: Host3
+    type: 1000base-x-sfp
+  -
+    name: Host4
+    type: 1000base-x-sfp
+  -
+    name: Host5
+    type: 1000base-x-sfp
+  -
+    name: Host6
+    type: 1000base-x-sfp
+  -
+    name: Host7
+    type: 1000base-x-sfp
+  -
+    name: Host8
+    type: 1000base-x-sfp
+  -
+    name: Host9
+    type: 1000base-x-sfp
+  -
+    name: Host10
+    type: 1000base-x-sfp
+  -
+    name: Host11
+    type: 1000base-x-sfp
+  -
+    name: Host12
+    type: 1000base-x-sfp
+  -
+    name: Host13
+    type: 1000base-x-sfp
+  -
+    name: Host14
+    type: 1000base-x-sfp
+  -
+    name: Host15
+    type: 1000base-x-sfp
+  -
+    name: Host16
+    type: 1000base-x-sfp
+  -
+    name: Host17
+    type: 1000base-x-sfp
+  -
+    name: Host18
+    type: 1000base-x-sfp
+  -
+    name: Fabric1
+    type: 1000base-x-sfp
+  -
+    name: Fabric2
+    type: 1000base-x-sfp
+  -
+    name: Fabric3
+    type: 1000base-x-sfp
+  -
+    name: Fabric4
+    type: 1000base-x-sfp
+  -
+    name: Fabric5
+    type: 1000base-x-sfp
+  -
+    name: Fabric6
+    type: 1000base-x-sfp
+  -
+    name: Fabric7
+    type: 1000base-x-sfp
+  -
+    name: Fabric8
+    type: 1000base-x-sfp
+  -
+    name: Fabric9
+    type: 1000base-x-sfp
+  -
+    name: Fabric10
+    type: 1000base-x-sfp
+  -
+    name: Fabric11
+    type: 1000base-x-sfp
+  -
+    name: Fabric12
+    type: 1000base-x-sfp
+  -
+    name: Fabric13
+    type: 1000base-x-sfp
+  -
+    name: Fabric14
+    type: 1000base-x-sfp
+  -
+    name: Fabric15
+    type: 1000base-x-sfp
+  -
+    name: Fabric16
+    type: 1000base-x-sfp
+  -
+    name: Fabric17
+    type: 1000base-x-sfp
+  -
+    name: Fabric18
+    type: 1000base-x-sfp
+  -
+    name: Fabric19
+    type: 1000base-x-sfp
+  -
+    name: Fabric20
+    type: 1000base-x-sfp

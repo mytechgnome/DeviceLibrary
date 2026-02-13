@@ -82,3 +82,19 @@ interfaces:
   -
     name: '12'
     type: 10gbase-t
+  -
+    name: '13'
+    type: 10gbase-x-sfpp
+    description: Combo Port (either SFP+ or 10GBASE-T)
+  -
+    name: '14'
+    type: 10gbase-x-sfpp
+    description: Combo Port (either SFP+ or 10GBASE-T)
+  -
+    name: '15'
+    type: 10gbase-x-sfpp
+    description: Combo Port (either SFP+ or 10GBASE-T), SFP+ can be used for stacking or as a standard port
+  -
+    name: '16'
+    type: 10gbase-x-sfpp
+    description: Combo Port (either SFP+ or 10GBASE-T), SFP+ can be used for stacking or as a standard port

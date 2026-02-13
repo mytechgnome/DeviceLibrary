@@ -43,3 +43,6 @@ interfaces:
     name: eth1
     label: '2'
     type: 1000base-t
+  -
+    name: eth2
+    type: 10gbase-x-sfpp

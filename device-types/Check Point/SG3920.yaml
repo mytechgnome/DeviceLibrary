@@ -55,6 +55,15 @@ interfaces:
     name: Mgmt
     label: MGMT
     type: 10gbase-t
+  -
+    name: eth9
+    type: 1000base-x-sfp
+  -
+    name: eth10
+    type: 10gbase-x-sfpp
+  -
+    name: eth11
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PS1-12V

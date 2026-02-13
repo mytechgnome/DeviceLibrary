@@ -90,6 +90,12 @@ interfaces:
   -
     name: gi24-copper
     type: 1000base-t
+  -
+    name: gi23-sfp
+    type: 1000base-x-sfp
+  -
+    name: gi24-sfp
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gi23-sfp

@@ -92,6 +92,18 @@ interfaces:
   -
     name: '24'
     type: 1000base-t
+  -
+    name: '25'
+    type: 1000base-x-sfp
+  -
+    name: '26'
+    type: 1000base-x-sfp
+  -
+    name: '27'
+    type: 1000base-x-sfp
+  -
+    name: '28'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '25'

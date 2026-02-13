@@ -31,6 +31,12 @@ interfaces:
   -
     name: GigabitEthernet0/0/5
     type: 1000base-t
+  -
+    name: TenGigabitEthernet0/0/0
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/0/1
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con 0

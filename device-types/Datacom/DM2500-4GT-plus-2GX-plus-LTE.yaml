@@ -39,6 +39,12 @@ interfaces:
   -
     name: wlm0
     type: lte
+  -
+    name: eth2
+    type: 1000base-x-sfp
+  -
+    name: eth3
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth2

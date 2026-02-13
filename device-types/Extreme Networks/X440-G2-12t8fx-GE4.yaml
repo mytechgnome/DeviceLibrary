@@ -88,6 +88,18 @@ interfaces:
   -
     name: '24'
     type: 100base-fx
+  -
+    name: '13'
+    type: 1000base-x-sfp
+  -
+    name: '14'
+    type: 1000base-x-sfp
+  -
+    name: '15'
+    type: 1000base-x-sfp
+  -
+    name: '16'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '13'

@@ -196,3 +196,21 @@ interfaces:
     name: Ethernet48
     type: 10gbase-t
 # QSFP28(100G) ports can be broke into 4x25 with a model of [49-54]/[1-4]
+  -
+    name: Ethernet49/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet50/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet51/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet52/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet53/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet54/1
+    type: 40gbase-x-qsfpp

@@ -46,6 +46,9 @@ interfaces:
   -
     name: wlan1
     type: ieee802.11g
+  -
+    name: sfp1
+    type: 1000base-x-sfp
 console-ports:
   -
     name: serial0

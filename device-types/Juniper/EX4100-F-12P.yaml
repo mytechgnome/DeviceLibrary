@@ -97,6 +97,18 @@ interfaces:
     type: 10gbase-t
     poe_mode: pd
     poe_type: type4-ieee802.3bt
+  -
+    name: xe-0/1/0
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/1/1
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/1/2
+    type: 10gbase-x-sfpp
+  -
+    name: xe-0/1/3
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: xe-0/1/0

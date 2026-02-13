@@ -48,6 +48,18 @@ interfaces:
     name: LOM
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Interface 10/1
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 10/2
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 10/3
+    type: 10gbase-x-sfpp
+  -
+    name: Interface 10/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Interface 10/1

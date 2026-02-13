@@ -196,6 +196,12 @@ interfaces:
   -
     name: Port 48
     type: 1000base-t
+  -
+    name: eth0
+    type: 10gbase-x-sfpp
+  -
+    name: eth1
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PS1

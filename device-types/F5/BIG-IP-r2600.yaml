@@ -60,3 +60,15 @@ interfaces:
   -
     name: '4.0'
     type: 10gbase-t
+  -
+    name: '5.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '6.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '7.0'
+    type: 25gbase-x-sfp28
+  -
+    name: '8.0'
+    type: 25gbase-x-sfp28

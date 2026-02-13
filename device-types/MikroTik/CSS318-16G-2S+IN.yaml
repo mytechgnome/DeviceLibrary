@@ -73,6 +73,12 @@ interfaces:
     name: Port16
     label: '16'
     type: 1000base-t
+  -
+    name: SFP1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU0

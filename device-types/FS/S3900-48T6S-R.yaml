@@ -166,6 +166,24 @@ interfaces:
   -
     name: ethernet 1/48
     type: 1000base-t
+  -
+    name: ethernet 1/49
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/50
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/51
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/52
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/53
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet 1/54
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: ethernet 1/49

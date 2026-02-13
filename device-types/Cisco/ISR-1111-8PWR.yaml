@@ -36,6 +36,9 @@ interfaces:
   -
     name: Wlan-GigabitEthernet0/1/8
     type: ieee802.11ac
+  -
+    name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con 0

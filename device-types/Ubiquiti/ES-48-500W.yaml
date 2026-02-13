@@ -163,6 +163,18 @@ interfaces:
   -
     name: interface 0/48
     type: 1000base-t
+  -
+    name: interface 0/49
+    type: 10gbase-x-sfpp
+  -
+    name: interface 0/50
+    type: 10gbase-x-sfpp
+  -
+    name: interface 0/51
+    type: 1000base-x-sfp
+  -
+    name: interface 0/52
+    type: 1000base-x-sfp
 module-bays:
   -
     name: interface 0/49

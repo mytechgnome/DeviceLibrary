@@ -128,6 +128,36 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '21'
+    type: 1000base-x-sfp
+    description: Combo Port (either SFP or 1000BASE-T)
+  -
+    name: '22'
+    type: 1000base-x-sfp
+    description: Combo Port (either SFP or 1000BASE-T)
+  -
+    name: '23'
+    type: 1000base-x-sfp
+    description: Combo Port (either SFP or 1000BASE-T)
+  -
+    name: '24'
+    type: 1000base-x-sfp
+    description: Combo Port (either SFP or 1000BASE-T)
+  -
+    name: '25'
+    type: 10gbase-x-sfpp
+  -
+    name: '26'
+    type: 10gbase-x-sfpp
+  -
+    name: '27'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
+  -
+    name: '28'
+    type: 10gbase-x-sfpp
+    description: For stacking or as additional SFP+
 module-bays:
   -
     name: '21'

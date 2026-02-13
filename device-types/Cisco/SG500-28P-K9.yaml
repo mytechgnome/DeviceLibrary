@@ -139,6 +139,18 @@ interfaces:
   -
     name: Vlan1
     type: virtual
+  -
+    name: GigabitEthernet1/1/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/1/26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/1/27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/1/28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet1/1/25

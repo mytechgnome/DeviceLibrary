@@ -14,6 +14,18 @@ interfaces:
   -
     name: gigabitethernet 0/0/1
     type: 1000base-t
+  -
+    name: gigabitethernet 0/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/0/4
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/0/5
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PEM0

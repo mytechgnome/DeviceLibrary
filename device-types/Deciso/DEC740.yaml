@@ -22,6 +22,12 @@ interfaces:
     name: igc2
     label: '2'
     type: 2.5gbase-t
+  -
+    name: ax0
+    type: 10gbase-x-sfpp
+  -
+    name: ax1
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

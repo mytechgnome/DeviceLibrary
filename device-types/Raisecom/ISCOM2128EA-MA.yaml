@@ -90,6 +90,22 @@ interfaces:
   -
     name: '24'
     type: 100base-tx
+  -
+    name: '25'
+    type: 1000base-x-sfp
+    description: RJ-45/SFP COMBO
+  -
+    name: '26'
+    type: 1000base-x-sfp
+    description: RJ-45/SFP COMBO
+  -
+    name: '27'
+    type: 1000base-x-sfp
+    description: RJ-45/SFP COMBO
+  -
+    name: '28'
+    type: 1000base-x-sfp
+    description: RJ-45/SFP COMBO
 module-bays:
   -
     name: '25'

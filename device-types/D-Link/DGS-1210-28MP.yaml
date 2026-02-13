@@ -149,6 +149,18 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: Port 25 (RJ45/SFP Combo)
+    type: 1000base-x-sfp
+  -
+    name: Port 26 (RJ45/SFP Combo)
+    type: 1000base-x-sfp
+  -
+    name: Port 27 (RJ45/SFP Combo)
+    type: 1000base-x-sfp
+  -
+    name: Port 28 (RJ45/SFP Combo)
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Port 25 (RJ45/SFP Combo)

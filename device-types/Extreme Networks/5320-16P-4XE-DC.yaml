@@ -102,6 +102,20 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '17'
+    type: 10gbase-x-sfpp
+  -
+    name: '18'
+    type: 10gbase-x-sfpp
+  -
+    name: '19'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking in Switch Engine
+  -
+    name: '20'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking in Switch Engine
 module-bays:
   -
     name: '17'

@@ -26,6 +26,18 @@ interfaces:
   -
     name: ETH-5
     type: 1000base-t
+  -
+    name: ETH-1 SFP
+    type: 1000base-x-sfp
+  -
+    name: ETH-2 SFP
+    type: 1000base-x-sfp
+  -
+    name: ETH-3 SFP
+    type: 1000base-x-sfp
+  -
+    name: ETH-4 SFP
+    type: 1000base-x-sfp
 console-ports:
   -
     name: com

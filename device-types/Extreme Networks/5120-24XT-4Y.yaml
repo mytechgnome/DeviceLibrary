@@ -93,6 +93,22 @@ interfaces:
   -
     name: '24'
     type: 10gbase-t
+  -
+    name: '25'
+    type: 25gbase-x-sfp28
+    description: For normal use or for stacking.
+  -
+    name: '26'
+    type: 25gbase-x-sfp28
+    description: For normal use or for stacking.
+  -
+    name: U1
+    type: 25gbase-x-sfp28
+    description: For normal use or for stacking.
+  -
+    name: U2
+    type: 25gbase-x-sfp28
+    description: For normal use or for stacking.
 module-bays:
   -
     name: PSU-1

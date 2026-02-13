@@ -106,6 +106,54 @@ interfaces:
   -
     name: Ethernet1/32
     type: 10gbase-t
+  -
+    name: Ethernet1/33
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/34
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/35
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/36
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/37
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/38
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/39
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/40
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/41
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/42
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/43
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/44
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/45
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/46
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/47
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/48
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console

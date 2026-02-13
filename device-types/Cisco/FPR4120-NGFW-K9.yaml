@@ -22,7 +22,34 @@ power-ports:
     name: PSU2
     type: iec-60320-c14
     maximum_draw: 1100
-interfaces: []
+interfaces:
+  -
+    name: Ethernet1/1
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/2
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/3
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/4
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/5
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/6
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/7
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/8
+    type: 10gbase-x-sfpp
+  -
+    name: eth0
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Network Module 2

@@ -28,6 +28,9 @@ interfaces:
   -
     name: GigabitEthernet1/0/1
     type: 1000base-t
+  -
+    name: GigabitEthernet1/0/2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: SIC slot 1

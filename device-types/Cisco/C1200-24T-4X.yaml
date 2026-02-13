@@ -95,6 +95,18 @@ interfaces:
   -
     name: GigabitEthernet24
     type: 1000base-t
+  -
+    name: GigabitEthernet25
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet26
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet27
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: GigabitEthernet25

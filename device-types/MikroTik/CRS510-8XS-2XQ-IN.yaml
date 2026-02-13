@@ -18,6 +18,36 @@ interfaces:
     name: ether1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: sfp28-1
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-2
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-3
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-4
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-5
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-6
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-7
+    type: 25gbase-x-sfp28
+  -
+    name: sfp28-8
+    type: 25gbase-x-sfp28
+  -
+    name: qsfp28-1-1
+    type: 40gbase-x-qsfpp
+  -
+    name: qsfp28-2-1
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: serial0

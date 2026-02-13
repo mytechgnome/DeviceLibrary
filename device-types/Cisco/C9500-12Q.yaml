@@ -21,6 +21,42 @@ interfaces:
     name: GigabitEthernet0/0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: FortyGigabitEthernet1/0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/2
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/3
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/4
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/5
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/6
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/7
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/8
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/9
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/10
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/11
+    type: 40gbase-x-qsfpp
+  -
+    name: FortyGigabitEthernet1/0/12
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Power Supply Module 1

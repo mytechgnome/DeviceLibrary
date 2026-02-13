@@ -49,6 +49,24 @@ interfaces:
     name: p8
     type: 1000base-t
     enabled: true
+  -
+    name: a1
+    type: 10gbase-x-sfpp
+  -
+    name: a2
+    type: 10gbase-x-sfpp
+  -
+    name: p9
+    type: 1000base-x-sfp
+  -
+    name: p10
+    type: 1000base-x-sfp
+  -
+    name: p11
+    type: 1000base-x-sfp
+  -
+    name: p12
+    type: 1000base-x-sfp
 module-bays:
   -
     name: PSU 1

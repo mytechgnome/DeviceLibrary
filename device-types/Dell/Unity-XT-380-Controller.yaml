@@ -17,6 +17,12 @@ interfaces:
   -
     name: SP-A ETH3
     type: 10gbase-t
+  -
+    name: SP-A ETH4
+    type: 10gbase-x-sfpp
+  -
+    name: SP-A ETH5
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: I/O 1

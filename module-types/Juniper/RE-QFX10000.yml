@@ -13,7 +13,7 @@ interfaces:
     enabled: true
     mgmt_only: true
   -
-    name: '{module}-em1'
+    name: '{module}'
     type: 1000base-x-sfp
     enabled: true
     mgmt_only: true

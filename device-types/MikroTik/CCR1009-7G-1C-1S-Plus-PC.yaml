@@ -36,6 +36,12 @@ interfaces:
     label: ETH7 (POE/BOOT)
     poe_mode: pd
     poe_type: passive-24v-2pair
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: combo1
+    type: 1000base-x-sfp
 console-ports:
   -
     name: serial0

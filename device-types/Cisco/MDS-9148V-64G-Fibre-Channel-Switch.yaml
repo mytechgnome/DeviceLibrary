@@ -231,3 +231,147 @@ interfaces:
     type: 1000base-t
     label: MGMT ETH
     mgmt_only: true
+  -
+    name: fc1/1
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/2
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/3
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/4
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/5
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/6
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/7
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/8
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/9
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/10
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/11
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/12
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/13
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/14
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/15
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/16
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/17
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/18
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/19
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/20
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/21
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/22
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/23
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/24
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/25
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/26
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/27
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/28
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/29
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/30
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/31
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/32
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/33
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/34
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/35
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/36
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/37
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/38
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/39
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/40
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/41
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/42
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/43
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/44
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/45
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/46
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/47
+    type: 10gbase-x-sfpp
+  -
+    name: fc1/48
+    type: 10gbase-x-sfpp

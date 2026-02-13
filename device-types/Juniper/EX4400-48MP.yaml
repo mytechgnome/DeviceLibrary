@@ -254,6 +254,12 @@ interfaces:
     type: 10gbase-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
+  -
+    name: et-0/1/0
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/1/1
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console

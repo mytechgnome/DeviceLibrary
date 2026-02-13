@@ -11,6 +11,114 @@ interfaces:
   -
     name: Management1
     type: 1000base-t
+  -
+    name: Ethernet1
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet2
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet3
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet4
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet5
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet6
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet7
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet8
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet9
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet10
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet11
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet12
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet13
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet14
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet15
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet16
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet17
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet18
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet19
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet20
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet21
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet22
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet23
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet24
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet25
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet26
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet27
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet28
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet29
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet30
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet31
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet32
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet33
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet34
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet35
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet36
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console

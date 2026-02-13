@@ -84,6 +84,18 @@ interfaces:
   -
     name: Port 20
     type: 1000base-t
+  -
+    name: Port 21
+    type: 1000base-x-sfp
+  -
+    name: Port 22
+    type: 1000base-x-sfp
+  -
+    name: Port 23
+    type: 1000base-x-sfp
+  -
+    name: Port 24
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Port 21

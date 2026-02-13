@@ -171,6 +171,12 @@ interfaces:
   -
     name: vlan 1
     type: virtual
+  -
+    name: GigabitEthernet49
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet50
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet49

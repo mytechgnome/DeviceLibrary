@@ -21,6 +21,119 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     description: Management Interface
+  -
+    name: ce0
+    type: 40gbase-x-qsfpp
+    description: May be disabled and replaced by xe0-3, requires reboot
+  -
+    name: ce1
+    type: 40gbase-x-qsfpp
+  -
+    name: ce2
+    type: 40gbase-x-qsfpp
+  -
+    name: ce3
+    type: 40gbase-x-qsfpp
+  -
+    name: ce4
+    type: 40gbase-x-qsfpp
+  -
+    name: ce5
+    type: 40gbase-x-qsfpp
+  -
+    name: ce6
+    type: 40gbase-x-qsfpp
+  -
+    name: ce7
+    type: 40gbase-x-qsfpp
+  -
+    name: ce8
+    type: 40gbase-x-qsfpp
+  -
+    name: ce9
+    type: 40gbase-x-qsfpp
+  -
+    name: ce10
+    type: 40gbase-x-qsfpp
+  -
+    name: ce11
+    type: 40gbase-x-qsfpp
+  -
+    name: ce12
+    type: 40gbase-x-qsfpp
+  -
+    name: ce13
+    type: 40gbase-x-qsfpp
+  -
+    name: ce14
+    type: 40gbase-x-qsfpp
+  -
+    name: ce15
+    type: 40gbase-x-qsfpp
+  -
+    name: ce16
+    type: 40gbase-x-qsfpp
+  -
+    name: ce17
+    type: 40gbase-x-qsfpp
+  -
+    name: ce18
+    type: 40gbase-x-qsfpp
+  -
+    name: ce19
+    type: 40gbase-x-qsfpp
+  -
+    name: ce20
+    type: 40gbase-x-qsfpp
+  -
+    name: ce21
+    type: 40gbase-x-qsfpp
+  -
+    name: ce22
+    type: 40gbase-x-qsfpp
+  -
+    name: ce23
+    type: 40gbase-x-qsfpp
+  -
+    name: ce24
+    type: 40gbase-x-qsfpp
+  -
+    name: ce25
+    type: 40gbase-x-qsfpp
+  -
+    name: ce26
+    type: 40gbase-x-qsfpp
+  -
+    name: ce27
+    type: 40gbase-x-qsfpp
+  -
+    name: ce28
+    type: 40gbase-x-qsfpp
+  -
+    name: ce29
+    type: 40gbase-x-qsfpp
+  -
+    name: ce30
+    type: 40gbase-x-qsfpp
+  -
+    name: ce31
+    type: 40gbase-x-qsfpp
+  -
+    name: xe0
+    type: 25gbase-x-sfp28
+    description: Ports xe0-3 replace ce0 when enabled, requires reboot.
+  -
+    name: xe1
+    type: 25gbase-x-sfp28
+    description: Ports xe0-3 replace ce0 when enabled, requires reboot.
+  -
+    name: xe2
+    type: 25gbase-x-sfp28
+    description: Ports xe0-3 replace ce0 when enabled, requires reboot.
+  -
+    name: xe3
+    type: 25gbase-x-sfp28
+    description: Ports xe0-3 replace ce0 when enabled, requires reboot.
 module-bays:
   -
     name: FAN0

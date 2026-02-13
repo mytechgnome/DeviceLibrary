@@ -139,6 +139,18 @@ interfaces:
     name: Mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: SFP1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP2
+    type: 10gbase-x-sfpp
+  -
+    name: SFP3
+    type: 10gbase-x-sfpp
+  -
+    name: SFP4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: SFP1

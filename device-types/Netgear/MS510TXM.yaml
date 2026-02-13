@@ -37,6 +37,12 @@ interfaces:
   -
     name: 1/0/8
     type: 10gbase-t
+  -
+    name: 1/0/9
+    type: 10gbase-x-sfpp
+  -
+    name: 1/0/10
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: 1/0/9

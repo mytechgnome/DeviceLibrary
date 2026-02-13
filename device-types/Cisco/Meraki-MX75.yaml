@@ -59,6 +59,9 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: Internet 1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Internet 1

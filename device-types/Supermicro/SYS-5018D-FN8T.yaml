@@ -38,6 +38,12 @@ interfaces:
     name: BMC
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Gig-E 7
+    type: 10gbase-x-sfpp
+  -
+    name: Gig-E 8
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PCI-E 1

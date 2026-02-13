@@ -187,6 +187,18 @@ interfaces:
   -
     name: vlan1
     type: virtual
+  -
+    name: TenGigabitEthernet1/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/3
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TenGigabitEthernet1/1

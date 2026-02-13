@@ -254,6 +254,18 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type1-ieee802.3af
+  -
+    name: GigabitEthernet0/49
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/50
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/51
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/52
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet0/49

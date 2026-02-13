@@ -44,6 +44,12 @@ interfaces:
   -
     name: GigabitEthernet0/0/10
     type: 1000base-t
+  -
+    name: GigabitEthernet0/0/11
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/12
+    type: 1000base-x-sfp
 power-ports:
   -
     name: PSU1

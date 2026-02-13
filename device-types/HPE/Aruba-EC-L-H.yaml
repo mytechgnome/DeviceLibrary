@@ -26,6 +26,24 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
     label: mgmt1
+  -
+    name: tlan0
+    type: 10gbase-x-sfpp
+  -
+    name: twan0
+    type: 10gbase-x-sfpp
+  -
+    name: tlan1
+    type: 10gbase-x-sfpp
+  -
+    name: twan1
+    type: 10gbase-x-sfpp
+  -
+    name: tlan2
+    type: 10gbase-x-sfpp
+  -
+    name: twan2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

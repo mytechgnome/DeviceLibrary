@@ -165,6 +165,18 @@ interfaces:
     type: virtual
     mgmt_only: true
     description: Virtual Management Interface
+  -
+    name: '49'
+    type: 10gbase-x-sfpp
+  -
+    name: '50'
+    type: 10gbase-x-sfpp
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '49'

@@ -25,6 +25,42 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '1.1'
+    type: 10gbase-x-sfpp
+  -
+    name: '1.2'
+    type: 10gbase-x-sfpp
+  -
+    name: '1.3'
+    type: 10gbase-x-sfpp
+  -
+    name: '1.4'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.1'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.2'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.3'
+    type: 10gbase-x-sfpp
+  -
+    name: '2.4'
+    type: 10gbase-x-sfpp
+  -
+    name: '3.0'
+    type: 40gbase-x-qsfpp
+  -
+    name: '4.0'
+    type: 40gbase-x-qsfpp
+  -
+    name: '5.0'
+    type: 40gbase-x-qsfpp
+  -
+    name: '6.0'
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: psu1

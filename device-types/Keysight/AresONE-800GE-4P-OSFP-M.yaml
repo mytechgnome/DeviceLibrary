@@ -48,3 +48,15 @@ interfaces:
     name: MGMT
     type: 10gbase-t
     mgmt_only: true
+  -
+    name: '1'
+    type: 1000base-x-sfp
+  -
+    name: '2'
+    type: 1000base-x-sfp
+  -
+    name: '3'
+    type: 1000base-x-sfp
+  -
+    name: '4'
+    type: 1000base-x-sfp

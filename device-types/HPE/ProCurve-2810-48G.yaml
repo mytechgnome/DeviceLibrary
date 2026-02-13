@@ -152,6 +152,18 @@ interfaces:
   -
     name: '44'
     type: 1000base-t
+  -
+    name: '45'
+    type: 1000base-x-sfp
+  -
+    name: '46'
+    type: 1000base-x-sfp
+  -
+    name: '47'
+    type: 1000base-x-sfp
+  -
+    name: '48'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '45'

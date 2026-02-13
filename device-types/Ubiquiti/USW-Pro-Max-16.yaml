@@ -59,6 +59,12 @@ interfaces:
   -
     name: 2.5 GbE 16
     type: 2.5gbase-t
+  -
+    name: SFP+ 1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: Input

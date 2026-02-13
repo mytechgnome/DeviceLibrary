@@ -91,6 +91,18 @@ interfaces:
   -
     name: Port 24
     type: 1000base-t
+  -
+    name: Port 25
+    type: 10gbase-x-sfpp
+  -
+    name: Port 26
+    type: 10gbase-x-sfpp
+  -
+    name: Port 27
+    type: 10gbase-x-sfpp
+  -
+    name: Port 28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Port 25

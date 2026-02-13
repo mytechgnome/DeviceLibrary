@@ -45,3 +45,9 @@ interfaces:
   -
     name: Gig-E 6
     type: 1000base-t
+  -
+    name: 10GbE 1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GbE 2
+    type: 10gbase-x-sfpp

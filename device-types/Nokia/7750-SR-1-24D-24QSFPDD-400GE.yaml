@@ -19,6 +19,78 @@ interfaces:
     name: A/1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 1/1/c1
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c2
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c3
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c4
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c5
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c6
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c7
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c8
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c9
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c10
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c11
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c12
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c13
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c14
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c15
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c16
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c17
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c18
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c19
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c20
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c21
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c22
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c23
+    type: 400gbase-x-qsfpdd
+  -
+    name: 1/1/c24
+    type: 400gbase-x-qsfpdd
 module-bays:
   -
     name: PS1

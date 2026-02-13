@@ -13,6 +13,9 @@ interfaces:
   -
     name: Ethernet
     type: 1000base-t
+  -
+    name: Fiber
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Fiber

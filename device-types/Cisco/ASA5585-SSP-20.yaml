@@ -59,3 +59,9 @@ interfaces:
   -
     name: Management0/1
     type: 100base-tx
+  -
+    name: TenGigabitEthernet0/8
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet0/9
+    type: 10gbase-x-sfpp

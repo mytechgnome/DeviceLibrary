@@ -29,6 +29,9 @@ interfaces:
     name: Bluetooth Interface
     type: other
     label: Bluetooth 4.1
+  -
+    name: SFP+ 1
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: AC Input

@@ -116,6 +116,18 @@ interfaces:
   -
     name: port24
     type: 1000base-t
+  -
+    name: port25
+    type: 1000base-x-sfp
+  -
+    name: port26
+    type: 1000base-x-sfp
+  -
+    name: port27
+    type: 1000base-x-sfp
+  -
+    name: port28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port25

@@ -92,3 +92,15 @@ interfaces:
   -
     name: X15
     type: 2.5gbase-t
+  -
+    name: X16
+    type: 1000base-x-sfp
+  -
+    name: X17
+    type: 1000base-x-sfp
+  -
+    name: X18
+    type: 1000base-x-sfp
+  -
+    name: X19
+    type: 1000base-x-sfp

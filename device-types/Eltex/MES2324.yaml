@@ -81,6 +81,18 @@ interfaces:
   -
     name: gigabitethernet1/0/24
     type: 1000base-t
+  -
+    name: tengigabitethernet1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: tengigabitethernet1/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: tengigabitethernet1/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: tengigabitethernet1/0/4
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: con0

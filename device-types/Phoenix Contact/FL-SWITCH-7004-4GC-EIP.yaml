@@ -26,6 +26,18 @@ interfaces:
   -
     name: ETH-4
     type: 100base-tx
+  -
+    name: ETH-5
+    type: 1000base-x-sfp
+  -
+    name: ETH-6
+    type: 1000base-x-sfp
+  -
+    name: ETH-7
+    type: 1000base-x-sfp
+  -
+    name: ETH-8
+    type: 1000base-x-sfp
 module-bays:
   -
     name: ETH-5

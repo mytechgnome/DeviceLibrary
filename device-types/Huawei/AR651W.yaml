@@ -40,6 +40,18 @@ interfaces:
     name: Mgmt/Ge0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: GE1
+    type: 10gbase-x-sfpp
+  -
+    name: GE2
+    type: 10gbase-x-sfpp
+  -
+    name: GE8_1G
+    type: 1000base-x-sfp
+  -
+    name: GE9_1G
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GE1

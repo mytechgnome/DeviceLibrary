@@ -259,6 +259,18 @@ interfaces:
     type: 5gbase-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: port1.0.49
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.50
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.51
+    type: 10gbase-x-sfpp
+  -
+    name: port1.0.52
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port1.0.49

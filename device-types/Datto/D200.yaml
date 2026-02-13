@@ -40,6 +40,9 @@ interfaces:
     label: LAN4
     poe_mode: pse
     poe_type: passive-24v-4pair
+  -
+    name: SFP1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: SFP1

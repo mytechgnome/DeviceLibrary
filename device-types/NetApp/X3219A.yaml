@@ -40,6 +40,12 @@ interfaces:
     name: e0m
     type: 1000base-t
     mgmt_only: true
+  -
+    name: e0a
+    type: 10gbase-x-sfpp
+  -
+    name: e0b
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: e0a

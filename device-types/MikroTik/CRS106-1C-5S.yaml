@@ -8,7 +8,25 @@ power-ports:
   -
     name: PSU0
     type: dc-terminal
-interfaces: []
+interfaces:
+  -
+    name: sfp1
+    type: 1000base-x-sfp
+  -
+    name: sfp2
+    type: 1000base-x-sfp
+  -
+    name: sfp3
+    type: 1000base-x-sfp
+  -
+    name: sfp4
+    type: 1000base-x-sfp
+  -
+    name: sfp5
+    type: 1000base-x-sfp
+  -
+    name: combo1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: sfp1

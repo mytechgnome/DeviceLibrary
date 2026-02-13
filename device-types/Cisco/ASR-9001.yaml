@@ -61,3 +61,15 @@ interfaces:
   -
     name: MgmtEth0/RSP0/CPU0/1
     type: 1000base-t
+  -
+    name: TenGigE0/0/2/0
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigE0/0/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigE0/0/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigE0/0/2/3
+    type: 10gbase-x-sfpp

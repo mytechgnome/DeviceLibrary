@@ -34,6 +34,12 @@ interfaces:
     type: 100base-tx
     poe_type: type1-ieee802.3af
     poe_mode: pse
+  -
+    name: sfp5
+    type: 1000base-x-sfp
+  -
+    name: sfp6
+    type: 1000base-x-sfp
 module-bays:
   -
     name: sfp5

@@ -34,6 +34,18 @@ interfaces:
     name: MGMT
     type: 100base-tx
     mgmt_only: true
+  -
+    name: eth1
+    type: 1000base-x-sfp
+  -
+    name: eth2
+    type: 1000base-x-sfp
+  -
+    name: eth3
+    type: 1000base-x-sfp
+  -
+    name: eth4
+    type: 1000base-x-sfp
 module-bays:
   -
     name: eth1

@@ -57,3 +57,19 @@ interfaces:
     name: idrac-1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 100gige-front-end-1
+    type: 40gbase-x-qsfpp
+    description: Front End Interface (Front End Networking)
+  -
+    name: 100gige-front-end-2
+    type: 40gbase-x-qsfpp
+    description: Front End Interface (Front End Networking)
+  -
+    name: 100gige-back-end-1
+    type: 40gbase-x-qsfpp
+    description: Backend Interface (Infrastructure Networking)
+  -
+    name: 100gige-back-end-2
+    type: 40gbase-x-qsfpp
+    description: Backend Interface (Infrastructure Networking)

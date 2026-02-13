@@ -113,6 +113,12 @@ interfaces:
     type: virtual
     enabled: true
     mgmt_only: false
+  -
+    name: GigabitEthernet17
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet18
+    type: 1000base-x-sfp
 console-ports:
   -
     name: con0

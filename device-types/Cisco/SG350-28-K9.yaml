@@ -115,6 +115,18 @@ interfaces:
   -
     name: vlan 1
     type: virtual
+  -
+    name: GigabitEthernet25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet25

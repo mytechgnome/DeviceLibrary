@@ -31,6 +31,18 @@ interfaces:
   -
     name: port2
     type: 1000base-t
+  -
+    name: port3
+    type: 25gbase-x-sfp28
+  -
+    name: port4
+    type: 25gbase-x-sfp28
+  -
+    name: port5
+    type: 25gbase-x-sfp28
+  -
+    name: port6
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: port3

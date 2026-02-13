@@ -199,6 +199,18 @@ interfaces:
     label: '24'
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: Ethernet1/0/25
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/26
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/27
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/0/28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet1/0/25

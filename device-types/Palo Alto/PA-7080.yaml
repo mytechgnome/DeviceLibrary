@@ -47,6 +47,9 @@ interfaces:
   -
     name: ha1-b
     type: 1000base-t
+  -
+    name: hsci
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: hsci

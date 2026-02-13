@@ -263,6 +263,18 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '49'
+    type: 10gbase-x-sfpp
+  -
+    name: '50'
+    type: 10gbase-x-sfpp
+  -
+    name: '51'
+    type: 10gbase-x-sfpp
+  -
+    name: '52'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '49'

@@ -265,6 +265,18 @@ interfaces:
     name: mgmt
     type: 1000base-t
     mgmt_only: true
+  -
+    name: 1/1/49
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/50
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/51
+    type: 10gbase-x-sfpp
+  -
+    name: 1/1/52
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: 1/1/49

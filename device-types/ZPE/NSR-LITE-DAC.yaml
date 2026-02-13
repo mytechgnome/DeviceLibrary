@@ -56,6 +56,12 @@ interfaces:
   -
     name: backplane0
     type: 10gbase-kr
+  -
+    name: sfp0
+    type: 10gbase-x-sfpp
+  -
+    name: sfp1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: slot-1

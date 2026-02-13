@@ -57,3 +57,27 @@ interfaces:
     name: iLO
     type: 1000base-t
     mgmt_only: true
+  -
+    name: SPF-1
+    type: 10gbase-x-sfpp
+  -
+    name: SFP-2
+    type: 10gbase-x-sfpp
+  -
+    name: SPF-3
+    type: 10gbase-x-sfpp
+  -
+    name: SFP-4
+    type: 10gbase-x-sfpp
+  -
+    name: SPF-5
+    type: 25gbase-x-sfp28
+  -
+    name: SFP-6
+    type: 25gbase-x-sfp28
+  -
+    name: SPF-7
+    type: 25gbase-x-sfp28
+  -
+    name: SFP-8
+    type: 25gbase-x-sfp28

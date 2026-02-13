@@ -34,6 +34,9 @@ interfaces:
     name: eth3
     type: 1000base-t
     label: LAN4
+  -
+    name: eth4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: eth4

@@ -166,6 +166,24 @@ interfaces:
     name: Management
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Port 49
+    type: 1000base-x-sfp
+  -
+    name: Port 50
+    type: 1000base-x-sfp
+  -
+    name: Port 51
+    type: 1000base-x-sfp
+  -
+    name: Port 52
+    type: 1000base-x-sfp
+  -
+    name: Dedicated Stack Port 1
+    type: 40gbase-x-qsfpp
+  -
+    name: Dedicated Stack Port 2
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Port 49

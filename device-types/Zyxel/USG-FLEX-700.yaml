@@ -66,6 +66,12 @@ interfaces:
     name: P14
     type: 1000base-t
     label: WAN/LAN/DMZ
+  -
+    name: P1
+    type: 1000base-x-sfp
+  -
+    name: P2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: P1

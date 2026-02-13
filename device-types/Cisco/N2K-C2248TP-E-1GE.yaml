@@ -150,6 +150,18 @@ interfaces:
   -
     name: Ethernet1/1/48
     type: 1000base-t
+  -
+    name: Ethernet1/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/2/3
+    type: 10gbase-x-sfpp
+  -
+    name: Ethernet1/2/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

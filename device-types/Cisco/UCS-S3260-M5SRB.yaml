@@ -15,6 +15,18 @@ interfaces:
     name: CIMC
     type: 1000base-t
     mgmt_only: true
+  -
+    name: sioc1
+    type: 40gbase-x-qsfpp
+  -
+    name: sioc2
+    type: 40gbase-x-qsfpp
+  -
+    name: sioc3
+    type: 40gbase-x-qsfpp
+  -
+    name: sioc4
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU-1

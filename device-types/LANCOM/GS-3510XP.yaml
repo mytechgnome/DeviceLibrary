@@ -35,6 +35,12 @@ interfaces:
   -
     name: 2.5GigabitEthernet 1/8
     type: 2.5gbase-t
+  -
+    name: 10GigabitEthernet 1/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet 1/2
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: com

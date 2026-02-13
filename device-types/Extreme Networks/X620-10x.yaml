@@ -28,6 +28,38 @@ interfaces:
     name: Mgmt-port
     type: 1000base-t
     mgmt_only: true
+  -
+    name: '1'
+    type: 10gbase-x-sfpp
+  -
+    name: '2'
+    type: 10gbase-x-sfpp
+  -
+    name: '3'
+    type: 10gbase-x-sfpp
+  -
+    name: '4'
+    type: 10gbase-x-sfpp
+  -
+    name: '5'
+    type: 10gbase-x-sfpp
+  -
+    name: '6'
+    type: 10gbase-x-sfpp
+  -
+    name: '7'
+    type: 10gbase-x-sfpp
+  -
+    name: '8'
+    type: 10gbase-x-sfpp
+  -
+    name: '9'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking or as a standard port
+  -
+    name: '10'
+    type: 10gbase-x-sfpp
+    description: Can be used for stacking or as a standard port
 module-bays:
   -
     name: '1'

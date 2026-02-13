@@ -72,6 +72,18 @@ interfaces:
   -
     name: port14
     type: 1000base-t
+  -
+    name: port15
+    type: 1000base-x-sfp
+  -
+    name: port16
+    type: 1000base-x-sfp
+  -
+    name: port17
+    type: 1000base-x-sfp
+  -
+    name: port18
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port15

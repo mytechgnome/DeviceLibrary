@@ -37,6 +37,9 @@ interfaces:
   -
     name: LAN4
     type: 1000base-t
+  -
+    name: WAN1 SFP
+    type: 1000base-x-sfp
 module-bays:
   -
     name: A

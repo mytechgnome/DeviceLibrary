@@ -83,6 +83,12 @@ interfaces:
   -
     name: GigabitEthernet 1/24
     type: 1000base-t
+  -
+    name: 10GigabitEthernet 1/1
+    type: 10gbase-x-sfpp
+  -
+    name: 10GigabitEthernet 1/2
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: com
