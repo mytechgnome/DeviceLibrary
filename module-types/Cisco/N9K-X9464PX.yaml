@@ -153,16 +153,16 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/49
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/50
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/51
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/52
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet{module}/1

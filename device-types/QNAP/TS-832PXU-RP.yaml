@@ -40,9 +40,7 @@ interfaces:
     type: 2.5gbase-t
   -
     name: eth2
-    label: '3'
     type: 10gbase-x-sfpp
   -
     name: eth3
-    label: '4'
     type: 10gbase-x-sfpp

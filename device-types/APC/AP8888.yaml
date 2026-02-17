@@ -44,7 +44,8 @@ power-ports:
 power-outlets:
 # L1 - Line 1, Bank 1
   -
-    name: L1 Bank 1 C13 01 type: iec-60320-c13
+    name: L1 Bank 1 C13 01
+    type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
   -

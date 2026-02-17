@@ -32,11 +32,11 @@ module-bays:
   -
     name: Gig-E 3
     position: Gig-E 3
-    label: qsfp28
+    label: qsfp
   -
     name: Gig-E 4
     position: Gig-E 4
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: Gig-E 1
@@ -46,7 +46,7 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: Gig-E 3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Gig-E 4
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

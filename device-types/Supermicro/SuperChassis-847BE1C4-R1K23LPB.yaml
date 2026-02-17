@@ -21,7 +21,8 @@ subdevice_role: parent
 module-bays:
   # Power
   -
-    name: PSU1 position: PSU 1
+    name: PSU1
+    position: PSU 1
     description: 1U 1200W/1000W Titanium Power Supply W/PMbus W76xL336xH40mm
   -
     name: PSU2

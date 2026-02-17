@@ -14,6 +14,18 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: 1/1/25
+    type: 10gbase-x-xfp
+  -
+    name: 1/1/26
+    type: 10gbase-x-xfp
+  -
+    name: 1/2/1
+    type: 10gbase-x-xfp
+  -
+    name: 1/2/2
+    type: 10gbase-x-xfp
+  -
     name: 1/1/1
     type: 1000base-x-sfp
   -
@@ -85,18 +97,6 @@ interfaces:
   -
     name: 1/1/24
     type: 1000base-x-sfp
-  -
-    name: 1/1/25
-    type: 10gbase-x-xfp
-  -
-    name: 1/1/26
-    type: 10gbase-x-xfp
-  -
-    name: 1/2/1
-    type: 10gbase-x-xfp
-  -
-    name: 1/2/2
-    type: 10gbase-x-xfp
 module-bays:
   -
     name: mda-m2-xfp

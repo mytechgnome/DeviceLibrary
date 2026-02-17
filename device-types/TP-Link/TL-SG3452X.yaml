@@ -262,23 +262,15 @@ interfaces:
   -
     name: ten-gigabitEthernet 1/0/49
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: '49'
   -
     name: ten-gigabitEthernet 1/0/50
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: '50'
   -
     name: ten-gigabitEthernet 1/0/51
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: '51'
   -
     name: ten-gigabitEthernet 1/0/52
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: '52'
 module-bays:
   -
     name: ten-gigabitEthernet 1/0/49

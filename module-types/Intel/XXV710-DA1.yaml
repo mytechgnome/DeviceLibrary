@@ -6,8 +6,7 @@ comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/9526
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
-    mgmt_only: false
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

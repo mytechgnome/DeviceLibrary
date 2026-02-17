@@ -22,12 +22,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: F1
-    type: 1000base-x-sfp
-  -
-    name: F2
-    type: 1000base-x-sfp
-  -
     name: LAN 1 (LAN)
     type: 1000base-t
   -
@@ -51,6 +45,12 @@ interfaces:
   -
     name: LAN 8
     type: 1000base-t
+  -
+    name: F1
+    type: 1000base-x-sfp
+  -
+    name: F2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: A

@@ -40,11 +40,11 @@ module-bays:
   -
     name: 1/1/29
     position: 1/1/29
-    label: qsfp+
+    label: qsfp
   -
     name: 1/1/30
     position: 1/1/30
-    label: qsfp+
+    label: qsfp
 interfaces:
   -
     name: 1/1/1

@@ -11,18 +11,6 @@ interfaces:
     name: eth0 (Slot {module})
     type: 1000base-t
     mgmt_only: true
-  -
-    name: port1.{module}.1
-    type: 10gbase-x-sfpp
-  -
-    name: port1.{module}.2
-    type: 10gbase-x-sfpp
-  -
-    name: port1.{module}.3
-    type: 10gbase-x-sfpp
-  -
-    name: port1.{module}.4
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port1.{module}.1

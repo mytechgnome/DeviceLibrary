@@ -38,7 +38,8 @@ power-ports:
 power-outlets:
   # Bank 1: Outlets 1-12
   -
-    name: Outlet 1 type: nema-5-15r
+    name: Outlet 1
+    type: nema-5-15r
   -
     name: Outlet 2
     type: nema-5-15r

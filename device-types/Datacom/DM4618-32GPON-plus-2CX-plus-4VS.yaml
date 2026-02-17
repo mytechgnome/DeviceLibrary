@@ -115,10 +115,10 @@ interfaces:
     type: gpon
   -
     name: hundred-gigabit-ethernet 1/1/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: hundred-gigabit-ethernet 1/1/2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: twenty-five-gigabit-ethernet 1/1/1
     type: 25gbase-x-sfp28
@@ -154,11 +154,11 @@ module-bays:
   -
     name: hundred-gigabit-ethernet 1/1/1
     position: hundred-gigabit-ethernet 1/1/1
-    label: qsfp28
+    label: qsfp
   -
     name: hundred-gigabit-ethernet 1/1/2
     position: hundred-gigabit-ethernet 1/1/2
-    label: qsfp28
+    label: qsfp
   -
     name: twenty-five-gigabit-ethernet 1/1/1
     position: twenty-five-gigabit-ethernet 1/1/1

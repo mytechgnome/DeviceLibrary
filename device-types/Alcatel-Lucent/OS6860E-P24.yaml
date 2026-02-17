@@ -38,11 +38,11 @@ module-bays:
   -
     name: 1/1/29
     position: 1/1/29
-    label: qsfp+
+    label: qsfp
   -
     name: 1/1/30
     position: 1/1/30
-    label: qsfp+
+    label: qsfp
 interfaces:
   -
     name: 1/1/1
@@ -117,6 +117,10 @@ interfaces:
     name: 1/1/24
     type: 1000base-t
   -
+    name: EMP
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: 1/1/25
     type: 10gbase-x-sfpp
   -
@@ -134,7 +138,3 @@ interfaces:
   -
     name: 1/1/30
     type: 40gbase-x-qsfpp
-  -
-    name: EMP
-    type: 1000base-t
-    mgmt_only: true

@@ -23,6 +23,10 @@ power-ports:
     maximum_draw: 96
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 1000base-x-sfp
   -
@@ -40,10 +44,6 @@ interfaces:
   -
     name: '6'
     type: 1000base-x-sfp
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: '1'

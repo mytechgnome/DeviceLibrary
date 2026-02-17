@@ -83,6 +83,10 @@ module-bays:
     label: qsfp-dd
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 25gbase-x-sfp28
   -
@@ -124,7 +128,3 @@ interfaces:
   -
     name: '14'
     type: 400gbase-x-qsfpdd
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true

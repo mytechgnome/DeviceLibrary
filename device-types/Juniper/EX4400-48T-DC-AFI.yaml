@@ -160,10 +160,10 @@ interfaces:
     type: 1000base-t
   -
     name: et-0/1/0
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/1/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console
@@ -190,8 +190,8 @@ module-bays:
   -
     name: et-0/1/0
     position: et-0/1/0
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/1/1
     position: et-0/1/1
-    label: qsfp28
+    label: qsfp

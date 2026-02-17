@@ -15,3 +15,4 @@ module-bays:
     label: Channel B
     position: '1'  # TODO this should be (module*2)-1
     description: Cellular Modem, Sim B1, M.2 B-Key
+interfaces: []

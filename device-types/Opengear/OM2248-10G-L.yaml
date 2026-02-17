@@ -202,14 +202,6 @@ power-ports:
     allocated_draw: 30
 interfaces:
   -
-    name: eth0
-    type: 10gbase-x-sfpp
-    mgmt_only: true
-  -
-    name: eth1
-    type: 10gbase-x-sfpp
-    mgmt_only: true
-  -
     name: eth2
     type: 10gbase-t
     mgmt_only: true
@@ -217,6 +209,12 @@ interfaces:
     name: Cellular Interface (LTE)
     type: lte
     mgmt_only: true
+  -
+    name: eth0
+    type: 10gbase-x-sfpp
+  -
+    name: eth1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: eth0

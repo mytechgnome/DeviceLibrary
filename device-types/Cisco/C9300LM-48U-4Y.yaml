@@ -256,6 +256,16 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   -
+    name: StackPort1/1
+    type: cisco-stackwise
+  -
+    name: StackPort1/2
+    type: cisco-stackwise
+  -
+    name: GigabitEthernet0/0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: TwentyFiveGigabitEthernet1/1/1
     type: 25gbase-x-sfp28
   -
@@ -267,16 +277,6 @@ interfaces:
   -
     name: TwentyFiveGigabitEthernet1/1/4
     type: 25gbase-x-sfp28
-  -
-    name: StackPort1/1
-    type: cisco-stackwise
-  -
-    name: StackPort1/2
-    type: cisco-stackwise
-  -
-    name: GigabitEthernet0/0
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PS-A

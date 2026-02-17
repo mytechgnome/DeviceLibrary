@@ -159,23 +159,15 @@ interfaces:
   -
     name: Ethernet1/0/25
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '25'
   -
     name: Ethernet1/0/26
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '26'
   -
     name: Ethernet1/0/27
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '27'
   -
     name: Ethernet1/0/28
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '28'
 module-bays:
   -
     name: Ethernet1/0/25

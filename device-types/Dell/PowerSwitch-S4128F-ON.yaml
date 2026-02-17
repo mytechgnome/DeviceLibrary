@@ -98,10 +98,10 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: ethernet1/1/25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ethernet1/1/26
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ethernet1/1/27
     type: 10gbase-x-sfpp
@@ -222,11 +222,11 @@ module-bays:
   -
     name: ethernet1/1/25
     position: ethernet1/1/25
-    label: qsfp28
+    label: qsfp
   -
     name: ethernet1/1/26
     position: ethernet1/1/26
-    label: qsfp28
+    label: qsfp
   -
     name: ethernet1/1/27
     position: ethernet1/1/27

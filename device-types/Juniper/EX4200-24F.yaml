@@ -14,6 +14,14 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: vcp-0
+    label: Virtual Chassis Port 0
+    type: juniper-vcp
+  -
+    name: vcp-1
+    label: Virtual Chassis Port 1
+    type: juniper-vcp
+  -
     name: ge-0/0/0
     type: 1000base-x-sfp
   -
@@ -85,14 +93,6 @@ interfaces:
   -
     name: ge-0/0/23
     type: 1000base-x-sfp
-  -
-    name: vcp-0
-    label: Virtual Chassis Port 0
-    type: juniper-vcp
-  -
-    name: vcp-1
-    label: Virtual Chassis Port 1
-    type: juniper-vcp
 module-bays:
   -
     name: Power Supply 0

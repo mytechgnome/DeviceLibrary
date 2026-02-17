@@ -5,5 +5,5 @@ part_number: QSFP-100G-LR-S
 comments: "Cisco 100GBASE-LR QSFP28."
 interfaces:
   -
-    name: {module: null}
+    name: "{module}"
     type: 100gbase-lr4

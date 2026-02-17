@@ -46,11 +46,11 @@ module-bays:
   -
     name: 40GE1/0/1
     position: 40GE1/0/1
-    label: qsfp+
+    label: qsfp
   -
     name: 40GE1/0/2
     position: 40GE1/0/2
-    label: qsfp+
+    label: qsfp
 power-ports:
   -
     name: PWR1

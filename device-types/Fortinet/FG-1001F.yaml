@@ -121,11 +121,11 @@ module-bays:
   -
     name: port33
     position: port33
-    label: qsfp28
+    label: qsfp
   -
     name: port34
     position: port34
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: ha
@@ -232,7 +232,7 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port33
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port34
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

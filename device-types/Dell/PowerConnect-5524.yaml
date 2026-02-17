@@ -115,14 +115,6 @@ interfaces:
     type: 1000base-t
     label: Port 24
   -
-    name: TenGigabitEthernet1/0/1
-    type: 10gbase-x-sfpp
-    label: SFP+ 1
-  -
-    name: TenGigabitEthernet1/0/2
-    type: 10gbase-x-sfpp
-    label: SFP+ 2
-  -
     name: Stack0
     type: other
     label: Stacking HDMI 1
@@ -130,6 +122,12 @@ interfaces:
     name: Stack1
     type: other
     label: Stacking HDMI 2
+  -
+    name: TenGigabitEthernet1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TenGigabitEthernet1/0/1

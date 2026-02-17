@@ -122,6 +122,10 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: GigabitEthernet1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: GigabitEthernet0/1
     type: 1000base-x-sfp
   -
@@ -199,7 +203,3 @@ interfaces:
   -
     name: TenGigabitEthernet0/2
     type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1
-    type: 1000base-t
-    mgmt_only: true

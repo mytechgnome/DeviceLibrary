@@ -216,6 +216,10 @@ module-bays:
     label: qsfp-dd
 interfaces:
   -
+    name: MgmtEth0/RP0/CPU0/0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: FourHundredGigE0/0/0/0
     type: 400gbase-x-qsfpdd
   -
@@ -359,7 +363,3 @@ interfaces:
   -
     name: FourHundredGigE0/0/0/47
     type: 400gbase-x-qsfpdd
-  -
-    name: MgmtEth0/RP0/CPU0/0
-    type: 1000base-t
-    mgmt_only: true

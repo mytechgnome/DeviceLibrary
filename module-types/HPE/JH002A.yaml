@@ -10,36 +10,6 @@ interfaces:
   -
     name: '2'
     type: 100gbase-x-cxp
-  -
-    name: '3'
-    type: 10gbase-x-sfpp
-  -
-    name: '4'
-    type: 10gbase-x-sfpp
-  -
-    name: '5'
-    type: 10gbase-x-sfpp
-  -
-    name: '6'
-    type: 10gbase-x-sfpp
-  -
-    name: '7'
-    type: 40gbase-x-qsfpp
-  -
-    name: '8'
-    type: 40gbase-x-qsfpp
-  -
-    name: '9'
-    type: 40gbase-x-qsfpp
-  -
-    name: '10'
-    type: 40gbase-x-qsfpp
-  -
-    name: '11'
-    type: 40gbase-x-qsfpp
-  -
-    name: '12'
-    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: '3'

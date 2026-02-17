@@ -5,10 +5,10 @@ model: VIC 1497
 interfaces:
   -
     name: Ethernet {module}/1
-    type: 100gbase-x-qsfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet {module}/2
-    type: 100gbase-x-qsfp28
+    type: 10gbase-x-sfpp
 comments: Cisco UCS VIC 1497 dual port 40/100G QSFP28 mLOM for C220 M5, C240 M5, C240 SD M5
 module-bays:
   -

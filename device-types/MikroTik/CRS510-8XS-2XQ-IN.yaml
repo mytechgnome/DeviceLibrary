@@ -44,10 +44,10 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: qsfp28-1-1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp28-2-1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: serial0
@@ -99,11 +99,11 @@ module-bays:
   -
     name: qsfp28-1-1
     position: qsfp28-1-1
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp28-2-1
     position: qsfp28-2-1
-    label: qsfp28
+    label: qsfp
 power-ports:
   -
     name: power3

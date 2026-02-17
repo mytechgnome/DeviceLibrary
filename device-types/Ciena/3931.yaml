@@ -46,6 +46,22 @@ module-bays:
     label: sfp
 interfaces:
   -
+    name: '7'
+    type: 1000base-t
+  -
+    name: '8'
+    type: 1000base-t
+  -
+    name: '9'
+    type: 1000base-t
+  -
+    name: '10'
+    type: 1000base-t
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 10gbase-x-sfpp
   -
@@ -63,19 +79,3 @@ interfaces:
   -
     name: '6'
     type: 1000base-x-sfp
-  -
-    name: '7'
-    type: 1000base-t
-  -
-    name: '8'
-    type: 1000base-t
-  -
-    name: '9'
-    type: 1000base-t
-  -
-    name: '10'
-    type: 1000base-t
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true

@@ -21,166 +21,6 @@ console-ports:
     type: usb-a
 interfaces:
   -
-    name: port-1
-    label: Port 1
-    type: 10gbase-x-sfpp
-  -
-    name: port-2
-    label: Port 2
-    type: 10gbase-x-sfpp
-  -
-    name: port-3
-    label: Port 3
-    type: 10gbase-x-sfpp
-  -
-    name: port-4
-    label: Port 4
-    type: 10gbase-x-sfpp
-  -
-    name: port-5
-    label: Port 5
-    type: 10gbase-x-sfpp
-  -
-    name: port-6
-    label: Port 6
-    type: 10gbase-x-sfpp
-  -
-    name: port-7
-    label: Port 7
-    type: 10gbase-x-sfpp
-  -
-    name: port-8
-    label: Port 8
-    type: 10gbase-x-sfpp
-  -
-    name: port-9
-    label: Port 9
-    type: 10gbase-x-sfpp
-  -
-    name: port-10
-    label: Port 10
-    type: 10gbase-x-sfpp
-  -
-    name: port-11
-    label: Port 11
-    type: 10gbase-x-sfpp
-  -
-    name: port-12
-    label: Port 12
-    type: 10gbase-x-sfpp
-  -
-    name: port-13
-    label: Port 13
-    type: 10gbase-x-sfpp
-  -
-    name: port-14
-    label: Port 14
-    type: 10gbase-x-sfpp
-  -
-    name: port-15
-    label: Port 15
-    type: 10gbase-x-sfpp
-  -
-    name: port-16
-    label: Port 16
-    type: 10gbase-x-sfpp
-  -
-    name: port-17
-    label: Port 17
-    type: 40gbase-x-qsfpp
-  -
-    name: port-18
-    label: Port 18
-    type: 40gbase-x-qsfpp
-  -
-    name: port-19
-    label: Port 19
-    type: 40gbase-x-qsfpp
-  -
-    name: port-20
-    label: Port 20
-    type: 40gbase-x-qsfpp
-  -
-    name: port-21
-    label: Port 21
-    type: 40gbase-x-qsfpp
-  -
-    name: port-22
-    label: Port 22
-    type: 40gbase-x-qsfpp
-  -
-    name: port-23
-    label: Port 23
-    type: 40gbase-x-qsfpp
-  -
-    name: port-24
-    label: Port 24
-    type: 40gbase-x-qsfpp
-  -
-    name: port-25
-    label: Port 25
-    type: 40gbase-x-qsfpp
-  -
-    name: port-26
-    label: Port 26
-    type: 40gbase-x-qsfpp
-  -
-    name: port-27
-    label: Port 27
-    type: 40gbase-x-qsfpp
-  -
-    name: port-28
-    label: Port 28
-    type: 40gbase-x-qsfpp
-  -
-    name: port-29
-    label: Port 29
-    type: 40gbase-x-qsfpp
-  -
-    name: port-30
-    label: Port 30
-    type: 40gbase-x-qsfpp
-  -
-    name: port-31
-    label: Port 31
-    type: 40gbase-x-qsfpp
-  -
-    name: port-32
-    label: Port 32
-    type: 40gbase-x-qsfpp
-  -
-    name: port-33
-    label: Port 33
-    type: 40gbase-x-qsfpp
-  -
-    name: port-34
-    label: Port 34
-    type: 40gbase-x-qsfpp
-  -
-    name: port-35
-    label: Port 35
-    type: 40gbase-x-qsfpp
-  -
-    name: port-36
-    label: Port 36
-    type: 40gbase-x-qsfpp
-  -
-    name: port-37
-    label: Port 37
-    type: 40gbase-x-qsfpp
-  -
-    name: port-38
-    label: Port 38
-    type: 40gbase-x-qsfpp
-  -
-    name: port-39
-    label: Port 39
-    type: 40gbase-x-qsfpp
-  -
-    name: port-40
-    label: Port 40
-    type: 40gbase-x-qsfpp
-  -
     name: L1
     type: 1000base-t
   -
@@ -190,6 +30,126 @@ interfaces:
     name: mgmt0
     type: 1000base-t
     mgmt_only: true
+  -
+    name: port-1
+    type: 10gbase-x-sfpp
+  -
+    name: port-2
+    type: 10gbase-x-sfpp
+  -
+    name: port-3
+    type: 10gbase-x-sfpp
+  -
+    name: port-4
+    type: 10gbase-x-sfpp
+  -
+    name: port-5
+    type: 10gbase-x-sfpp
+  -
+    name: port-6
+    type: 10gbase-x-sfpp
+  -
+    name: port-7
+    type: 10gbase-x-sfpp
+  -
+    name: port-8
+    type: 10gbase-x-sfpp
+  -
+    name: port-9
+    type: 10gbase-x-sfpp
+  -
+    name: port-10
+    type: 10gbase-x-sfpp
+  -
+    name: port-11
+    type: 10gbase-x-sfpp
+  -
+    name: port-12
+    type: 10gbase-x-sfpp
+  -
+    name: port-13
+    type: 10gbase-x-sfpp
+  -
+    name: port-14
+    type: 10gbase-x-sfpp
+  -
+    name: port-15
+    type: 10gbase-x-sfpp
+  -
+    name: port-16
+    type: 10gbase-x-sfpp
+  -
+    name: port-17
+    type: 40gbase-x-qsfpp
+  -
+    name: port-18
+    type: 40gbase-x-qsfpp
+  -
+    name: port-19
+    type: 40gbase-x-qsfpp
+  -
+    name: port-20
+    type: 40gbase-x-qsfpp
+  -
+    name: port-21
+    type: 40gbase-x-qsfpp
+  -
+    name: port-22
+    type: 40gbase-x-qsfpp
+  -
+    name: port-23
+    type: 40gbase-x-qsfpp
+  -
+    name: port-24
+    type: 40gbase-x-qsfpp
+  -
+    name: port-25
+    type: 40gbase-x-qsfpp
+  -
+    name: port-26
+    type: 40gbase-x-qsfpp
+  -
+    name: port-27
+    type: 40gbase-x-qsfpp
+  -
+    name: port-28
+    type: 40gbase-x-qsfpp
+  -
+    name: port-29
+    type: 40gbase-x-qsfpp
+  -
+    name: port-30
+    type: 40gbase-x-qsfpp
+  -
+    name: port-31
+    type: 40gbase-x-qsfpp
+  -
+    name: port-32
+    type: 40gbase-x-qsfpp
+  -
+    name: port-33
+    type: 40gbase-x-qsfpp
+  -
+    name: port-34
+    type: 40gbase-x-qsfpp
+  -
+    name: port-35
+    type: 40gbase-x-qsfpp
+  -
+    name: port-36
+    type: 40gbase-x-qsfpp
+  -
+    name: port-37
+    type: 40gbase-x-qsfpp
+  -
+    name: port-38
+    type: 40gbase-x-qsfpp
+  -
+    name: port-39
+    type: 40gbase-x-qsfpp
+  -
+    name: port-40
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PS1
@@ -278,96 +238,96 @@ module-bays:
   -
     name: port-17
     position: port-17
-    label: qsfp+
+    label: qsfp
   -
     name: port-18
     position: port-18
-    label: qsfp+
+    label: qsfp
   -
     name: port-19
     position: port-19
-    label: qsfp+
+    label: qsfp
   -
     name: port-20
     position: port-20
-    label: qsfp+
+    label: qsfp
   -
     name: port-21
     position: port-21
-    label: qsfp+
+    label: qsfp
   -
     name: port-22
     position: port-22
-    label: qsfp+
+    label: qsfp
   -
     name: port-23
     position: port-23
-    label: qsfp+
+    label: qsfp
   -
     name: port-24
     position: port-24
-    label: qsfp+
+    label: qsfp
   -
     name: port-25
     position: port-25
-    label: qsfp+
+    label: qsfp
   -
     name: port-26
     position: port-26
-    label: qsfp+
+    label: qsfp
   -
     name: port-27
     position: port-27
-    label: qsfp+
+    label: qsfp
   -
     name: port-28
     position: port-28
-    label: qsfp+
+    label: qsfp
   -
     name: port-29
     position: port-29
-    label: qsfp+
+    label: qsfp
   -
     name: port-30
     position: port-30
-    label: qsfp+
+    label: qsfp
   -
     name: port-31
     position: port-31
-    label: qsfp+
+    label: qsfp
   -
     name: port-32
     position: port-32
-    label: qsfp+
+    label: qsfp
   -
     name: port-33
     position: port-33
-    label: qsfp+
+    label: qsfp
   -
     name: port-34
     position: port-34
-    label: qsfp+
+    label: qsfp
   -
     name: port-35
     position: port-35
-    label: qsfp+
+    label: qsfp
   -
     name: port-36
     position: port-36
-    label: qsfp+
+    label: qsfp
   -
     name: port-37
     position: port-37
-    label: qsfp+
+    label: qsfp
   -
     name: port-38
     position: port-38
-    label: qsfp+
+    label: qsfp
   -
     name: port-39
     position: port-39
-    label: qsfp+
+    label: qsfp
   -
     name: port-40
     position: port-40
-    label: qsfp+
+    label: qsfp

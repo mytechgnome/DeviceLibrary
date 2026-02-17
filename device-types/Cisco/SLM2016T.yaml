@@ -61,12 +61,6 @@ interfaces:
     name: GigabitEthernet16
     type: 1000base-t
   -
-    name: GigabitEthernet17
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet18
-    type: 1000base-x-sfp
-  -
     name: Port-Channel1
     type: lag
   -
@@ -81,6 +75,12 @@ interfaces:
   -
     name: vlan 1
     type: virtual
+  -
+    name: GigabitEthernet17
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet18
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet17

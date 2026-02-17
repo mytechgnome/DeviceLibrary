@@ -392,3 +392,4 @@ interfaces:
   -
     name: HundredGigE1/0/52
     type: 100gbase-x-qsfp28
+

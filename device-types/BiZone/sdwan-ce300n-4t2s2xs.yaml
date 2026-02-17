@@ -21,18 +21,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: port1
-    type: 10gbase-x-sfpp
-  -
-    name: port2
-    type: 10gbase-x-sfpp
-  -
-    name: port3
-    type: 1000base-x-sfp
-  -
-    name: port4
-    type: 1000base-x-sfp
-  -
     name: port5
     type: 1000base-t
   -
@@ -44,6 +32,18 @@ interfaces:
   -
     name: port8
     type: 1000base-t
+  -
+    name: port1
+    type: 10gbase-x-sfpp
+  -
+    name: port2
+    type: 10gbase-x-sfpp
+  -
+    name: port3
+    type: 1000base-x-sfp
+  -
+    name: port4
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port1

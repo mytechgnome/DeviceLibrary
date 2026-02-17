@@ -122,23 +122,23 @@ interfaces:
     name: GigabitEthernet1/0/21C
     type: 10gbase-t
   -
-    name: GigabitEthernet1/0/21F
-    type: 10gbase-x-sfpp
-  -
     name: GigabitEthernet1/0/22C
     type: 10gbase-t
-  -
-    name: GigabitEthernet1/0/22F
-    type: 10gbase-x-sfpp
   -
     name: GigabitEthernet1/0/23C
     type: 10gbase-t
   -
-    name: GigabitEthernet1/0/23F
-    type: 10gbase-x-sfpp
-  -
     name: GigabitEthernet1/0/24C
     type: 10gbase-t
+  -
+    name: GigabitEthernet1/0/21F
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/0/22F
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/0/23F
+    type: 10gbase-x-sfpp
   -
     name: GigabitEthernet1/0/24F
     type: 10gbase-x-sfpp

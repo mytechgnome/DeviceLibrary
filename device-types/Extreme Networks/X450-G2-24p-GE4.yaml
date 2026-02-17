@@ -134,6 +134,16 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: SP1
+    type: extreme-summitstack
+  -
+    name: SP2
+    type: extreme-summitstack
+  -
     name: '25'
     type: 1000base-x-sfp
   -
@@ -145,16 +155,6 @@ interfaces:
   -
     name: '28'
     type: 1000base-x-sfp
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: SP1
-    type: extreme-summitstack
-  -
-    name: SP2
-    type: extreme-summitstack
 module-bays:
   -
     name: PSU-1

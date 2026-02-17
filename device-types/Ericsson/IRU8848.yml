@@ -27,12 +27,6 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
-    name: Front Haul 1
-    type: 10gbase-x-sfpp
-  -
-    name: Front Haul 2
-    type: 10gbase-x-sfpp
-  -
     name: DOT 1
     type: 10gbase-t
   -
@@ -56,6 +50,12 @@ interfaces:
   -
     name: DOT 8
     type: 10gbase-t
+  -
+    name: Front Haul 1
+    type: 10gbase-x-sfpp
+  -
+    name: Front Haul 2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Front Haul 1

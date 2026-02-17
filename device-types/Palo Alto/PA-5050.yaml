@@ -66,6 +66,9 @@ interfaces:
     name: ethernet1/12
     type: 1000base-t
   -
+    name: loopback
+    type: virtual
+  -
     name: ethernet1/13
     type: 1000base-x-sfp
   -
@@ -101,9 +104,6 @@ interfaces:
   -
     name: ethernet1/24
     type: 10gbase-x-sfpp
-  -
-    name: loopback
-    type: virtual
 module-bays:
   -
     name: ethernet1/13

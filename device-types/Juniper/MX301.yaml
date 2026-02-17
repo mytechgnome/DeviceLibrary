@@ -23,13 +23,13 @@ interfaces:
     type: 400gbase-x-qsfpdd
   -
     name: et-0/0/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/4
     type: 50gbase-x-sfp28
@@ -89,13 +89,13 @@ interfaces:
     type: 400gbase-x-qsfpdd
   -
     name: et-0/0/23
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/24
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Power Supply 0
@@ -125,15 +125,15 @@ module-bays:
   -
     name: et-0/0/1
     position: et-0/0/1
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/2
     position: et-0/0/2
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/3
     position: et-0/0/3
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/4
     position: et-0/0/4
@@ -213,12 +213,12 @@ module-bays:
   -
     name: et-0/0/23
     position: et-0/0/23
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/24
     position: et-0/0/24
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/25
     position: et-0/0/25
-    label: qsfp28
+    label: qsfp

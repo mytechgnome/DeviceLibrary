@@ -163,6 +163,10 @@ interfaces:
     name: '48'
     type: 1000base-t
   -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '49'
     type: 1000base-x-sfp
   -
@@ -174,10 +178,6 @@ interfaces:
   -
     name: '52'
     type: 1000base-x-sfp
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: '49'

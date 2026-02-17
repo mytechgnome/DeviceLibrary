@@ -7,16 +7,16 @@ comments: 1U height bracket (https://www.supermicro.com/en/products/accessories/
 interfaces:
   -
     name: Gig-E 1
-    type: 10gbase-x-sfpp
+    type: 1000base-x-sfp
   -
     name: Gig-E 2
-    type: 10gbase-x-sfpp
+    type: 1000base-x-sfp
   -
     name: Gig-E 3
-    type: 10gbase-x-sfpp
+    type: 1000base-x-sfp
   -
     name: Gig-E 4
-    type: 10gbase-x-sfpp
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Gig-E 1

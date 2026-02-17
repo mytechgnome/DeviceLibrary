@@ -24,15 +24,15 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: A1
     type: 10gbase-x-sfpp
   -
     name: X1
     type: 10gbase-x-sfpp
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: A1

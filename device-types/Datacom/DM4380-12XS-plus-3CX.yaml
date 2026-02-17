@@ -18,21 +18,21 @@ console-ports:
     type: usb-mini-b
 interfaces:
   -
-    name: hundred-gigabit-ethernet 1/1/1
-    type: 100gbase-x-qsfp28
-    description: 100G/40G Base-X (QSFP28)
-  -
-    name: hundred-gigabit-ethernet 1/1/2
-    type: 100gbase-x-qsfp28
-    description: 100G/40G Base-X (QSFP28)
-  -
-    name: hundred-gigabit-ethernet 1/1/3
-    type: 100gbase-x-qsfp28
-    description: 100G/40G Base-X (QSFP28)
-  -
     name: mgmt-1/1/1
     mgmt_only: true
     type: 100base-tx
+  -
+    name: hundred-gigabit-ethernet 1/1/1
+    type: 40gbase-x-qsfpp
+    description: 100G/40G Base-X (QSFP28)
+  -
+    name: hundred-gigabit-ethernet 1/1/2
+    type: 40gbase-x-qsfpp
+    description: 100G/40G Base-X (QSFP28)
+  -
+    name: hundred-gigabit-ethernet 1/1/3
+    type: 40gbase-x-qsfpp
+    description: 100G/40G Base-X (QSFP28)
   -
     name: ten-gigabit-ethernet-1/1/1
     type: 10gbase-x-sfpp
@@ -81,17 +81,17 @@ module-bays:
   -
     name: hundred-gigabit-ethernet 1/1/1
     position: hundred-gigabit-ethernet 1/1/1
-    label: qsfp28
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
     name: hundred-gigabit-ethernet 1/1/2
     position: hundred-gigabit-ethernet 1/1/2
-    label: qsfp28
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
     name: hundred-gigabit-ethernet 1/1/3
     position: hundred-gigabit-ethernet 1/1/3
-    label: qsfp28
+    label: qsfp
     description: 100G/40G Base-X (QSFP28)
   -
     name: ten-gigabit-ethernet-1/1/1

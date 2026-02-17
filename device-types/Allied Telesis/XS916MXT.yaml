@@ -50,6 +50,10 @@ interfaces:
     name: port1.0.12
     type: 10gbase-t
   -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: port1.0.13
     type: 10gbase-x-sfpp
   -
@@ -61,10 +65,6 @@ interfaces:
   -
     name: port1.0.16
     type: 10gbase-x-sfpp
-  -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
 power-ports:
   -
     name: PSU

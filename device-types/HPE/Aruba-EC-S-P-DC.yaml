@@ -27,22 +27,6 @@ interfaces:
     mgmt_only: true
     label: mgmt1
   -
-    name: tlan0
-    type: 10gbase-x-sfpp
-    label: tlan0
-  -
-    name: twan0
-    type: 10gbase-x-sfpp
-    label: twan0
-  -
-    name: tlan1
-    type: 10gbase-x-sfpp
-    label: tlan1
-  -
-    name: twan1
-    type: 10gbase-x-sfpp
-    label: twan1
-  -
     name: lan0
     type: 1000base-t
     label: lan0
@@ -74,6 +58,18 @@ interfaces:
     name: wan3
     type: 1000base-t
     label: wan3
+  -
+    name: tlan0
+    type: 10gbase-x-sfpp
+  -
+    name: twan0
+    type: 10gbase-x-sfpp
+  -
+    name: tlan1
+    type: 10gbase-x-sfpp
+  -
+    name: twan1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

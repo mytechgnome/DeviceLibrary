@@ -213,51 +213,51 @@ module-bays:
   -
     name: swp49
     position: swp49
-    label: qsfp28
+    label: qsfp
   -
     name: swp50
     position: swp50
-    label: qsfp28
+    label: qsfp
   -
     name: swp51
     position: swp51
-    label: qsfp28
+    label: qsfp
   -
     name: swp52
     position: swp52
-    label: qsfp28
+    label: qsfp
   -
     name: swp53
     position: swp53
-    label: qsfp28
+    label: qsfp
   -
     name: swp54
     position: swp54
-    label: qsfp28
+    label: qsfp
   -
     name: swp55
     position: swp55
-    label: qsfp28
+    label: qsfp
   -
     name: swp56
     position: swp56
-    label: qsfp28
+    label: qsfp
   -
     name: swp57
     position: swp57
-    label: qsfp28
+    label: qsfp
   -
     name: swp58
     position: swp58
-    label: qsfp28
+    label: qsfp
   -
     name: swp59
     position: swp59
-    label: qsfp28
+    label: qsfp
   -
     name: swp60
     position: swp60
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: eth0
@@ -408,37 +408,37 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: swp49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp54
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp55
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp56
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp57
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp58
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp59
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp60
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

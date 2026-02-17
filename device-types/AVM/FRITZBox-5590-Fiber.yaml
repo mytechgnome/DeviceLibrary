@@ -14,10 +14,6 @@ power-ports:
     maximum_draw: 30
 interfaces:
   -
-    name: Fiber
-    label: Fiber
-    type: 10gbase-x-sfpp
-  -
     name: FON1
     label: FON 1
     type: other
@@ -48,6 +44,9 @@ interfaces:
   -
     name: WiFi
     type: ieee802.11ax
+  -
+    name: Fiber
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Fiber

@@ -21,6 +21,20 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
+    name: '17'
+    type: 100gbase-x-cfp2
+  -
+    name: '18'
+    type: 100gbase-x-cfp2
+  -
+    name: DCN1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: DCN2
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 10gbase-x-sfpp
   -
@@ -68,20 +82,6 @@ interfaces:
   -
     name: '16'
     type: 25gbase-x-sfp28
-  -
-    name: '17'
-    type: 100gbase-x-cfp2
-  -
-    name: '18'
-    type: 100gbase-x-cfp2
-  -
-    name: DCN1
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: DCN2
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: '1'

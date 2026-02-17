@@ -25,6 +25,18 @@ interfaces:
     name: T3/T4
     type: 1000base-t
   -
+    name: LAN11
+    type: 1000base-t
+  -
+    name: LAN12
+    type: 1000base-t
+  -
+    name: LAN13
+    type: 1000base-t
+  -
+    name: LAN14
+    type: 1000base-t
+  -
     name: WAN1S
     type: 10gbase-x-sfpp
   -
@@ -61,12 +73,6 @@ interfaces:
     name: LAN10S
     type: 1000base-x-sfp
   -
-    name: LAN11
-    type: 1000base-t
-  -
-    name: LAN12
-    type: 1000base-t
-  -
     name: LAN11S
     type: 1000base-x-sfp
   -
@@ -78,12 +84,6 @@ interfaces:
   -
     name: LAN14S
     type: 1000base-x-sfp
-  -
-    name: LAN13
-    type: 1000base-t
-  -
-    name: LAN14
-    type: 1000base-t
 module-bays:
   -
     name: WAN1S

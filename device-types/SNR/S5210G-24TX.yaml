@@ -110,19 +110,15 @@ interfaces:
     type: 1000base-t
   -
     name: xe1
-    label: xe1
     type: 10gbase-x-sfpp
   -
     name: xe2
-    label: xe2
     type: 10gbase-x-sfpp
   -
     name: xe3
-    label: xe3
     type: 10gbase-x-sfpp
   -
     name: xe4
-    label: xe4
     type: 10gbase-x-sfpp
 console-ports:
   -

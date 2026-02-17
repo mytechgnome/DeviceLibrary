@@ -12,6 +12,10 @@ console-ports:
     type: rj-45
 interfaces:
   -
+    name: CIMC
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: sioc1
     type: 40gbase-x-qsfpp
   -
@@ -20,15 +24,9 @@ interfaces:
   -
     name: sioc3
     type: 40gbase-x-qsfpp
-    mgmt_only: true
   -
     name: sioc4
     type: 40gbase-x-qsfpp
-    mgmt_only: true
-  -
-    name: CIMC
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PSU-1
@@ -45,16 +43,16 @@ module-bays:
   -
     name: sioc1
     position: sioc1
-    label: qsfp+
+    label: qsfp
   -
     name: sioc2
     position: sioc2
-    label: qsfp+
+    label: qsfp
   -
     name: sioc3
     position: sioc3
-    label: qsfp+
+    label: qsfp
   -
     name: sioc4
     position: sioc4
-    label: qsfp+
+    label: qsfp

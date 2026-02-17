@@ -7,10 +7,10 @@ description: Dual-Port 25/10 Gb/s Ethernet PCI Express 3.0 x8 OCP 3.0 Small-Form
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/2
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

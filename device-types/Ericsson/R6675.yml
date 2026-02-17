@@ -45,6 +45,11 @@ power-ports:
     maximum_draw: 225
 interfaces:
   -
+    name: LMT
+    type: 1000base-t
+    mgmt_only: true
+    description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
+  -
     name: 1/1
     type: 10gbase-x-sfpp
   -
@@ -118,21 +123,16 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: 1/25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/26
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/27
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/28
-    type: 100gbase-x-qsfp28
-  -
-    name: LMT
-    type: 1000base-t
-    mgmt_only: true
-    description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: 1/1
@@ -233,16 +233,16 @@ module-bays:
   -
     name: 1/25
     position: 1/25
-    label: qsfp28
+    label: qsfp
   -
     name: 1/26
     position: 1/26
-    label: qsfp28
+    label: qsfp
   -
     name: 1/27
     position: 1/27
-    label: qsfp28
+    label: qsfp
   -
     name: 1/28
     position: 1/28
-    label: qsfp28
+    label: qsfp

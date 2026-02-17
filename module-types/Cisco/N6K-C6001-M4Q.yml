@@ -5,16 +5,16 @@ part_number: N6K-C6001-M4Q
 interfaces:
   -
     name: Ethernet{module}/1
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Etherne{module}/2
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/3
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/4
-    type: 40gbase-x-qsfpp
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet{module}/1

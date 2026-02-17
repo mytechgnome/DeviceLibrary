@@ -20,11 +20,9 @@ interfaces:
     type: 1000base-t
   -
     name: ax0
-    label: X0
     type: 10gbase-x-sfpp
   -
     name: ax1
-    label: X1
     type: 10gbase-x-sfpp
 console-ports:
   -

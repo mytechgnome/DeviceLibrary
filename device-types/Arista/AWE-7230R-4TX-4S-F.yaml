@@ -50,6 +50,10 @@ interfaces:
     name: Ethernet1/4
     type: 10gbase-t
   -
+    name: Management1/1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Ethernet1/5
     type: 10gbase-x-sfpp
   -
@@ -61,7 +65,3 @@ interfaces:
   -
     name: Ethernet1/8
     type: 10gbase-x-sfpp
-  -
-    name: Management1/1
-    type: 1000base-t
-    mgmt_only: true

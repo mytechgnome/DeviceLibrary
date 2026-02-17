@@ -170,28 +170,28 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Hu0/49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/54
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/55
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/56
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Te0/1
@@ -388,32 +388,32 @@ module-bays:
   -
     name: Hu0/49
     position: Hu0/49
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/50
     position: Hu0/50
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/51
     position: Hu0/51
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/52
     position: Hu0/52
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/53
     position: Hu0/53
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/54
     position: Hu0/54
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/55
     position: Hu0/55
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/56
     position: Hu0/56
-    label: qsfp28
+    label: qsfp

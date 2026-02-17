@@ -262,28 +262,20 @@ interfaces:
     enabled: true
     mgmt_only: false
   -
+    name: Vlan1
+    type: virtual
+  -
     name: GigabitEthernet49
     type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
   -
     name: GigabitEthernet50
     type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
   -
     name: GigabitEthernet51
     type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
   -
     name: GigabitEthernet52
     type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
-  -
-    name: Vlan1
-    type: virtual
 module-bays:
   -
     name: GigabitEthernet49

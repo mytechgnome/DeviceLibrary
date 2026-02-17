@@ -34,6 +34,14 @@ console-ports:
     description: RJ45 interface G.703 1PPS & ToD input/output
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: BMC MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: M1
     type: 10gbase-x-sfpp
     description: host CPU extension port
@@ -49,14 +57,6 @@ interfaces:
     name: M4
     type: 10gbase-x-sfpp
     description: host CPU extension port
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: BMC MGMT
-    type: 1000base-t
-    mgmt_only: true
   -
     name: '1'
     type: 1000base-x-sfp
@@ -201,7 +201,6 @@ interfaces:
   -
     name: '48'
     type: 400gbase-x-qsfpdd
-
 module-bays:
   -
     name: PS A

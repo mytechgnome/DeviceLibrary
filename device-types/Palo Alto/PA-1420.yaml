@@ -71,51 +71,6 @@ interfaces:
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   -
-    name: ethernet1/13
-    type: 1000base-x-sfp
-    mgmt_only: false
-  -
-    name: ethernet1/14
-    type: 1000base-x-sfp
-    mgmt_only: false
-  -
-    name: ethernet1/15
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/16
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/17
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/18
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/19
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/20
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/21
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: ethernet1/22
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-  -
-    name: hsci
-    type: 10gbase-x-sfpp
-    mgmt_only: false
-    description: HSCI 10 gigabit high availability
-  -
     name: ha1-a
     type: 1000base-t
   -
@@ -125,6 +80,40 @@ interfaces:
     name: management
     type: 1000base-t
     mgmt_only: true
+  -
+    name: ethernet1/13
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/14
+    type: 1000base-x-sfp
+  -
+    name: ethernet1/15
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/16
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/17
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/18
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/19
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/20
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/21
+    type: 10gbase-x-sfpp
+  -
+    name: ethernet1/22
+    type: 10gbase-x-sfpp
+  -
+    name: hsci
+    type: 10gbase-x-sfpp
+    description: HSCI 10 gigabit high availability
 module-bays:
   -
     name: PS1

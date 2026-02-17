@@ -34,6 +34,10 @@ console-ports:
     description: RJ-45 BITS in or out, ToD in or out, or 1PPS in or out (software selectable).
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 10gbase-x-sfpp
   -
@@ -153,10 +157,6 @@ interfaces:
   -
     name: '40'
     type: 10gbase-x-sfpp
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PS A

@@ -16,9 +16,6 @@ power-ports:
     maximum_draw: 9
 interfaces:
   -
-    name: sfp-wan/lan1
-    type: 1000base-x-sfp
-  -
     name: wan2
     type: 1000base-t
   -
@@ -30,6 +27,9 @@ interfaces:
   -
     name: wan/lan5
     type: 1000base-t
+  -
+    name: sfp-wan/lan1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: sfp-wan/lan1

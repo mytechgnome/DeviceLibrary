@@ -31,55 +31,42 @@ interfaces:
   -
     name: sfp1
     type: 1000base-x-sfp
-    label: SFP1
   -
     name: sfp2
     type: 1000base-x-sfp
-    label: SFP2
   -
     name: sfp3
     type: 1000base-x-sfp
-    label: SFP3
   -
     name: sfp4
     type: 1000base-x-sfp
-    label: SFP4
   -
     name: sfp5
     type: 1000base-x-sfp
-    label: SFP5
   -
     name: sfp6
     type: 1000base-x-sfp
-    label: SFP6
   -
     name: sfp7
     type: 1000base-x-sfp
-    label: SFP7
   -
     name: sfp8
     type: 1000base-x-sfp
-    label: SFP8
   -
     name: sfp9
     type: 1000base-x-sfp
-    label: SFP9
   -
     name: sfp10
     type: 1000base-x-sfp
-    label: SFP10
   -
     name: sfp11
     type: 1000base-x-sfp
-    label: SFP11
   -
     name: sfp12
     type: 1000base-x-sfp
-    label: SFP12
   -
     name: sfp-sfpplus1
     type: 10gbase-x-sfpp
-    label: SFP+1
 module-bays:
   -
     name: sfp1

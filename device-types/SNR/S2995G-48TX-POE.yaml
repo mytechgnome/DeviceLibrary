@@ -371,23 +371,15 @@ interfaces:
   -
     name: Ethernet1/0/49
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '49'
   -
     name: Ethernet1/0/50
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '50'
   -
     name: Ethernet1/0/51
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '51'
   -
     name: Ethernet1/0/52
     type: 10gbase-x-sfpp
-    enabled: true
-    label: '52'
 module-bays:
   -
     name: Ethernet1/0/49

@@ -84,8 +84,8 @@ interfaces:
     description: comboport 1000BASE-T / 1000BASE-X
   -
     name: gigabitethernet1/0/24
-    description: comboport 1000BASE-T / 1000BASE-X
     type: 1000base-x-sfp
+    description: comboport 1000BASE-T / 1000BASE-X
   -
     name: tengigabitethernet1/0/1
     type: 10gbase-x-sfpp

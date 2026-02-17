@@ -117,19 +117,19 @@ module-bays:
   -
     name: eth25
     position: eth25
-    label: qsfp+
+    label: qsfp
   -
     name: eth26
     position: eth26
-    label: qsfp+
+    label: qsfp
   -
     name: eth27
     position: eth27
-    label: qsfp+
+    label: qsfp
   -
     name: eth28
     position: eth28
-    label: qsfp+
+    label: qsfp
 interfaces:
   -
     name: mgmt

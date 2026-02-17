@@ -22,11 +22,9 @@ interfaces:
     name: RSP{module}/SFP+_00_10GE
     type: 10gbase-x-sfpp
     description: Virtualization Cluster Port
-    mgmt_only: true
   -
     name: RSP{module}/SFP+_01_10GE
     type: 10gbase-x-sfpp
-    mgmt_only: true
     description: Virtualization Cluster Port
 console-ports:
   -

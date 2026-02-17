@@ -164,6 +164,10 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: 1/1/25
     type: 50gbase-x-sfp28
   -
@@ -175,7 +179,3 @@ interfaces:
   -
     name: 1/1/28
     type: 50gbase-x-sfp28
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true

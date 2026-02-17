@@ -86,43 +86,43 @@ module-bays:
   -
     name: X16
     position: X16
-    label: qsfp+
+    label: qsfp
   -
     name: X17
     position: X17
-    label: qsfp+
+    label: qsfp
   -
     name: X18
     position: X18
-    label: qsfp+
+    label: qsfp
   -
     name: X19
     position: X19
-    label: qsfp+
+    label: qsfp
   -
     name: X20
     position: X20
-    label: qsfp28
+    label: qsfp
   -
     name: X21
     position: X21
-    label: qsfp28
+    label: qsfp
   -
     name: X22
     position: X22
-    label: qsfp28
+    label: qsfp
   -
     name: X23
     position: X23
-    label: qsfp28
+    label: qsfp
   -
     name: X24
     position: X24
-    label: qsfp28
+    label: qsfp
   -
     name: X25
     position: X25
-    label: qsfp28
+    label: qsfp
 inventory-items:
   -
     name: Storage-Module 1
@@ -209,19 +209,19 @@ interfaces:
     type: 40gbase-x-qsfpp
   -
     name: X20
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: X21
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: X22
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: X23
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: X24
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: X25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

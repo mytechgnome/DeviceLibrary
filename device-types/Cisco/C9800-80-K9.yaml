@@ -28,7 +28,6 @@ interfaces:
   -
     name: Redundancy Port-SFP
     type: 1000base-x-sfp
-    mgmt_only: true
   -
     name: TenGigabitEthernet0/0/0
     type: 10gbase-x-sfpp

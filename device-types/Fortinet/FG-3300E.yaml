@@ -114,16 +114,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port33
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port34
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port35
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port36
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU1
@@ -198,16 +198,16 @@ module-bays:
   -
     name: port33
     position: port33
-    label: qsfp28
+    label: qsfp
   -
     name: port34
     position: port34
-    label: qsfp28
+    label: qsfp
   -
     name: port35
     position: port35
-    label: qsfp28
+    label: qsfp
   -
     name: port36
     position: port36
-    label: qsfp28
+    label: qsfp

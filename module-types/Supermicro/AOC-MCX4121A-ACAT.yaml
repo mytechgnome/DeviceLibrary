@@ -6,12 +6,10 @@ description: Mellanox ConnectX-4 Lx EN
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
-    mgmt_only: false
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/2
-    type: 25gbase-x-sfp28
-    mgmt_only: false
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

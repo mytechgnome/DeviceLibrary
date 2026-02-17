@@ -199,8 +199,8 @@ module-bays:
   -
     name: port33
     position: port33
-    label: qsfp+
+    label: qsfp
   -
     name: port34
     position: port34
-    label: qsfp+
+    label: qsfp

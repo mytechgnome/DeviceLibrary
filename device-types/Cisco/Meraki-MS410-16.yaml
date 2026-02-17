@@ -162,8 +162,8 @@ module-bays:
   -
     name: Hardware Stack Port 1
     position: Hardware Stack Port 1
-    label: qsfp+
+    label: qsfp
   -
     name: Hardware Stack Port 2
     position: Hardware Stack Port 2
-    label: qsfp+
+    label: qsfp

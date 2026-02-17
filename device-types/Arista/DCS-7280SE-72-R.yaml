@@ -12,6 +12,10 @@ front_image: false
 rear_image: false
 interfaces:
   -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Ethernet1
     type: 10gbase-x-sfpp
   -
@@ -161,10 +165,6 @@ interfaces:
   -
     name: Ethernet50/1
     type: 1000base-x-sfp
-  -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
 console-ports:
   -
     name: Console

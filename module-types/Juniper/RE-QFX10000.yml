@@ -13,7 +13,12 @@ interfaces:
     enabled: true
     mgmt_only: true
   -
-    name: '{module}'
+    name: '{module}-em1'
     type: 1000base-x-sfp
     enabled: true
     mgmt_only: true
+module-bays:
+  -
+    name: '{module}-em1'
+    position: '{module}-em1'
+    label: sfp

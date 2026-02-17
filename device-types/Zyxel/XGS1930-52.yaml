@@ -161,6 +161,11 @@ interfaces:
     name: '48'
     type: 1000base-t
   -
+    name: mgmt
+    type: virtual
+    mgmt_only: true
+    description: Virtual Management Interface
+  -
     name: '49'
     type: 10gbase-x-sfpp
   -
@@ -172,11 +177,6 @@ interfaces:
   -
     name: '52'
     type: 10gbase-x-sfpp
-  -
-    name: mgmt
-    type: virtual
-    mgmt_only: true
-    description: Virtual Management Interface
 module-bays:
   -
     name: '49'

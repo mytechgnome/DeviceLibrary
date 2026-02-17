@@ -7,8 +7,7 @@ comments: '[AOC-C25G-m1S Product Sheet](https://www.supermicro.com/en/products/a
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
-    mgmt_only: false
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

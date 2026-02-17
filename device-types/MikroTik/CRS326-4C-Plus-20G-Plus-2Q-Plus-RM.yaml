@@ -20,18 +20,6 @@ rear_image: false
 is_powered: true
 interfaces:
   -
-    name: combo1
-    type: 10gbase-x-sfpp
-  -
-    name: combo2
-    type: 10gbase-x-sfpp
-  -
-    name: combo3
-    type: 10gbase-x-sfpp
-  -
-    name: combo4
-    type: 10gbase-x-sfpp
-  -
     name: ether1
     type: 2.5gbase-t
   -
@@ -96,6 +84,18 @@ interfaces:
     type: 100base-t1
     mgmt_only: true
   -
+    name: combo1
+    type: 10gbase-x-sfpp
+  -
+    name: combo2
+    type: 10gbase-x-sfpp
+  -
+    name: combo3
+    type: 10gbase-x-sfpp
+  -
+    name: combo4
+    type: 10gbase-x-sfpp
+  -
     name: qsfp-qsfpplus1
     type: 40gbase-x-qsfpp
   -
@@ -137,8 +137,8 @@ module-bays:
   -
     name: qsfp-qsfpplus1
     position: qsfp-qsfpplus1
-    label: qsfp+
+    label: qsfp
   -
     name: qsfp-qsfpplus2
     position: qsfp-qsfpplus2
-    label: qsfp+
+    label: qsfp

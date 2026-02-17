@@ -31,6 +31,10 @@ power-ports:
     allocated_draw: 550
 interfaces:
   -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: 1/1/1
     type: 25gbase-x-sfp28
   -
@@ -176,32 +180,28 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: 1/1/49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/54
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/55
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/56
-    type: 100gbase-x-qsfp28
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: 1/1/1
@@ -398,32 +398,32 @@ module-bays:
   -
     name: 1/1/49
     position: 1/1/49
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/50
     position: 1/1/50
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/51
     position: 1/1/51
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/52
     position: 1/1/52
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/53
     position: 1/1/53
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/54
     position: 1/1/54
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/55
     position: 1/1/55
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/56
     position: 1/1/56
-    label: qsfp28
+    label: qsfp

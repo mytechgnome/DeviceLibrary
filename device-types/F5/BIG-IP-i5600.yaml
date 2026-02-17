@@ -25,6 +25,9 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
+    name: Failover
+    type: 1000base-t
+  -
     name: '1.1'
     type: 10gbase-x-sfpp
   -
@@ -60,9 +63,6 @@ interfaces:
   -
     name: '6.0'
     type: 40gbase-x-qsfpp
-  -
-    name: Failover
-    type: 1000base-t
 module-bays:
   -
     name: psu1
@@ -105,16 +105,16 @@ module-bays:
   -
     name: '3.0'
     position: '3.0'
-    label: qsfp+
+    label: qsfp
   -
     name: '4.0'
     position: '4.0'
-    label: qsfp+
+    label: qsfp
   -
     name: '5.0'
     position: '5.0'
-    label: qsfp+
+    label: qsfp
   -
     name: '6.0'
     position: '6.0'
-    label: qsfp+
+    label: qsfp

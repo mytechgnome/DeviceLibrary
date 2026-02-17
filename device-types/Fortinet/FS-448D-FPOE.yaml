@@ -181,6 +181,10 @@ interfaces:
     name: port48
     type: 1000base-t
   -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: port49
     type: 10gbase-x-sfpp
   -
@@ -192,7 +196,3 @@ interfaces:
   -
     name: port52
     type: 10gbase-x-sfpp
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true

@@ -22,226 +22,226 @@ interfaces:
     mgmt_only: true
   -
     name: swp1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp4
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp5
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp6
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp7
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp8
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp9
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp10
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp11
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp12
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp13
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp14
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp15
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp16
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp17
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp18
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp19
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp20
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp21
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp22
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp23
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp24
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp26
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp27
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp28
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp29
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp30
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp31
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp32
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: swp1
     position: swp1
-    label: qsfp28
+    label: qsfp
   -
     name: swp2
     position: swp2
-    label: qsfp28
+    label: qsfp
   -
     name: swp3
     position: swp3
-    label: qsfp28
+    label: qsfp
   -
     name: swp4
     position: swp4
-    label: qsfp28
+    label: qsfp
   -
     name: swp5
     position: swp5
-    label: qsfp28
+    label: qsfp
   -
     name: swp6
     position: swp6
-    label: qsfp28
+    label: qsfp
   -
     name: swp7
     position: swp7
-    label: qsfp28
+    label: qsfp
   -
     name: swp8
     position: swp8
-    label: qsfp28
+    label: qsfp
   -
     name: swp9
     position: swp9
-    label: qsfp28
+    label: qsfp
   -
     name: swp10
     position: swp10
-    label: qsfp28
+    label: qsfp
   -
     name: swp11
     position: swp11
-    label: qsfp28
+    label: qsfp
   -
     name: swp12
     position: swp12
-    label: qsfp28
+    label: qsfp
   -
     name: swp13
     position: swp13
-    label: qsfp28
+    label: qsfp
   -
     name: swp14
     position: swp14
-    label: qsfp28
+    label: qsfp
   -
     name: swp15
     position: swp15
-    label: qsfp28
+    label: qsfp
   -
     name: swp16
     position: swp16
-    label: qsfp28
+    label: qsfp
   -
     name: swp17
     position: swp17
-    label: qsfp28
+    label: qsfp
   -
     name: swp18
     position: swp18
-    label: qsfp28
+    label: qsfp
   -
     name: swp19
     position: swp19
-    label: qsfp28
+    label: qsfp
   -
     name: swp20
     position: swp20
-    label: qsfp28
+    label: qsfp
   -
     name: swp21
     position: swp21
-    label: qsfp28
+    label: qsfp
   -
     name: swp22
     position: swp22
-    label: qsfp28
+    label: qsfp
   -
     name: swp23
     position: swp23
-    label: qsfp28
+    label: qsfp
   -
     name: swp24
     position: swp24
-    label: qsfp28
+    label: qsfp
   -
     name: swp25
     position: swp25
-    label: qsfp28
+    label: qsfp
   -
     name: swp26
     position: swp26
-    label: qsfp28
+    label: qsfp
   -
     name: swp27
     position: swp27
-    label: qsfp28
+    label: qsfp
   -
     name: swp28
     position: swp28
-    label: qsfp28
+    label: qsfp
   -
     name: swp29
     position: swp29
-    label: qsfp28
+    label: qsfp
   -
     name: swp30
     position: swp30
-    label: qsfp28
+    label: qsfp
   -
     name: swp31
     position: swp31
-    label: qsfp28
+    label: qsfp
   -
     name: swp32
     position: swp32
-    label: qsfp28
+    label: qsfp

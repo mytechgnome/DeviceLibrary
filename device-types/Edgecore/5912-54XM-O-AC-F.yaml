@@ -20,6 +20,10 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: xe1
     type: 10gbase-x-sfpp
   -
@@ -165,26 +169,22 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: ce49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ce50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ce51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ce52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ce53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ce54
-    type: 100gbase-x-qsfp28
-  -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: xe1
@@ -381,24 +381,24 @@ module-bays:
   -
     name: ce49
     position: ce49
-    label: qsfp28
+    label: qsfp
   -
     name: ce50
     position: ce50
-    label: qsfp28
+    label: qsfp
   -
     name: ce51
     position: ce51
-    label: qsfp28
+    label: qsfp
   -
     name: ce52
     position: ce52
-    label: qsfp28
+    label: qsfp
   -
     name: ce53
     position: ce53
-    label: qsfp28
+    label: qsfp
   -
     name: ce54
     position: ce54
-    label: qsfp28
+    label: qsfp

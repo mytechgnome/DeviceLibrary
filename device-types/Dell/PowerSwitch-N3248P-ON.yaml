@@ -278,10 +278,10 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Hu1/0/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu1/0/2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: '1'
@@ -310,8 +310,8 @@ module-bays:
   -
     name: Hu1/0/1
     position: Hu1/0/1
-    label: qsfp28
+    label: qsfp
   -
     name: Hu1/0/2
     position: Hu1/0/2
-    label: qsfp28
+    label: qsfp

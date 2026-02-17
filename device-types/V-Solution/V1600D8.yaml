@@ -61,38 +61,6 @@ interfaces:
     type: epon
     label: PON8
   -
-    name: gigabitethernet 0/1
-    type: 1000base-x-sfp
-    label: GE1
-  -
-    name: gigabitethernet 0/2
-    type: 1000base-x-sfp
-    label: GE2
-  -
-    name: gigabitethernet 0/3
-    type: 1000base-x-sfp
-    label: GE3
-  -
-    name: gigabitethernet 0/4
-    type: 1000base-x-sfp
-    label: GE4
-  -
-    name: gigabitethernet 0/5
-    type: 10gbase-x-sfpp
-    label: GE5
-  -
-    name: gigabitethernet 0/6
-    type: 10gbase-x-sfpp
-    label: GE6
-  -
-    name: gigabitethernet 0/7
-    type: 10gbase-x-sfpp
-    label: GE7
-  -
-    name: gigabitethernet 0/8
-    type: 10gbase-x-sfpp
-    label: GE8
-  -
     name: gigabitethernet 0/9
     type: 1000base-t
     label: GE9
@@ -124,6 +92,30 @@ interfaces:
     name: gigabitethernet 0/16
     type: 1000base-t
     label: GE16
+  -
+    name: gigabitethernet 0/1
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/2
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/3
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/4
+    type: 1000base-x-sfp
+  -
+    name: gigabitethernet 0/5
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/6
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/7
+    type: 10gbase-x-sfpp
+  -
+    name: gigabitethernet 0/8
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: gigabitethernet 0/1

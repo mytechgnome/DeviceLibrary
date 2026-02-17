@@ -217,19 +217,19 @@ module-bays:
   -
     name: et-0/0/48
     position: et-0/0/48
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/49
     position: et-0/0/49
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/50
     position: et-0/0/50
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/51
     position: et-0/0/51
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: fxp0
@@ -381,13 +381,13 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: et-0/0/48
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

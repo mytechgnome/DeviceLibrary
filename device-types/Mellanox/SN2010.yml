@@ -75,16 +75,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: swp19
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp20
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp21
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp22
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: swp1
@@ -161,16 +161,16 @@ module-bays:
   -
     name: swp19
     position: swp19
-    label: qsfp28
+    label: qsfp
   -
     name: swp20
     position: swp20
-    label: qsfp28
+    label: qsfp
   -
     name: swp21
     position: swp21
-    label: qsfp28
+    label: qsfp
   -
     name: swp22
     position: swp22
-    label: qsfp28
+    label: qsfp

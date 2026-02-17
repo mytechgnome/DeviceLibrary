@@ -65,7 +65,8 @@ interfaces:
     mgmt_only: true
 module-bays:  # has a bay for some kind of COMM card but I have no details about it
   -
-    name: psu-1a label: 1A
+    name: psu-1a
+    label: 1A
     position: 1A
   -
     name: psu-2a

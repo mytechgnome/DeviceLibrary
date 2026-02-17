@@ -43,35 +43,31 @@ module-bays:
   -
     name: FortyGigE1/0/25
     position: FortyGigE1/0/25
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/26
     position: FortyGigE1/0/26
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/27
     position: FortyGigE1/0/27
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/28
     position: FortyGigE1/0/28
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/29
     position: FortyGigE1/0/29
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/30
     position: FortyGigE1/0/30
-    label: qsfp+
+    label: qsfp
 interfaces:
   -
     name: M-GigabitEthernet0/0/0
     type: 1000base-t
-    mgmt_only: true
-  -
-    name: M-GigabitEthernet0/0/1
-    type: 1000base-x-sfp
     mgmt_only: true
   -
     name: Ten-GigabitEthernet1/0/0
@@ -149,6 +145,9 @@ interfaces:
     name: Ten-GigabitEthernet1/0/24
     type: 10gbase-t
   -
+    name: M-GigabitEthernet0/0/1
+    type: 1000base-x-sfp
+  -
     name: FortyGigE1/0/25
     type: 40gbase-x-qsfpp
   -
@@ -166,17 +165,3 @@ interfaces:
   -
     name: FortyGigE1/0/30
     type: 40gbase-x-qsfpp
-# or
-#   - name: FortyGigE1/0/25
-#     type: 40gbase-x-qsfp28
-#   - name: FortyGigE1/0/26
-#     type: 40gbase-x-qsfp28
-#   - name: FortyGigE1/0/27
-#     type: 40gbase-x-qsfp28
-#   - name: HundredGigE1/0/28
-#     type: 100gbase-x-qsfp28
-# or
-#   - name: HundredGigE1/0/25
-#     type: 100gbase-x-qsfp28
-#   - name: HundredGigE1/0/26
-#     type: 100gbase-x-qsfp28

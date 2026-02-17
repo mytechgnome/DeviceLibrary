@@ -22,131 +22,131 @@ module-bays:
   -
     name: qsfp1
     position: qsfp1
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp2
     position: qsfp2
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp3
     position: qsfp3
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp4
     position: qsfp4
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp5
     position: qsfp5
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp6
     position: qsfp6
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp7
     position: qsfp7
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp8
     position: qsfp8
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp9
     position: qsfp9
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp10
     position: qsfp10
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp11
     position: qsfp11
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp12
     position: qsfp12
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp13
     position: qsfp13
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp14
     position: qsfp14
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp15
     position: qsfp15
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp16
     position: qsfp16
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp17
     position: qsfp17
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp18
     position: qsfp18
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp19
     position: qsfp19
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp20
     position: qsfp20
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp21
     position: qsfp21
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp22
     position: qsfp22
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp23
     position: qsfp23
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp24
     position: qsfp24
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp25
     position: qsfp25
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp26
     position: qsfp26
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp27
     position: qsfp27
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp28
     position: qsfp28
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp29
     position: qsfp29
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp30
     position: qsfp30
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp31
     position: qsfp31
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp32
     position: qsfp32
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: '0'
@@ -158,97 +158,97 @@ interfaces:
     mgmt_only: true
   -
     name: qsfp1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp4
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp5
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp6
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp7
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp8
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp9
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp10
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp11
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp12
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp13
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp14
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp15
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp16
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp17
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp18
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp19
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp20
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp21
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp22
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp23
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp24
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp26
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp27
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp28
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp29
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp30
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp31
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp32
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

@@ -11,11 +11,11 @@ power-ports:
     type: iec-60320-c6
 interfaces:
   -
-    name: Fiber
-    type: 1000base-x-sfp
-  -
     name: Ethernet
     type: 1000base-t
+  -
+    name: Fiber
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Fiber

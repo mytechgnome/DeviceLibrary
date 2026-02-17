@@ -28,7 +28,8 @@ interfaces:
 module-bays:
   # Closest to IO Ports
   -
-    name: CPU 1 position: '1'
+    name: CPU 1
+    position: '1'
     description: LGA 2011 Socket
   # Closest to cooling fans
   -

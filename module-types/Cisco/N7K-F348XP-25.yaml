@@ -196,3 +196,148 @@ module-bays:
     name: Et{module}/48
     position: Et{module}/48
     label: sfp+
+interfaces:
+  -
+    name: Et{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/2
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/3
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/4
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/5
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/6
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/7
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/8
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/9
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/10
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/11
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/12
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/13
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/14
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/15
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/16
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/17
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/18
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/19
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/20
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/21
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/22
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/23
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/24
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/25
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/26
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/27
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/28
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/29
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/30
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/31
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/32
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/33
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/34
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/35
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/36
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/37
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/38
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/39
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/40
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/41
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/42
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/43
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/44
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/45
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/46
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/47
+    type: 10gbase-x-sfpp
+  -
+    name: Et{module}/48
+    type: 10gbase-x-sfpp

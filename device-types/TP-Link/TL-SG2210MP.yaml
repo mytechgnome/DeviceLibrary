@@ -65,11 +65,9 @@ interfaces:
   -
     name: Ethernet 9
     type: 1000base-x-sfp
-    label: SFP 1
   -
     name: Ethernet 10
     type: 1000base-x-sfp
-    label: SFP 2
 module-bays:
   -
     name: Ethernet 9

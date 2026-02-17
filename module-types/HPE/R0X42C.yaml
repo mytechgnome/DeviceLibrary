@@ -77,26 +77,6 @@ interfaces:
   -
     name: 1/{module}/24
     type: 10gbase-t
-  -
-    name: 1/{module}/25
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
-  -
-    name: 1/{module}/26
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
-  -
-    name: 1/{module}/27
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
-  -
-    name: 1/{module}/28
-    type: 50gbase-x-sfp56
-    enabled: true
-    mgmt_only: false
 module-bays:
   -
     name: 1/{module}/25

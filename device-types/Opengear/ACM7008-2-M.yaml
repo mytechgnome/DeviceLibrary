@@ -40,11 +40,11 @@ interfaces:
     name: net1_copper
     type: 1000base-t
   -
-    name: net1_sfp
-    type: 1000base-x-sfp
-  -
     name: net2_copper
     type: 1000base-t
+  -
+    name: net1_sfp
+    type: 1000base-x-sfp
   -
     name: net2_sfp
     type: 1000base-x-sfp

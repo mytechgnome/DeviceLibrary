@@ -148,6 +148,10 @@ interfaces:
     poe_mode: pse
     poe_type: type1-ieee802.3af
   -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Ethernet25
     type: 10gbase-x-sfpp
   -
@@ -159,10 +163,6 @@ interfaces:
   -
     name: Ethernet28
     type: 10gbase-x-sfpp
-  -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: Ethernet25

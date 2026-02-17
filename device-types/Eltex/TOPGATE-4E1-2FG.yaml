@@ -25,12 +25,6 @@ interfaces:
     name: gi1/0/2
     type: 1000base-t
   -
-    name: gi1/0/3
-    type: 1000base-x-sfp
-  -
-    name: gi1/0/4
-    type: 1000base-x-sfp
-  -
     name: E1-0
     type: 1000base-t
   -
@@ -42,6 +36,12 @@ interfaces:
   -
     name: E1-3
     type: 1000base-t
+  -
+    name: gi1/0/3
+    type: 1000base-x-sfp
+  -
+    name: gi1/0/4
+    type: 1000base-x-sfp
 module-bays:
   -
     name: gi1/0/3

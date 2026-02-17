@@ -7,25 +7,21 @@ is_full_depth: false
 u_height: 1
 interfaces:
   -
-    name: sfp-sfpplus1
-    label: SFP+ 1
-    type: 10gbase-x-sfpp
-  -
-    name: sfp-sfpplus2
-    label: SFP+ 2
-    type: 10gbase-x-sfpp
-  -
-    name: sfp-sfpplus3
-    label: SFP+ 3
-    type: 10gbase-x-sfpp
-  -
-    name: sfp-sfpplus4
-    label: SFP+ 4
-    type: 10gbase-x-sfpp
-  -
     name: ether1
     label: ETH/BOOT
     type: 1000base-t
+  -
+    name: sfp-sfpplus1
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus2
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus3
+    type: 10gbase-x-sfpp
+  -
+    name: sfp-sfpplus4
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: psu1

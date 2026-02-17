@@ -9,6 +9,10 @@ rear_image: true
 u_height: 1
 interfaces:
   -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: gigabitethernet 0/0/0
     type: 10gbase-x-sfpp
   -
@@ -53,10 +57,6 @@ interfaces:
   -
     name: gigabitethernet 0/0/15
     type: 10gbase-x-sfpp
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
 power-ports:
   -
     name: PEM0

@@ -6,6 +6,7 @@ part_number: CW9166D1-B
 u_height: 0
 is_full_depth: false
 airflow: passive
+comments: Cisco Catalyst CW9166D1-B Wi-Fi 6E Access Point with integrated direction antennas. [Cisco Catalyst 9166 Series Access Points Data Sheet](https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9166-series-access-points/catalyst-9166-series-access-points-ds.html)
 console-ports:
   -
     name: Console
@@ -20,8 +21,8 @@ interfaces:
   -
     name: Eth0
     type: 5gbase-t
-    power_mode: pd
-    poe_type: type2-ieee802.3af
+    poe_mode: pd
+    poe_type: type3-ieee802.3bt
     description: 100/1000/2.5G/5G RJ-45 multi-gig Ethernet
     enabled: true
   -

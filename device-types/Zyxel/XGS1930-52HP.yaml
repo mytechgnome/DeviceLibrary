@@ -257,6 +257,11 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: mgmt
+    type: virtual
+    mgmt_only: true
+    description: Virtual Management Interface
+  -
     name: '49'
     type: 10gbase-x-sfpp
   -
@@ -268,11 +273,6 @@ interfaces:
   -
     name: '52'
     type: 10gbase-x-sfpp
-  -
-    name: mgmt
-    type: virtual
-    mgmt_only: true
-    description: Virtual Management Interface
 module-bays:
   -
     name: '49'

@@ -10,7 +10,6 @@ interfaces:
   -
     name: TenGigabitEthernet0/{module}/0
     type: 10gbase-x-sfpp
-    enabled: true
 module-bays:
   -
     name: TenGigabitEthernet0/{module}/0

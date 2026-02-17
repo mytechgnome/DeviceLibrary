@@ -144,12 +144,16 @@ module-bays:
   -
     name: Port 33
     position: Port 33
-    label: qsfp+
+    label: qsfp
   -
     name: Port 34
     position: Port 34
-    label: qsfp+
+    label: qsfp
 interfaces:
+  -
+    name: Management
+    type: 1000base-t
+    mgmt_only: true
   -
     name: Port 1
     type: 10gbase-x-sfpp
@@ -252,7 +256,3 @@ interfaces:
   -
     name: Port 34
     type: 40gbase-x-qsfpp
-  -
-    name: Management
-    type: 1000base-t
-    mgmt_only: true

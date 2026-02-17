@@ -30,11 +30,11 @@ module-bays:
   -
     name: RDMA_Expand_1
     position: RDMA_Expand_1
-    label: qsfp28
+    label: qsfp
   -
     name: RDMA_Expand_2
     position: RDMA_Expand_2
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: Net
@@ -49,7 +49,7 @@ interfaces:
     mgmt_only: true
   -
     name: RDMA_Expand_1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: RDMA_Expand_2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

@@ -24,12 +24,6 @@ interfaces:
     name: USB
     type: lte
   -
-    name: WAN 1
-    type: 1000base-x-sfp
-  -
-    name: WAN 2
-    type: 1000base-x-sfp
-  -
     name: WAN 3
     type: 1000base-t
   -
@@ -59,6 +53,12 @@ interfaces:
   -
     name: Port 12
     type: 1000base-t
+  -
+    name: WAN 1
+    type: 1000base-x-sfp
+  -
+    name: WAN 2
+    type: 1000base-x-sfp
   -
     name: Port 13
     type: 1000base-x-sfp

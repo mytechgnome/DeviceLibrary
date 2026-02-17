@@ -47,70 +47,70 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: '5'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '6'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '7'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '8'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '9'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '10'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '11'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '12'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '13'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '14'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '15'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '16'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '17'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '18'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '19'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '20'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '21'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '22'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '23'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '24'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '25'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '26'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PS A
@@ -161,88 +161,88 @@ module-bays:
   -
     name: '5'
     position: '5'
-    label: qsfp28
+    label: qsfp
   -
     name: '6'
     position: '6'
-    label: qsfp28
+    label: qsfp
   -
     name: '7'
     position: '7'
-    label: qsfp28
+    label: qsfp
   -
     name: '8'
     position: '8'
-    label: qsfp28
+    label: qsfp
   -
     name: '9'
     position: '9'
-    label: qsfp28
+    label: qsfp
   -
     name: '10'
     position: '10'
-    label: qsfp28
+    label: qsfp
   -
     name: '11'
     position: '11'
-    label: qsfp28
+    label: qsfp
   -
     name: '12'
     position: '12'
-    label: qsfp28
+    label: qsfp
   -
     name: '13'
     position: '13'
-    label: qsfp28
+    label: qsfp
   -
     name: '14'
     position: '14'
-    label: qsfp28
+    label: qsfp
   -
     name: '15'
     position: '15'
-    label: qsfp28
+    label: qsfp
   -
     name: '16'
     position: '16'
-    label: qsfp28
+    label: qsfp
   -
     name: '17'
     position: '17'
-    label: qsfp28
+    label: qsfp
   -
     name: '18'
     position: '18'
-    label: qsfp28
+    label: qsfp
   -
     name: '19'
     position: '19'
-    label: qsfp28
+    label: qsfp
   -
     name: '20'
     position: '20'
-    label: qsfp28
+    label: qsfp
   -
     name: '21'
     position: '21'
-    label: qsfp28
+    label: qsfp
   -
     name: '22'
     position: '22'
-    label: qsfp28
+    label: qsfp
   -
     name: '23'
     position: '23'
-    label: qsfp28
+    label: qsfp
   -
     name: '24'
     position: '24'
-    label: qsfp28
+    label: qsfp
   -
     name: '25'
     position: '25'
-    label: qsfp28
+    label: qsfp
   -
     name: '26'
     position: '26'
-    label: qsfp28
+    label: qsfp

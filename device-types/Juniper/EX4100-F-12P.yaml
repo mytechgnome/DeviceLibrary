@@ -88,6 +88,16 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: mge-0/2/0
+    type: 10gbase-t
+    poe_mode: pd
+    poe_type: type4-ieee802.3bt
+  -
+    name: mge-0/2/1
+    type: 10gbase-t
+    poe_mode: pd
+    poe_type: type4-ieee802.3bt
+  -
     name: xe-0/1/0
     type: 10gbase-x-sfpp
   -
@@ -99,16 +109,6 @@ interfaces:
   -
     name: xe-0/1/3
     type: 10gbase-x-sfpp
-  -
-    name: mge-0/2/0
-    type: 10gbase-t
-    poe_mode: pd
-    poe_type: type4-ieee802.3bt
-  -
-    name: mge-0/2/1
-    type: 10gbase-t
-    poe_mode: pd
-    poe_type: type4-ieee802.3bt
 module-bays:
   -
     name: xe-0/1/0

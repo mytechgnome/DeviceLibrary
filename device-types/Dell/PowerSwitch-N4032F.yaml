@@ -117,6 +117,10 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: out-of-band
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Te1/0/1
     type: 10gbase-x-sfpp
   -
@@ -188,7 +192,3 @@ interfaces:
   -
     name: Te1/0/24
     type: 10gbase-x-sfpp
-  -
-    name: out-of-band
-    type: 1000base-t
-    mgmt_only: true

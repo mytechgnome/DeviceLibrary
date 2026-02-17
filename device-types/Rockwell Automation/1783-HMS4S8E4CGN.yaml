@@ -7,12 +7,6 @@ u_height: 3
 is_full_depth: false
 interfaces:
   -
-    name: GigabitEthernet1/1
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet1/2
-    type: 1000base-x-sfp
-  -
     name: GigabitEthernet1/3
     type: 1000base-t
   -
@@ -57,6 +51,12 @@ interfaces:
   -
     name: SVI1
     type: virtual
+  -
+    name: GigabitEthernet1/1
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/2
+    type: 1000base-x-sfp
 console-ports:
   -
     name: usb

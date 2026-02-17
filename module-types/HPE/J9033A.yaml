@@ -64,18 +64,6 @@ interfaces:
   -
     name: '{module}20'
     type: 1000base-t
-  -
-    name: '{module}21'
-    type: 1000base-x-sfp
-  -
-    name: '{module}22'
-    type: 1000base-x-sfp
-  -
-    name: '{module}23'
-    type: 1000base-x-sfp
-  -
-    name: '{module}24'
-    type: 1000base-x-sfp
 module-bays:
   -
     name: '{module}21'

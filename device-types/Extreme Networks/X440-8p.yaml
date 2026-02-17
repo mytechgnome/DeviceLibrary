@@ -59,6 +59,10 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '9'
     type: 1000base-x-sfp
   -
@@ -70,10 +74,6 @@ interfaces:
   -
     name: '12'
     type: 1000base-x-sfp
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: '9'

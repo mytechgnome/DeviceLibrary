@@ -29,6 +29,10 @@ console-ports:
     description: RJ-45 sync port
 interfaces:
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 25gbase-x-sfp28
   -
@@ -126,20 +130,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: '33'
-    type: 200gbase-x-qsfp56
+    type: 40gbase-x-qsfpp
   -
     name: '34'
-    type: 200gbase-x-qsfp56
+    type: 40gbase-x-qsfpp
   -
     name: '35'
-    type: 200gbase-x-qsfp56
+    type: 40gbase-x-qsfpp
   -
     name: '36'
-    type: 200gbase-x-qsfp56
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp
 power-ports:
   -
     name: PS-A
@@ -283,16 +283,16 @@ module-bays:
   -
     name: '33'
     position: '33'
-    label: qsfp56
+    label: qsfp
   -
     name: '34'
     position: '34'
-    label: qsfp56
+    label: qsfp
   -
     name: '35'
     position: '35'
-    label: qsfp56
+    label: qsfp
   -
     name: '36'
     position: '36'
-    label: qsfp56
+    label: qsfp

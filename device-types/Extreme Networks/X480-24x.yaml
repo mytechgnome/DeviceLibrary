@@ -14,6 +14,46 @@ console-ports:
     type: de-9
 interfaces:
   -
+    name: '25'
+    type: 1000base-t
+  -
+    name: '26'
+    type: 1000base-t
+  -
+    name: '27'
+    type: 1000base-t
+  -
+    name: '28'
+    type: 1000base-t
+  -
+    name: '29'
+    type: 1000base-t
+  -
+    name: '30'
+    type: 1000base-t
+  -
+    name: '31'
+    type: 1000base-t
+  -
+    name: '32'
+    type: 1000base-t
+  -
+    name: '33'
+    type: 1000base-t
+  -
+    name: '34'
+    type: 1000base-t
+  -
+    name: '35'
+    type: 1000base-t
+  -
+    name: '36'
+    type: 1000base-t
+  -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 1000base-x-sfp
   -
@@ -85,46 +125,6 @@ interfaces:
   -
     name: '24'
     type: 1000base-x-sfp
-  -
-    name: '25'
-    type: 1000base-t
-  -
-    name: '26'
-    type: 1000base-t
-  -
-    name: '27'
-    type: 1000base-t
-  -
-    name: '28'
-    type: 1000base-t
-  -
-    name: '29'
-    type: 1000base-t
-  -
-    name: '30'
-    type: 1000base-t
-  -
-    name: '31'
-    type: 1000base-t
-  -
-    name: '32'
-    type: 1000base-t
-  -
-    name: '33'
-    type: 1000base-t
-  -
-    name: '34'
-    type: 1000base-t
-  -
-    name: '35'
-    type: 1000base-t
-  -
-    name: '36'
-    type: 1000base-t
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PSU-1

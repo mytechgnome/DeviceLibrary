@@ -46,14 +46,14 @@ interfaces:
     name: eth9
     type: 1000base-t
   -
+    name: switch0
+    type: bridge
+  -
     name: eth10
     type: 1000base-x-sfp
   -
     name: eth11
     type: 1000base-x-sfp
-  -
-    name: switch0
-    type: bridge
 console-ports:
   -
     name: Console

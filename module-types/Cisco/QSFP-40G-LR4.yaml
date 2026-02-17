@@ -5,5 +5,5 @@ part_number: QSFP-40G-LR4
 comments: "Cisco 40GBASE-LR4 QSFP+."
 interfaces:
   -
-    name: {module: null}
+    name: "{module}"
     type: 40gbase-lr4

@@ -214,35 +214,35 @@ module-bays:
   -
     name: qsfp49
     position: qsfp49
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp50
     position: qsfp50
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp51
     position: qsfp51
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp52
     position: qsfp52
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp53
     position: qsfp53
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp54
     position: qsfp54
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp55
     position: qsfp55
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp56
     position: qsfp56
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: '0'
@@ -398,25 +398,25 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: qsfp49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp54
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp55
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp56
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

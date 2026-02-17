@@ -5,16 +5,16 @@ model: VIC 15428
 interfaces:
   -
     name: Ethernet {module}/1
-    type: 50gbase-x-sfp56
+    type: 10gbase-x-sfpp
   -
     name: Ethernet {module}/2
-    type: 50gbase-x-sfp56
+    type: 10gbase-x-sfpp
   -
     name: Ethernet {module}/3
-    type: 50gbase-x-sfp56
+    type: 10gbase-x-sfpp
   -
     name: Ethernet {module}/4
-    type: 50gbase-x-sfp56
+    type: 10gbase-x-sfpp
 comments: Cisco UCS VIC 15428 Quad port 10/25/50G mLOM for C220-M7, C240-M7
 module-bays:
   -

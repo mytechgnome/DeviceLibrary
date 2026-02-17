@@ -26,12 +26,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: ha1
-    type: 10gbase-x-sfpp
-  -
-    name: ha2
-    type: 10gbase-x-sfpp
-  -
     name: port1
     type: 1000base-t
   -
@@ -79,6 +73,12 @@ interfaces:
   -
     name: port16
     type: 1000base-t
+  -
+    name: ha1
+    type: 10gbase-x-sfpp
+  -
+    name: ha2
+    type: 10gbase-x-sfpp
   -
     name: port17
     type: 1000base-x-sfp
@@ -141,16 +141,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port37
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port38
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port39
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port40
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU1
@@ -249,16 +249,16 @@ module-bays:
   -
     name: port37
     position: port37
-    label: qsfp28
+    label: qsfp
   -
     name: port38
     position: port38
-    label: qsfp28
+    label: qsfp
   -
     name: port39
     position: port39
-    label: qsfp28
+    label: qsfp
   -
     name: port40
     position: port40
-    label: qsfp28
+    label: qsfp

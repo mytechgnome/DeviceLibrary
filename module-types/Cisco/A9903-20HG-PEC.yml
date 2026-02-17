@@ -6,7 +6,7 @@ comments: '[Cisco ASR 9000 Series Aggregation Services Routers Data Sheet](https
 interfaces:
   -
     name: HundredGigE{module}/0
-    type: 400gbase-x-qsfpdd
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/1
     type: 100gbase-x-qsfp28
@@ -18,7 +18,7 @@ interfaces:
     type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/4
-    type: 400gbase-x-qsfpdd
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/5
     type: 100gbase-x-qsfp28
@@ -30,7 +30,7 @@ interfaces:
     type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/8
-    type: 400gbase-x-qsfpdd
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/9
     type: 100gbase-x-qsfp28
@@ -42,7 +42,7 @@ interfaces:
     type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/12
-    type: 400gbase-x-qsfpdd
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/13
     type: 100gbase-x-qsfp28
@@ -54,7 +54,7 @@ interfaces:
     type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/16
-    type: 400gbase-x-qsfpdd
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE{module}/17
     type: 100gbase-x-qsfp28

@@ -302,6 +302,10 @@ interfaces:
     poe_type: type2-ieee802.3at
     description: support full-duplex communication and support half-duplex communication at speeds less than 1 Gb
   -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '49'
     type: 10gbase-x-sfpp
   -
@@ -313,10 +317,6 @@ interfaces:
   -
     name: '52'
     type: 10gbase-x-sfpp
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PSU-1

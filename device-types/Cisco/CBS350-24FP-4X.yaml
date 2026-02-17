@@ -131,6 +131,9 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: Vlan1
+    type: virtual
+  -
     name: TenGigabitEthernet1/0/1
     type: 10gbase-x-sfpp
   -
@@ -142,9 +145,6 @@ interfaces:
   -
     name: TenGigabitEthernet1/0/4
     type: 10gbase-x-sfpp
-  -
-    name: Vlan1
-    type: virtual
 console-ports:
   -
     name: con0

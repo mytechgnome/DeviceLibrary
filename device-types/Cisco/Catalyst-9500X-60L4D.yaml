@@ -194,7 +194,6 @@ interfaces:
   -
     name: TenGigabitEthernet1/0/60
     type: 50gbase-x-sfp28
-  # 4 x 40G/100G QSFP28 uplink ports
   -
     name: FortyGigE1/0/1
     type: 400gbase-x-qsfpdd

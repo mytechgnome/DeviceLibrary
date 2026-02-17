@@ -5,5 +5,5 @@ part_number: SFP-10G-LR-S
 comments: "Cisco 10GBASE-LR SFP+."
 interfaces:
   -
-    name: {module: null}
+    name: "{module}"
     type: 10gbase-lr

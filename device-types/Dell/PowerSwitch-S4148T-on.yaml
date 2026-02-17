@@ -79,24 +79,6 @@ interfaces:
     name: Ethernet 1/1/24
     type: 10gbase-t
   -
-    name: Ethernet 1/1/25
-    type: 100gbase-x-qsfp28
-  -
-    name: Ethernet 1/1/26
-    type: 100gbase-x-qsfp28
-  -
-    name: Ethernet 1/1/27
-    type: 40gbase-x-qsfpp
-  -
-    name: Ethernet 1/1/28
-    type: 40gbase-x-qsfpp
-  -
-    name: Ethernet 1/1/29
-    type: 100gbase-x-qsfp28
-  -
-    name: Ethernet 1/1/30
-    type: 100gbase-x-qsfp28
-  -
     name: Ethernet 1/1/31
     type: 10gbase-t
   -
@@ -163,28 +145,46 @@ interfaces:
     name: Management 1/1/1
     type: 1000base-t
     mgmt_only: true
+  -
+    name: Ethernet 1/1/25
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet 1/1/26
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet 1/1/27
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet 1/1/28
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet 1/1/29
+    type: 40gbase-x-qsfpp
+  -
+    name: Ethernet 1/1/30
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Ethernet 1/1/25
     position: Ethernet 1/1/25
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet 1/1/26
     position: Ethernet 1/1/26
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet 1/1/27
     position: Ethernet 1/1/27
-    label: qsfp+
+    label: qsfp
   -
     name: Ethernet 1/1/28
     position: Ethernet 1/1/28
-    label: qsfp+
+    label: qsfp
   -
     name: Ethernet 1/1/29
     position: Ethernet 1/1/29
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet 1/1/30
     position: Ethernet 1/1/30
-    label: qsfp28
+    label: qsfp

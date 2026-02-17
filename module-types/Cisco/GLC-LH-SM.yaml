@@ -5,5 +5,5 @@ part_number: GLC-LH-SM
 comments: "Cisco 1000BASE-LX/LH SFP."
 interfaces:
   -
-    name: {module: null}
+    name: "{module}"
     type: 1000base-lx

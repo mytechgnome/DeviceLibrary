@@ -28,6 +28,10 @@ interfaces:
     name: eth1-2
     type: 10gbase-t
   -
+    name: CIMC
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: eth2-1
     type: 25gbase-x-sfp28
   -
@@ -39,10 +43,6 @@ interfaces:
   -
     name: eth2-4
     type: 25gbase-x-sfp28
-  -
-    name: CIMC
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: eth2-1

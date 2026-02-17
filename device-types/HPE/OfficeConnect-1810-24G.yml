@@ -89,7 +89,6 @@ interfaces:
   -
     name: '25'
     type: 1000base-x-sfp
-  # combo port, it's possible to use either 24 or 26 at a time
   -
     name: '26'
     type: 1000base-x-sfp

@@ -53,6 +53,16 @@ interfaces:
     name: ethernet1/12
     type: 10gbase-t
   -
+    name: ha1-a
+    type: 1000base-t
+  -
+    name: ha1-b
+    type: 1000base-t
+  -
+    name: management
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: ethernet1/13
     type: 10gbase-x-sfpp
   -
@@ -96,23 +106,13 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: ethernet1/35
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: ethernet1/36
-    type: 100gbase-x-qsfp28
-  -
-    name: ha1-a
-    type: 1000base-t
-  -
-    name: ha1-b
-    type: 1000base-t
+    type: 40gbase-x-qsfpp
   -
     name: hsci
     type: 10gbase-x-sfpp
-  -
-    name: management
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PS1
@@ -179,11 +179,11 @@ module-bays:
   -
     name: ethernet1/35
     position: ethernet1/35
-    label: qsfp28
+    label: qsfp
   -
     name: ethernet1/36
     position: ethernet1/36
-    label: qsfp28
+    label: qsfp
   -
     name: hsci
     position: hsci

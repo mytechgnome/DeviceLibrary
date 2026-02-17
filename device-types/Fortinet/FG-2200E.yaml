@@ -22,12 +22,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: ha1
-    type: 25gbase-x-sfp28
-  -
-    name: ha2
-    type: 25gbase-x-sfp28
-  -
     name: port1
     type: 1000base-t
   -
@@ -63,6 +57,12 @@ interfaces:
   -
     name: port12
     type: 1000base-t
+  -
+    name: ha1
+    type: 25gbase-x-sfp28
+  -
+    name: ha2
+    type: 25gbase-x-sfp28
   -
     name: port13
     type: 25gbase-x-sfp28
@@ -219,16 +219,16 @@ module-bays:
   -
     name: port31
     position: port31
-    label: qsfp+
+    label: qsfp
   -
     name: port32
     position: port32
-    label: qsfp+
+    label: qsfp
   -
     name: port33
     position: port33
-    label: qsfp+
+    label: qsfp
   -
     name: port34
     position: port34
-    label: qsfp+
+    label: qsfp

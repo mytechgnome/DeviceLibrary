@@ -9,22 +9,6 @@ weight_unit: lb
 is_full_depth: true
 interfaces:
   -
-    name: PortA
-    type: 100gbase-x-qsfp28
-    mgmt_only: false
-  -
-    name: PortB
-    type: 100gbase-x-qsfp28
-    mgmt_only: false
-  -
-    name: mgmt-sfp-1
-    type: 10gbase-x-sfpp
-    mgmt_only: true
-  -
-    name: mgmt-sfp-2
-    type: 10gbase-x-sfpp
-    mgmt_only: true
-  -
     name: mgmt
     type: 1000base-t
     mgmt_only: true
@@ -44,6 +28,18 @@ interfaces:
     name: IPMI
     type: 1000base-t
     mgmt_only: true
+  -
+    name: PortA
+    type: 40gbase-x-qsfpp
+  -
+    name: PortB
+    type: 40gbase-x-qsfpp
+  -
+    name: mgmt-sfp-1
+    type: 10gbase-x-sfpp
+  -
+    name: mgmt-sfp-2
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: PSU1
@@ -57,11 +53,11 @@ module-bays:
   -
     name: PortA
     position: PortA
-    label: qsfp28
+    label: qsfp
   -
     name: PortB
     position: PortB
-    label: qsfp28
+    label: qsfp
   -
     name: mgmt-sfp-1
     position: mgmt-sfp-1

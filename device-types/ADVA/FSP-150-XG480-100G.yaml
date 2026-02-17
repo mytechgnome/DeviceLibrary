@@ -21,6 +21,14 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
+    name: DCN1
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: DCN2
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '1'
     type: 10gbase-x-sfpp
   -
@@ -178,24 +186,16 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: '53'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '57'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '61'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '62'
-    type: 100gbase-x-qsfp28
-  -
-    name: DCN1
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: DCN2
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: '1'
@@ -408,16 +408,16 @@ module-bays:
   -
     name: '53'
     position: '53'
-    label: qsfp28
+    label: qsfp
   -
     name: '57'
     position: '57'
-    label: qsfp28
+    label: qsfp
   -
     name: '61'
     position: '61'
-    label: qsfp28
+    label: qsfp
   -
     name: '62'
     position: '62'
-    label: qsfp28
+    label: qsfp

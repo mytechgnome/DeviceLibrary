@@ -90,18 +90,6 @@ interfaces:
     name: GigabitEthernet1/0/24
     type: 1000base-t
   -
-    name: TenGigabitEthernet1/0/1
-    type: 10gbase-x-sfpp
-  -
-    name: TenGigabitEthernet1/0/2
-    type: 10gbase-x-sfpp
-  -
-    name: TenGigabitEthernet1/0/3
-    type: 10gbase-x-sfpp
-  -
-    name: TenGigabitEthernet1/0/4
-    type: 10gbase-x-sfpp
-  -
     name: Port-channel1
     type: lag
   -
@@ -200,6 +188,18 @@ interfaces:
   -
     name: vlan1
     type: virtual
+  -
+    name: TenGigabitEthernet1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: TenGigabitEthernet1/0/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TenGigabitEthernet1/0/1

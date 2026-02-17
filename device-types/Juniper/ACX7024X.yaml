@@ -22,16 +22,16 @@ interfaces:
     mgmt_only: true
   -
     name: et-0/0/0
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/4
     type: 25gbase-x-sfp28
@@ -120,19 +120,19 @@ module-bays:
   -
     name: et-0/0/0
     position: et-0/0/0
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/1
     position: et-0/0/1
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/2
     position: et-0/0/2
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/3
     position: et-0/0/3
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/4
     position: et-0/0/4

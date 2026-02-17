@@ -63,11 +63,11 @@ module-bays:
   -
     name: FortyGigE1/0/41
     position: FortyGigE1/0/41
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigE1/0/42
     position: FortyGigE1/0/42
-    label: qsfp+
+    label: qsfp
 interfaces:
   -
     name: Management

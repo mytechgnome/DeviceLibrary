@@ -17,14 +17,6 @@ console-ports:
     type: rj-45
 interfaces:
   -
-    name: a1
-    type: 10gbase-x-sfpp
-    enabled: true
-  -
-    name: a2
-    type: 10gbase-x-sfpp
-    enabled: true
-  -
     name: p1
     type: 1000base-t
     enabled: true
@@ -58,21 +50,23 @@ interfaces:
     type: 1000base-t
     enabled: true
   -
+    name: a1
+    type: 10gbase-x-sfpp
+  -
+    name: a2
+    type: 10gbase-x-sfpp
+  -
     name: p9
     type: 1000base-x-sfp
-    enabled: true
   -
     name: p10
     type: 1000base-x-sfp
-    enabled: true
   -
     name: p11
     type: 1000base-x-sfp
-    enabled: true
   -
     name: p12
     type: 1000base-x-sfp
-    enabled: true
 module-bays:
   -
     name: PSU 1

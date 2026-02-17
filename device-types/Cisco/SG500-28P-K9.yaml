@@ -137,6 +137,9 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: Vlan1
+    type: virtual
+  -
     name: GigabitEthernet1/1/25
     type: 1000base-x-sfp
   -
@@ -148,9 +151,6 @@ interfaces:
   -
     name: GigabitEthernet1/1/28
     type: 1000base-x-sfp
-  -
-    name: Vlan1
-    type: virtual
 module-bays:
   -
     name: GigabitEthernet1/1/25

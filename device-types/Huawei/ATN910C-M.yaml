@@ -129,102 +129,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: GigabitEthernet0/2/0
-    label: 10GE/GE/FE 0
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/1
-    label: 10GE/GE/FE 1
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/2
-    label: 10GE/GE/FE 2
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/3
-    label: 10GE/GE/FE 3
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/4
-    label: 10GE/GE/FE 4
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/5
-    label: 10GE/GE/FE 5
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/6
-    label: 10GE/GE/FE 6
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/7
-    label: 10GE/GE/FE 7
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/8
-    label: 10GE/GE/FE 8
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/9
-    label: 10GE/GE/FE 9
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/10
-    label: 10GE/GE/FE 10
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/11
-    label: 10GE/GE/FE 11
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/12
-    label: 10GE/GE/FE 12
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/13
-    label: 10GE/GE/FE 13
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/14
-    label: 10GE/GE/FE 14
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/15
-    label: 10GE/GE/FE 15
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet0/2/16
-    label: GE/FE 16
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/17
-    label: GE/FE 17
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/18
-    label: GE/FE 18
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/19
-    label: GE/FE 19
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/20
-    label: GE/FE 20
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/21
-    label: GE/FE 21
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/22
-    label: GE/FE 22
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/2/23
-    label: GE/FE 23
-    type: 1000base-x-sfp
-  -
     name: GigabitEthernet0/2/24
     label: GE/FE 24
     type: 1000base-t
@@ -240,3 +144,75 @@ interfaces:
     name: GigabitEthernet0/2/27
     label: GE/FE 27
     type: 1000base-t
+  -
+    name: GigabitEthernet0/2/0
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/1
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/2
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/3
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/4
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/5
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/6
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/7
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/8
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/9
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/10
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/11
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/12
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/13
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/14
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/15
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet0/2/16
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/17
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/18
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/19
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/20
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/21
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/22
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/2/23
+    type: 1000base-x-sfp

@@ -23,12 +23,6 @@ power-ports:
     maximum_draw: 6
 interfaces:
   -
-    name: port0
-    type: 1000base-x-sfp
-  -
-    name: port1
-    type: 1000base-x-sfp
-  -
     name: eth-0
     type: 100base-tx
   -
@@ -40,6 +34,12 @@ interfaces:
   -
     name: e1-port2
     type: e1
+  -
+    name: port0
+    type: 1000base-x-sfp
+  -
+    name: port1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port0

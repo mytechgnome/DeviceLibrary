@@ -143,30 +143,22 @@ interfaces:
     enabled: true
     mgmt_only: false
   -
-    name: GigabitEthernet25
-    type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
-  -
-    name: GigabitEthernet26
-    type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
-  -
-    name: GigabitEthernet27
-    type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
-  -
-    name: GigabitEthernet28
-    type: 1000base-x-sfp
-    enabled: true
-    mgmt_only: false
-  -
     name: Vlan1
     type: virtual
     enabled: true
     mgmt_only: false
+  -
+    name: GigabitEthernet25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet25

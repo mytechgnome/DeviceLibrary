@@ -139,8 +139,8 @@ module-bays:
   -
     name: Port 17
     position: Port 17
-    label: qsfp+
+    label: qsfp
   -
     name: Port 18
     position: Port 18
-    label: qsfp+
+    label: qsfp

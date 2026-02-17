@@ -26,9 +26,6 @@ interfaces:
     poe_mode: pd
     poe_type: type2-ieee802.3at
   -
-    name: E1
-    type: 1000base-x-sfp
-  -
     name: 5GHz WiFi
     type: ieee802.11ac
     rf_role: ap
@@ -39,6 +36,9 @@ interfaces:
   -
     name: Bluetooth
     type: ieee802.15.1
+  -
+    name: E1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: E1

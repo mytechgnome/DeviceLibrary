@@ -89,18 +89,6 @@ interfaces:
     name: GigabitEthernet1/24
     type: 1000base-t
   -
-    name: GigabitEthernet1/25
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet1/26
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet1/27
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet1/28
-    type: 1000base-x-sfp
-  -
     name: Port-channel1
     type: lag
   -
@@ -199,6 +187,18 @@ interfaces:
   -
     name: vlan1
     type: virtual
+  -
+    name: GigabitEthernet1/25
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/26
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/27
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/28
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet1/25

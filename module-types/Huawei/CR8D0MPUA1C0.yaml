@@ -26,10 +26,10 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: SFP+2({module})
-    type: 1000base-x-sfp
+    type: 10gbase-x-sfpp
   -
     name: SFP+3({module})
-    type: 1000base-x-sfp
+    type: 10gbase-x-sfpp
 console-ports:
   -
     name: Console({module})

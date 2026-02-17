@@ -22,9 +22,6 @@ interfaces:
     poe_mode: pd
     poe_type: type4-ieee802.3bt
   -
-    name: E1
-    type: 10gbase-x-sfpp
-  -
     name: 6GHz WiFi
     type: ieee802.11ax
     rf_role: ap
@@ -42,6 +39,9 @@ interfaces:
   -
     name: Zigbee
     type: other-wireless
+  -
+    name: E1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: E1

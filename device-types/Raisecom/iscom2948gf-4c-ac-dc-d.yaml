@@ -231,6 +231,10 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: Port SNMP
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Port 1
     type: 1000base-x-sfp
   -
@@ -386,7 +390,3 @@ interfaces:
   -
     name: Port 52
     type: 10gbase-x-sfpp
-  -
-    name: Port SNMP
-    type: 1000base-t
-    mgmt_only: true

@@ -196,3 +196,148 @@ module-bays:
     name: Et{module}/12/4
     position: Et{module}/12/4
     label: qsfp
+interfaces:
+  -
+    name: Et{module}/1/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/1/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/1/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/1/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/2/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/2/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/2/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/2/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/3/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/3/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/3/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/3/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/4/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/4/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/4/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/4/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/5/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/5/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/5/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/5/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/6/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/6/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/6/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/6/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/7/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/7/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/7/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/7/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/8/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/8/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/8/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/8/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/9/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/9/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/9/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/9/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/10/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/10/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/10/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/10/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/11/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/11/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/11/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/11/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/12/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/12/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/12/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Et{module}/12/4
+    type: 40gbase-x-qsfpp

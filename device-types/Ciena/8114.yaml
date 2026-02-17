@@ -35,22 +35,22 @@ interfaces:
     mgmt_only: true
   -
     name: '1'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '2'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '3'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '4'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '5'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '6'
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: '7'
     type: 25gbase-x-sfp28
@@ -229,27 +229,27 @@ module-bays:
   -
     name: '1'
     position: '1'
-    label: qsfp28
+    label: qsfp
   -
     name: '2'
     position: '2'
-    label: qsfp28
+    label: qsfp
   -
     name: '3'
     position: '3'
-    label: qsfp28
+    label: qsfp
   -
     name: '4'
     position: '4'
-    label: qsfp28
+    label: qsfp
   -
     name: '5'
     position: '5'
-    label: qsfp28
+    label: qsfp
   -
     name: '6'
     position: '6'
-    label: qsfp28
+    label: qsfp
   -
     name: '7'
     position: '7'

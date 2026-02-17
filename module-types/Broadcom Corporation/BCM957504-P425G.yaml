@@ -7,16 +7,16 @@ comments: '[Datasheet](https://docs.broadcom.com/doc/BCM957504-quad-port-25Gb-SF
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/2
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/3
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/4
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

@@ -19,9 +19,6 @@ power-ports:
     description: Wallwart to 12V DC, 2.5A max
 interfaces:
   -
-    name: P1
-    type: 1000base-x-sfp
-  -
     name: P2
     type: 1000base-t
     label: WAN1
@@ -45,6 +42,9 @@ interfaces:
     name: P7
     type: 1000base-t
     label: LAN/DMZ
+  -
+    name: P1
+    type: 1000base-x-sfp
 module-bays:
   -
     name: P1

@@ -70,6 +70,15 @@ interfaces:
     name: Port 12
     type: 5gbase-t
   -
+    name: Port 23
+    type: 1000base-t
+  -
+    name: Port 24
+    type: 1000base-t
+  -
+    name: Port 25
+    type: 1000base-t
+  -
     name: Port 13
     type: 10gbase-x-sfpp
   -
@@ -99,15 +108,6 @@ interfaces:
   -
     name: Port 22
     type: 10gbase-x-sfpp
-  -
-    name: Port 23
-    type: 1000base-t
-  -
-    name: Port 24
-    type: 1000base-t
-  -
-    name: Port 25
-    type: 1000base-t
 module-bays:
   -
     name: Port 13

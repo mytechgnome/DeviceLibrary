@@ -153,6 +153,10 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: oob
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: TenGigabitEthernet1/0/1
     type: 10gbase-x-sfpp
   -
@@ -248,7 +252,3 @@ interfaces:
   -
     name: TenGigabitEthernet1/0/32
     type: 10gbase-x-sfpp
-  -
-    name: oob
-    type: 1000base-t
-    mgmt_only: true

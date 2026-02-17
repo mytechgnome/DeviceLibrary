@@ -40,14 +40,14 @@ interfaces:
     name: eth7
     type: 1000base-t
   -
+    name: switch0
+    type: bridge
+  -
     name: eth8
     type: 1000base-x-sfp
   -
     name: eth9
     type: 1000base-x-sfp
-  -
-    name: switch0
-    type: bridge
 module-bays:
   -
     name: eth8

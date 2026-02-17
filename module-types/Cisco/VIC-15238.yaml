@@ -5,10 +5,10 @@ model: VIC 15238
 interfaces:
   -
     name: Ethernet {module}/1
-    type: 200gbase-x-qsfp56
+    type: 10gbase-x-sfpp
   -
     name: Ethernet {module}/2
-    type: 200gbase-x-qsfp56
+    type: 10gbase-x-sfpp
 comments: Cisco UCS VIC 15238 Dual port 40/100/200G mLOM for C220-M7, C240-M7
 module-bays:
   -

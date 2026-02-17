@@ -303,7 +303,8 @@ power-ports:
 # best guess on maximum_draw
 # datasheet states 35W power consumption for 96-port models
   -
-    name: PS1 type: iec-60320-c14
+    name: PS1
+    type: iec-60320-c14
     maximum_draw: 50
     allocated_draw: 35
   -
@@ -314,7 +315,8 @@ power-ports:
 interfaces:
 # physical interface labels seem different than config labels
   -
-    name: lan type: 1000base-t
+    name: lan
+    type: 1000base-t
     mgmt_only: true
   -
     name: wan

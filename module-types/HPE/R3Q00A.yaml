@@ -5,10 +5,10 @@ part_number: R3Q00A
 interfaces:
   -
     name: eth{module}a
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: eth{module}b
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: eth{module}a

@@ -89,34 +89,28 @@ module-bays:
   -
     name: port31
     position: port31
-    label: qsfp28
+    label: qsfp
   -
     name: port32
     position: port32
-    label: qsfp28
+    label: qsfp
   -
     name: port33
     position: port33
-    label: qsfp28
+    label: qsfp
   -
     name: port34
     position: port34
-    label: qsfp28
+    label: qsfp
   -
     name: port35
     position: port35
-    label: qsfp28
+    label: qsfp
   -
     name: port36
     position: port36
-    label: qsfp28
+    label: qsfp
 interfaces:
-  -
-    name: ha1
-    type: 25gbase-x-sfp28
-  -
-    name: ha2
-    type: 25gbase-x-sfp28
   -
     name: mgmt1
     type: 10gbase-t
@@ -174,6 +168,12 @@ interfaces:
     name: port16
     type: 10gbase-t
   -
+    name: ha1
+    type: 25gbase-x-sfp28
+  -
+    name: ha2
+    type: 25gbase-x-sfp28
+  -
     name: port17
     type: 10gbase-x-sfpp
   -
@@ -217,19 +217,19 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port31
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port32
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port33
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port34
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port35
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port36
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

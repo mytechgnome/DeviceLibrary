@@ -7,10 +7,10 @@ description: Dual-Port 25 Gb/s SFP28 Ethernet PCI Express 3 x8 Network Interface
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet/{module}/2
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet/{module}/1

@@ -20,9 +20,6 @@ power-ports:
     maximum_draw: 12
 interfaces:
   -
-    name: TDM
-    type: 1000base-x-sfp
-  -
     name: eth-0
     type: 100base-tx
   -
@@ -37,6 +34,9 @@ interfaces:
   -
     name: e1-port4
     type: e1
+  -
+    name: TDM
+    type: 1000base-x-sfp
 module-bays:
   -
     name: TDM

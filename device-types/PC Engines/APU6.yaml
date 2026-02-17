@@ -12,9 +12,6 @@ comments: |
   Dimensions: 165 x 155 x 26 mm (6.5 x 6.10 x 1.02")
 interfaces:
   -
-    name: eth0
-    type: 1000base-x-sfp
-  -
     name: eth1
     type: 1000base-t
   -
@@ -29,6 +26,9 @@ interfaces:
   -
     name: USB2
     type: other
+  -
+    name: eth0
+    type: 1000base-x-sfp
 console-ports:
   -
     name: ttyS0

@@ -20,22 +20,6 @@ console-ports:
     type: usb-c
 interfaces:
   -
-    name: eth1
-    label: '1'
-    type: 10gbase-x-sfpp
-  -
-    name: eth2
-    label: '2'
-    type: 10gbase-x-sfpp
-  -
-    name: eth3
-    label: '3'
-    type: 10gbase-x-sfpp
-  -
-    name: eth4
-    label: '4'
-    type: 10gbase-x-sfpp
-  -
     name: eth5
     label: '5'
     type: 1000base-t
@@ -80,6 +64,18 @@ interfaces:
     label: LOM
     type: 1000base-t
     mgmt_only: true
+  -
+    name: eth1
+    type: 10gbase-x-sfpp
+  -
+    name: eth2
+    type: 10gbase-x-sfpp
+  -
+    name: eth3
+    type: 10gbase-x-sfpp
+  -
+    name: eth4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: PS1

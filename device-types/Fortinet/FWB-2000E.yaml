@@ -36,30 +36,12 @@ interfaces:
   -
     name: port8
     type: 1000base-x-sfp
-# ports 9-10, 10G SFP+
   -
     name: port9
     type: 10gbase-x-sfpp
   -
     name: port10
     type: 10gbase-x-sfpp
-# to emulate bypass mode, front/rear-ports can be used instead of interfaces
-#front-ports:
-#  - name: port1
-#    type: 8p8c
-#    rear_port: port2
-#    position: 1
-#  - name: port3
-#    type: 8p8c
-#    rear_port: port4
-#    position: 1
-#rear-ports:
-#  - name: port2
-#    type: 8p8c
-#    positions: 1
-#  - name: port4
-#    type: 8p8c
-#    positions: 1
 console-ports:
   -
     name: Console

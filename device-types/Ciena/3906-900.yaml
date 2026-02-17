@@ -25,27 +25,27 @@ power-ports:
     maximum_draw: 96
 interfaces:
   -
-    name: '1'
-    type: 1000base-x-sfp
-  -
-    name: '2'
-    type: 1000base-x-sfp
-  -
     name: '3'
     type: 1000base-t
   -
     name: '4'
     type: 1000base-t
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: '1'
+    type: 1000base-x-sfp
+  -
+    name: '2'
+    type: 1000base-x-sfp
+  -
     name: '5'
     type: 1000base-x-sfp
   -
     name: '6'
     type: 1000base-x-sfp
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: FRU 1

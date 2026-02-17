@@ -11,6 +11,10 @@ front_image: true
 is_full_depth: true
 interfaces:
   -
+    name: em0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: ge-0/0/0
     type: 10gbase-x-sfpp
   -
@@ -611,13 +615,8 @@ interfaces:
     name: et-0/0/103
     type: 40gbase-x-qsfpp
   -
-    name: em0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: em1
     type: 1000base-x-sfp
-    mgmt_only: true
 module-bays:
   -
     name: PSU0
@@ -1405,35 +1404,35 @@ module-bays:
   -
     name: et-0/0/96
     position: et-0/0/96
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/97
     position: et-0/0/97
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/98
     position: et-0/0/98
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/99
     position: et-0/0/99
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/100
     position: et-0/0/100
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/101
     position: et-0/0/101
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/102
     position: et-0/0/102
-    label: qsfp+
+    label: qsfp
   -
     name: et-0/0/103
     position: et-0/0/103
-    label: qsfp+
+    label: qsfp
   -
     name: em1
     position: em1

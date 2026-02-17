@@ -270,8 +270,8 @@ module-bays:
   -
     name: FortyGigabitEthernet1/1/1
     position: FortyGigabitEthernet1/1/1
-    label: qsfp+
+    label: qsfp
   -
     name: FortyGigabitEthernet1/1/2
     position: FortyGigabitEthernet1/1/2
-    label: qsfp+
+    label: qsfp

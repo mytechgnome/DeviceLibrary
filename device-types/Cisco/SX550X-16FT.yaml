@@ -44,30 +44,6 @@ interfaces:
     name: GigabitEthernet1/8
     type: 10gbase-t
   -
-    name: GigabitEthernet1/9
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/10
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/11
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/12
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/13
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/14
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/15
-    type: 10gbase-x-sfpp
-  -
-    name: GigabitEthernet1/16
-    type: 10gbase-x-sfpp
-  -
     name: oob
     type: 1000base-t
     mgmt_only: true
@@ -170,6 +146,30 @@ interfaces:
   -
     name: vlan1
     type: virtual
+  -
+    name: GigabitEthernet1/9
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/10
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/11
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/12
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/13
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/14
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/15
+    type: 10gbase-x-sfpp
+  -
+    name: GigabitEthernet1/16
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: GigabitEthernet1/9

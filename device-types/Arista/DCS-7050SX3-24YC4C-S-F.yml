@@ -119,20 +119,24 @@ module-bays:
   -
     name: Ethernet25/1
     position: Ethernet25/1
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet26/1
     position: Ethernet26/1
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet27/1
     position: Ethernet27/1
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet28/1
     position: Ethernet28/1
-    label: qsfp28
+    label: qsfp
 interfaces:
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
   -
     name: Ethernet1
     type: 25gbase-x-sfp28
@@ -205,20 +209,15 @@ interfaces:
   -
     name: Ethernet24
     type: 25gbase-x-sfp28
-# QSFP28(100G) ports can be broken into 4x25 with a model of [25-28]/[1-4]
   -
     name: Ethernet25/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet26/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet27/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet28/1
-    type: 100gbase-x-qsfp28
-  -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp

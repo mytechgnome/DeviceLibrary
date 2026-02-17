@@ -155,6 +155,10 @@ interfaces:
     name: Ethernet1/48
     type: 1000base-t
   -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Ethernet1/49
     type: 10gbase-x-sfpp
   -
@@ -166,10 +170,6 @@ interfaces:
   -
     name: Ethernet1/52
     type: 10gbase-x-sfpp
-  -
-    name: mgmt0
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: PS1

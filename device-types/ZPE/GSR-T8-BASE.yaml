@@ -106,15 +106,6 @@ interfaces:
     type: 1000base-t
 
   -
-    name: sfp0
-    label: SFP+ 0
-    type: 10gbase-x-sfpp
-  -
-    name: sfp1
-    label: SFP+ 1
-    type: 10gbase-x-sfpp
-
-  -
     name: backplane0
     type: 2.5gbase-t
   -
@@ -171,6 +162,12 @@ interfaces:
     label: '8'
     type: 1000base-t
     bridge: backplane0
+  -
+    name: sfp0
+    type: 10gbase-x-sfpp
+  -
+    name: sfp1
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Mini PCIe

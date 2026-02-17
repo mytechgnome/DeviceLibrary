@@ -71,6 +71,10 @@ interfaces:
     type: 1000base-t
     description: communication port
   -
+    name: iLO
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: SFP-1
     type: 1000base-x-sfp
     description: monitoring port
@@ -86,7 +90,3 @@ interfaces:
     name: SFP-4
     type: 1000base-x-sfp
     description: monitoring/communication port
-  -
-    name: iLO
-    type: 1000base-t
-    mgmt_only: true

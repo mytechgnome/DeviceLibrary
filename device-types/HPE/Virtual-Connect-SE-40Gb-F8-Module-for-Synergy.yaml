@@ -26,64 +26,38 @@ interfaces:
     name: interconnect {module}, L4
     description: CXP (120 Gb/s Interconnect Link)
     type: other
-  -
-    name: interconnect {module}, Q1
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q2
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q3
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q4
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q5
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q6
-    type: 40gbase-x-qsfpp
-  -
-    name: interconnect {module}, Q7
-    type: 40gbase-x-qsfpp
-    description: ICM Clustering or Uplink
-  -
-    name: interconnect {module}, Q8
-    type: 40gbase-x-qsfpp
-    description: ICM Clustring or Uplink
 module-bays:
   -
     name: interconnect {module}, Q1
     position: interconnect {module}, Q1
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q2
     position: interconnect {module}, Q2
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q3
     position: interconnect {module}, Q3
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q4
     position: interconnect {module}, Q4
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q5
     position: interconnect {module}, Q5
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q6
     position: interconnect {module}, Q6
-    label: qsfp+
+    label: qsfp
   -
     name: interconnect {module}, Q7
     position: interconnect {module}, Q7
-    label: qsfp+
+    label: qsfp
     description: ICM Clustering or Uplink
   -
     name: interconnect {module}, Q8
     position: interconnect {module}, Q8
-    label: qsfp+
+    label: qsfp
     description: ICM Clustring or Uplink

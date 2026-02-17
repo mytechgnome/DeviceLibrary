@@ -24,11 +24,9 @@ interfaces:
     type: 2.5gbase-t
   -
     name: ax0
-    label: X0
     type: 10gbase-x-sfpp
   -
     name: ax1
-    label: X1
     type: 10gbase-x-sfpp
 console-ports:
   -

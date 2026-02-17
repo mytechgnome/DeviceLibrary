@@ -7,7 +7,6 @@ interfaces:
   -
     name: Ethernet/{module}/1
     type: 10gbase-x-sfpp
-    mgmt_only: false
 module-bays:
   -
     name: Ethernet/{module}/1

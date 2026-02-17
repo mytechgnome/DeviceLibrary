@@ -23,6 +23,10 @@ console-server-ports:
     type: usb-a
 interfaces:
   -
+    name: mgmt-1/1/1
+    type: 100base-tx
+    mgmt_only: true
+  -
     name: gigabit-ethernet-1/1/1
     type: 1000base-x-sfp
   -
@@ -94,10 +98,6 @@ interfaces:
   -
     name: gigabit-ethernet-1/1/24
     type: 1000base-x-sfp
-  -
-    name: mgmt-1/1/1
-    type: 100base-tx
-    mgmt_only: true
   -
     name: ten-gigabit-ethernet-1/1/1
     type: 10gbase-x-sfpp
@@ -238,8 +238,8 @@ module-bays:
   -
     name: forty-gigabit-ethernet-1/1/1
     position: forty-gigabit-ethernet-1/1/1
-    label: qsfp+
+    label: qsfp
   -
     name: forty-gigabit-ethernet-1/1/2
     position: forty-gigabit-ethernet-1/1/2
-    label: qsfp+
+    label: qsfp

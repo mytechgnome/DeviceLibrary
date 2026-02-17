@@ -49,6 +49,19 @@ interfaces:
     name: ethernet1/8
     type: 1000base-t
   -
+    name: dedicated-ha1
+    type: 1000base-t
+  -
+    name: dedicated-ha2
+    type: 1000base-t
+  -
+    name: management
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: loopback
+    type: virtual
+  -
     name: ethernet1/9
     type: 1000base-x-sfp
   -
@@ -78,19 +91,6 @@ interfaces:
   -
     name: ethernet1/18
     type: 10gbase-x-sfpp
-  -
-    name: dedicated-ha1
-    type: 1000base-t
-  -
-    name: dedicated-ha2
-    type: 1000base-t
-  -
-    name: management
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: loopback
-    type: virtual
 module-bays:
   -
     name: ethernet1/9

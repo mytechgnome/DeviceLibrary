@@ -112,11 +112,9 @@ interfaces:
   -
     name: gi27F
     type: 1000base-x-sfp
-     # comments: Combo port either 1000base-x-sfp or 1000base-t
   -
     name: gi28F
     type: 1000base-x-sfp
-     # comments: Combo port either 1000base-x-sfp or 1000base-t
 module-bays:
   -
     name: gi27F

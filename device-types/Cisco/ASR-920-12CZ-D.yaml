@@ -29,18 +29,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: GigabitEthernet0/0/0
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/0/1
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/0/2
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet0/0/3
-    type: 1000base-x-sfp
-  -
     name: GigabitEthernet0/0/4
     type: 1000base-t
   -
@@ -64,6 +52,18 @@ interfaces:
   -
     name: GigabitEthernet0/0/11
     type: 1000base-t
+  -
+    name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/1
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/2
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet0/0/3
+    type: 1000base-x-sfp
   -
     name: TenGigabitEthernet0/0/12
     type: 10gbase-x-sfpp

@@ -164,18 +164,6 @@ interfaces:
     name: GigabitEthernet48
     type: 1000base-t
   -
-    name: GigabitEthernet49
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet50
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet51
-    type: 1000base-x-sfp
-  -
-    name: GigabitEthernet52
-    type: 1000base-x-sfp
-  -
     name: Port-Channel1
     type: lag
   -
@@ -202,6 +190,18 @@ interfaces:
   -
     name: vlan 1
     type: virtual
+  -
+    name: GigabitEthernet49
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet50
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet51
+    type: 1000base-x-sfp
+  -
+    name: GigabitEthernet52
+    type: 1000base-x-sfp
 module-bays:
   -
     name: GigabitEthernet49

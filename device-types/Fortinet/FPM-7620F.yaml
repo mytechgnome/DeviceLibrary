@@ -16,37 +16,7 @@ console-ports:
 interfaces:
 # Port 1-2 400/100/40GigE
 # QSFP-DD
-  -
-    name: port1 type: 400gbase-x-qsfpdd
-  -
-    name: port2
-    type: 400gbase-x-qsfpdd
-# Port 3-10 25/10GigE
-# SFP28
-  -
-    name: port3
-    type: 25gbase-x-sfp28
-  -
-    name: port4
-    type: 25gbase-x-sfp28
-  -
-    name: port5
-    type: 25gbase-x-sfp28
-  -
-    name: port6
-    type: 25gbase-x-sfp28
-  -
-    name: port7
-    type: 25gbase-x-sfp28
-  -
-    name: port8
-    type: 25gbase-x-sfp28
-  -
-    name: port9
-    type: 25gbase-x-sfp28
-  -
-    name: port10
-    type: 25gbase-x-sfp28
+    []
 module-bays:
   -
     name: port1

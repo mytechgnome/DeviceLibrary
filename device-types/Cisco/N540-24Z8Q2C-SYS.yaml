@@ -112,10 +112,10 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Hu 0/0/1/32
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu 0/0/1/33
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 console-ports:
   -
     name: Console
@@ -259,8 +259,8 @@ module-bays:
   -
     name: Hu 0/0/1/32
     position: Hu 0/0/1/32
-    label: qsfp28
+    label: qsfp
   -
     name: Hu 0/0/1/33
     position: Hu 0/0/1/33
-    label: qsfp28
+    label: qsfp

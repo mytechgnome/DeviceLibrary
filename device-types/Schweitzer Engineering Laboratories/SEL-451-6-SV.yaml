@@ -24,12 +24,6 @@ interfaces:
     type: other
   #Utilized cisco formatting for the Eternet numbering below:
   -
-    name: Ethernet0/0
-    type: 1000base-x-sfp
-  -
-    name: Ethernet0/1
-    type: 1000base-x-sfp
-  -
     name: Ethernet1/0
     type: 100base-fx
   -
@@ -39,6 +33,12 @@ interfaces:
     name: Ethernet1/2
     type: 100base-fx
 
+  -
+    name: Ethernet0/0
+    type: 1000base-x-sfp
+  -
+    name: Ethernet0/1
+    type: 1000base-x-sfp
 power-ports:
   -
     name: power

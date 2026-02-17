@@ -21,6 +21,10 @@ power-ports:
     allocated_draw: 85
 interfaces:
   -
+    name: MGMT
+    type: 100base-tx
+    mgmt_only: true
+  -
     name: '1'
     type: 1000base-x-sfp
   -
@@ -98,10 +102,6 @@ interfaces:
   -
     name: '26'
     type: 10gbase-x-sfpp
-  -
-    name: MGMT
-    type: 100base-tx
-    mgmt_only: true
 module-bays:
   -
     name: '1'

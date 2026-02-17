@@ -256,6 +256,10 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: SFP1
     type: 10gbase-x-sfpp
   -
@@ -267,10 +271,6 @@ interfaces:
   -
     name: SFP4
     type: 10gbase-x-sfpp
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: SFP1

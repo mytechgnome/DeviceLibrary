@@ -22,19 +22,19 @@ module-bays:
   -
     name: swp49
     position: swp49
-    label: qsfp28
+    label: qsfp
   -
     name: swp50
     position: swp50
-    label: qsfp28
+    label: qsfp
   -
     name: swp51
     position: swp51
-    label: qsfp28
+    label: qsfp
   -
     name: swp52
     position: swp52
-    label: qsfp28
+    label: qsfp
 interfaces:
   -
     name: eth0
@@ -186,13 +186,13 @@ interfaces:
     type: 1000base-t
   -
     name: swp49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: swp52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp

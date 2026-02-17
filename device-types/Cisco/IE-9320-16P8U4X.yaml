@@ -144,6 +144,12 @@ interfaces:
     poe_mode: pse
     poe_type: type4-ieee802.3bt
   -
+    name: StackPort1/1
+    type: cisco-stackwise
+  -
+    name: StackPort1/2
+    type: cisco-stackwise
+  -
     name: TenGigabitEthernet1/0/25
     type: 10gbase-x-sfpp
   -
@@ -155,12 +161,6 @@ interfaces:
   -
     name: TenGigabitEthernet1/0/28
     type: 10gbase-x-sfpp
-  -
-    name: StackPort1/1
-    type: cisco-stackwise
-  -
-    name: StackPort1/2
-    type: cisco-stackwise
 module-bays:
   -
     name: PSU1

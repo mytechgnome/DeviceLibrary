@@ -10,9 +10,6 @@ is_full_depth: false
 airflow: passive
 interfaces:
   -
-    name: GigabitEthernet0/0/0
-    type: 1000base-x-sfp
-  -
     name: GigabitEthernet0/0/1
     type: 1000base-t
   -
@@ -39,6 +36,9 @@ interfaces:
   -
     name: GigabitEthernet0/1/7
     type: 1000base-t
+  -
+    name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
 module-bays:
   -
     name: Cellular

@@ -214,28 +214,32 @@ module-bays:
   -
     name: 1/1/49A
     position: 1/1/49A
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/50A
     position: 1/1/50A
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/51A
     position: 1/1/51A
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/52A
     position: 1/1/52A
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/53A
     position: 1/1/53A
-    label: qsfp28
+    label: qsfp
   -
     name: 1/1/54A
     position: 1/1/54A
-    label: qsfp28
+    label: qsfp
 interfaces:
+  -
+    name: EMP
+    type: 1000base-t
+    mgmt_only: true
   -
     name: 1/1/1
     type: 10gbase-x-sfpp
@@ -382,23 +386,19 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: 1/1/49A
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/50A
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/51A
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/52A
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/53A
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: 1/1/54A
-    type: 100gbase-x-qsfp28
-  -
-    name: EMP
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp

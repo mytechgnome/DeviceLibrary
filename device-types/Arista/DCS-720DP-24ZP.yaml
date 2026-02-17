@@ -141,6 +141,10 @@ interfaces:
     poe_mode: pse
     poe_type: type3-ieee802.3bt
   -
+    name: Management1
+    type: 1000base-t
+
+  -
     name: Ethernet25
     type: 10gbase-x-sfpp
   -
@@ -152,10 +156,6 @@ interfaces:
   -
     name: Ethernet28
     type: 10gbase-x-sfpp
-  -
-    name: Management1
-    type: 1000base-t
-
 module-bays:
   -
     name: PSU Slot 1

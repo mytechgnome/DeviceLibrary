@@ -45,12 +45,12 @@ module-bays:
     label: sfp+
 interfaces:
   -
+    name: BMC
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: LAN0
     type: 10gbase-x-sfpp
   -
     name: LAN1
     type: 10gbase-x-sfpp
-  -
-    name: BMC
-    type: 1000base-t
-    mgmt_only: true

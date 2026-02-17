@@ -19,6 +19,10 @@ power-ports:
     type: iec-60320-c14
 interfaces:
   -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: TenGigabitEthernet 1/1
     type: 10gbase-x-sfpp
   -
@@ -180,10 +184,6 @@ interfaces:
   -
     name: fortyGigE 1/54
     type: 40gbase-x-qsfpp
-  -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: TenGigabitEthernet 1/1
@@ -380,24 +380,24 @@ module-bays:
   -
     name: fortyGigE 1/49
     position: fortyGigE 1/49
-    label: qsfp+
+    label: qsfp
   -
     name: fortyGigE 1/50
     position: fortyGigE 1/50
-    label: qsfp+
+    label: qsfp
   -
     name: fortyGigE 1/51
     position: fortyGigE 1/51
-    label: qsfp+
+    label: qsfp
   -
     name: fortyGigE 1/52
     position: fortyGigE 1/52
-    label: qsfp+
+    label: qsfp
   -
     name: fortyGigE 1/53
     position: fortyGigE 1/53
-    label: qsfp+
+    label: qsfp
   -
     name: fortyGigE 1/54
     position: fortyGigE 1/54
-    label: qsfp+
+    label: qsfp

@@ -32,14 +32,8 @@ interfaces:
     name: WAN-RJ-45
     type: 10gbase-t
   -
-    name: WAN-SFP+
-    type: 10gbase-x-sfpp
-  -
     name: DMZ-RJ-45
     type: 10gbase-t
-  -
-    name: DMZ-SFP+
-    type: 10gbase-x-sfpp
   -
     name: '1'
     type: 2.5gbase-t
@@ -70,6 +64,12 @@ interfaces:
   -
     name: '10'
     type: 1000base-t
+  -
+    name: WAN-SFP+
+    type: 10gbase-x-sfpp
+  -
+    name: DMZ-SFP+
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: WAN-SFP+

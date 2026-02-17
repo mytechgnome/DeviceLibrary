@@ -217,28 +217,32 @@ module-bays:
   -
     name: port49
     position: port49
-    label: qsfp28
+    label: qsfp
   -
     name: port50
     position: port50
-    label: qsfp28
+    label: qsfp
   -
     name: port51
     position: port51
-    label: qsfp28
+    label: qsfp
   -
     name: port52
     position: port52
-    label: qsfp28
+    label: qsfp
   -
     name: port53
     position: port53
-    label: qsfp+
+    label: qsfp
   -
     name: port54
     position: port54
-    label: qsfp+
+    label: qsfp
 interfaces:
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
   -
     name: port1
     type: 1000base-x-sfp
@@ -385,23 +389,19 @@ interfaces:
     type: 1000base-x-sfp
   -
     name: port49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: port53
     type: 40gbase-x-qsfpp
   -
     name: port54
     type: 40gbase-x-qsfpp
-  -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true

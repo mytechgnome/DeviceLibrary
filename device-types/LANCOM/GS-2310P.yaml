@@ -39,11 +39,11 @@ interfaces:
     name: Port 9A
     type: 1000base-t
   -
-    name: Port 9B
-    type: 1000base-x-sfp
-  -
     name: Port 10A
     type: 1000base-t
+  -
+    name: Port 9B
+    type: 1000base-x-sfp
   -
     name: Port 10B
     type: 1000base-x-sfp

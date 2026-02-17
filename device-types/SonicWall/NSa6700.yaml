@@ -70,11 +70,11 @@ module-bays:
   -
     name: X32
     position: X32
-    label: qsfp+
+    label: qsfp
   -
     name: X33
     position: X33
-    label: qsfp+
+    label: qsfp
 inventory-items:
   -
     name: Storage-Module

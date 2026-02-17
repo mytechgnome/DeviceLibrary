@@ -44,7 +44,8 @@ power-ports:
 power-outlets:
 # L1 - Line 1
   -
-    name: L1 C19 01 type: iec-60320-c19
+    name: L1 C19 01
+    type: iec-60320-c19
     feed_leg: A
     power_port: Power Cord
   -

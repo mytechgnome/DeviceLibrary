@@ -14,388 +14,388 @@ interfaces:
     mgmt_only: true
   -
     name: et-0/0/0
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/2
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/3
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/4
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/5
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/6
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/7
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/8
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/9
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/10
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/11
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/12
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/13
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/14
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/15
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/16
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/17
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/18
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/19
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/20
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/21
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/22
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/23
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/24
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/25
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/26
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/27
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/28
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/29
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/30
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/31
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/32
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/33
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/34
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/35
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/36
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/37
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/38
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/39
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/40
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/41
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/42
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/43
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/44
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/45
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/46
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/47
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/48
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/49
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/50
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/51
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/52
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/53
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/54
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/55
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/56
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/57
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/58
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/59
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/60
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/61
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/62
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/63
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/64
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/65
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/66
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/67
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/68
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/69
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/70
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/71
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/72
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/73
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/74
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/75
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/76
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/77
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/78
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/79
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/80
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/81
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/82
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/83
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/84
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/85
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/86
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/87
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/88
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/89
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/90
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/91
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/92
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/93
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/94
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/95
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/96
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/97
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/98
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/99
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/100
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/101
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/102
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/103
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/104
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/105
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/106
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/107
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/108
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/109
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/110
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/111
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/112
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/113
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/114
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/115
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/116
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/117
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/118
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/119
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/120
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/121
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/122
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/123
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/124
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/125
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/126
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: et-0/0/127
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU0
@@ -412,515 +412,515 @@ module-bays:
   -
     name: et-0/0/0
     position: et-0/0/0
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/1
     position: et-0/0/1
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/2
     position: et-0/0/2
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/3
     position: et-0/0/3
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/4
     position: et-0/0/4
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/5
     position: et-0/0/5
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/6
     position: et-0/0/6
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/7
     position: et-0/0/7
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/8
     position: et-0/0/8
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/9
     position: et-0/0/9
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/10
     position: et-0/0/10
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/11
     position: et-0/0/11
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/12
     position: et-0/0/12
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/13
     position: et-0/0/13
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/14
     position: et-0/0/14
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/15
     position: et-0/0/15
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/16
     position: et-0/0/16
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/17
     position: et-0/0/17
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/18
     position: et-0/0/18
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/19
     position: et-0/0/19
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/20
     position: et-0/0/20
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/21
     position: et-0/0/21
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/22
     position: et-0/0/22
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/23
     position: et-0/0/23
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/24
     position: et-0/0/24
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/25
     position: et-0/0/25
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/26
     position: et-0/0/26
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/27
     position: et-0/0/27
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/28
     position: et-0/0/28
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/29
     position: et-0/0/29
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/30
     position: et-0/0/30
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/31
     position: et-0/0/31
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/32
     position: et-0/0/32
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/33
     position: et-0/0/33
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/34
     position: et-0/0/34
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/35
     position: et-0/0/35
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/36
     position: et-0/0/36
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/37
     position: et-0/0/37
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/38
     position: et-0/0/38
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/39
     position: et-0/0/39
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/40
     position: et-0/0/40
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/41
     position: et-0/0/41
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/42
     position: et-0/0/42
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/43
     position: et-0/0/43
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/44
     position: et-0/0/44
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/45
     position: et-0/0/45
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/46
     position: et-0/0/46
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/47
     position: et-0/0/47
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/48
     position: et-0/0/48
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/49
     position: et-0/0/49
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/50
     position: et-0/0/50
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/51
     position: et-0/0/51
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/52
     position: et-0/0/52
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/53
     position: et-0/0/53
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/54
     position: et-0/0/54
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/55
     position: et-0/0/55
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/56
     position: et-0/0/56
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/57
     position: et-0/0/57
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/58
     position: et-0/0/58
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/59
     position: et-0/0/59
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/60
     position: et-0/0/60
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/61
     position: et-0/0/61
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/62
     position: et-0/0/62
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/63
     position: et-0/0/63
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/64
     position: et-0/0/64
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/65
     position: et-0/0/65
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/66
     position: et-0/0/66
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/67
     position: et-0/0/67
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/68
     position: et-0/0/68
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/69
     position: et-0/0/69
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/70
     position: et-0/0/70
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/71
     position: et-0/0/71
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/72
     position: et-0/0/72
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/73
     position: et-0/0/73
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/74
     position: et-0/0/74
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/75
     position: et-0/0/75
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/76
     position: et-0/0/76
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/77
     position: et-0/0/77
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/78
     position: et-0/0/78
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/79
     position: et-0/0/79
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/80
     position: et-0/0/80
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/81
     position: et-0/0/81
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/82
     position: et-0/0/82
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/83
     position: et-0/0/83
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/84
     position: et-0/0/84
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/85
     position: et-0/0/85
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/86
     position: et-0/0/86
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/87
     position: et-0/0/87
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/88
     position: et-0/0/88
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/89
     position: et-0/0/89
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/90
     position: et-0/0/90
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/91
     position: et-0/0/91
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/92
     position: et-0/0/92
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/93
     position: et-0/0/93
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/94
     position: et-0/0/94
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/95
     position: et-0/0/95
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/96
     position: et-0/0/96
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/97
     position: et-0/0/97
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/98
     position: et-0/0/98
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/99
     position: et-0/0/99
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/100
     position: et-0/0/100
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/101
     position: et-0/0/101
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/102
     position: et-0/0/102
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/103
     position: et-0/0/103
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/104
     position: et-0/0/104
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/105
     position: et-0/0/105
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/106
     position: et-0/0/106
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/107
     position: et-0/0/107
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/108
     position: et-0/0/108
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/109
     position: et-0/0/109
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/110
     position: et-0/0/110
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/111
     position: et-0/0/111
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/112
     position: et-0/0/112
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/113
     position: et-0/0/113
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/114
     position: et-0/0/114
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/115
     position: et-0/0/115
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/116
     position: et-0/0/116
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/117
     position: et-0/0/117
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/118
     position: et-0/0/118
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/119
     position: et-0/0/119
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/120
     position: et-0/0/120
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/121
     position: et-0/0/121
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/122
     position: et-0/0/122
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/123
     position: et-0/0/123
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/124
     position: et-0/0/124
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/125
     position: et-0/0/125
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/126
     position: et-0/0/126
-    label: qsfp28
+    label: qsfp
   -
     name: et-0/0/127
     position: et-0/0/127
-    label: qsfp28
+    label: qsfp
 console-ports:
   -
     name: Console

@@ -66,13 +66,9 @@ interfaces:
   -
     name: Ethernet 9
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: SFP+ 1
   -
     name: Ethernet 10
     type: 10gbase-x-sfpp
-    mgmt_only: false
-    label: SFP+ 2
 module-bays:
   -
     name: Ethernet 9

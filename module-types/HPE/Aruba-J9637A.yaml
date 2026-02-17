@@ -40,42 +40,6 @@ interfaces:
   -
     name: '{module}12'
     type: 1000base-t
-  -
-    name: '{module}13'
-    type: 1000base-x-sfp
-  -
-    name: '{module}14'
-    type: 1000base-x-sfp
-  -
-    name: '{module}15'
-    type: 1000base-x-sfp
-  -
-    name: '{module}16'
-    type: 1000base-x-sfp
-  -
-    name: '{module}17'
-    type: 1000base-x-sfp
-  -
-    name: '{module}18'
-    type: 1000base-x-sfp
-  -
-    name: '{module}19'
-    type: 1000base-x-sfp
-  -
-    name: '{module}20'
-    type: 1000base-x-sfp
-  -
-    name: '{module}21'
-    type: 1000base-x-sfp
-  -
-    name: '{module}22'
-    type: 1000base-x-sfp
-  -
-    name: '{module}23'
-    type: 1000base-x-sfp
-  -
-    name: '{module}24'
-    type: 1000base-x-sfp
 module-bays:
   -
     name: '{module}13'

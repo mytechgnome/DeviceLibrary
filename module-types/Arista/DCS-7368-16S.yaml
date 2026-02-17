@@ -6,52 +6,52 @@ comments: '[Arista 7368 Series Overview](https://www.arista.com/en/qsg-7368x-ser
 interfaces:
   -
     name: Ethernet{module}/1
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/2
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/3
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/4
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/5
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/6
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/7
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/8
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/9
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/10
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/11
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/12
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/13
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/14
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/15
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
   -
     name: Ethernet{module}/16
-    type: 25gbase-x-sfp28
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Ethernet{module}/1

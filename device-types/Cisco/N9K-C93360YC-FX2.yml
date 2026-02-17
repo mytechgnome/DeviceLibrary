@@ -18,6 +18,10 @@ console-ports:
     type: usb-a
 interfaces:
   -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: Ethernet1/1
     type: 25gbase-x-sfp28
   -
@@ -307,48 +311,43 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: Ethernet1/97
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/98
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/99
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/100
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/101
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/102
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/103
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/104
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/105
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/106
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/107
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet1/108
-    type: 100gbase-x-qsfp28
-  -
-    name: mgmt0
-    type: 1000base-t
-    mgmt_only: true
+    type: 40gbase-x-qsfpp
   -
     name: mgmt1
     type: 1000base-x-sfp
-    mgmt_only: true
 module-bays:
   -
     name: PS1
@@ -754,51 +753,51 @@ module-bays:
   -
     name: Ethernet1/97
     position: Ethernet1/97
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/98
     position: Ethernet1/98
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/99
     position: Ethernet1/99
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/100
     position: Ethernet1/100
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/101
     position: Ethernet1/101
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/102
     position: Ethernet1/102
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/103
     position: Ethernet1/103
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/104
     position: Ethernet1/104
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/105
     position: Ethernet1/105
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/106
     position: Ethernet1/106
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/107
     position: Ethernet1/107
-    label: qsfp28
+    label: qsfp
   -
     name: Ethernet1/108
     position: Ethernet1/108
-    label: qsfp28
+    label: qsfp
   -
     name: mgmt1
     position: mgmt1

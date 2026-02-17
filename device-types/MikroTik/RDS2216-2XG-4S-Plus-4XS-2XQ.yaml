@@ -25,11 +25,19 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
+    name: SSF-8644 1
+    type: other
+    description: SSF-8644 1, PCIe 3.0 x4 mode only
+  -
+    name: SSF-8644 2
+    type: other
+    description: SSF-8644 2, PCIe 3.0 x4 mode only
+  -
     name: qsfp28-1-1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: qsfp28-2-1
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: sfp-sfpplus1
     type: 10gbase-x-sfpp
@@ -54,14 +62,6 @@ interfaces:
   -
     name: sfp28-4
     type: 25gbase-x-sfp28
-  -
-    name: SSF-8644 1
-    type: other
-    description: SSF-8644 1, PCIe 3.0 x4 mode only
-  -
-    name: SSF-8644 2
-    type: other
-    description: SSF-8644 2, PCIe 3.0 x4 mode only
 console-ports:
   -
     name: serial0
@@ -164,11 +164,11 @@ module-bays:
   -
     name: qsfp28-1-1
     position: qsfp28-1-1
-    label: qsfp28
+    label: qsfp
   -
     name: qsfp28-2-1
     position: qsfp28-2-1
-    label: qsfp28
+    label: qsfp
   -
     name: sfp-sfpplus1
     position: sfp-sfpplus1

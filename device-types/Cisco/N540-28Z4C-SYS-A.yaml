@@ -109,16 +109,16 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: Hu0/0/0/28
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/0/0/29
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/0/0/30
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
   -
     name: Hu0/0/0/31
-    type: 100gbase-x-qsfp28
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: TenGigabitEthernet0/0/0/0
@@ -235,16 +235,16 @@ module-bays:
   -
     name: Hu0/0/0/28
     position: Hu0/0/0/28
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/0/0/29
     position: Hu0/0/0/29
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/0/0/30
     position: Hu0/0/0/30
-    label: qsfp28
+    label: qsfp
   -
     name: Hu0/0/0/31
     position: Hu0/0/0/31
-    label: qsfp28
+    label: qsfp

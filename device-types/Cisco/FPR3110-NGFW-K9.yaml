@@ -111,4 +111,3 @@ interfaces:
   -
     name: Management1/1
     type: 10gbase-x-sfpp
-    mgmt_only: true

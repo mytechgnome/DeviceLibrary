@@ -86,6 +86,10 @@ interfaces:
     name: '20'
     type: 1000base-t
   -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
+  -
     name: '21'
     type: 10gbase-x-sfpp
   -
@@ -97,10 +101,6 @@ interfaces:
   -
     name: '24'
     type: 10gbase-x-sfpp
-  -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   -
     name: '21'
