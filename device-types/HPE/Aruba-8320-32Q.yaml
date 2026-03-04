@@ -27,10 +27,6 @@ power-ports:
     allocated_draw: 310
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: 1/1/1
     type: 40gbase-x-qsfpp
   -
@@ -126,6 +122,10 @@ interfaces:
   -
     name: 1/1/32
     type: 40gbase-x-qsfpp
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: 1/1/1

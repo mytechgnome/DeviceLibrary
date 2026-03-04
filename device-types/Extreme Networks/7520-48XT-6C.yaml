@@ -22,27 +22,27 @@ module-bays:
   -
     name: '49'
     position: '49'
-    label: qsfp+
+    label: qsfp28
   -
     name: '50'
     position: '50'
-    label: qsfp+
+    label: qsfp28
   -
     name: '51'
     position: '51'
-    label: qsfp+
+    label: qsfp28
   -
     name: '52'
     position: '52'
-    label: qsfp+
+    label: qsfp28
   -
     name: '53'
     position: '53'
-    label: qsfp+
+    label: qsfp28
   -
     name: '54'
     position: '54'
-    label: qsfp+
+    label: qsfp28
 interfaces:
   -
     name: Management
@@ -194,19 +194,19 @@ interfaces:
     type: 10gbase-t
   -
     name: '49'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '50'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '51'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '52'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '53'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '54'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

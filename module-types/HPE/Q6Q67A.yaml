@@ -5,6 +5,12 @@ part_number: Q6Q67A
 comments: HPE MSL LTO-8 Ultrium 30750 FC Half Height Drive Kit
 interfaces:
   -
+    name: FC/{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: FC/{module}/2
+    type: 10gbase-x-sfpp
+  -
     name: mgmt{module}
     type: 1000base-t
     mgmt_only: true
@@ -12,8 +18,8 @@ module-bays:
   -
     name: FC/{module}/1
     position: FC/{module}/1
-    label: FC/{module}/1
+    label: sfp+
   -
     name: FC/{module}/2
     position: FC/{module}/2
-    label: FC/{module}/2
+    label: sfp+

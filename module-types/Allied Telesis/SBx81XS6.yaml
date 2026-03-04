@@ -2,29 +2,47 @@
 manufacturer: Allied Telesis
 model: SBx81XS6
 part_number: AT-SBx81XS6
-interfaces: []
+interfaces:
+  -
+    name: port1.{module}.1
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.2
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.3
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.4
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.5
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.6
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port1.{module}.1
     position: port1.{module}.1
-    label: port1.{module}.1
+    label: sfp+
   -
     name: port1.{module}.2
     position: port1.{module}.2
-    label: port1.{module}.2
+    label: sfp+
   -
     name: port1.{module}.3
     position: port1.{module}.3
-    label: port1.{module}.3
+    label: sfp+
   -
     name: port1.{module}.4
     position: port1.{module}.4
-    label: port1.{module}.4
+    label: sfp+
   -
     name: port1.{module}.5
     position: port1.{module}.5
-    label: port1.{module}.5
+    label: sfp+
   -
     name: port1.{module}.6
     position: port1.{module}.6
-    label: port1.{module}.6
+    label: sfp+

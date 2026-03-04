@@ -258,6 +258,18 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: TengigabitEthernet1/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: TengigabitEthernet1/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: TengigabitEthernet1/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: TengigabitEthernet1/0/4
+    type: 10gbase-x-sfpp
+  -
     name: Port-Channel1
     type: lag
   -
@@ -284,18 +296,6 @@ interfaces:
   -
     name: vlan 1
     type: virtual
-  -
-    name: TengigabitEthernet1/0/1
-    type: 10gbase-x-sfpp
-  -
-    name: TengigabitEthernet1/0/2
-    type: 10gbase-x-sfpp
-  -
-    name: TengigabitEthernet1/0/3
-    type: 10gbase-x-sfpp
-  -
-    name: TengigabitEthernet1/0/4
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: TengigabitEthernet1/0/1

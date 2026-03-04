@@ -2,37 +2,61 @@
 manufacturer: Stormshield
 model: NA-SN6K1-EC-8xG-F
 part_number: NA-SN6K1-EC-8xG-F
-interfaces: []
+interfaces:
+  -
+    name: port{module}/1
+    type: 1000base-x-sfp
+  -
+    name: port{module}/2
+    type: 1000base-x-sfp
+  -
+    name: port{module}/3
+    type: 1000base-x-sfp
+  -
+    name: port{module}/4
+    type: 1000base-x-sfp
+  -
+    name: port{module}/5
+    type: 1000base-x-sfp
+  -
+    name: port{module}/6
+    type: 1000base-x-sfp
+  -
+    name: port{module}/7
+    type: 1000base-x-sfp
+  -
+    name: port{module}/8
+    type: 1000base-x-sfp
 module-bays:
   -
     name: port{module}/1
     position: port{module}/1
-    label: port{module}/1
+    label: sfp
   -
     name: port{module}/2
     position: port{module}/2
-    label: port{module}/2
+    label: sfp
   -
     name: port{module}/3
     position: port{module}/3
-    label: port{module}/3
+    label: sfp
   -
     name: port{module}/4
     position: port{module}/4
-    label: port{module}/4
+    label: sfp
   -
     name: port{module}/5
     position: port{module}/5
-    label: port{module}/5
+    label: sfp
   -
     name: port{module}/6
     position: port{module}/6
-    label: port{module}/6
+    label: sfp
   -
     name: port{module}/7
     position: port{module}/7
-    label: port{module}/7
+    label: sfp
   -
     name: port{module}/8
     position: port{module}/8
-    label: port{module}/8
+    label: sfp

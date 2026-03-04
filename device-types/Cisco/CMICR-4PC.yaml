@@ -41,11 +41,11 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
-    name: GigabitEthernet1/0/6
-    type: 1000base-t
-  -
     name: GigabitEthernet1/0/5
     type: 1000base-x-sfp
+  -
+    name: GigabitEthernet1/0/6
+    type: 1000base-t
 module-bays:
   -
     name: GigabitEthernet1/0/5

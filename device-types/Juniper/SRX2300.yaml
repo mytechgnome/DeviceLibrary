@@ -17,6 +17,12 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
+    name: em0
+    type: 1000base-x-sfp
+  -
+    name: em1
+    type: 1000base-x-sfp
+  -
     name: mge-0/0/0
     type: 10gbase-t
   -
@@ -40,12 +46,6 @@ interfaces:
   -
     name: mge-0/0/7
     type: 10gbase-t
-  -
-    name: em0
-    type: 1000base-x-sfp
-  -
-    name: em1
-    type: 1000base-x-sfp
   -
     name: xe-0/1/0
     type: 10gbase-x-sfpp
@@ -84,10 +84,10 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: et-0/3/0
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: et-0/3/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PSU 0
@@ -154,11 +154,11 @@ module-bays:
   -
     name: et-0/3/0
     position: et-0/3/0
-    label: qsfp+
+    label: qsfp28
   -
     name: et-0/3/1
     position: et-0/3/1
-    label: qsfp+
+    label: qsfp28
 console-ports:
   -
     name: Console

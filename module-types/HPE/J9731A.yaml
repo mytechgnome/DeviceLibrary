@@ -3,13 +3,19 @@ manufacturer: HPE
 model: Aruba 2920 2-Port 10GbE SFP+ Module
 comments: Aruba 2920 2-Port 10GbE SFP+ Module
 part_number: J9731A
-interfaces: []
+interfaces:
+  -
+    name: '{module}1'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}2'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '{module}1'
     position: '{module}1'
-    label: '{module}1'
+    label: sfp+
   -
     name: '{module}2'
     position: '{module}2'
-    label: '{module}2'
+    label: sfp+

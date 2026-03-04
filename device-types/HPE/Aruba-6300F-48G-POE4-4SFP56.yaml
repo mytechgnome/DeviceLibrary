@@ -263,35 +263,35 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
+    name: 1/1/49
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/50
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/51
+    type: 50gbase-x-sfp28
+  -
+    name: 1/1/52
+    type: 50gbase-x-sfp28
+  -
     name: mgmt
     type: 1000base-t
     mgmt_only: true
-  -
-    name: 1/1/49
-    type: 25gbase-x-sfp28
-  -
-    name: 1/1/50
-    type: 25gbase-x-sfp28
-  -
-    name: 1/1/51
-    type: 25gbase-x-sfp28
-  -
-    name: 1/1/52
-    type: 25gbase-x-sfp28
 module-bays:
   -
     name: 1/1/49
     position: 1/1/49
-    label: sfp28
+    label: sfp56
   -
     name: 1/1/50
     position: 1/1/50
-    label: sfp28
+    label: sfp56
   -
     name: 1/1/51
     position: 1/1/51
-    label: sfp28
+    label: sfp56
   -
     name: 1/1/52
     position: 1/1/52
-    label: sfp28
+    label: sfp56

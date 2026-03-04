@@ -1,0 +1,20 @@
+---
+manufacturer: HPE
+model: HPE SN1000Q 16Gb 2P FC HBA
+part_number: QW972A
+interfaces:
+  -
+    name: fc{module}a
+    type: 10gbase-x-sfpp
+  -
+    name: fc{module}b
+    type: 10gbase-x-sfpp
+module-bays:
+  -
+    name: fc{module}a
+    position: fc{module}a
+    label: sfp+
+  -
+    name: fc{module}b
+    position: fc{module}b
+    label: sfp+

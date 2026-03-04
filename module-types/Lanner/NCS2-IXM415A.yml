@@ -6,30 +6,30 @@ comments: 4x 25GbE/10GbE SFP28 Ports, Slim-type Module
 interfaces:
   -
     name: eth{module}/0
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: eth{module}/1
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: eth{module}/2
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: eth{module}/3
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: eth{module}/0
     position: eth{module}/0
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}/1
     position: eth{module}/1
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}/2
     position: eth{module}/2
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}/3
     position: eth{module}/3
-    label: sfp+
+    label: sfp28

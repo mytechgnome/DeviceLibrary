@@ -165,24 +165,25 @@ interfaces:
   -
     name: SFP28 Port 48
     type: 25gbase-x-sfp28
+  # QSFP28 ports (100/40G, 49-54)
   -
     name: QSFP28 Port 49
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: QSFP28 Port 50
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: QSFP28 Port 51
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: QSFP28 Port 52
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: QSFP28 Port 53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: QSFP28 Port 54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PSU 1
@@ -385,24 +386,24 @@ module-bays:
   -
     name: QSFP28 Port 49
     position: QSFP28 Port 49
-    label: qsfp
+    label: qsfp28
   -
     name: QSFP28 Port 50
     position: QSFP28 Port 50
-    label: qsfp
+    label: qsfp28
   -
     name: QSFP28 Port 51
     position: QSFP28 Port 51
-    label: qsfp
+    label: qsfp28
   -
     name: QSFP28 Port 52
     position: QSFP28 Port 52
-    label: qsfp
+    label: qsfp28
   -
     name: QSFP28 Port 53
     position: QSFP28 Port 53
-    label: qsfp
+    label: qsfp28
   -
     name: QSFP28 Port 54
     position: QSFP28 Port 54
-    label: qsfp
+    label: qsfp28

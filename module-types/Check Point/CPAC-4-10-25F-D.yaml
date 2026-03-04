@@ -6,30 +6,34 @@ comments: 4 Port 10/25GBase-F SFP+ interface card for 19000/29000 appliances
 interfaces:
   -
     name: eth{module}-01
-    type: 10gbase-x-sfpp
+    label: '1'
+    type: 25gbase-x-sfp28
   -
     name: eth{module}-02
-    type: 10gbase-x-sfpp
+    label: '2'
+    type: 25gbase-x-sfp28
   -
     name: eth{module}-03
-    type: 10gbase-x-sfpp
+    label: '3'
+    type: 25gbase-x-sfp28
   -
     name: eth{module}-04
-    type: 10gbase-x-sfpp
+    label: '4'
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: eth{module}-01
     position: eth{module}-01
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}-02
     position: eth{module}-02
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}-03
     position: eth{module}-03
-    label: sfp+
+    label: sfp28
   -
     name: eth{module}-04
     position: eth{module}-04
-    label: sfp+
+    label: sfp28

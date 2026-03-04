@@ -172,35 +172,35 @@ interfaces:
     name: 1/1/48
     type: 10gbase-t
   -
+    name: 1/1/49
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/1/50
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/1/51
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/1/52
+    type: 100gbase-x-qsfp28
+  -
     name: mgmt
     type: 1000base-t
     mgmt_only: true
-  -
-    name: 1/1/49
-    type: 40gbase-x-qsfpp
-  -
-    name: 1/1/50
-    type: 40gbase-x-qsfpp
-  -
-    name: 1/1/51
-    type: 40gbase-x-qsfpp
-  -
-    name: 1/1/52
-    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: 1/1/49
     position: 1/1/49
-    label: qsfp+
+    label: qsfp28
   -
     name: 1/1/50
     position: 1/1/50
-    label: qsfp+
+    label: qsfp28
   -
     name: 1/1/51
     position: 1/1/51
-    label: qsfp+
+    label: qsfp28
   -
     name: 1/1/52
     position: 1/1/52
-    label: qsfp+
+    label: qsfp28

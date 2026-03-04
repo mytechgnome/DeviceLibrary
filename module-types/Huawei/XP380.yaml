@@ -6,16 +6,16 @@ comments: Mellanox CX-4 Lx BC5M13ETHE1 Ethernet Card-25GE Dual Port SFP28 PCIE 3
 interfaces:
   -
     name: Ethernet{module}/1
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet{module}/2
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: Ethernet{module}/1
     position: Ethernet{module}/1
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet{module}/2
     position: Ethernet{module}/2
-    label: sfp+
+    label: sfp28

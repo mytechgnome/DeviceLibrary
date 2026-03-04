@@ -2,13 +2,19 @@
 manufacturer: HPE
 model: HPE Nimble Storage 2x32Gb Fibre Channel 2-port FIO Adapter Kit
 part_number: R4G78A
-interfaces: []
+interfaces:
+  -
+    name: fc{module}a
+    type: 25gbase-x-sfp28
+  -
+    name: fc{module}b
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: fc{module}a
     position: fc{module}a
-    label: fc{module}a
+    label: sfp28
   -
     name: fc{module}b
     position: fc{module}b
-    label: fc{module}b
+    label: sfp28

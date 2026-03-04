@@ -17,6 +17,14 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
+    name: ctl0
+    type: 1000base-x-sfp
+    description: Cluster Control Link
+  -
+    name: ctl1
+    type: 1000base-x-sfp
+    description: Cluster Control Link
+  -
     name: ge-0/0/0
     type: 1000base-t
   -
@@ -64,14 +72,6 @@ interfaces:
   -
     name: ge-0/0/15
     type: 1000base-t
-  -
-    name: ctl0
-    type: 1000base-x-sfp
-    description: Cluster Control Link
-  -
-    name: ctl1
-    type: 1000base-x-sfp
-    description: Cluster Control Link
   -
     name: et-0/1/0
     type: 25gbase-x-sfp28

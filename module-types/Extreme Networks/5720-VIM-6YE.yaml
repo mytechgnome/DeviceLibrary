@@ -3,29 +3,47 @@ manufacturer: Extreme Networks
 model: 5720-VIM-6YE
 part_number: 5720-VIM-6YE
 comments: 6x 1/10/25Gbase-X SFP28 ports (unpopulated)
-interfaces: []
+interfaces:
+  -
+    name: VIM1
+    type: 25gbase-x-sfp28
+  -
+    name: VIM2
+    type: 25gbase-x-sfp28
+  -
+    name: VIM3
+    type: 25gbase-x-sfp28
+  -
+    name: VIM4
+    type: 25gbase-x-sfp28
+  -
+    name: VIM5
+    type: 25gbase-x-sfp28
+  -
+    name: VIM6
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: VIM1
     position: VIM1
-    label: VIM1
+    label: sfp28
   -
     name: VIM2
     position: VIM2
-    label: VIM2
+    label: sfp28
   -
     name: VIM3
     position: VIM3
-    label: VIM3
+    label: sfp28
   -
     name: VIM4
     position: VIM4
-    label: VIM4
+    label: sfp28
   -
     name: VIM5
     position: VIM5
-    label: VIM5
+    label: sfp28
   -
     name: VIM6
     position: VIM6
-    label: VIM6
+    label: sfp28

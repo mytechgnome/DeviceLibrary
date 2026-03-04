@@ -120,39 +120,63 @@ interfaces:
   -
     name: port17
     type: 1000base-x-sfp
+    enabled: true
+    label: '17'
   -
     name: port18
     type: 1000base-x-sfp
+    enabled: true
+    label: '18'
   -
     name: port19
     type: 1000base-x-sfp
+    enabled: true
+    label: '19'
   -
     name: port20
     type: 1000base-x-sfp
+    enabled: true
+    label: '20'
   -
     name: port21
     type: 1000base-x-sfp
+    enabled: true
+    label: '21'
   -
     name: port22
     type: 1000base-x-sfp
+    enabled: true
+    label: '22'
   -
     name: port23
     type: 1000base-x-sfp
+    enabled: true
+    label: '23'
   -
     name: port24
     type: 1000base-x-sfp
+    enabled: true
+    label: '24'
   -
     name: x1
     type: 10gbase-x-sfpp
+    enabled: true
+    label: X1
   -
     name: x2
     type: 10gbase-x-sfpp
+    enabled: true
+    label: X2
   -
     name: x3
     type: 10gbase-x-sfpp
+    enabled: true
+    label: X3
   -
     name: x4
     type: 10gbase-x-sfpp
+    enabled: true
+    label: X4
 module-bays:
   -
     name: port17

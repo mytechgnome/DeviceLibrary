@@ -5,21 +5,37 @@ part_number: 5520-VIM-4YE
 comments: 4 x 10/25Gbase-X SFP28 ports (unpopulated)
 weight: 210
 weight_unit: g
-interfaces: []
+interfaces:
+  -
+    name: 2/1
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  -
+    name: 2/2
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  -
+    name: 2/3
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  -
+    name: 2/4
+    type: 25gbase-x-sfp28
+    mgmt_only: false
 module-bays:
   -
     name: 2/1
     position: 2/1
-    label: 2/1
+    label: sfp28
   -
     name: 2/2
     position: 2/2
-    label: 2/2
+    label: sfp28
   -
     name: 2/3
     position: 2/3
-    label: 2/3
+    label: sfp28
   -
     name: 2/4
     position: 2/4
-    label: 2/4
+    label: sfp28

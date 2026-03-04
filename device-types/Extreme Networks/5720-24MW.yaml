@@ -21,12 +21,12 @@ module-bays:
   -
     name: U1
     position: U1
-    label: qsfp+
+    label: qsfp28
     description: Can be used for stacking or as various speed normal interfaces
   -
     name: U2
     position: U2
-    label: qsfp+
+    label: qsfp28
     description: Can be used for stacking or as various speed normal interfaces
 console-ports:
   -
@@ -162,9 +162,9 @@ interfaces:
     poe_type: type4-ieee802.3bt
   -
     name: U1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
     description: Can be used for stacking or as various speed normal interfaces
   -
     name: U2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
     description: Can be used for stacking or as various speed normal interfaces

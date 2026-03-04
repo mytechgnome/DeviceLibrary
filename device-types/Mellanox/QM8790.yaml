@@ -1,0 +1,298 @@
+---
+manufacturer: Mellanox
+model: QM8790
+slug: mellanox-qm8790
+u_height: 1
+is_full_depth: true
+weight: 11.4
+weight_unit: kg
+comments: |
+  Data sheet: https://network.nvidia.com/files/doc-2020/pb-qm8790.pdf
+module-bays:
+  -
+    name: psu0
+    position: '0'
+  -
+    name: psu1
+    position: '1'
+  -
+    name: swp1
+    position: swp1
+    label: qsfp56
+  -
+    name: swp2
+    position: swp2
+    label: qsfp56
+  -
+    name: swp3
+    position: swp3
+    label: qsfp56
+  -
+    name: swp4
+    position: swp4
+    label: qsfp56
+  -
+    name: swp5
+    position: swp5
+    label: qsfp56
+  -
+    name: swp6
+    position: swp6
+    label: qsfp56
+  -
+    name: swp7
+    position: swp7
+    label: qsfp56
+  -
+    name: swp8
+    position: swp8
+    label: qsfp56
+  -
+    name: swp9
+    position: swp9
+    label: qsfp56
+  -
+    name: swp10
+    position: swp10
+    label: qsfp56
+  -
+    name: swp11
+    position: swp11
+    label: qsfp56
+  -
+    name: swp12
+    position: swp12
+    label: qsfp56
+  -
+    name: swp13
+    position: swp13
+    label: qsfp56
+  -
+    name: swp14
+    position: swp14
+    label: qsfp56
+  -
+    name: swp15
+    position: swp15
+    label: qsfp56
+  -
+    name: swp16
+    position: swp16
+    label: qsfp56
+  -
+    name: swp17
+    position: swp17
+    label: qsfp56
+  -
+    name: swp18
+    position: swp18
+    label: qsfp56
+  -
+    name: swp19
+    position: swp19
+    label: qsfp56
+  -
+    name: swp20
+    position: swp20
+    label: qsfp56
+  -
+    name: swp21
+    position: swp21
+    label: qsfp56
+  -
+    name: swp22
+    position: swp22
+    label: qsfp56
+  -
+    name: swp23
+    position: swp23
+    label: qsfp56
+  -
+    name: swp24
+    position: swp24
+    label: qsfp56
+  -
+    name: swp25
+    position: swp25
+    label: qsfp56
+  -
+    name: swp26
+    position: swp26
+    label: qsfp56
+  -
+    name: swp27
+    position: swp27
+    label: qsfp56
+  -
+    name: swp28
+    position: swp28
+    label: qsfp56
+  -
+    name: swp29
+    position: swp29
+    label: qsfp56
+  -
+    name: swp30
+    position: swp30
+    label: qsfp56
+  -
+    name: swp31
+    position: swp31
+    label: qsfp56
+  -
+    name: swp32
+    position: swp32
+    label: qsfp56
+  -
+    name: swp33
+    position: swp33
+    label: qsfp56
+  -
+    name: swp34
+    position: swp34
+    label: qsfp56
+  -
+    name: swp35
+    position: swp35
+    label: qsfp56
+  -
+    name: swp36
+    position: swp36
+    label: qsfp56
+  -
+    name: swp37
+    position: swp37
+    label: qsfp56
+  -
+    name: swp38
+    position: swp38
+    label: qsfp56
+  -
+    name: swp39
+    position: swp39
+    label: qsfp56
+  -
+    name: swp40
+    position: swp40
+    label: qsfp56
+interfaces:
+  -
+    name: swp1
+    type: 200gbase-x-qsfp56
+  -
+    name: swp2
+    type: 200gbase-x-qsfp56
+  -
+    name: swp3
+    type: 200gbase-x-qsfp56
+  -
+    name: swp4
+    type: 200gbase-x-qsfp56
+  -
+    name: swp5
+    type: 200gbase-x-qsfp56
+  -
+    name: swp6
+    type: 200gbase-x-qsfp56
+  -
+    name: swp7
+    type: 200gbase-x-qsfp56
+  -
+    name: swp8
+    type: 200gbase-x-qsfp56
+  -
+    name: swp9
+    type: 200gbase-x-qsfp56
+  -
+    name: swp10
+    type: 200gbase-x-qsfp56
+  -
+    name: swp11
+    type: 200gbase-x-qsfp56
+  -
+    name: swp12
+    type: 200gbase-x-qsfp56
+  -
+    name: swp13
+    type: 200gbase-x-qsfp56
+  -
+    name: swp14
+    type: 200gbase-x-qsfp56
+  -
+    name: swp15
+    type: 200gbase-x-qsfp56
+  -
+    name: swp16
+    type: 200gbase-x-qsfp56
+  -
+    name: swp17
+    type: 200gbase-x-qsfp56
+  -
+    name: swp18
+    type: 200gbase-x-qsfp56
+  -
+    name: swp19
+    type: 200gbase-x-qsfp56
+  -
+    name: swp20
+    type: 200gbase-x-qsfp56
+  -
+    name: swp21
+    type: 200gbase-x-qsfp56
+  -
+    name: swp22
+    type: 200gbase-x-qsfp56
+  -
+    name: swp23
+    type: 200gbase-x-qsfp56
+  -
+    name: swp24
+    type: 200gbase-x-qsfp56
+  -
+    name: swp25
+    type: 200gbase-x-qsfp56
+  -
+    name: swp26
+    type: 200gbase-x-qsfp56
+  -
+    name: swp27
+    type: 200gbase-x-qsfp56
+  -
+    name: swp28
+    type: 200gbase-x-qsfp56
+  -
+    name: swp29
+    type: 200gbase-x-qsfp56
+  -
+    name: swp30
+    type: 200gbase-x-qsfp56
+  -
+    name: swp31
+    type: 200gbase-x-qsfp56
+  -
+    name: swp32
+    type: 200gbase-x-qsfp56
+  -
+    name: swp33
+    type: 200gbase-x-qsfp56
+  -
+    name: swp34
+    type: 200gbase-x-qsfp56
+  -
+    name: swp35
+    type: 200gbase-x-qsfp56
+  -
+    name: swp36
+    type: 200gbase-x-qsfp56
+  -
+    name: swp37
+    type: 200gbase-x-qsfp56
+  -
+    name: swp38
+    type: 200gbase-x-qsfp56
+  -
+    name: swp39
+    type: 200gbase-x-qsfp56
+  -
+    name: swp40
+    type: 200gbase-x-qsfp56

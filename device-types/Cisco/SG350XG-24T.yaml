@@ -91,14 +91,14 @@ interfaces:
     name: TenGigabitEthernet1/0/24
     type: 10gbase-t
   -
-    name: vlan1
-    type: virtual
-  -
     name: TengigabitEthernet1/0/1
     type: 10gbase-x-sfpp
   -
     name: TengigabitEthernet1/0/2
     type: 10gbase-x-sfpp
+  -
+    name: vlan1
+    type: virtual
 module-bays:
   -
     name: TengigabitEthernet1/0/1

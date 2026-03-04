@@ -153,30 +153,30 @@ interfaces:
     type: 10gbase-t
   -
     name: Ethernet{module}/49
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/50
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/51
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/52
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: Ethernet{module}/49
     position: Ethernet{module}/49
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/50
     position: Ethernet{module}/50
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/51
     position: Ethernet{module}/51
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/52
     position: Ethernet{module}/52
-    label: sfp+
+    label: qsfp28

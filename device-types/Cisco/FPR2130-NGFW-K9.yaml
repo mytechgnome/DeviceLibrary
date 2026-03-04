@@ -60,10 +60,6 @@ interfaces:
     name: Ethernet1/12
     type: 1000base-t
   -
-    name: Management1/1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1/13
     type: 10gbase-x-sfpp
   -
@@ -75,6 +71,10 @@ interfaces:
   -
     name: Ethernet1/16
     type: 10gbase-x-sfpp
+  -
+    name: Management1/1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Network Module 1

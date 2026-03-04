@@ -109,10 +109,10 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: 100GE0/0/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE0/0/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: XGigabitEthernet0/0/25
@@ -133,8 +133,8 @@ module-bays:
   -
     name: 100GE0/0/1
     position: 100GE0/0/1
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE0/0/2
     position: 100GE0/0/2
-    label: qsfp+
+    label: qsfp28

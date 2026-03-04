@@ -7,6 +7,9 @@ u_height: 1
 is_full_depth: false
 interfaces:
   -
+    name: GigabitEthernet0/0/0
+    type: 1000base-x-sfp
+  -
     name: GigabitEthernet0/0/1
     type: 1000base-t
   -
@@ -36,9 +39,6 @@ interfaces:
   -
     name: Wlan-GigabitEthernet0/1/8
     type: ieee802.11ac
-  -
-    name: GigabitEthernet0/0/0
-    type: 1000base-x-sfp
 console-ports:
   -
     name: con 0

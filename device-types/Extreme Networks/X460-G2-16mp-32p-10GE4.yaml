@@ -254,10 +254,6 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '49'
     type: 10gbase-x-sfpp
   -
@@ -269,6 +265,10 @@ interfaces:
   -
     name: '52'
     type: 10gbase-x-sfpp
+  -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU-1

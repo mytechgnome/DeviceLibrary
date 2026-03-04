@@ -17,6 +17,9 @@ console-ports:
     type: usb-micro-b
 interfaces:
   -
+    name: PortF1
+    type: 1000base-x-sfp
+  -
     name: Port1
     type: 2.5gbase-t
   -
@@ -34,9 +37,6 @@ interfaces:
   -
     name: Port6
     type: 2.5gbase-t
-  -
-    name: PortF1
-    type: 1000base-x-sfp
 power-ports:
   -
     name: DC In 1

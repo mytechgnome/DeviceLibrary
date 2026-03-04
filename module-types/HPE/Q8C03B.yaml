@@ -2,21 +2,33 @@
 manufacturer: HPE
 model: HPE Nimble Storage 2x16Gb Fibre Channel 4-port FIO Adapter Kit
 part_number: Q8C03B
-interfaces: []
+interfaces:
+  -
+    name: fc{module}a
+    type: 10gbase-x-sfpp
+  -
+    name: fc{module}b
+    type: 10gbase-x-sfpp
+  -
+    name: fc{module}c
+    type: 10gbase-x-sfpp
+  -
+    name: fc{module}d
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: fc{module}a
     position: fc{module}a
-    label: fc{module}a
+    label: sfp+
   -
     name: fc{module}b
     position: fc{module}b
-    label: fc{module}b
+    label: sfp+
   -
     name: fc{module}c
     position: fc{module}c
-    label: fc{module}c
+    label: sfp+
   -
     name: fc{module}d
     position: fc{module}d
-    label: fc{module}d
+    label: sfp+

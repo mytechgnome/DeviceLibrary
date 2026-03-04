@@ -15,8 +15,3 @@ console-ports:
   -
     name: USB
     type: usb-a
-module-bays:
-  -
-    name: '{module}'
-    position: '{module}'
-    label: sfp+

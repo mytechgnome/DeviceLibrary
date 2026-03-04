@@ -1,0 +1,461 @@
+---
+manufacturer: Mellanox
+model: SX1024-1BFS
+slug: mellanox-sx1024-1bfs
+part_number: MSX1024B-1BFS
+airflow: rear-to-front
+weight: 7.01
+weight_unit: kg
+u_height: 1
+is_full_depth: false
+console-ports:
+  -
+    name: Serial Console
+    type: rj-45
+  -
+    name: USB Console
+    type: usb-mini-b
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: FAN1
+    position: '1'
+  -
+    name: FAN2
+    position: '2'
+  -
+    name: Eth1/1
+    position: Eth1/1
+    label: sfp+
+  -
+    name: Eth1/2
+    position: Eth1/2
+    label: sfp+
+  -
+    name: Eth1/3
+    position: Eth1/3
+    label: sfp+
+  -
+    name: Eth1/4
+    position: Eth1/4
+    label: sfp+
+  -
+    name: Eth1/5
+    position: Eth1/5
+    label: sfp+
+  -
+    name: Eth1/6
+    position: Eth1/6
+    label: sfp+
+  -
+    name: Eth1/7
+    position: Eth1/7
+    label: sfp+
+  -
+    name: Eth1/8
+    position: Eth1/8
+    label: sfp+
+  -
+    name: Eth1/9
+    position: Eth1/9
+    label: sfp+
+  -
+    name: Eth1/10
+    position: Eth1/10
+    label: sfp+
+  -
+    name: Eth1/11
+    position: Eth1/11
+    label: sfp+
+  -
+    name: Eth1/12
+    position: Eth1/12
+    label: sfp+
+  -
+    name: Eth1/13
+    position: Eth1/13
+    label: sfp+
+  -
+    name: Eth1/14
+    position: Eth1/14
+    label: sfp+
+  -
+    name: Eth1/15
+    position: Eth1/15
+    label: sfp+
+  -
+    name: Eth1/16
+    position: Eth1/16
+    label: sfp+
+  -
+    name: Eth1/17
+    position: Eth1/17
+    label: sfp+
+  -
+    name: Eth1/18
+    position: Eth1/18
+    label: sfp+
+  -
+    name: Eth1/19
+    position: Eth1/19
+    label: sfp+
+  -
+    name: Eth1/20
+    position: Eth1/20
+    label: sfp+
+  -
+    name: Eth1/21
+    position: Eth1/21
+    label: sfp+
+  -
+    name: Eth1/22
+    position: Eth1/22
+    label: sfp+
+  -
+    name: Eth1/23
+    position: Eth1/23
+    label: sfp+
+  -
+    name: Eth1/24
+    position: Eth1/24
+    label: sfp+
+  -
+    name: Eth1/25
+    position: Eth1/25
+    label: sfp+
+  -
+    name: Eth1/26
+    position: Eth1/26
+    label: sfp+
+  -
+    name: Eth1/27
+    position: Eth1/27
+    label: sfp+
+  -
+    name: Eth1/28
+    position: Eth1/28
+    label: sfp+
+  -
+    name: Eth1/29
+    position: Eth1/29
+    label: sfp+
+  -
+    name: Eth1/30
+    position: Eth1/30
+    label: sfp+
+  -
+    name: Eth1/31
+    position: Eth1/31
+    label: sfp+
+  -
+    name: Eth1/32
+    position: Eth1/32
+    label: sfp+
+  -
+    name: Eth1/33
+    position: Eth1/33
+    label: sfp+
+  -
+    name: Eth1/34
+    position: Eth1/34
+    label: sfp+
+  -
+    name: Eth1/35
+    position: Eth1/35
+    label: sfp+
+  -
+    name: Eth1/36
+    position: Eth1/36
+    label: sfp+
+  -
+    name: Eth1/37
+    position: Eth1/37
+    label: sfp+
+  -
+    name: Eth1/38
+    position: Eth1/38
+    label: sfp+
+  -
+    name: Eth1/39
+    position: Eth1/39
+    label: sfp+
+  -
+    name: Eth1/40
+    position: Eth1/40
+    label: sfp+
+  -
+    name: Eth1/41
+    position: Eth1/41
+    label: sfp+
+  -
+    name: Eth1/42
+    position: Eth1/42
+    label: sfp+
+  -
+    name: Eth1/43
+    position: Eth1/43
+    label: sfp+
+  -
+    name: Eth1/44
+    position: Eth1/44
+    label: sfp+
+  -
+    name: Eth1/45
+    position: Eth1/45
+    label: sfp+
+  -
+    name: Eth1/46
+    position: Eth1/46
+    label: sfp+
+  -
+    name: Eth1/47
+    position: Eth1/47
+    label: sfp+
+  -
+    name: Eth1/48
+    position: Eth1/48
+    label: sfp+
+  -
+    name: Eth1/49
+    position: Eth1/49
+    label: qsfp+
+  -
+    name: Eth1/50
+    position: Eth1/50
+    label: qsfp+
+  -
+    name: Eth1/51
+    position: Eth1/51
+    label: qsfp+
+  -
+    name: Eth1/52
+    position: Eth1/52
+    label: qsfp+
+  -
+    name: Eth1/53
+    position: Eth1/53
+    label: qsfp+
+  -
+    name: Eth1/54
+    position: Eth1/54
+    label: qsfp+
+  -
+    name: Eth1/55
+    position: Eth1/55
+    label: qsfp+
+  -
+    name: Eth1/56
+    position: Eth1/56
+    label: qsfp+
+  -
+    name: Eth1/57
+    position: Eth1/57
+    label: qsfp+
+  -
+    name: Eth1/58
+    position: Eth1/58
+    label: qsfp+
+  -
+    name: Eth1/59
+    position: Eth1/59
+    label: qsfp+
+  -
+    name: Eth1/60
+    position: Eth1/60
+    label: qsfp+
+interfaces:
+  -
+    name: Eth1/1
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/2
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/3
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/4
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/5
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/6
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/7
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/8
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/9
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/10
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/11
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/12
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/13
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/14
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/15
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/16
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/17
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/18
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/19
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/20
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/21
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/22
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/23
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/24
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/25
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/26
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/27
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/28
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/29
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/30
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/31
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/32
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/33
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/34
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/35
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/36
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/37
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/38
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/39
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/40
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/41
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/42
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/43
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/44
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/45
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/46
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/47
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/48
+    type: 10gbase-x-sfpp
+  -
+    name: Eth1/49
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/50
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/51
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/52
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/53
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/54
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/55
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/56
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/57
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/58
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/59
+    type: 40gbase-x-qsfpp
+  -
+    name: Eth1/60
+    type: 40gbase-x-qsfpp
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+    label: MGT
+  -
+    name: mgmt1
+    type: 1000base-t
+    mgmt_only: true
+    label: MGT

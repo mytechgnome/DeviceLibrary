@@ -245,20 +245,40 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type4-ieee802.3bt
+  -
+    name: 1/{module}/49
+    type: 50gbase-x-sfp28
+    enabled: true
+    mgmt_only: false
+  -
+    name: 1/{module}/50
+    type: 50gbase-x-sfp28
+    enabled: true
+    mgmt_only: false
+  -
+    name: 1/{module}/51
+    type: 50gbase-x-sfp28
+    enabled: true
+    mgmt_only: false
+  -
+    name: 1/{module}/52
+    type: 50gbase-x-sfp28
+    enabled: true
+    mgmt_only: false
 module-bays:
   -
     name: 1/{module}/49
     position: 1/{module}/49
-    label: 1/{module}/49
+    label: sfp56
   -
     name: 1/{module}/50
     position: 1/{module}/50
-    label: 1/{module}/50
+    label: sfp56
   -
     name: 1/{module}/51
     position: 1/{module}/51
-    label: 1/{module}/51
+    label: sfp56
   -
     name: 1/{module}/52
     position: 1/{module}/52
-    label: 1/{module}/52
+    label: sfp56

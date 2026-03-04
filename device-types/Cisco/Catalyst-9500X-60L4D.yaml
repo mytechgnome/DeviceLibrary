@@ -16,184 +16,185 @@ weight_unit: kg
 interfaces:
   -
     name: TenGigabitEthernet1/0/1
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/2
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/3
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/4
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/5
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/6
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/7
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/8
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/9
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/10
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/11
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/12
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/13
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/14
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/15
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/16
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/17
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/18
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/19
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/20
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/21
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/22
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/23
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/24
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/25
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/26
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/27
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/28
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/29
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/30
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/31
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/32
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/33
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/34
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/35
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/36
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/37
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/38
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/39
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/40
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/41
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/42
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/43
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/44
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/45
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/46
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/47
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/48
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/49
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/50
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/51
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/52
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/53
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/54
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/55
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/56
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/57
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/58
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/59
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: TenGigabitEthernet1/0/60
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
+  # 4 x 40G/100G QSFP28 uplink ports
   -
     name: FortyGigE1/0/1
     type: 400gbase-x-qsfpdd
@@ -216,243 +217,243 @@ module-bays:
   -
     name: TenGigabitEthernet1/0/1
     position: TenGigabitEthernet1/0/1
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/2
     position: TenGigabitEthernet1/0/2
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/3
     position: TenGigabitEthernet1/0/3
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/4
     position: TenGigabitEthernet1/0/4
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/5
     position: TenGigabitEthernet1/0/5
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/6
     position: TenGigabitEthernet1/0/6
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/7
     position: TenGigabitEthernet1/0/7
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/8
     position: TenGigabitEthernet1/0/8
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/9
     position: TenGigabitEthernet1/0/9
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/10
     position: TenGigabitEthernet1/0/10
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/11
     position: TenGigabitEthernet1/0/11
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/12
     position: TenGigabitEthernet1/0/12
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/13
     position: TenGigabitEthernet1/0/13
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/14
     position: TenGigabitEthernet1/0/14
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/15
     position: TenGigabitEthernet1/0/15
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/16
     position: TenGigabitEthernet1/0/16
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/17
     position: TenGigabitEthernet1/0/17
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/18
     position: TenGigabitEthernet1/0/18
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/19
     position: TenGigabitEthernet1/0/19
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/20
     position: TenGigabitEthernet1/0/20
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/21
     position: TenGigabitEthernet1/0/21
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/22
     position: TenGigabitEthernet1/0/22
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/23
     position: TenGigabitEthernet1/0/23
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/24
     position: TenGigabitEthernet1/0/24
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/25
     position: TenGigabitEthernet1/0/25
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/26
     position: TenGigabitEthernet1/0/26
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/27
     position: TenGigabitEthernet1/0/27
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/28
     position: TenGigabitEthernet1/0/28
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/29
     position: TenGigabitEthernet1/0/29
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/30
     position: TenGigabitEthernet1/0/30
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/31
     position: TenGigabitEthernet1/0/31
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/32
     position: TenGigabitEthernet1/0/32
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/33
     position: TenGigabitEthernet1/0/33
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/34
     position: TenGigabitEthernet1/0/34
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/35
     position: TenGigabitEthernet1/0/35
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/36
     position: TenGigabitEthernet1/0/36
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/37
     position: TenGigabitEthernet1/0/37
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/38
     position: TenGigabitEthernet1/0/38
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/39
     position: TenGigabitEthernet1/0/39
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/40
     position: TenGigabitEthernet1/0/40
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/41
     position: TenGigabitEthernet1/0/41
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/42
     position: TenGigabitEthernet1/0/42
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/43
     position: TenGigabitEthernet1/0/43
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/44
     position: TenGigabitEthernet1/0/44
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/45
     position: TenGigabitEthernet1/0/45
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/46
     position: TenGigabitEthernet1/0/46
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/47
     position: TenGigabitEthernet1/0/47
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/48
     position: TenGigabitEthernet1/0/48
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/49
     position: TenGigabitEthernet1/0/49
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/50
     position: TenGigabitEthernet1/0/50
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/51
     position: TenGigabitEthernet1/0/51
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/52
     position: TenGigabitEthernet1/0/52
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/53
     position: TenGigabitEthernet1/0/53
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/54
     position: TenGigabitEthernet1/0/54
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/55
     position: TenGigabitEthernet1/0/55
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/56
     position: TenGigabitEthernet1/0/56
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/57
     position: TenGigabitEthernet1/0/57
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/58
     position: TenGigabitEthernet1/0/58
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/59
     position: TenGigabitEthernet1/0/59
-    label: sfp28
+    label: sfp56
   -
     name: TenGigabitEthernet1/0/60
     position: TenGigabitEthernet1/0/60
-    label: sfp28
+    label: sfp56
   -
     name: FortyGigE1/0/1
     position: FortyGigE1/0/1

@@ -6,9 +6,10 @@ comments: '[Datasheet](https://ark.intel.com/content/www/us/en/ark/products/9526
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
+    mgmt_only: false
 module-bays:
   -
     name: Ethernet/{module}/1
     position: Ethernet/{module}/1
-    label: sfp+
+    label: sfp28

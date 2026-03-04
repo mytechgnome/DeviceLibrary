@@ -36,9 +36,12 @@ interfaces:
   -
     name: Port 4
     type: 10gbase-x-sfpp
+
+  # SFP28 25GbE Ports (5-6)
   -
     name: Port 5
     type: 25gbase-x-sfp28
+    label: Default WAN 2
   -
     name: Port 6
     type: 25gbase-x-sfp28

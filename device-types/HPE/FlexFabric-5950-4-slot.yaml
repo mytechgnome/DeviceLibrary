@@ -28,6 +28,7 @@ interfaces:
   -
     name: Management2
     type: 1000base-x-sfp
+    mgmt_only: true
   -
     name: SFP1
     type: 1000base-x-sfp

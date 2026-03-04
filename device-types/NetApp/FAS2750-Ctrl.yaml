@@ -18,18 +18,6 @@ console-ports:
     type: usb-micro-b
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
-    name: 0a
-    type: other
-    label: sas0
-  -
-    name: 0b
-    type: other
-    label: sas1
-  -
     name: e0a
     type: 10gbase-x-sfpp
   -
@@ -47,6 +35,18 @@ interfaces:
   -
     name: e0f
     type: 10gbase-x-sfpp
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+  -
+    name: 0a
+    type: other
+    label: sas0
+  -
+    name: 0b
+    type: other
+    label: sas1
 module-bays:
   -
     name: e0a

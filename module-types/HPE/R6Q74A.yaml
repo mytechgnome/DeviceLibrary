@@ -5,6 +5,12 @@ part_number: R6Q74A
 comments: HPE MSL LTO-9 Ultrium 45000 FC Half Height Drive Kit
 interfaces:
   -
+    name: FC/{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: FC/{module}/2
+    type: 10gbase-x-sfpp
+  -
     name: mgmt{module}
     type: 1000base-t
     mgmt_only: true
@@ -12,8 +18,8 @@ module-bays:
   -
     name: FC/{module}/1
     position: FC/{module}/1
-    label: FC/{module}/1
+    label: sfp+
   -
     name: FC/{module}/2
     position: FC/{module}/2
-    label: FC/{module}/2
+    label: sfp+

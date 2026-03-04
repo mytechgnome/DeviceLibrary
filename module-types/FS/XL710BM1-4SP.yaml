@@ -8,15 +8,19 @@ interfaces:
   -
     name: Ethernet/{module}/1
     type: 10gbase-x-sfpp
+    mgmt_only: false
   -
     name: Ethernet/{module}/2
     type: 10gbase-x-sfpp
+    mgmt_only: false
   -
     name: Ethernet/{module}/3
     type: 10gbase-x-sfpp
+    mgmt_only: false
   -
     name: Ethernet/{module}/4
     type: 10gbase-x-sfpp
+    mgmt_only: false
 module-bays:
   -
     name: Ethernet/{module}/1

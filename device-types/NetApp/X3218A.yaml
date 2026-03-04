@@ -20,14 +20,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
-    name: 0a
-    type: other
-    description: MiniSAS HD
-  -
-    name: 0b
-    type: other
-    description: MiniSAS HD
-  -
     name: e0a
     type: 10gbase-x-sfpp
   -
@@ -45,6 +37,14 @@ interfaces:
   -
     name: e0f
     type: 10gbase-x-sfpp
+  -
+    name: 0a
+    type: other
+    description: MiniSAS HD
+  -
+    name: 0b
+    type: other
+    description: MiniSAS HD
 module-bays:
   -
     name: e0a

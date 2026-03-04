@@ -2,69 +2,117 @@
 manufacturer: Juniper
 model: MX304-LMIC16
 part_number: MX304-LMIC16-BASE
-interfaces: []
+interfaces:
+  -
+    name: et-0/{module}/0
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/{module}/1
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/2
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/3
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/4
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/5
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/6
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/{module}/7
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/8
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/{module}/9
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/10
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/11
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/12
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/13
+    type: 100gbase-x-qsfp28
+  -
+    name: et-0/{module}/14
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/{module}/15
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: et-0/{module}/0
     position: et-0/{module}/0
-    label: et-0/{module}/0
+    label: qsfp-dd
   -
     name: et-0/{module}/1
     position: et-0/{module}/1
-    label: et-0/{module}/1
+    label: qsfp28
   -
     name: et-0/{module}/2
     position: et-0/{module}/2
-    label: et-0/{module}/2
+    label: qsfp28
   -
     name: et-0/{module}/3
     position: et-0/{module}/3
-    label: et-0/{module}/3
+    label: qsfp28
   -
     name: et-0/{module}/4
     position: et-0/{module}/4
-    label: et-0/{module}/4
+    label: qsfp28
   -
     name: et-0/{module}/5
     position: et-0/{module}/5
-    label: et-0/{module}/5
+    label: qsfp28
   -
     name: et-0/{module}/6
     position: et-0/{module}/6
-    label: et-0/{module}/6
+    label: qsfp-dd
   -
     name: et-0/{module}/7
     position: et-0/{module}/7
-    label: et-0/{module}/7
+    label: qsfp28
   -
     name: et-0/{module}/8
     position: et-0/{module}/8
-    label: et-0/{module}/8
+    label: qsfp-dd
   -
     name: et-0/{module}/9
     position: et-0/{module}/9
-    label: et-0/{module}/9
+    label: qsfp28
   -
     name: et-0/{module}/10
     position: et-0/{module}/10
-    label: et-0/{module}/10
+    label: qsfp28
   -
     name: et-0/{module}/11
     position: et-0/{module}/11
-    label: et-0/{module}/11
+    label: qsfp28
   -
     name: et-0/{module}/12
     position: et-0/{module}/12
-    label: et-0/{module}/12
+    label: qsfp28
   -
     name: et-0/{module}/13
     position: et-0/{module}/13
-    label: et-0/{module}/13
+    label: qsfp28
   -
     name: et-0/{module}/14
     position: et-0/{module}/14
-    label: et-0/{module}/14
+    label: qsfp-dd
   -
     name: et-0/{module}/15
     position: et-0/{module}/15
-    label: et-0/{module}/15
+    label: qsfp28

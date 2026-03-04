@@ -166,9 +166,11 @@ interfaces:
   -
     name: TenGigabitEthernet 0/25
     type: 10gbase-x-sfpp
+    label: '25'
   -
     name: TenGigabitEthernet 0/26
     type: 10gbase-x-sfpp
+    label: '26'
 module-bays:
   -
     name: Expansion Module 1

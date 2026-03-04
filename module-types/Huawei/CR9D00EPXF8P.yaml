@@ -6,245 +6,425 @@ description: NE9000 LPUI-1T-CM 60x10GBase LAN/WAN-SFP+
 comments: '[Huawei 60-Port 10GBase LAN/WAN-SFP+ Integrated Line Process Unit CM (LPUI-1T-CM)](https://info.support.huawei.com/info-finder/enterprisesearch/en?keyword=CR9D00EPXF8P)'
 weight: 13.5
 weight_unit: kg
-interfaces: []
+interfaces:
+  -
+    name: GE{module}/0/0
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/1
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/2
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/3
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/4
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/5
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/6
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/7
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/8
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/9
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/10
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/11
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/12
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/13
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/14
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/15
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/16
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/17
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/18
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/19
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/20
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/21
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/22
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/23
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/24
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/25
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/26
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/27
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/28
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/29
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/30
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/31
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/32
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/33
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/34
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/35
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/36
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/37
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/38
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/39
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/40
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/41
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/42
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/43
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/44
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/45
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/46
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/47
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/48
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/49
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/50
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/51
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/52
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/53
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/54
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/55
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/56
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/57
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/58
+    type: 10gbase-x-sfpp
+  -
+    name: GE{module}/0/59
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: GE{module}/0/0
     position: GE{module}/0/0
-    label: GE{module}/0/0
+    label: sfp+
   -
     name: GE{module}/0/1
     position: GE{module}/0/1
-    label: GE{module}/0/1
+    label: sfp+
   -
     name: GE{module}/0/2
     position: GE{module}/0/2
-    label: GE{module}/0/2
+    label: sfp+
   -
     name: GE{module}/0/3
     position: GE{module}/0/3
-    label: GE{module}/0/3
+    label: sfp+
   -
     name: GE{module}/0/4
     position: GE{module}/0/4
-    label: GE{module}/0/4
+    label: sfp+
   -
     name: GE{module}/0/5
     position: GE{module}/0/5
-    label: GE{module}/0/5
+    label: sfp+
   -
     name: GE{module}/0/6
     position: GE{module}/0/6
-    label: GE{module}/0/6
+    label: sfp+
   -
     name: GE{module}/0/7
     position: GE{module}/0/7
-    label: GE{module}/0/7
+    label: sfp+
   -
     name: GE{module}/0/8
     position: GE{module}/0/8
-    label: GE{module}/0/8
+    label: sfp+
   -
     name: GE{module}/0/9
     position: GE{module}/0/9
-    label: GE{module}/0/9
+    label: sfp+
   -
     name: GE{module}/0/10
     position: GE{module}/0/10
-    label: GE{module}/0/10
+    label: sfp+
   -
     name: GE{module}/0/11
     position: GE{module}/0/11
-    label: GE{module}/0/11
+    label: sfp+
   -
     name: GE{module}/0/12
     position: GE{module}/0/12
-    label: GE{module}/0/12
+    label: sfp+
   -
     name: GE{module}/0/13
     position: GE{module}/0/13
-    label: GE{module}/0/13
+    label: sfp+
   -
     name: GE{module}/0/14
     position: GE{module}/0/14
-    label: GE{module}/0/14
+    label: sfp+
   -
     name: GE{module}/0/15
     position: GE{module}/0/15
-    label: GE{module}/0/15
+    label: sfp+
   -
     name: GE{module}/0/16
     position: GE{module}/0/16
-    label: GE{module}/0/16
+    label: sfp+
   -
     name: GE{module}/0/17
     position: GE{module}/0/17
-    label: GE{module}/0/17
+    label: sfp+
   -
     name: GE{module}/0/18
     position: GE{module}/0/18
-    label: GE{module}/0/18
+    label: sfp+
   -
     name: GE{module}/0/19
     position: GE{module}/0/19
-    label: GE{module}/0/19
+    label: sfp+
   -
     name: GE{module}/0/20
     position: GE{module}/0/20
-    label: GE{module}/0/20
+    label: sfp+
   -
     name: GE{module}/0/21
     position: GE{module}/0/21
-    label: GE{module}/0/21
+    label: sfp+
   -
     name: GE{module}/0/22
     position: GE{module}/0/22
-    label: GE{module}/0/22
+    label: sfp+
   -
     name: GE{module}/0/23
     position: GE{module}/0/23
-    label: GE{module}/0/23
+    label: sfp+
   -
     name: GE{module}/0/24
     position: GE{module}/0/24
-    label: GE{module}/0/24
+    label: sfp+
   -
     name: GE{module}/0/25
     position: GE{module}/0/25
-    label: GE{module}/0/25
+    label: sfp+
   -
     name: GE{module}/0/26
     position: GE{module}/0/26
-    label: GE{module}/0/26
+    label: sfp+
   -
     name: GE{module}/0/27
     position: GE{module}/0/27
-    label: GE{module}/0/27
+    label: sfp+
   -
     name: GE{module}/0/28
     position: GE{module}/0/28
-    label: GE{module}/0/28
+    label: sfp+
   -
     name: GE{module}/0/29
     position: GE{module}/0/29
-    label: GE{module}/0/29
+    label: sfp+
   -
     name: GE{module}/0/30
     position: GE{module}/0/30
-    label: GE{module}/0/30
+    label: sfp+
   -
     name: GE{module}/0/31
     position: GE{module}/0/31
-    label: GE{module}/0/31
+    label: sfp+
   -
     name: GE{module}/0/32
     position: GE{module}/0/32
-    label: GE{module}/0/32
+    label: sfp+
   -
     name: GE{module}/0/33
     position: GE{module}/0/33
-    label: GE{module}/0/33
+    label: sfp+
   -
     name: GE{module}/0/34
     position: GE{module}/0/34
-    label: GE{module}/0/34
+    label: sfp+
   -
     name: GE{module}/0/35
     position: GE{module}/0/35
-    label: GE{module}/0/35
+    label: sfp+
   -
     name: GE{module}/0/36
     position: GE{module}/0/36
-    label: GE{module}/0/36
+    label: sfp+
   -
     name: GE{module}/0/37
     position: GE{module}/0/37
-    label: GE{module}/0/37
+    label: sfp+
   -
     name: GE{module}/0/38
     position: GE{module}/0/38
-    label: GE{module}/0/38
+    label: sfp+
   -
     name: GE{module}/0/39
     position: GE{module}/0/39
-    label: GE{module}/0/39
+    label: sfp+
   -
     name: GE{module}/0/40
     position: GE{module}/0/40
-    label: GE{module}/0/40
+    label: sfp+
   -
     name: GE{module}/0/41
     position: GE{module}/0/41
-    label: GE{module}/0/41
+    label: sfp+
   -
     name: GE{module}/0/42
     position: GE{module}/0/42
-    label: GE{module}/0/42
+    label: sfp+
   -
     name: GE{module}/0/43
     position: GE{module}/0/43
-    label: GE{module}/0/43
+    label: sfp+
   -
     name: GE{module}/0/44
     position: GE{module}/0/44
-    label: GE{module}/0/44
+    label: sfp+
   -
     name: GE{module}/0/45
     position: GE{module}/0/45
-    label: GE{module}/0/45
+    label: sfp+
   -
     name: GE{module}/0/46
     position: GE{module}/0/46
-    label: GE{module}/0/46
+    label: sfp+
   -
     name: GE{module}/0/47
     position: GE{module}/0/47
-    label: GE{module}/0/47
+    label: sfp+
   -
     name: GE{module}/0/48
     position: GE{module}/0/48
-    label: GE{module}/0/48
+    label: sfp+
   -
     name: GE{module}/0/49
     position: GE{module}/0/49
-    label: GE{module}/0/49
+    label: sfp+
   -
     name: GE{module}/0/50
     position: GE{module}/0/50
-    label: GE{module}/0/50
+    label: sfp+
   -
     name: GE{module}/0/51
     position: GE{module}/0/51
-    label: GE{module}/0/51
+    label: sfp+
   -
     name: GE{module}/0/52
     position: GE{module}/0/52
-    label: GE{module}/0/52
+    label: sfp+
   -
     name: GE{module}/0/53
     position: GE{module}/0/53
-    label: GE{module}/0/53
+    label: sfp+
   -
     name: GE{module}/0/54
     position: GE{module}/0/54
-    label: GE{module}/0/54
+    label: sfp+
   -
     name: GE{module}/0/55
     position: GE{module}/0/55
-    label: GE{module}/0/55
+    label: sfp+
   -
     name: GE{module}/0/56
     position: GE{module}/0/56
-    label: GE{module}/0/56
+    label: sfp+
   -
     name: GE{module}/0/57
     position: GE{module}/0/57
-    label: GE{module}/0/57
+    label: sfp+
   -
     name: GE{module}/0/58
     position: GE{module}/0/58
-    label: GE{module}/0/58
+    label: sfp+
   -
     name: GE{module}/0/59
     position: GE{module}/0/59
-    label: GE{module}/0/59
+    label: sfp+

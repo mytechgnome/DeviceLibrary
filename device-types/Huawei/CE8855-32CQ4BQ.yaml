@@ -25,147 +25,147 @@ module-bays:
   -
     name: 100GE1/0/1
     position: 100GE1/0/1
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/2
     position: 100GE1/0/2
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/3
     position: 100GE1/0/3
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/4
     position: 100GE1/0/4
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/5
     position: 100GE1/0/5
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/6
     position: 100GE1/0/6
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/7
     position: 100GE1/0/7
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/8
     position: 100GE1/0/8
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/9
     position: 100GE1/0/9
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/10
     position: 100GE1/0/10
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/11
     position: 100GE1/0/11
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/12
     position: 100GE1/0/12
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/13
     position: 100GE1/0/13
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/14
     position: 100GE1/0/14
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/15
     position: 100GE1/0/15
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/16
     position: 100GE1/0/16
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/17
     position: 100GE1/0/17
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/18
     position: 100GE1/0/18
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/19
     position: 100GE1/0/19
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/20
     position: 100GE1/0/20
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/21
     position: 100GE1/0/21
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/22
     position: 100GE1/0/22
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/23
     position: 100GE1/0/23
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/24
     position: 100GE1/0/24
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/25
     position: 100GE1/0/25
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/26
     position: 100GE1/0/26
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/27
     position: 100GE1/0/27
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/28
     position: 100GE1/0/28
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/29
     position: 100GE1/0/29
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/30
     position: 100GE1/0/30
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/31
     position: 100GE1/0/31
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/32
     position: 100GE1/0/32
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE1/0/33
     position: 100GE1/0/33
-    label: qsfp+
+    label: qsfp56
   -
     name: 100GE1/0/34
     position: 100GE1/0/34
-    label: qsfp+
+    label: qsfp56
   -
     name: 100GE1/0/35
     position: 100GE1/0/35
-    label: qsfp+
+    label: qsfp56
   -
     name: 100GE1/0/36
     position: 100GE1/0/36
-    label: qsfp+
+    label: qsfp56
 interfaces:
   -
     name: MEth0/0/0
@@ -174,109 +174,109 @@ interfaces:
     mgmt_only: true
   -
     name: 100GE1/0/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/5
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/6
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/7
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/8
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/9
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/10
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/11
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/12
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/13
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/14
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/15
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/16
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/17
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/18
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/19
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/20
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/21
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/22
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/23
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/24
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/29
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/30
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/31
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/32
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE1/0/33
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: 100GE1/0/34
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: 100GE1/0/35
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: 100GE1/0/36
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56

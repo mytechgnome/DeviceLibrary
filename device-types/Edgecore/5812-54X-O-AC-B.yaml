@@ -20,10 +20,6 @@ power-ports:
     maximum_draw: 750
 interfaces:
   -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: swp1
     type: 10gbase-x-sfpp
   -
@@ -185,6 +181,10 @@ interfaces:
   -
     name: swp54
     type: 40gbase-x-qsfpp
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: swp1

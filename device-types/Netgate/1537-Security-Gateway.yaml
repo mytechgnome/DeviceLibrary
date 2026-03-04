@@ -14,6 +14,14 @@ power-ports:
     type: iec-60320-c14
 interfaces:
   -
+    name: ix0
+    type: 10gbase-x-sfpp
+    label: OPT1
+  -
+    name: ix1
+    type: 10gbase-x-sfpp
+    label: OPT2
+  -
     name: igb0
     type: 1000base-t
     label: WAN
@@ -25,12 +33,6 @@ interfaces:
     name: ipmi
     type: 1000base-t
     mgmt_only: true
-  -
-    name: ix0
-    type: 10gbase-x-sfpp
-  -
-    name: ix1
-    type: 10gbase-x-sfpp
 module-bays:
   -
     name: Slot 1

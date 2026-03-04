@@ -6,30 +6,30 @@ comments: '[Cisco Firepower 4110, 4120, 4140, and 4150 Hardware Installation Gui
 interfaces:
   -
     name: Ethernet{module}/1
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/2
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/3
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet{module}/4
-    type: 10gbase-x-sfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: Ethernet{module}/1
     position: Ethernet{module}/1
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/2
     position: Ethernet{module}/2
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/3
     position: Ethernet{module}/3
-    label: sfp+
+    label: qsfp28
   -
     name: Ethernet{module}/4
     position: Ethernet{module}/4
-    label: sfp+
+    label: qsfp28

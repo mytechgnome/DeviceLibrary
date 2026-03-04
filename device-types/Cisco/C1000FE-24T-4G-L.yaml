@@ -92,9 +92,6 @@ interfaces:
     name: FastEthernet1/0/24
     type: 1000base-t
   -
-    name: Vlan1
-    type: virtual
-  -
     name: GigabitEthernet1/0/25
     type: 1000base-x-sfp
     description: 1G SFP and RJ-45 combo uplink
@@ -108,6 +105,9 @@ interfaces:
   -
     name: GigabitEthernet1/0/28
     type: 1000base-x-sfp
+  -
+    name: Vlan1
+    type: virtual
 module-bays:
   -
     name: GigabitEthernet1/0/25

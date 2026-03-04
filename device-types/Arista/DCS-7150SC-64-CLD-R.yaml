@@ -377,6 +377,7 @@ interfaces:
   -
     name: Ethernet48
     type: 10gbase-x-sfpp
+# QSFP ports can be broke into 4x10 with a model of [49-52]/[1-4]
   -
     name: Ethernet49/1
     type: 40gbase-x-qsfpp

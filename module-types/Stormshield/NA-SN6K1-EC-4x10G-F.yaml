@@ -2,21 +2,33 @@
 manufacturer: Stormshield
 model: NA-SN6K1-EC-4x10G-F
 part_number: NA-SN6K1-EC-4x10G-F
-interfaces: []
+interfaces:
+  -
+    name: port{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: port{module}/2
+    type: 10gbase-x-sfpp
+  -
+    name: port{module}/3
+    type: 10gbase-x-sfpp
+  -
+    name: port{module}/4
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port{module}/1
     position: port{module}/1
-    label: port{module}/1
+    label: sfp+
   -
     name: port{module}/2
     position: port{module}/2
-    label: port{module}/2
+    label: sfp+
   -
     name: port{module}/3
     position: port{module}/3
-    label: port{module}/3
+    label: sfp+
   -
     name: port{module}/4
     position: port{module}/4
-    label: port{module}/4
+    label: sfp+

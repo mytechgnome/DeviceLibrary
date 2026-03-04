@@ -1,0 +1,49 @@
+---
+manufacturer: HPE
+model: MSA 2050 SAN Controller
+slug: hpe-msa-2050-san-controller
+subdevice_role: child
+is_full_depth: true
+u_height: 0
+weight: 3
+weight_unit: kg
+console-ports:
+  -
+    name: Service
+    type: usb-mini-a
+interfaces:
+  -
+    name: MGMT
+    type: 1000base-t
+  -
+    name: SAS12g_Expansion
+    type: other
+  -
+    name: Net1
+    type: 10gbase-x-sfpp
+  -
+    name: Net2
+    type: 10gbase-x-sfpp
+  -
+    name: Net3
+    type: 10gbase-x-sfpp
+  -
+    name: Net4
+    type: 10gbase-x-sfpp
+module-bays:
+  -
+    name: Net1
+    position: Net1
+    label: sfp+
+  -
+    name: Net2
+    position: Net2
+    label: sfp+
+  -
+    name: Net3
+    position: Net3
+    label: sfp+
+  -
+    name: Net4
+    position: Net4
+    label: sfp+

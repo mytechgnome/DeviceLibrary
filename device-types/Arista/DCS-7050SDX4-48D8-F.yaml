@@ -248,10 +248,6 @@ front_image: true
 rear_image: true
 interfaces:
   -
-    name: Management1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1
     type: 1000base-x-sfp
   -
@@ -419,3 +415,7 @@ interfaces:
   -
     name: Ethernet56/1
     type: 400gbase-x-qsfpdd
+  -
+    name: Management1
+    type: 1000base-t
+    mgmt_only: true

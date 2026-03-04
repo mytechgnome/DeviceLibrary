@@ -32,11 +32,6 @@ power-ports:
     description: -48 VDC
 interfaces:
   -
-    name: LMT
-    type: 1000base-t
-    mgmt_only: true
-    description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
-  -
     name: TN/IDL A
     type: 40gbase-x-qsfpp
   -
@@ -99,6 +94,11 @@ interfaces:
   -
     name: DOT Q
     type: 10gbase-x-sfpp
+  -
+    name: LMT
+    type: 1000base-t
+    mgmt_only: true
+    description: 100 / 1000 Base-T Ethernet for Out-of-Band Management
 module-bays:
   -
     name: TN/IDL A

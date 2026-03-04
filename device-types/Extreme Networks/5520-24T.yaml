@@ -93,11 +93,11 @@ interfaces:
     type: 1000base-t
   -
     name: U1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
     description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.
   -
     name: U2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
     description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.
 module-bays:
   -
@@ -112,10 +112,10 @@ module-bays:
   -
     name: U1
     position: U1
-    label: qsfp+
+    label: qsfp28
     description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.
   -
     name: U2
     position: U2
-    label: qsfp+
+    label: qsfp28
     description: Connects at 1x40Gb, 2x 50Gb, 4x 25Gb, or 4x 10Gb, but not 1x 100Gb.  Or use for stacking.

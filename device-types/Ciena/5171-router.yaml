@@ -30,21 +30,17 @@ console-ports:
     description: RJ45 interface G.703 1PPS and ToD/10MHz input/output (software selectable)
 interfaces:
   -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '1'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '2'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '3'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '4'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '5'
     type: 25gbase-x-sfp28
@@ -95,16 +91,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: '21'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '22'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '23'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '24'
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: '25'
     type: 25gbase-x-sfp28
@@ -153,6 +149,10 @@ interfaces:
   -
     name: '40'
     type: 25gbase-x-sfp28
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS A
@@ -179,19 +179,19 @@ module-bays:
   -
     name: '1'
     position: '1'
-    label: sfp28
+    label: sfp56
   -
     name: '2'
     position: '2'
-    label: sfp28
+    label: sfp56
   -
     name: '3'
     position: '3'
-    label: sfp28
+    label: sfp56
   -
     name: '4'
     position: '4'
-    label: sfp28
+    label: sfp56
   -
     name: '5'
     position: '5'
@@ -259,19 +259,19 @@ module-bays:
   -
     name: '21'
     position: '21'
-    label: sfp28
+    label: sfp56
   -
     name: '22'
     position: '22'
-    label: sfp28
+    label: sfp56
   -
     name: '23'
     position: '23'
-    label: sfp28
+    label: sfp56
   -
     name: '24'
     position: '24'
-    label: sfp28
+    label: sfp56
   -
     name: '25'
     position: '25'

@@ -31,10 +31,6 @@ power-ports:
     allocated_draw: 110
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: 1/1/1
     type: 25gbase-x-sfp28
   -
@@ -84,10 +80,14 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: 1/1/17
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 1/1/18
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: 1/1/1
@@ -156,8 +156,8 @@ module-bays:
   -
     name: 1/1/17
     position: 1/1/17
-    label: qsfp+
+    label: qsfp28
   -
     name: 1/1/18
     position: 1/1/18
-    label: qsfp+
+    label: qsfp28

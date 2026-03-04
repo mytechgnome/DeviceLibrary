@@ -151,11 +151,11 @@ module-bays:
   -
     name: Ethernet33/1
     position: Ethernet33/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet34/1
     position: Ethernet34/1
-    label: qsfp+
+    label: qsfp28
 front_image: true
 rear_image: false
 interfaces:
@@ -259,9 +259,10 @@ interfaces:
   -
     name: Ethernet32
     type: 10gbase-x-sfpp
+# QSFP28(100G) ports can be broke into 4x25 with a model of [33-34]/[1-4]
   -
     name: Ethernet33/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet34/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

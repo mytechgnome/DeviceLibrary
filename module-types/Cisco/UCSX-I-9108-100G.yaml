@@ -4,37 +4,61 @@ model: UCSX-I-9108-100G
 part_number: UCSX-I-9108-100G
 description: Cisco UCS 9108 100G Intelligent Fabric Module
 comments: '[Cisco UCS 9108 100G IFM Data Sheet](https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/cisco-ucs-9108-100g-intelligent-fabric-module-spec-sheet.pdf)'
-interfaces: []
+interfaces:
+  -
+    name: Fabric port {module}/1
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/2
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/3
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/4
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/5
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/6
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/7
+    type: 100gbase-x-qsfp28
+  -
+    name: Fabric port {module}/8
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: Fabric port {module}/1
     position: Fabric port {module}/1
-    label: Fabric port {module}/1
+    label: qsfp28
   -
     name: Fabric port {module}/2
     position: Fabric port {module}/2
-    label: Fabric port {module}/2
+    label: qsfp28
   -
     name: Fabric port {module}/3
     position: Fabric port {module}/3
-    label: Fabric port {module}/3
+    label: qsfp28
   -
     name: Fabric port {module}/4
     position: Fabric port {module}/4
-    label: Fabric port {module}/4
+    label: qsfp28
   -
     name: Fabric port {module}/5
     position: Fabric port {module}/5
-    label: Fabric port {module}/5
+    label: qsfp28
   -
     name: Fabric port {module}/6
     position: Fabric port {module}/6
-    label: Fabric port {module}/6
+    label: qsfp28
   -
     name: Fabric port {module}/7
     position: Fabric port {module}/7
-    label: Fabric port {module}/7
+    label: qsfp28
   -
     name: Fabric port {module}/8
     position: Fabric port {module}/8
-    label: Fabric port {module}/8
+    label: qsfp28

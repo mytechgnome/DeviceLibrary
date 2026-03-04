@@ -49,29 +49,29 @@ interfaces:
     name: eth7
     type: 100base-tx
   -
-    name: G1-rj45
-    type: 1000base-t
-    description: combo port with G1-sfp
-  -
-    name: G2-rj45
-    type: 1000base-t
-    description: combo port with G2-sfp
-  -
-    name: G3-rj45
-    type: 1000base-t
-    description: combo port with G3-sfp
-  -
     name: G1-sfp
     type: 1000base-x-sfp
     description: combo port with G1-rj45
+  -
+    name: G1-rj45
+    type: 1000base-t
+    description: combo port with G1-sfp
   -
     name: G2-sfp
     type: 1000base-x-sfp
     description: combo port with G2-rj45
   -
+    name: G2-rj45
+    type: 1000base-t
+    description: combo port with G2-sfp
+  -
     name: G3-sfp
     type: 1000base-x-sfp
     description: combo port with G3-rj45
+  -
+    name: G3-rj45
+    type: 1000base-t
+    description: combo port with G3-sfp
 module-bays:
   -
     name: G1-sfp

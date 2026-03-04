@@ -2,13 +2,19 @@
 manufacturer: Juniper
 model: EX4550-EM-2QSFP
 part_number: EX4550-EM-2QSFP
-interfaces: []
+interfaces:
+  -
+    name: et-0/1/0
+    type: 40gbase-x-qsfpp
+  -
+    name: et-0/1/1
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: et-0/1/0
     position: et-0/1/0
-    label: et-0/1/0
+    label: qsfp+
   -
     name: et-0/1/1
     position: et-0/1/1
-    label: et-0/1/1
+    label: qsfp+

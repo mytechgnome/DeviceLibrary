@@ -90,16 +90,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: ethernet1/41
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet1/42
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet1/43
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet1/44
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: hsci
     type: 40gbase-x-qsfpp
@@ -112,6 +112,7 @@ interfaces:
   -
     name: management
     type: 10gbase-x-sfpp
+    mgmt_only: true
 module-bays:
   -
     name: PS1
@@ -186,19 +187,19 @@ module-bays:
   -
     name: ethernet1/41
     position: ethernet1/41
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet1/42
     position: ethernet1/42
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet1/43
     position: ethernet1/43
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet1/44
     position: ethernet1/44
-    label: qsfp+
+    label: qsfp28
   -
     name: hsci
     position: hsci

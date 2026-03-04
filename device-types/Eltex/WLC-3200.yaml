@@ -17,41 +17,45 @@ console-ports:
     type: usb-a
 interfaces:
   -
-    name: Eth1
+    name: twentyfivegigabitethernet 1/0/1
     type: 25gbase-x-sfp28
   -
-    name: Eth2
+    name: twentyfivegigabitethernet 1/0/2
     type: 25gbase-x-sfp28
   -
-    name: Eth3
+    name: twentyfivegigabitethernet 1/0/3
     type: 25gbase-x-sfp28
   -
-    name: Eth4
+    name: twentyfivegigabitethernet 1/0/4
     type: 25gbase-x-sfp28
   -
-    name: Eth5
+    name: twentyfivegigabitethernet 1/0/5
     type: 25gbase-x-sfp28
   -
-    name: Eth6
+    name: twentyfivegigabitethernet 1/0/6
     type: 25gbase-x-sfp28
   -
-    name: Eth7
+    name: twentyfivegigabitethernet 1/0/7
     type: 25gbase-x-sfp28
   -
-    name: Eth8
+    name: twentyfivegigabitethernet 1/0/8
     type: 25gbase-x-sfp28
   -
-    name: Eth9
+    name: twentyfivegigabitethernet 1/0/9
     type: 25gbase-x-sfp28
   -
-    name: Eth10
+    name: twentyfivegigabitethernet 1/0/10
     type: 25gbase-x-sfp28
   -
-    name: Eth11
+    name: twentyfivegigabitethernet 1/0/11
     type: 25gbase-x-sfp28
   -
-    name: Eth12
+    name: twentyfivegigabitethernet 1/0/12
     type: 25gbase-x-sfp28
+  -
+    name: oob 1/0/1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS1
@@ -62,50 +66,50 @@ module-bays:
     position: '2'
     label: Power Supply 2
   -
-    name: Eth1
-    position: Eth1
+    name: twentyfivegigabitethernet 1/0/1
+    position: twentyfivegigabitethernet 1/0/1
     label: sfp28
   -
-    name: Eth2
-    position: Eth2
+    name: twentyfivegigabitethernet 1/0/2
+    position: twentyfivegigabitethernet 1/0/2
     label: sfp28
   -
-    name: Eth3
-    position: Eth3
+    name: twentyfivegigabitethernet 1/0/3
+    position: twentyfivegigabitethernet 1/0/3
     label: sfp28
   -
-    name: Eth4
-    position: Eth4
+    name: twentyfivegigabitethernet 1/0/4
+    position: twentyfivegigabitethernet 1/0/4
     label: sfp28
   -
-    name: Eth5
-    position: Eth5
+    name: twentyfivegigabitethernet 1/0/5
+    position: twentyfivegigabitethernet 1/0/5
     label: sfp28
   -
-    name: Eth6
-    position: Eth6
+    name: twentyfivegigabitethernet 1/0/6
+    position: twentyfivegigabitethernet 1/0/6
     label: sfp28
   -
-    name: Eth7
-    position: Eth7
+    name: twentyfivegigabitethernet 1/0/7
+    position: twentyfivegigabitethernet 1/0/7
     label: sfp28
   -
-    name: Eth8
-    position: Eth8
+    name: twentyfivegigabitethernet 1/0/8
+    position: twentyfivegigabitethernet 1/0/8
     label: sfp28
   -
-    name: Eth9
-    position: Eth9
+    name: twentyfivegigabitethernet 1/0/9
+    position: twentyfivegigabitethernet 1/0/9
     label: sfp28
   -
-    name: Eth10
-    position: Eth10
+    name: twentyfivegigabitethernet 1/0/10
+    position: twentyfivegigabitethernet 1/0/10
     label: sfp28
   -
-    name: Eth11
-    position: Eth11
+    name: twentyfivegigabitethernet 1/0/11
+    position: twentyfivegigabitethernet 1/0/11
     label: sfp28
   -
-    name: Eth12
-    position: Eth12
+    name: twentyfivegigabitethernet 1/0/12
+    position: twentyfivegigabitethernet 1/0/12
     label: sfp28

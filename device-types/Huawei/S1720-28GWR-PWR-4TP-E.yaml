@@ -130,15 +130,19 @@ interfaces:
     type: 1000base-t
   -
     name: GigabitEthernet0/0/25
+    label: '25'
     type: 1000base-x-sfp
   -
     name: GigabitEthernet0/0/26
+    label: '26'
     type: 1000base-x-sfp
   -
     name: GigabitEthernet0/0/27
+    label: '27'
     type: 1000base-x-sfp
   -
     name: GigabitEthernet0/0/28
+    label: '28'
     type: 1000base-x-sfp
 module-bays:
   -

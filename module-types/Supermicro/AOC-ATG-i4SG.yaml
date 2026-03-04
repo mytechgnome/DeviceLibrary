@@ -21,16 +21,16 @@ module-bays:
   -
     name: Gig-E 1
     position: Gig-E 1
-    label: sfp
+    label: sfp+
   -
     name: Gig-E 2
     position: Gig-E 2
-    label: sfp
+    label: sfp+
   -
     name: Gig-E 3
     position: Gig-E 3
-    label: sfp
+    label: sfp+
   -
     name: Gig-E 4
     position: Gig-E 4
-    label: sfp
+    label: sfp+

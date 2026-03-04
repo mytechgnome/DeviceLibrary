@@ -78,7 +78,7 @@ interfaces:
     name: et-0/0/18
     type: 10gbase-x-sfpp
   -
-    name: et-0/0/19
+    name: et-0/0/19 # This interface is disabled on the router if PTP (precision time protocol) is enabled
     type: 10gbase-x-sfpp
 power-ports:
   -

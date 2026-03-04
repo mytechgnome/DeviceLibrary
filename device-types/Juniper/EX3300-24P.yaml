@@ -129,10 +129,6 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
-    name: me0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: ge-0/1/0
     type: 1000base-x-sfp
   -
@@ -156,6 +152,10 @@ interfaces:
   -
     name: xe-0/1/3
     type: 10gbase-x-sfpp
+  -
+    name: me0
+    type: 1000base-t
+    mgmt_only: true
 power-ports:
   -
     name: PSU0

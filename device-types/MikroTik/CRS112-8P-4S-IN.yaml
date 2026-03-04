@@ -62,15 +62,19 @@ interfaces:
     poe_type: type2-ieee802.3at
   -
     name: sfp1
+    label: '9'
     type: 1000base-x-sfp
   -
     name: sfp2
+    label: '10'
     type: 1000base-x-sfp
   -
     name: sfp3
+    label: '11'
     type: 1000base-x-sfp
   -
     name: sfp4
+    label: '12'
     type: 1000base-x-sfp
 console-ports:
   -

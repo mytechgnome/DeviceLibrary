@@ -131,18 +131,26 @@ interfaces:
   -
     name: '21'
     type: 1000base-x-sfp
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
     description: Combo Port (either SFP or 1000BASE-T)
   -
     name: '22'
     type: 1000base-x-sfp
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
     description: Combo Port (either SFP or 1000BASE-T)
   -
     name: '23'
     type: 1000base-x-sfp
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
     description: Combo Port (either SFP or 1000BASE-T)
   -
     name: '24'
     type: 1000base-x-sfp
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
     description: Combo Port (either SFP or 1000BASE-T)
   -
     name: '25'

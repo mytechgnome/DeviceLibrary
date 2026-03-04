@@ -5,31 +5,31 @@ model: VIC 1455
 interfaces:
   -
     name: Ethernet {module}/1
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/2
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/3
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/4
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
 comments: Cisco UCS VIC 1455 quad port 10/25G SFP28 PCIe for C220 M5/M6, C240 M5/M6, S3260 M5, C240 SD M5, C480 M5, C480 ML M5, C125 M5, S3260 M5, C225 M6, C245 M6
 module-bays:
   -
     name: Ethernet {module}/1
     position: Ethernet {module}/1
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/2
     position: Ethernet {module}/2
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/3
     position: Ethernet {module}/3
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/4
     position: Ethernet {module}/4
-    label: sfp+
+    label: sfp28

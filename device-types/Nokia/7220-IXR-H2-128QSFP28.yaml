@@ -24,388 +24,388 @@ interfaces:
     mgmt_only: true
   -
     name: ethernet-1/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/5
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/6
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/7
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/8
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/9
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/10
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/11
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/12
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/13
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/14
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/15
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/16
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/17
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/18
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/19
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/20
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/21
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/22
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/23
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/24
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/29
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/30
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/31
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/32
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/33
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/34
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/35
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/36
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/37
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/38
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/39
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/40
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/41
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/42
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/43
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/44
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/45
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/46
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/47
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/48
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/49
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/50
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/51
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/52
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/53
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/54
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/55
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/56
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/57
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/58
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/59
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/60
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/61
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/62
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/63
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/64
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/65
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/66
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/67
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/68
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/69
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/70
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/71
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/72
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/73
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/74
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/75
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/76
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/77
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/78
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/79
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/80
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/81
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/82
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/83
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/84
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/85
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/86
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/87
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/88
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/89
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/90
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/91
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/92
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/93
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/94
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/95
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/96
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/97
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/98
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/99
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/100
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/101
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/102
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/103
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/104
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/105
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/106
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/107
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/108
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/109
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/110
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/111
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/112
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/113
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/114
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/115
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/116
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/117
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/118
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/119
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/120
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/121
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/122
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/123
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/124
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/125
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/126
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/127
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: ethernet-1/128
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PS1
@@ -446,512 +446,512 @@ module-bays:
   -
     name: ethernet-1/1
     position: ethernet-1/1
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/2
     position: ethernet-1/2
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/3
     position: ethernet-1/3
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/4
     position: ethernet-1/4
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/5
     position: ethernet-1/5
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/6
     position: ethernet-1/6
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/7
     position: ethernet-1/7
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/8
     position: ethernet-1/8
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/9
     position: ethernet-1/9
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/10
     position: ethernet-1/10
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/11
     position: ethernet-1/11
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/12
     position: ethernet-1/12
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/13
     position: ethernet-1/13
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/14
     position: ethernet-1/14
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/15
     position: ethernet-1/15
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/16
     position: ethernet-1/16
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/17
     position: ethernet-1/17
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/18
     position: ethernet-1/18
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/19
     position: ethernet-1/19
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/20
     position: ethernet-1/20
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/21
     position: ethernet-1/21
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/22
     position: ethernet-1/22
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/23
     position: ethernet-1/23
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/24
     position: ethernet-1/24
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/25
     position: ethernet-1/25
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/26
     position: ethernet-1/26
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/27
     position: ethernet-1/27
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/28
     position: ethernet-1/28
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/29
     position: ethernet-1/29
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/30
     position: ethernet-1/30
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/31
     position: ethernet-1/31
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/32
     position: ethernet-1/32
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/33
     position: ethernet-1/33
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/34
     position: ethernet-1/34
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/35
     position: ethernet-1/35
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/36
     position: ethernet-1/36
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/37
     position: ethernet-1/37
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/38
     position: ethernet-1/38
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/39
     position: ethernet-1/39
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/40
     position: ethernet-1/40
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/41
     position: ethernet-1/41
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/42
     position: ethernet-1/42
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/43
     position: ethernet-1/43
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/44
     position: ethernet-1/44
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/45
     position: ethernet-1/45
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/46
     position: ethernet-1/46
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/47
     position: ethernet-1/47
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/48
     position: ethernet-1/48
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/49
     position: ethernet-1/49
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/50
     position: ethernet-1/50
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/51
     position: ethernet-1/51
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/52
     position: ethernet-1/52
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/53
     position: ethernet-1/53
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/54
     position: ethernet-1/54
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/55
     position: ethernet-1/55
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/56
     position: ethernet-1/56
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/57
     position: ethernet-1/57
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/58
     position: ethernet-1/58
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/59
     position: ethernet-1/59
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/60
     position: ethernet-1/60
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/61
     position: ethernet-1/61
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/62
     position: ethernet-1/62
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/63
     position: ethernet-1/63
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/64
     position: ethernet-1/64
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/65
     position: ethernet-1/65
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/66
     position: ethernet-1/66
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/67
     position: ethernet-1/67
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/68
     position: ethernet-1/68
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/69
     position: ethernet-1/69
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/70
     position: ethernet-1/70
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/71
     position: ethernet-1/71
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/72
     position: ethernet-1/72
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/73
     position: ethernet-1/73
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/74
     position: ethernet-1/74
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/75
     position: ethernet-1/75
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/76
     position: ethernet-1/76
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/77
     position: ethernet-1/77
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/78
     position: ethernet-1/78
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/79
     position: ethernet-1/79
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/80
     position: ethernet-1/80
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/81
     position: ethernet-1/81
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/82
     position: ethernet-1/82
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/83
     position: ethernet-1/83
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/84
     position: ethernet-1/84
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/85
     position: ethernet-1/85
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/86
     position: ethernet-1/86
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/87
     position: ethernet-1/87
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/88
     position: ethernet-1/88
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/89
     position: ethernet-1/89
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/90
     position: ethernet-1/90
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/91
     position: ethernet-1/91
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/92
     position: ethernet-1/92
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/93
     position: ethernet-1/93
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/94
     position: ethernet-1/94
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/95
     position: ethernet-1/95
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/96
     position: ethernet-1/96
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/97
     position: ethernet-1/97
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/98
     position: ethernet-1/98
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/99
     position: ethernet-1/99
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/100
     position: ethernet-1/100
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/101
     position: ethernet-1/101
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/102
     position: ethernet-1/102
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/103
     position: ethernet-1/103
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/104
     position: ethernet-1/104
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/105
     position: ethernet-1/105
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/106
     position: ethernet-1/106
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/107
     position: ethernet-1/107
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/108
     position: ethernet-1/108
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/109
     position: ethernet-1/109
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/110
     position: ethernet-1/110
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/111
     position: ethernet-1/111
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/112
     position: ethernet-1/112
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/113
     position: ethernet-1/113
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/114
     position: ethernet-1/114
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/115
     position: ethernet-1/115
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/116
     position: ethernet-1/116
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/117
     position: ethernet-1/117
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/118
     position: ethernet-1/118
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/119
     position: ethernet-1/119
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/120
     position: ethernet-1/120
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/121
     position: ethernet-1/121
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/122
     position: ethernet-1/122
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/123
     position: ethernet-1/123
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/124
     position: ethernet-1/124
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/125
     position: ethernet-1/125
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/126
     position: ethernet-1/126
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/127
     position: ethernet-1/127
-    label: qsfp+
+    label: qsfp28
   -
     name: ethernet-1/128
     position: ethernet-1/128
-    label: qsfp+
+    label: qsfp28

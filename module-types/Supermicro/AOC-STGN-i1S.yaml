@@ -5,10 +5,10 @@ part_number: AOC-STGN-i1S
 description: Intel 82599EN 10GbE controller with single SFP+ port
 interfaces:
   -
-    name: '{module}'
-    type: 10gbase-x-sfpp
+    name: Gig-E 1
+    type: 1000base-x-sfp
 module-bays:
   -
-    name: '{module}'
-    position: '{module}'
+    name: Gig-E 1
+    position: Gig-E 1
     label: sfp+

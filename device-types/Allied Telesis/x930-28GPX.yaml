@@ -131,10 +131,6 @@ interfaces:
     poe_mode: pse
     poe_type: type2-ieee802.3at
   -
-    name: eth0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1.0.25
     type: 10gbase-x-sfpp
   -
@@ -146,6 +142,10 @@ interfaces:
   -
     name: port1.0.28
     type: 10gbase-x-sfpp
+  -
+    name: eth0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU A

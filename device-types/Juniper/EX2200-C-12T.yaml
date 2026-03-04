@@ -45,15 +45,15 @@ interfaces:
     name: ge-0/0/11
     type: 1000base-t
   -
-    name: vme
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: ge-0/1/0
     type: 1000base-x-sfp
   -
     name: ge-0/1/1
     type: 1000base-x-sfp
+  -
+    name: vme
+    type: 1000base-t
+    mgmt_only: true
 power-ports:
   -
     name: PSU0

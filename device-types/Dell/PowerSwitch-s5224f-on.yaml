@@ -22,10 +22,6 @@ power-ports:
     allocated_draw: 200
 interfaces:
   -
-    name: mgmt 1/1/1
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet 1/1/1
     type: 25gbase-x-sfp28
   -
@@ -99,16 +95,20 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: Ethernet 1/1/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet 1/1/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: mgmt 1/1/1
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: Ethernet 1/1/1
@@ -209,16 +209,16 @@ module-bays:
   -
     name: Ethernet 1/1/25
     position: Ethernet 1/1/25
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet 1/1/26
     position: Ethernet 1/1/26
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet 1/1/27
     position: Ethernet 1/1/27
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet 1/1/28
     position: Ethernet 1/1/28
-    label: qsfp+
+    label: qsfp28

@@ -2,13 +2,19 @@
 manufacturer: Stormshield
 model: 2x10GbE Fiber
 part_number: NA-EX-CARD-2x10G-FIB
-interfaces: []
+interfaces:
+  -
+    name: port{module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: port{module}/2
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port{module}/1
     position: port{module}/1
-    label: port{module}/1
+    label: sfp+
   -
     name: port{module}/2
     position: port{module}/2
-    label: port{module}/2
+    label: sfp+

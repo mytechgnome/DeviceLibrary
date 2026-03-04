@@ -21,6 +21,8 @@ interfaces:
   -
     name: port2
     type: 400gbase-x-qsfpdd
+# Port 3-10 25/10GigE
+# SFP28
   -
     name: port3
     type: 25gbase-x-sfp28

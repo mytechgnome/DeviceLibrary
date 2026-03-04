@@ -4,53 +4,89 @@ model: Aruba Networking CX 6400 12-port 40/100GbE QSFP28 Module
 part_number: R0X45A
 weight: 4.0
 weight_unit: kg
-interfaces: []
+interfaces:
+  -
+    name: 1/{module}/1
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/2
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/3
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/4
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/5
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/6
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/7
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/8
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/9
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/10
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/11
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/{module}/12
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: 1/{module}/1
     position: 1/{module}/1
-    label: 1/{module}/1
+    label: qsfp28
   -
     name: 1/{module}/2
     position: 1/{module}/2
-    label: 1/{module}/2
+    label: qsfp28
   -
     name: 1/{module}/3
     position: 1/{module}/3
-    label: 1/{module}/3
+    label: qsfp28
   -
     name: 1/{module}/4
     position: 1/{module}/4
-    label: 1/{module}/4
+    label: qsfp28
   -
     name: 1/{module}/5
     position: 1/{module}/5
-    label: 1/{module}/5
+    label: qsfp28
   -
     name: 1/{module}/6
     position: 1/{module}/6
-    label: 1/{module}/6
+    label: qsfp28
   -
     name: 1/{module}/7
     position: 1/{module}/7
-    label: 1/{module}/7
+    label: qsfp28
   -
     name: 1/{module}/8
     position: 1/{module}/8
-    label: 1/{module}/8
+    label: qsfp28
   -
     name: 1/{module}/9
     position: 1/{module}/9
-    label: 1/{module}/9
+    label: qsfp28
   -
     name: 1/{module}/10
     position: 1/{module}/10
-    label: 1/{module}/10
+    label: qsfp28
   -
     name: 1/{module}/11
     position: 1/{module}/11
-    label: 1/{module}/11
+    label: qsfp28
   -
     name: 1/{module}/12
     position: 1/{module}/12
-    label: 1/{module}/12
+    label: qsfp28

@@ -8,22 +8,6 @@ u_height: 1
 airflow: passive
 interfaces:
   -
-    name: ETH-1/9
-    type: 1000base-t
-  -
-    name: ETH-1/10
-    type: 1000base-t
-  -
-    name: ETH-1/11
-    type: 1000base-t
-  -
-    name: ETH-1/12
-    type: 1000base-t
-  -
-    name: MNG-ETH
-    type: 100base-tx
-    mgmt_only: true
-  -
     name: ETH-1/1
     type: 10gbase-x-sfpp
   -
@@ -47,6 +31,22 @@ interfaces:
   -
     name: ETH-1/8
     type: 1000base-x-sfp
+  -
+    name: ETH-1/9
+    type: 1000base-t
+  -
+    name: ETH-1/10
+    type: 1000base-t
+  -
+    name: ETH-1/11
+    type: 1000base-t
+  -
+    name: ETH-1/12
+    type: 1000base-t
+  -
+    name: MNG-ETH
+    type: 100base-tx
+    mgmt_only: true
 console-ports:
   -
     name: control

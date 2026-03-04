@@ -5,31 +5,31 @@ model: VIC 1457
 interfaces:
   -
     name: Ethernet {module}/1
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/2
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/3
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
   -
     name: Ethernet {module}/4
-    type: 10gbase-x-sfpp
+    type: 25gbase-x-sfp28
 comments: Cisco UCS VIC 1457 quad port 10/25G SFP28 mLOM for C220 M5, C240 M5 and C240 SD M5
 module-bays:
   -
     name: Ethernet {module}/1
     position: Ethernet {module}/1
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/2
     position: Ethernet {module}/2
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/3
     position: Ethernet {module}/3
-    label: sfp+
+    label: sfp28
   -
     name: Ethernet {module}/4
     position: Ethernet {module}/4
-    label: sfp+
+    label: sfp28

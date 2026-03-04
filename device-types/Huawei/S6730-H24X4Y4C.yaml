@@ -137,19 +137,19 @@ module-bays:
   -
     name: 100GE0/0/1
     position: 100GE0/0/1
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE0/0/2
     position: 100GE0/0/2
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE0/0/3
     position: 100GE0/0/3
-    label: qsfp+
+    label: qsfp28
   -
     name: 100GE0/0/4
     position: 100GE0/0/4
-    label: qsfp+
+    label: qsfp28
 interfaces:
   -
     name: MEth0/0/1
@@ -241,13 +241,13 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: 100GE0/0/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE0/0/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE0/0/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: 100GE0/0/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

@@ -168,16 +168,16 @@ interfaces:
     type: 40gbase-x-qsfpp
   -
     name: '57'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '61'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '65'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '69'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: PSU-1
@@ -196,16 +196,16 @@ module-bays:
   -
     name: '57'
     position: '57'
-    label: qsfp+
+    label: qsfp28
   -
     name: '61'
     position: '61'
-    label: qsfp+
+    label: qsfp28
   -
     name: '65'
     position: '65'
-    label: qsfp+
+    label: qsfp28
   -
     name: '69'
     position: '69'
-    label: qsfp+
+    label: qsfp28

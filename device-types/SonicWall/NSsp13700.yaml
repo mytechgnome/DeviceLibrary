@@ -70,11 +70,11 @@ module-bays:
   -
     name: X32
     position: X32
-    label: qsfp+
+    label: qsfp28
   -
     name: X33
     position: X33
-    label: qsfp+
+    label: qsfp28
 inventory-items:
   -
     name: Storage-Module
@@ -191,7 +191,7 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: X32
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: X33
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

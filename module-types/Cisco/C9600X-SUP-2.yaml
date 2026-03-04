@@ -18,9 +18,11 @@ interfaces:
   -
     name: TenGigabitEthernet{module}/0/0
     type: 10gbase-x-sfpp
+    mgmt_only: true
   -
     name: TenGigabitEthernet{module}/0/1
     type: 10gbase-x-sfpp
+    mgmt_only: true
 module-bays:
   -
     name: TenGigabitEthernet{module}/0/0

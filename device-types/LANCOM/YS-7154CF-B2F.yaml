@@ -1,0 +1,433 @@
+---
+manufacturer: LANCOM
+model: YS-7154CF-B2F
+slug: lancom-ys-7154cf-b2f
+part_number: '61908'
+comments: >
+  This is the "Back to Front" Airflow variant.
+  [LANCOM YS-7154CF Data sheet](https://www.lancom-systems.de/fileadmin/download/LC-YS-7154CF/DS_YS-7154CF_DE.pdf)
+  [LANCOM SFAN-YS7 Data sheet](https://www.lancom-systems.com/fileadmin/download/LC-SFAN-YS7/DS_SFAN-YS7_EN.pdf)
+  [LANCOM SPSU-400 Data sheet](https://www.lancom-systems.com/fileadmin/download/LC-SPSU-400/DS_SPSU-400_EN.pdf)
+  "Front to Back" variant (Part Number 61907) available as YS-7154CF-F2B.yaml
+u_height: 1
+is_full_depth: true
+weight: 8700
+weight_unit: g
+airflow: rear-to-front
+module-bays:
+  -
+    name: PS1
+    position: '1'
+  -
+    name: PS2
+    position: '2'
+  -
+    name: FAN0
+    position: '1'
+  -
+    name: FAN1
+    position: '2'
+  -
+    name: FAN2
+    position: '3'
+  -
+    name: FAN3
+    position: '4'
+  -
+    name: FAN4
+    position: '5'
+  -
+    name: 1/0/1
+    position: 1/0/1
+    label: sfp28
+  -
+    name: 1/0/2
+    position: 1/0/2
+    label: sfp28
+  -
+    name: 1/0/3
+    position: 1/0/3
+    label: sfp28
+  -
+    name: 1/0/4
+    position: 1/0/4
+    label: sfp28
+  -
+    name: 1/0/5
+    position: 1/0/5
+    label: sfp28
+  -
+    name: 1/0/6
+    position: 1/0/6
+    label: sfp28
+  -
+    name: 1/0/7
+    position: 1/0/7
+    label: sfp28
+  -
+    name: 1/0/8
+    position: 1/0/8
+    label: sfp28
+  -
+    name: 1/0/9
+    position: 1/0/9
+    label: sfp28
+  -
+    name: 1/0/10
+    position: 1/0/10
+    label: sfp28
+  -
+    name: 1/0/11
+    position: 1/0/11
+    label: sfp28
+  -
+    name: 1/0/12
+    position: 1/0/12
+    label: sfp28
+  -
+    name: 1/0/13
+    position: 1/0/13
+    label: sfp28
+  -
+    name: 1/0/14
+    position: 1/0/14
+    label: sfp28
+  -
+    name: 1/0/15
+    position: 1/0/15
+    label: sfp28
+  -
+    name: 1/0/16
+    position: 1/0/16
+    label: sfp28
+  -
+    name: 1/0/17
+    position: 1/0/17
+    label: sfp28
+  -
+    name: 1/0/18
+    position: 1/0/18
+    label: sfp28
+  -
+    name: 1/0/19
+    position: 1/0/19
+    label: sfp28
+  -
+    name: 1/0/20
+    position: 1/0/20
+    label: sfp28
+  -
+    name: 1/0/21
+    position: 1/0/21
+    label: sfp28
+  -
+    name: 1/0/22
+    position: 1/0/22
+    label: sfp28
+  -
+    name: 1/0/23
+    position: 1/0/23
+    label: sfp28
+  -
+    name: 1/0/24
+    position: 1/0/24
+    label: sfp28
+  -
+    name: 1/0/25
+    position: 1/0/25
+    label: sfp28
+  -
+    name: 1/0/26
+    position: 1/0/26
+    label: sfp28
+  -
+    name: 1/0/27
+    position: 1/0/27
+    label: sfp28
+  -
+    name: 1/0/28
+    position: 1/0/28
+    label: sfp28
+  -
+    name: 1/0/29
+    position: 1/0/29
+    label: sfp28
+  -
+    name: 1/0/30
+    position: 1/0/30
+    label: sfp28
+  -
+    name: 1/0/31
+    position: 1/0/31
+    label: sfp28
+  -
+    name: 1/0/32
+    position: 1/0/32
+    label: sfp28
+  -
+    name: 1/0/33
+    position: 1/0/33
+    label: sfp28
+  -
+    name: 1/0/34
+    position: 1/0/34
+    label: sfp28
+  -
+    name: 1/0/35
+    position: 1/0/35
+    label: sfp28
+  -
+    name: 1/0/36
+    position: 1/0/36
+    label: sfp28
+  -
+    name: 1/0/37
+    position: 1/0/37
+    label: sfp28
+  -
+    name: 1/0/38
+    position: 1/0/38
+    label: sfp28
+  -
+    name: 1/0/39
+    position: 1/0/39
+    label: sfp28
+  -
+    name: 1/0/40
+    position: 1/0/40
+    label: sfp28
+  -
+    name: 1/0/41
+    position: 1/0/41
+    label: sfp28
+  -
+    name: 1/0/42
+    position: 1/0/42
+    label: sfp28
+  -
+    name: 1/0/43
+    position: 1/0/43
+    label: sfp28
+  -
+    name: 1/0/44
+    position: 1/0/44
+    label: sfp28
+  -
+    name: 1/0/45
+    position: 1/0/45
+    label: sfp28
+  -
+    name: 1/0/46
+    position: 1/0/46
+    label: sfp28
+  -
+    name: 1/0/47
+    position: 1/0/47
+    label: sfp28
+  -
+    name: 1/0/48
+    position: 1/0/48
+    label: sfp28
+  -
+    name: 1/0/49
+    position: 1/0/49
+    label: qsfp28
+  -
+    name: 1/0/50
+    position: 1/0/50
+    label: qsfp28
+  -
+    name: 1/0/51
+    position: 1/0/51
+    label: qsfp28
+  -
+    name: 1/0/52
+    position: 1/0/52
+    label: qsfp28
+  -
+    name: 1/0/53
+    position: 1/0/53
+    label: qsfp28
+    description: can either be used as 100G ethernet or stacking port
+  -
+    name: 1/0/54
+    position: 1/0/54
+    label: qsfp28
+    description: can either be used as 100G ethernet or stacking port
+interfaces:
+  -
+    name: 1/0/1
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/2
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/3
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/4
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/5
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/6
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/7
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/8
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/9
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/10
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/11
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/12
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/13
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/14
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/15
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/16
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/17
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/18
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/19
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/20
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/21
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/22
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/23
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/24
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/25
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/26
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/27
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/28
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/29
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/30
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/31
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/32
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/33
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/34
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/35
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/36
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/37
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/38
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/39
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/40
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/41
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/42
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/43
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/44
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/45
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/46
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/47
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/48
+    type: 25gbase-x-sfp28
+  -
+    name: 1/0/49
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/0/50
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/0/51
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/0/52
+    type: 100gbase-x-qsfp28
+  -
+    name: 1/0/53
+    type: 100gbase-x-qsfp28
+    description: can either be used as 100G ethernet or stacking port
+  -
+    name: 1/0/54
+    type: 100gbase-x-qsfp28
+    description: can either be used as 100G ethernet or stacking port
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
+console-ports:
+  -
+    name: Serial
+    type: rj-45
+  -
+    name: USB
+    type: usb-a
+    description: USB port for firmware and configuration transfer

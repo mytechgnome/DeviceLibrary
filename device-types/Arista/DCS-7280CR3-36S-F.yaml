@@ -23,139 +23,139 @@ module-bays:
   -
     name: Ethernet1/1
     position: Ethernet1/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet2/1
     position: Ethernet2/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet3/1
     position: Ethernet3/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet4/1
     position: Ethernet4/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet5/1
     position: Ethernet5/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet6/1
     position: Ethernet6/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet7/1
     position: Ethernet7/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet8/1
     position: Ethernet8/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet9/1
     position: Ethernet9/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet10/1
     position: Ethernet10/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet11/1
     position: Ethernet11/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet12/1
     position: Ethernet12/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet13/1
     position: Ethernet13/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet14/1
     position: Ethernet14/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet15/1
     position: Ethernet15/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet16/1
     position: Ethernet16/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet17/1
     position: Ethernet17/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet18/1
     position: Ethernet18/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet19/1
     position: Ethernet19/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet20/1
     position: Ethernet20/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet21/1
     position: Ethernet21/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet22/1
     position: Ethernet22/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet23/1
     position: Ethernet23/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet24/1
     position: Ethernet24/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet25/1
     position: Ethernet25/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet26/1
     position: Ethernet26/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet27/1
     position: Ethernet27/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet28/1
     position: Ethernet28/1
-    label: qsfp+
+    label: qsfp28
   -
     name: Ethernet29/1
     position: Ethernet29/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet30/1
     position: Ethernet30/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet31/1
     position: Ethernet31/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet32/1
     position: Ethernet32/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet33/1
     position: Ethernet33/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet34/1
     position: Ethernet34/1
-    label: qsfp+
+    label: qsfp56
   -
     name: Ethernet35/1
     position: Ethernet35/1
@@ -171,106 +171,106 @@ interfaces:
     mgmt_only: true
   -
     name: Ethernet1/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet2/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet3/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet4/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet5/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet6/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet7/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet8/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet9/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet10/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet11/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet12/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet13/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet14/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet15/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet16/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet17/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet18/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet19/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet20/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet21/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet22/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet23/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet24/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet25/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet26/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet27/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet28/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: Ethernet29/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet30/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet31/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet32/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet33/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet34/1
-    type: 40gbase-x-qsfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet35/1
     type: 400gbase-x-qsfpdd

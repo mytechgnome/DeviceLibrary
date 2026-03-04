@@ -2,101 +2,173 @@
 manufacturer: Juniper
 model: PTX10K-LC1102
 part_number: PTX10K-LC1102
-interfaces: []
+interfaces:
+  -
+    name: et-{module}/0/0
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/1
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[2-4]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/5
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/6
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/7
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[8-10]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/11
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/12
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/13
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[14-16]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/17
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/18
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/19
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[20-22]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/23
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/24
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/25
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[26-28]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/29
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/30
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/31
+    type: 100gbase-x-qsfp28
+  -
+    name: et-{module}/0/[32-34]
+    type: 40gbase-x-qsfpp
+  -
+    name: et-{module}/0/35
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: et-{module}/0/0
     position: et-{module}/0/0
-    label: et-{module}/0/0
+    label: qsfp+
   -
     name: et-{module}/0/1
     position: et-{module}/0/1
-    label: et-{module}/0/1
+    label: qsfp28
   -
     name: et-{module}/0/[2-4]
     position: et-{module}/0/[2-4]
-    label: et-{module}/0/[2-4]
+    label: qsfp+
   -
     name: et-{module}/0/5
     position: et-{module}/0/5
-    label: et-{module}/0/5
+    label: qsfp28
   -
     name: et-{module}/0/6
     position: et-{module}/0/6
-    label: et-{module}/0/6
+    label: qsfp+
   -
     name: et-{module}/0/7
     position: et-{module}/0/7
-    label: et-{module}/0/7
+    label: qsfp28
   -
     name: et-{module}/0/[8-10]
     position: et-{module}/0/[8-10]
-    label: et-{module}/0/[8-10]
+    label: qsfp+
   -
     name: et-{module}/0/11
     position: et-{module}/0/11
-    label: et-{module}/0/11
+    label: qsfp28
   -
     name: et-{module}/0/12
     position: et-{module}/0/12
-    label: et-{module}/0/12
+    label: qsfp+
   -
     name: et-{module}/0/13
     position: et-{module}/0/13
-    label: et-{module}/0/13
+    label: qsfp28
   -
     name: et-{module}/0/[14-16]
     position: et-{module}/0/[14-16]
-    label: et-{module}/0/[14-16]
+    label: qsfp+
   -
     name: et-{module}/0/17
     position: et-{module}/0/17
-    label: et-{module}/0/17
+    label: qsfp28
   -
     name: et-{module}/0/18
     position: et-{module}/0/18
-    label: et-{module}/0/18
+    label: qsfp+
   -
     name: et-{module}/0/19
     position: et-{module}/0/19
-    label: et-{module}/0/19
+    label: qsfp28
   -
     name: et-{module}/0/[20-22]
     position: et-{module}/0/[20-22]
-    label: et-{module}/0/[20-22]
+    label: qsfp+
   -
     name: et-{module}/0/23
     position: et-{module}/0/23
-    label: et-{module}/0/23
+    label: qsfp28
   -
     name: et-{module}/0/24
     position: et-{module}/0/24
-    label: et-{module}/0/24
+    label: qsfp+
   -
     name: et-{module}/0/25
     position: et-{module}/0/25
-    label: et-{module}/0/25
+    label: qsfp28
   -
     name: et-{module}/0/[26-28]
     position: et-{module}/0/[26-28]
-    label: et-{module}/0/[26-28]
+    label: qsfp+
   -
     name: et-{module}/0/29
     position: et-{module}/0/29
-    label: et-{module}/0/29
+    label: qsfp28
   -
     name: et-{module}/0/30
     position: et-{module}/0/30
-    label: et-{module}/0/30
+    label: qsfp+
   -
     name: et-{module}/0/31
     position: et-{module}/0/31
-    label: et-{module}/0/31
+    label: qsfp28
   -
     name: et-{module}/0/[32-34]
     position: et-{module}/0/[32-34]
-    label: et-{module}/0/[32-34]
+    label: qsfp+
   -
     name: et-{module}/0/35
     position: et-{module}/0/35
-    label: et-{module}/0/35
+    label: qsfp28

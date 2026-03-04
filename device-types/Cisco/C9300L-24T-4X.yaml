@@ -93,12 +93,6 @@ interfaces:
     name: GigabitEthernet1/0/24
     type: 1000base-t
   -
-    name: StackPort1/1
-    type: cisco-stackwise
-  -
-    name: StackPort1/2
-    type: cisco-stackwise
-  -
     name: TenGigabitEthernet1/1/1
     type: 10gbase-x-sfpp
   -
@@ -110,6 +104,12 @@ interfaces:
   -
     name: TenGigabitEthernet1/1/4
     type: 10gbase-x-sfpp
+  -
+    name: StackPort1/1
+    type: cisco-stackwise
+  -
+    name: StackPort1/2
+    type: cisco-stackwise
 module-bays:
   -
     name: PS-A

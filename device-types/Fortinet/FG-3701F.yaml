@@ -25,11 +25,11 @@ module-bays:
   -
     name: ha1
     position: ha1
-    label: sfp28
+    label: sfp56
   -
     name: ha2
     position: ha2
-    label: sfp28
+    label: sfp56
   -
     name: port1
     position: port1
@@ -49,75 +49,75 @@ module-bays:
   -
     name: port5
     position: port5
-    label: sfp28
+    label: sfp56
   -
     name: port6
     position: port6
-    label: sfp28
+    label: sfp56
   -
     name: port7
     position: port7
-    label: sfp28
+    label: sfp56
   -
     name: port8
     position: port8
-    label: sfp28
+    label: sfp56
   -
     name: port9
     position: port9
-    label: sfp28
+    label: sfp56
   -
     name: port10
     position: port10
-    label: sfp28
+    label: sfp56
   -
     name: port11
     position: port11
-    label: sfp28
+    label: sfp56
   -
     name: port12
     position: port12
-    label: sfp28
+    label: sfp56
   -
     name: port13
     position: port13
-    label: sfp28
+    label: sfp56
   -
     name: port14
     position: port14
-    label: sfp28
+    label: sfp56
   -
     name: port15
     position: port15
-    label: sfp28
+    label: sfp56
   -
     name: port16
     position: port16
-    label: sfp28
+    label: sfp56
   -
     name: port17
     position: port17
-    label: sfp28
+    label: sfp56
   -
     name: port18
     position: port18
-    label: sfp28
+    label: sfp56
   -
     name: port19
     position: port19
-    label: sfp28
+    label: sfp56
   -
     name: port20
     position: port20
-    label: sfp28
+    label: sfp56
   -
     name: port21
     position: port21
-    label: sfp28
+    label: sfp56
   -
     name: port22
     position: port22
-    label: sfp28
+    label: sfp56
   -
     name: port23
     position: port23
@@ -136,6 +136,12 @@ module-bays:
     label: qsfp-dd
 interfaces:
   -
+    name: ha1
+    type: 50gbase-x-sfp28
+  -
+    name: ha2
+    type: 50gbase-x-sfp28
+  -
     name: mgmt1
     type: 10gbase-t
     mgmt_only: true
@@ -143,12 +149,6 @@ interfaces:
     name: mgmt2
     type: 10gbase-t
     mgmt_only: true
-  -
-    name: ha1
-    type: 25gbase-x-sfp28
-  -
-    name: ha2
-    type: 25gbase-x-sfp28
   -
     name: port1
     type: 25gbase-x-sfp28
@@ -163,58 +163,58 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: port5
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port6
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port7
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port8
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port9
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port10
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port11
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port12
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port13
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port14
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port15
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port16
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port17
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port18
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port19
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port20
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port21
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port22
-    type: 25gbase-x-sfp28
+    type: 50gbase-x-sfp28
   -
     name: port23
     type: 400gbase-x-qsfpdd

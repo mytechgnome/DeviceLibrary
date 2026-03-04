@@ -118,10 +118,6 @@ module-bays:
     label: sfp+
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1
     type: 10gbase-x-sfpp
   -
@@ -193,3 +189,7 @@ interfaces:
   -
     name: port24
     type: 10gbase-x-sfpp
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true

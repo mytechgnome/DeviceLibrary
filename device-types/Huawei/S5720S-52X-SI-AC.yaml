@@ -166,10 +166,6 @@ interfaces:
     name: GigabitEthernet0/0/48
     type: 1000base-t
   -
-    name: MEth0/0/1
-    type: 100base-tx
-    mgmt_only: true
-  -
     name: XGigabitEthernet0/0/1
     type: 10gbase-x-sfpp
   -
@@ -181,6 +177,10 @@ interfaces:
   -
     name: XGigabitEthernet0/0/4
     type: 10gbase-x-sfpp
+  -
+    name: MEth0/0/1
+    type: 100base-tx
+    mgmt_only: true
 module-bays:
   -
     name: XGigabitEthernet0/0/1

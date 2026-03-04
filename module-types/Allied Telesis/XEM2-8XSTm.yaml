@@ -15,20 +15,32 @@ interfaces:
   -
     name: port1.{module}.4
     type: 10gbase-t
+  -
+    name: port1.{module}.5
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.6
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.7
+    type: 10gbase-x-sfpp
+  -
+    name: port1.{module}.8
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: port1.{module}.5
     position: port1.{module}.5
-    label: port1.{module}.5
+    label: sfp+
   -
     name: port1.{module}.6
     position: port1.{module}.6
-    label: port1.{module}.6
+    label: sfp+
   -
     name: port1.{module}.7
     position: port1.{module}.7
-    label: port1.{module}.7
+    label: sfp+
   -
     name: port1.{module}.8
     position: port1.{module}.8
-    label: port1.{module}.8
+    label: sfp+

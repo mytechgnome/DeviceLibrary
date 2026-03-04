@@ -6,16 +6,16 @@ comments: '[Datasheet](https://www.intel.com/content/www/us/en/products/sku/8396
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 10gbase-x-sfpp
+    type: 40gbase-x-qsfpp
   -
     name: Ethernet/{module}/2
-    type: 10gbase-x-sfpp
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: Ethernet/{module}/1
     position: Ethernet/{module}/1
-    label: sfp+
+    label: qsfp+
   -
     name: Ethernet/{module}/2
     position: Ethernet/{module}/2
-    label: sfp+
+    label: qsfp+

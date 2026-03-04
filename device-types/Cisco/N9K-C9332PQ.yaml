@@ -19,10 +19,6 @@ console-ports:
     type: usb-a
 interfaces:
   -
-    name: mgmt0
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: Ethernet1/1
     type: 40gbase-x-qsfpp
   -
@@ -118,6 +114,10 @@ interfaces:
   -
     name: Ethernet1/32
     type: 40gbase-x-qsfpp
+  -
+    name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS1

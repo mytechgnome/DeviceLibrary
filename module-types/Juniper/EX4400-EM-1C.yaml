@@ -9,8 +9,3 @@ interfaces:
   -
     name: '{module}'
     type: 100gbase-x-qsfp28
-module-bays:
-  -
-    name: '{module}'
-    position: '{module}'
-    label: qsfp28

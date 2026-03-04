@@ -3,21 +3,33 @@ manufacturer: HPE
 model: HP ProCurve J8776A VL 4-Port MINI-GBIC Module
 part_number: J8776A
 comments: HP ProCurve J8776A VL 4-Port MINI-GBIC Module
-interfaces: []
+interfaces:
+  -
+    name: '{module}1'
+    type: 1000base-x-sfp
+  -
+    name: '{module}2'
+    type: 1000base-x-sfp
+  -
+    name: '{module}3'
+    type: 1000base-x-sfp
+  -
+    name: '{module}4'
+    type: 1000base-x-sfp
 module-bays:
   -
     name: '{module}1'
     position: '{module}1'
-    label: '{module}1'
+    label: sfp
   -
     name: '{module}2'
     position: '{module}2'
-    label: '{module}2'
+    label: sfp
   -
     name: '{module}3'
     position: '{module}3'
-    label: '{module}3'
+    label: sfp
   -
     name: '{module}4'
     position: '{module}4'
-    label: '{module}4'
+    label: sfp

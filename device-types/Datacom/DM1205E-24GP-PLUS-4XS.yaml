@@ -203,15 +203,23 @@ interfaces:
   -
     name: Ethernet1/0/25
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: Ethernet1/0/26
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: Ethernet1/0/27
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
   -
     name: Ethernet1/0/28
     type: 10gbase-x-sfpp
+    enabled: true
+    mgmt_only: false
 module-bays:
   -
     name: Ethernet1/0/25

@@ -16,18 +16,6 @@ power-ports:
     maximum_draw: 39
 interfaces:
   -
-    name: Port 21 RJ45
-    type: 1000base-t
-  -
-    name: Port 22 RJ45
-    type: 1000base-t
-  -
-    name: Port 23 RJ45
-    type: 1000base-t
-  -
-    name: Port 24 RJ45
-    type: 1000base-t
-  -
     name: Port 1
     type: 1000base-x-sfp
   -
@@ -99,6 +87,18 @@ interfaces:
   -
     name: Port 24 SFP
     type: 1000base-x-sfp
+  -
+    name: Port 21 RJ45
+    type: 1000base-t
+  -
+    name: Port 22 RJ45
+    type: 1000base-t
+  -
+    name: Port 23 RJ45
+    type: 1000base-t
+  -
+    name: Port 24 RJ45
+    type: 1000base-t
   -
     name: Port 25
     type: 10gbase-x-sfpp

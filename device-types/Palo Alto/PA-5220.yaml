@@ -36,16 +36,6 @@ interfaces:
     name: ethernet1/4
     type: 10gbase-t
   -
-    name: ha1-a
-    type: 1000base-t
-  -
-    name: ha1-b
-    type: 1000base-t
-  -
-    name: management
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: ethernet1/5
     type: 10gbase-x-sfpp
   -
@@ -112,8 +102,18 @@ interfaces:
     name: aux-2
     type: 10gbase-x-sfpp
   -
+    name: ha1-a
+    type: 1000base-t
+  -
+    name: ha1-b
+    type: 1000base-t
+  -
     name: hsci
     type: 40gbase-x-qsfpp
+  -
+    name: management
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: ethernet1/5

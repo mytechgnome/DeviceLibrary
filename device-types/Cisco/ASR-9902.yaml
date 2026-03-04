@@ -75,7 +75,7 @@ module-bays:
   -
     name: HundredGigE0/0/0/10
     position: HundredGigE0/0/0/10
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/0/11
     position: HundredGigE0/0/0/11
@@ -99,7 +99,7 @@ module-bays:
   -
     name: HundredGigE0/0/0/36
     position: HundredGigE0/0/0/36
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/0/37
     position: HundredGigE0/0/0/37
@@ -163,7 +163,7 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: HundredGigE0/0/0/10
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/11
     type: 400gbase-x-qsfpdd
@@ -181,7 +181,7 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: HundredGigE0/0/0/36
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/0/37
     type: 400gbase-x-qsfpdd

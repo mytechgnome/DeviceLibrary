@@ -104,20 +104,32 @@ interfaces:
     type: 1000base-t
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  -
+    name: '{module}21'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}22'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}23'
+    type: 10gbase-x-sfpp
+  -
+    name: '{module}24'
+    type: 10gbase-x-sfpp
 module-bays:
   -
     name: '{module}21'
     position: '{module}21'
-    label: '{module}21'
+    label: sfp+
   -
     name: '{module}22'
     position: '{module}22'
-    label: '{module}22'
+    label: sfp+
   -
     name: '{module}23'
     position: '{module}23'
-    label: '{module}23'
+    label: sfp+
   -
     name: '{module}24'
     position: '{module}24'
-    label: '{module}24'
+    label: sfp+

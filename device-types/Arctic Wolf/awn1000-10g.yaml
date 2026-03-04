@@ -48,6 +48,40 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
   -
+    name: LAN6
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G Mirror
+    label: '1'
+  -
+    name: LAN7
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G Mirror
+    label: '2'
+  -
+    name: LAN8
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G Mirror
+    label: '3'
+  -
+    name: LAN9
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G Mirror
+    label: '4'
+  -
+    name: WAN0
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G internal tap
+  -
+    name: WAN1
+    type: 10gbase-x-sfpp
+    mgmt_only: false
+    description: 10G internal tap
+  -
     name: WAN2
     type: 1000base-t
     mgmt_only: false
@@ -67,30 +101,6 @@ interfaces:
     type: 1000base-t
     mgmt_only: false
     description: 1G internal tap
-  -
-    name: LAN6
-    type: 10gbase-x-sfpp
-    description: 10G Mirror
-  -
-    name: LAN7
-    type: 10gbase-x-sfpp
-    description: 10G Mirror
-  -
-    name: LAN8
-    type: 10gbase-x-sfpp
-    description: 10G Mirror
-  -
-    name: LAN9
-    type: 10gbase-x-sfpp
-    description: 10G Mirror
-  -
-    name: WAN0
-    type: 10gbase-x-sfpp
-    description: 10G internal tap
-  -
-    name: WAN1
-    type: 10gbase-x-sfpp
-    description: 10G internal tap
 module-bays:
   -
     name: PS-A

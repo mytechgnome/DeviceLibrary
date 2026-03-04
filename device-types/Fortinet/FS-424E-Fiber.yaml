@@ -28,10 +28,6 @@ power-ports:
     allocated_draw: 36
 interfaces:
   -
-    name: mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: port1
     type: 1000base-x-sfp
   -
@@ -115,6 +111,10 @@ interfaces:
   -
     name: port28
     type: 10gbase-x-sfpp
+  -
+    name: mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: port1

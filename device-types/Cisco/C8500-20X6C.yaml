@@ -24,22 +24,22 @@ interfaces:
     mgmt_only: true
   -
     name: HundredGigE0/0/0
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/1
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/2
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/3
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/4
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE0/0/5
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: TenGigabitEthernet0/1/0
     type: 10gbase-x-sfpp
@@ -129,27 +129,27 @@ module-bays:
   -
     name: HundredGigE0/0/0
     position: HundredGigE0/0/0
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/1
     position: HundredGigE0/0/1
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/2
     position: HundredGigE0/0/2
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/3
     position: HundredGigE0/0/3
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/4
     position: HundredGigE0/0/4
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE0/0/5
     position: HundredGigE0/0/5
-    label: qsfp+
+    label: qsfp28
   -
     name: TenGigabitEthernet0/1/0
     position: TenGigabitEthernet0/1/0

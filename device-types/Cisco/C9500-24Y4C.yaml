@@ -121,19 +121,19 @@ module-bays:
   -
     name: HundredGigE1/0/25
     position: HundredGigE1/0/25
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE1/0/26
     position: HundredGigE1/0/26
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE1/0/27
     position: HundredGigE1/0/27
-    label: qsfp+
+    label: qsfp28
   -
     name: HundredGigE1/0/28
     position: HundredGigE1/0/28
-    label: qsfp+
+    label: qsfp28
 interfaces:
   -
     name: GigabitEthernet0/0
@@ -213,13 +213,13 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: HundredGigE1/0/25
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/26
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/27
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: HundredGigE1/0/28
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28

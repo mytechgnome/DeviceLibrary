@@ -9,16 +9,16 @@ comments: '[Datasheet](https://docs.broadcom.com/doc/957508-P2100G-DS)'
 interfaces:
   -
     name: Ethernet/{module}/1
-    type: 10gbase-x-sfpp
+    type: 200gbase-x-qsfp56
   -
     name: Ethernet/{module}/2
-    type: 10gbase-x-sfpp
+    type: 200gbase-x-qsfp56
 module-bays:
   -
     name: Ethernet/{module}/1
     position: Ethernet/{module}/1
-    label: sfp+
+    label: qsfp56
   -
     name: Ethernet/{module}/2
     position: Ethernet/{module}/2
-    label: sfp+
+    label: qsfp56

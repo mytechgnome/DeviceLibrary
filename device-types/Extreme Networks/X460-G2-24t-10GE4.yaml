@@ -72,18 +72,6 @@ interfaces:
     name: '20'
     type: 1000base-t
   -
-    name: '33'
-    type: other
-    description: either Stacking-Ports or additional SFP+; only with VIM-2 module
-  -
-    name: '34'
-    type: other
-    description: either Stacking-Ports or additional SFP+; only with VIM-2 module
-  -
-    name: Mgmt
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '21'
     type: 1000base-x-sfp
     description: Combo Port (either SFP or 1000BASE-T)
@@ -123,6 +111,18 @@ interfaces:
   -
     name: '32'
     type: 10gbase-x-sfpp
+  -
+    name: '33'
+    type: other
+    description: either Stacking-Ports or additional SFP+; only with VIM-2 module
+  -
+    name: '34'
+    type: other
+    description: either Stacking-Ports or additional SFP+; only with VIM-2 module
+  -
+    name: Mgmt
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PSU-1

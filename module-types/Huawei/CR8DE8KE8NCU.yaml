@@ -6,69 +6,117 @@ description: NE8000 LPUI-4T-CM 8x400GE-QSFP-DD+8x100GE-QSFP28
 comments: '[Huawei 8-Port 400GBase-QSFP-DD + 8-Port 100GBase-QSFP28 Integrated Line Processing Unit CM (LPUI-4T-CM)](https://info.support.huawei.com/info-finder/enterprisesearch/en?keyword=CR8DE8KE8NCU)'
 weight: 10.1
 weight_unit: kg
-interfaces: []
+interfaces:
+  -
+    name: 400GE{module}/0/0
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/2
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/3
+    type: 40gbase-x-qsfpp
+  -
+    name: 100GE{module}/0/4
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/5
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/6
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/7
+    type: 100gbase-x-qsfp28
+  -
+    name: 400GE{module}/0/8
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/9
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/10
+    type: 40gbase-x-qsfpp
+  -
+    name: 400GE{module}/0/11
+    type: 40gbase-x-qsfpp
+  -
+    name: 100GE{module}/0/12
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/13
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/14
+    type: 100gbase-x-qsfp28
+  -
+    name: 100GE{module}/0/15
+    type: 100gbase-x-qsfp28
 module-bays:
   -
     name: 400GE{module}/0/0
     position: 400GE{module}/0/0
-    label: 400GE{module}/0/0
+    label: qsfp-dd
   -
     name: 400GE{module}/0/1
     position: 400GE{module}/0/1
-    label: 400GE{module}/0/1
+    label: qsfp-dd
   -
     name: 400GE{module}/0/2
     position: 400GE{module}/0/2
-    label: 400GE{module}/0/2
+    label: qsfp-dd
   -
     name: 400GE{module}/0/3
     position: 400GE{module}/0/3
-    label: 400GE{module}/0/3
+    label: qsfp-dd
   -
     name: 100GE{module}/0/4
     position: 100GE{module}/0/4
-    label: 100GE{module}/0/4
+    label: qsfp28
   -
     name: 100GE{module}/0/5
     position: 100GE{module}/0/5
-    label: 100GE{module}/0/5
+    label: qsfp28
   -
     name: 100GE{module}/0/6
     position: 100GE{module}/0/6
-    label: 100GE{module}/0/6
+    label: qsfp28
   -
     name: 100GE{module}/0/7
     position: 100GE{module}/0/7
-    label: 100GE{module}/0/7
+    label: qsfp28
   -
     name: 400GE{module}/0/8
     position: 400GE{module}/0/8
-    label: 400GE{module}/0/8
+    label: qsfp-dd
   -
     name: 400GE{module}/0/9
     position: 400GE{module}/0/9
-    label: 400GE{module}/0/9
+    label: qsfp-dd
   -
     name: 400GE{module}/0/10
     position: 400GE{module}/0/10
-    label: 400GE{module}/0/10
+    label: qsfp-dd
   -
     name: 400GE{module}/0/11
     position: 400GE{module}/0/11
-    label: 400GE{module}/0/11
+    label: qsfp-dd
   -
     name: 100GE{module}/0/12
     position: 100GE{module}/0/12
-    label: 100GE{module}/0/12
+    label: qsfp28
   -
     name: 100GE{module}/0/13
     position: 100GE{module}/0/13
-    label: 100GE{module}/0/13
+    label: qsfp28
   -
     name: 100GE{module}/0/14
     position: 100GE{module}/0/14
-    label: 100GE{module}/0/14
+    label: qsfp28
   -
     name: 100GE{module}/0/15
     position: 100GE{module}/0/15
-    label: 100GE{module}/0/15
+    label: qsfp28

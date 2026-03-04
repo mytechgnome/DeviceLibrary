@@ -11,6 +11,30 @@ console-ports:
     type: usb-a
 interfaces:
   -
+    name: Fabric {module}/5/1
+    type: 40gbase-x-qsfpp
+  -
+    name: Fabric {module}/5/2
+    type: 40gbase-x-qsfpp
+  -
+    name: Fabric {module}/5/3
+    type: 40gbase-x-qsfpp
+  -
+    name: Fabric {module}/5/4
+    type: 40gbase-x-qsfpp
+  -
+    name: Fabric {module}/1
+    type: 10gbase-x-sfpp
+  -
+    name: Fabric {module}/2
+    type: 10gbase-x-sfpp
+  -
+    name: Fabric {module}/3
+    type: 10gbase-x-sfpp
+  -
+    name: Fabric {module}/4
+    type: 10gbase-x-sfpp
+  -
     name: IOM {module} Mgmt0
     type: 1000base-t
     mgmt_only: true
@@ -18,32 +42,32 @@ module-bays:
   -
     name: Fabric {module}/5/1
     position: Fabric {module}/5/1
-    label: Fabric {module}/5/1
+    label: qsfp+
   -
     name: Fabric {module}/5/2
     position: Fabric {module}/5/2
-    label: Fabric {module}/5/2
+    label: qsfp+
   -
     name: Fabric {module}/5/3
     position: Fabric {module}/5/3
-    label: Fabric {module}/5/3
+    label: qsfp+
   -
     name: Fabric {module}/5/4
     position: Fabric {module}/5/4
-    label: Fabric {module}/5/4
+    label: qsfp+
   -
     name: Fabric {module}/1
     position: Fabric {module}/1
-    label: Fabric {module}/1
+    label: sfp+
   -
     name: Fabric {module}/2
     position: Fabric {module}/2
-    label: Fabric {module}/2
+    label: sfp+
   -
     name: Fabric {module}/3
     position: Fabric {module}/3
-    label: Fabric {module}/3
+    label: sfp+
   -
     name: Fabric {module}/4
     position: Fabric {module}/4
-    label: Fabric {module}/4
+    label: sfp+

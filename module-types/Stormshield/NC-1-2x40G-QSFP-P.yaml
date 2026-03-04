@@ -2,13 +2,19 @@
 manufacturer: Stormshield
 model: NC-1-2x40G-QSFP-P
 part_number: NC-1-2x40G-QSFP-P
-interfaces: []
+interfaces:
+  -
+    name: port{module}/1
+    type: 40gbase-x-qsfpp
+  -
+    name: port{module}/2
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: port{module}/1
     position: port{module}/1
-    label: port{module}/1
+    label: qsfp+
   -
     name: port{module}/2
     position: port{module}/2
-    label: port{module}/2
+    label: qsfp+

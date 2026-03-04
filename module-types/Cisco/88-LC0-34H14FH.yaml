@@ -112,6 +112,48 @@ interfaces:
   -
     name: HundredGigE0/{module}/0/33
     type: 100gbase-x-qsfp28
+  -
+    name: FourHundredGigE0/{module}/0/0
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/1
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/2
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/3
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/4
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/5
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/6
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/7
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/8
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/9
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/10
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/11
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/12
+    type: 40gbase-x-qsfpp
+  -
+    name: FourHundredGigE0/{module}/0/13
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: HundredGigE0/{module}/0/0
@@ -252,56 +294,56 @@ module-bays:
   -
     name: FourHundredGigE0/{module}/0/0
     position: FourHundredGigE0/{module}/0/0
-    label: FourHundredGigE0/{module}/0/0
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/1
     position: FourHundredGigE0/{module}/0/1
-    label: FourHundredGigE0/{module}/0/1
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/2
     position: FourHundredGigE0/{module}/0/2
-    label: FourHundredGigE0/{module}/0/2
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/3
     position: FourHundredGigE0/{module}/0/3
-    label: FourHundredGigE0/{module}/0/3
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/4
     position: FourHundredGigE0/{module}/0/4
-    label: FourHundredGigE0/{module}/0/4
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/5
     position: FourHundredGigE0/{module}/0/5
-    label: FourHundredGigE0/{module}/0/5
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/6
     position: FourHundredGigE0/{module}/0/6
-    label: FourHundredGigE0/{module}/0/6
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/7
     position: FourHundredGigE0/{module}/0/7
-    label: FourHundredGigE0/{module}/0/7
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/8
     position: FourHundredGigE0/{module}/0/8
-    label: FourHundredGigE0/{module}/0/8
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/9
     position: FourHundredGigE0/{module}/0/9
-    label: FourHundredGigE0/{module}/0/9
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/10
     position: FourHundredGigE0/{module}/0/10
-    label: FourHundredGigE0/{module}/0/10
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/11
     position: FourHundredGigE0/{module}/0/11
-    label: FourHundredGigE0/{module}/0/11
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/12
     position: FourHundredGigE0/{module}/0/12
-    label: FourHundredGigE0/{module}/0/12
+    label: qsfp-dd
   -
     name: FourHundredGigE0/{module}/0/13
     position: FourHundredGigE0/{module}/0/13
-    label: FourHundredGigE0/{module}/0/13
+    label: qsfp-dd

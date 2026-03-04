@@ -156,9 +156,6 @@ interfaces:
     name: Ethernet48
     type: 10gbase-t
   -
-    name: Management1
-    type: 1000base-t
-  -
     name: Ethernet49
     type: 40gbase-x-qsfpp
   -
@@ -170,6 +167,9 @@ interfaces:
   -
     name: Ethernet52
     type: 40gbase-x-qsfpp
+  -
+    name: Management1
+    type: 1000base-t
 console-ports:
   -
     name: Console

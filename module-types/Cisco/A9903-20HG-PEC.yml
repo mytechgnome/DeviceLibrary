@@ -68,7 +68,7 @@ module-bays:
   -
     name: HundredGigE{module}/0
     position: HundredGigE{module}/0
-    label: qsfp28
+    label: qsfp-dd
   -
     name: HundredGigE{module}/1
     position: HundredGigE{module}/1
@@ -84,7 +84,7 @@ module-bays:
   -
     name: HundredGigE{module}/4
     position: HundredGigE{module}/4
-    label: qsfp28
+    label: qsfp-dd
   -
     name: HundredGigE{module}/5
     position: HundredGigE{module}/5
@@ -100,7 +100,7 @@ module-bays:
   -
     name: HundredGigE{module}/8
     position: HundredGigE{module}/8
-    label: qsfp28
+    label: qsfp-dd
   -
     name: HundredGigE{module}/9
     position: HundredGigE{module}/9
@@ -116,7 +116,7 @@ module-bays:
   -
     name: HundredGigE{module}/12
     position: HundredGigE{module}/12
-    label: qsfp28
+    label: qsfp-dd
   -
     name: HundredGigE{module}/13
     position: HundredGigE{module}/13
@@ -132,7 +132,7 @@ module-bays:
   -
     name: HundredGigE{module}/16
     position: HundredGigE{module}/16
-    label: qsfp28
+    label: qsfp-dd
   -
     name: HundredGigE{module}/17
     position: HundredGigE{module}/17

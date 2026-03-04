@@ -33,10 +33,6 @@ console-ports:
     description: RJ-45 BITS in or out.
 interfaces:
   -
-    name: MGMT
-    type: 1000base-t
-    mgmt_only: true
-  -
     name: '1'
     type: 10gbase-x-sfpp
   -
@@ -158,10 +154,14 @@ interfaces:
     type: 10gbase-x-sfpp
   -
     name: '41'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
   -
     name: '42'
-    type: 40gbase-x-qsfpp
+    type: 100gbase-x-qsfp28
+  -
+    name: MGMT
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   -
     name: PS A
@@ -338,8 +338,8 @@ module-bays:
   -
     name: '41'
     position: '41'
-    label: qsfp+
+    label: qsfp28
   -
     name: '42'
     position: '42'
-    label: qsfp+
+    label: qsfp28
