@@ -137,8 +137,8 @@ module-bays:
   -
     name: qsfp-qsfpplus1
     position: qsfp-qsfpplus1
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp-qsfpplus2
     position: qsfp-qsfpplus2
-    label: qsfp
+    label: qsfp+

@@ -44,8 +44,7 @@ power-ports:
 power-outlets:
   # USB-C Ports
   -
-    name: Outlet 1
-    type: usb-c
+    name: Outlet 1 type: usb-c
     power_port: Input
   -
     name: Outlet 2

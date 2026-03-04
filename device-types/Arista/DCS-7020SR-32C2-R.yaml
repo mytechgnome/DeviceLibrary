@@ -151,11 +151,11 @@ module-bays:
   -
     name: Ethernet33/1
     position: Ethernet33/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet34/1
     position: Ethernet34/1
-    label: qsfp
+    label: qsfp+
 front_image: true
 rear_image: false
 interfaces:

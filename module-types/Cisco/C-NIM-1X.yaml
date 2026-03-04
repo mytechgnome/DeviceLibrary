@@ -14,4 +14,4 @@ module-bays:
   -
     name: TenGigabitEthernet0/{module}/0
     position: TenGigabitEthernet0/{module}/0
-    label: TenGigabitEthernet0/{module}/0
+    label: sfp+

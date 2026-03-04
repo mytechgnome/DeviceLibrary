@@ -84,19 +84,19 @@ module-bays:
   -
     name: eth17
     position: eth17
-    label: qsfp
+    label: qsfp+
   -
     name: eth18
     position: eth18
-    label: qsfp
+    label: qsfp+
   -
     name: eth19
     position: eth19
-    label: qsfp
+    label: qsfp+
   -
     name: eth20
     position: eth20
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: mgmt

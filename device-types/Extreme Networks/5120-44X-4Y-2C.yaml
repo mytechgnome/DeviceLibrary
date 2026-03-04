@@ -383,10 +383,10 @@ module-bays:
   -
     name: '49'
     position: '49'
-    label: qsfp
+    label: qsfp+
     description: For normal use or for stacking.
   -
     name: '50'
     position: '50'
-    label: qsfp
+    label: qsfp+
     description: For normal use or for stacking.

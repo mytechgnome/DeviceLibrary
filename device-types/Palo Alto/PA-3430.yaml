@@ -179,11 +179,11 @@ module-bays:
   -
     name: ethernet1/35
     position: ethernet1/35
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet1/36
     position: ethernet1/36
-    label: qsfp
+    label: qsfp+
   -
     name: hsci
     position: hsci

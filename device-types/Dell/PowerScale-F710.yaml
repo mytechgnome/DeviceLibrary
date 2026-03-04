@@ -27,22 +27,22 @@ module-bays:
   -
     name: 100gige-front-end-1
     position: 100gige-front-end-1
-    label: qsfp
+    label: qsfp+
     description: Front End Interface (Front End Networking)
   -
     name: 100gige-front-end-2
     position: 100gige-front-end-2
-    label: qsfp
+    label: qsfp+
     description: Front End Interface (Front End Networking)
   -
     name: 100gige-back-end-1
     position: 100gige-back-end-1
-    label: qsfp
+    label: qsfp+
     description: Backend Interface (Infrastructure Networking)
   -
     name: 100gige-back-end-2
     position: 100gige-back-end-2
-    label: qsfp
+    label: qsfp+
     description: Backend Interface (Infrastructure Networking)
 interfaces:
   -

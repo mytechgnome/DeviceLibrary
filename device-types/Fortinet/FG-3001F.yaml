@@ -89,27 +89,27 @@ module-bays:
   -
     name: port31
     position: port31
-    label: qsfp
+    label: qsfp+
   -
     name: port32
     position: port32
-    label: qsfp
+    label: qsfp+
   -
     name: port33
     position: port33
-    label: qsfp
+    label: qsfp+
   -
     name: port34
     position: port34
-    label: qsfp
+    label: qsfp+
   -
     name: port35
     position: port35
-    label: qsfp
+    label: qsfp+
   -
     name: port36
     position: port36
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: mgmt1

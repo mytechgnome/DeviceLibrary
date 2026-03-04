@@ -22,8 +22,7 @@ power-ports:
 interfaces:
   # Fiber ports
   -
-    name: g3
-    type: 1000base-t
+    name: g3 type: 1000base-t
   -
     name: g4
     type: 1000base-t
@@ -272,6 +271,12 @@ interfaces:
     name: Management
     type: virtual
     mgmt_only: true
+  -
+    name: g1
+    type: 1000base-x-sfp
+  -
+    name: g2
+    type: 1000base-x-sfp
 module-bays:
   -
     name: g1

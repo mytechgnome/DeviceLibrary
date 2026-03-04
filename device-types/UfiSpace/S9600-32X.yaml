@@ -156,132 +156,132 @@ module-bays:
   -
     name: ce0
     position: ce0
-    label: qsfp
+    label: qsfp+
     description: May be disabled and replaced by xe0-3, requires reboot
   -
     name: ce1
     position: ce1
-    label: qsfp
+    label: qsfp+
   -
     name: ce2
     position: ce2
-    label: qsfp
+    label: qsfp+
   -
     name: ce3
     position: ce3
-    label: qsfp
+    label: qsfp+
   -
     name: ce4
     position: ce4
-    label: qsfp
+    label: qsfp+
   -
     name: ce5
     position: ce5
-    label: qsfp
+    label: qsfp+
   -
     name: ce6
     position: ce6
-    label: qsfp
+    label: qsfp+
   -
     name: ce7
     position: ce7
-    label: qsfp
+    label: qsfp+
   -
     name: ce8
     position: ce8
-    label: qsfp
+    label: qsfp+
   -
     name: ce9
     position: ce9
-    label: qsfp
+    label: qsfp+
   -
     name: ce10
     position: ce10
-    label: qsfp
+    label: qsfp+
   -
     name: ce11
     position: ce11
-    label: qsfp
+    label: qsfp+
   -
     name: ce12
     position: ce12
-    label: qsfp
+    label: qsfp+
   -
     name: ce13
     position: ce13
-    label: qsfp
+    label: qsfp+
   -
     name: ce14
     position: ce14
-    label: qsfp
+    label: qsfp+
   -
     name: ce15
     position: ce15
-    label: qsfp
+    label: qsfp+
   -
     name: ce16
     position: ce16
-    label: qsfp
+    label: qsfp+
   -
     name: ce17
     position: ce17
-    label: qsfp
+    label: qsfp+
   -
     name: ce18
     position: ce18
-    label: qsfp
+    label: qsfp+
   -
     name: ce19
     position: ce19
-    label: qsfp
+    label: qsfp+
   -
     name: ce20
     position: ce20
-    label: qsfp
+    label: qsfp+
   -
     name: ce21
     position: ce21
-    label: qsfp
+    label: qsfp+
   -
     name: ce22
     position: ce22
-    label: qsfp
+    label: qsfp+
   -
     name: ce23
     position: ce23
-    label: qsfp
+    label: qsfp+
   -
     name: ce24
     position: ce24
-    label: qsfp
+    label: qsfp+
   -
     name: ce25
     position: ce25
-    label: qsfp
+    label: qsfp+
   -
     name: ce26
     position: ce26
-    label: qsfp
+    label: qsfp+
   -
     name: ce27
     position: ce27
-    label: qsfp
+    label: qsfp+
   -
     name: ce28
     position: ce28
-    label: qsfp
+    label: qsfp+
   -
     name: ce29
     position: ce29
-    label: qsfp
+    label: qsfp+
   -
     name: ce30
     position: ce30
-    label: qsfp
+    label: qsfp+
   -
     name: ce31
     position: ce31
-    label: qsfp
+    label: qsfp+
   -
     name: xe0
     position: xe0

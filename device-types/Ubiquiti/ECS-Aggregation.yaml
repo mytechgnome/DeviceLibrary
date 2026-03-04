@@ -22,7 +22,167 @@ front_image: true
 rear_image: true
 interfaces:
   # SFP28 ports (25/10G, 1-48)
-    []
+  -
+    name: SFP28 Port 1 type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 2
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 3
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 4
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 5
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 6
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 7
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 8
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 9
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 10
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 11
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 12
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 13
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 14
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 15
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 16
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 17
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 18
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 19
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 20
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 21
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 22
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 23
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 24
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 25
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 26
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 27
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 28
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 29
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 30
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 31
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 32
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 33
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 34
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 35
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 36
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 37
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 38
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 39
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 40
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 41
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 42
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 43
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 44
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 45
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 46
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 47
+    type: 25gbase-x-sfp28
+  -
+    name: SFP28 Port 48
+    type: 25gbase-x-sfp28
+  -
+    name: QSFP28 Port 49
+    type: 40gbase-x-qsfpp
+  -
+    name: QSFP28 Port 50
+    type: 40gbase-x-qsfpp
+  -
+    name: QSFP28 Port 51
+    type: 40gbase-x-qsfpp
+  -
+    name: QSFP28 Port 52
+    type: 40gbase-x-qsfpp
+  -
+    name: QSFP28 Port 53
+    type: 40gbase-x-qsfpp
+  -
+    name: QSFP28 Port 54
+    type: 40gbase-x-qsfpp
 module-bays:
   -
     name: PSU 1

@@ -14,8 +14,8 @@ module-bays:
   -
     name: FortyGigE{module}/0
     position: FortyGigE{module}/0
-    label: FortyGigE{module}/0
+    label: qsfp+
   -
     name: FortyGigE{module}/1
     position: FortyGigE{module}/1
-    label: FortyGigE{module}/1
+    label: qsfp+

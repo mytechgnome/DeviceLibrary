@@ -35,32 +35,32 @@ module-bays:
   -
     name: TwentyFiveGigE{module}/0/1
     position: TwentyFiveGigE{module}/0/1
-    label: TwentyFiveGigE{module}/0/1
+    label: sfp28
   -
     name: TwentyFiveGigE{module}/0/2
     position: TwentyFiveGigE{module}/0/2
-    label: TwentyFiveGigE{module}/0/2
+    label: sfp28
   -
     name: TwentyFiveGigE{module}/0/3
     position: TwentyFiveGigE{module}/0/3
-    label: TwentyFiveGigE{module}/0/3
+    label: sfp28
   -
     name: TwentyFiveGigE{module}/0/4
     position: TwentyFiveGigE{module}/0/4
-    label: TwentyFiveGigE{module}/0/4
+    label: sfp28
   -
     name: HundredGigE{module}/0/5
     position: HundredGigE{module}/0/5
-    label: HundredGigE{module}/0/5
+    label: qsfp28
   -
     name: HundredGigE{module}/0/6
     position: HundredGigE{module}/0/6
-    label: HundredGigE{module}/0/6
+    label: qsfp28
   -
     name: HundredGigE{module}/0/7
     position: HundredGigE{module}/0/7
-    label: HundredGigE{module}/0/7
+    label: qsfp28
   -
     name: HundredGigE{module}/0/8
     position: HundredGigE{module}/0/8
-    label: HundredGigE{module}/0/8
+    label: qsfp28

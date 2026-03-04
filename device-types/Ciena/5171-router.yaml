@@ -35,16 +35,16 @@ interfaces:
     mgmt_only: true
   -
     name: '1'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '2'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '3'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '4'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '5'
     type: 25gbase-x-sfp28
@@ -95,16 +95,16 @@ interfaces:
     type: 25gbase-x-sfp28
   -
     name: '21'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '22'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '23'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '24'
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: '25'
     type: 25gbase-x-sfp28
@@ -179,19 +179,19 @@ module-bays:
   -
     name: '1'
     position: '1'
-    label: sfp56
+    label: sfp28
   -
     name: '2'
     position: '2'
-    label: sfp56
+    label: sfp28
   -
     name: '3'
     position: '3'
-    label: sfp56
+    label: sfp28
   -
     name: '4'
     position: '4'
-    label: sfp56
+    label: sfp28
   -
     name: '5'
     position: '5'
@@ -259,19 +259,19 @@ module-bays:
   -
     name: '21'
     position: '21'
-    label: sfp56
+    label: sfp28
   -
     name: '22'
     position: '22'
-    label: sfp56
+    label: sfp28
   -
     name: '23'
     position: '23'
-    label: sfp56
+    label: sfp28
   -
     name: '24'
     position: '24'
-    label: sfp56
+    label: sfp28
   -
     name: '25'
     position: '25'

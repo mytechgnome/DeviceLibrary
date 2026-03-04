@@ -69,48 +69,48 @@ module-bays:
   -
     name: swp1
     position: swp1
-    label: qsfp
+    label: qsfp+
   -
     name: swp2
     position: swp2
-    label: qsfp
+    label: qsfp+
   -
     name: swp3
     position: swp3
-    label: qsfp
+    label: qsfp+
   -
     name: swp4
     position: swp4
-    label: qsfp
+    label: qsfp+
   -
     name: swp5
     position: swp5
-    label: qsfp
+    label: qsfp+
   -
     name: swp6
     position: swp6
-    label: qsfp
+    label: qsfp+
   -
     name: swp7
     position: swp7
-    label: qsfp
+    label: qsfp+
   -
     name: swp8
     position: swp8
-    label: qsfp
+    label: qsfp+
   -
     name: swp9
     position: swp9
-    label: qsfp
+    label: qsfp+
   -
     name: swp10
     position: swp10
-    label: qsfp
+    label: qsfp+
   -
     name: swp11
     position: swp11
-    label: qsfp
+    label: qsfp+
   -
     name: swp12
     position: swp12
-    label: qsfp
+    label: qsfp+

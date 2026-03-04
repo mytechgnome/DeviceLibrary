@@ -144,11 +144,11 @@ module-bays:
   -
     name: Port 33
     position: Port 33
-    label: qsfp
+    label: qsfp+
   -
     name: Port 34
     position: Port 34
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Management

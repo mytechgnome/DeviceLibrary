@@ -14,8 +14,8 @@ module-bays:
   -
     name: eth{module}-01
     position: eth{module}-01
-    label: eth{module}-01
+    label: sfp+
   -
     name: eth{module}-02
     position: eth{module}-02
-    label: eth{module}-02
+    label: sfp+

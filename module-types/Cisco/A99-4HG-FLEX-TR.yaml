@@ -21,16 +21,16 @@ module-bays:
   -
     name: HundredGigE0/{module}/0/40
     position: HundredGigE0/{module}/0/40
-    label: HundredGigE0/{module}/0/40
+    label: qsfp28
   -
     name: HundredGigE0/{module}/0/41
     position: HundredGigE0/{module}/0/41
-    label: HundredGigE0/{module}/0/41
+    label: qsfp28
   -
     name: HundredGigE0/{module}/0/42
     position: HundredGigE0/{module}/0/42
-    label: HundredGigE0/{module}/0/42
+    label: qsfp28
   -
     name: HundredGigE0/{module}/0/43
     position: HundredGigE0/{module}/0/43
-    label: HundredGigE0/{module}/0/43
+    label: qsfp28

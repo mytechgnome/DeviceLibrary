@@ -238,96 +238,96 @@ module-bays:
   -
     name: port-17
     position: port-17
-    label: qsfp
+    label: qsfp+
   -
     name: port-18
     position: port-18
-    label: qsfp
+    label: qsfp+
   -
     name: port-19
     position: port-19
-    label: qsfp
+    label: qsfp+
   -
     name: port-20
     position: port-20
-    label: qsfp
+    label: qsfp+
   -
     name: port-21
     position: port-21
-    label: qsfp
+    label: qsfp+
   -
     name: port-22
     position: port-22
-    label: qsfp
+    label: qsfp+
   -
     name: port-23
     position: port-23
-    label: qsfp
+    label: qsfp+
   -
     name: port-24
     position: port-24
-    label: qsfp
+    label: qsfp+
   -
     name: port-25
     position: port-25
-    label: qsfp
+    label: qsfp+
   -
     name: port-26
     position: port-26
-    label: qsfp
+    label: qsfp+
   -
     name: port-27
     position: port-27
-    label: qsfp
+    label: qsfp+
   -
     name: port-28
     position: port-28
-    label: qsfp
+    label: qsfp+
   -
     name: port-29
     position: port-29
-    label: qsfp
+    label: qsfp+
   -
     name: port-30
     position: port-30
-    label: qsfp
+    label: qsfp+
   -
     name: port-31
     position: port-31
-    label: qsfp
+    label: qsfp+
   -
     name: port-32
     position: port-32
-    label: qsfp
+    label: qsfp+
   -
     name: port-33
     position: port-33
-    label: qsfp
+    label: qsfp+
   -
     name: port-34
     position: port-34
-    label: qsfp
+    label: qsfp+
   -
     name: port-35
     position: port-35
-    label: qsfp
+    label: qsfp+
   -
     name: port-36
     position: port-36
-    label: qsfp
+    label: qsfp+
   -
     name: port-37
     position: port-37
-    label: qsfp
+    label: qsfp+
   -
     name: port-38
     position: port-38
-    label: qsfp
+    label: qsfp+
   -
     name: port-39
     position: port-39
-    label: qsfp
+    label: qsfp+
   -
     name: port-40
     position: port-40
-    label: qsfp
+    label: qsfp+

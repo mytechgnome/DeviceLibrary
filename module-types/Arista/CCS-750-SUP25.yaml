@@ -33,19 +33,19 @@ module-bays:
   -
     name: Ethernet{module}/1
     position: Ethernet{module}/1
-    label: Ethernet{module}/1
+    label: sfp+
   -
     name: Ethernet{module}/2
     position: Ethernet{module}/2
-    label: Ethernet{module}/2
+    label: sfp+
   -
     name: Ethernet{module}/3
     position: Ethernet{module}/3
-    label: Ethernet{module}/3
+    label: sfp+
   -
     name: Ethernet{module}/4
     position: Ethernet{module}/4
-    label: Ethernet{module}/4
+    label: sfp+
   -
     name: Management{module}/2
     position: Management{module}/2

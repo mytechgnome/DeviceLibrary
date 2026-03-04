@@ -42,16 +42,16 @@ module-bays:
   -
     name: SFP+0({module})
     position: SFP+0({module})
-    label: SFP+0({module})
+    label: sfp+
   -
     name: SFP+1({module})
     position: SFP+1({module})
-    label: SFP+1({module})
+    label: sfp+
   -
     name: SFP+2({module})
     position: SFP+2({module})
-    label: SFP+2({module})
+    label: sfp+
   -
     name: SFP+3({module})
     position: SFP+3({module})
-    label: SFP+3({module})
+    label: sfp+

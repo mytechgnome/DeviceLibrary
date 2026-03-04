@@ -98,11 +98,11 @@ module-bays:
   -
     name: HundredGigE0/0/0/20
     position: HundredGigE0/0/0/20
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/21
     position: HundredGigE0/0/0/21
-    label: qsfp
+    label: qsfp+
   -
     name: TenGigE0/0/0/8
     position: TenGigE0/0/0/8

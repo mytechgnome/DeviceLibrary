@@ -150,8 +150,8 @@ module-bays:
   -
     name: '17'
     position: '17'
-    label: qsfp
+    label: qsfp+
   -
     name: '21'
     position: '21'
-    label: qsfp
+    label: qsfp+

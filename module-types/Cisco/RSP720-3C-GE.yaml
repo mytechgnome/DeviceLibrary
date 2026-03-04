@@ -17,8 +17,8 @@ module-bays:
   -
     name: Gi{module}/1
     position: Gi{module}/1
-    label: Gi{module}/1
+    label: sfp
   -
     name: Gi{module}/2
     position: Gi{module}/2
-    label: Gi{module}/2
+    label: sfp

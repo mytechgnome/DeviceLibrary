@@ -235,7 +235,7 @@ module-bays:
   -
     name: 1/1/c1/1
     position: 1/1/c1/1
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/2
     position: 1/1/2
@@ -243,7 +243,7 @@ module-bays:
   -
     name: 1/1/c2/1
     position: 1/1/c2/1
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/3
     position: 1/1/3
@@ -251,7 +251,7 @@ module-bays:
   -
     name: 1/1/c3/1
     position: 1/1/c3/1
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/4
     position: 1/1/4
@@ -259,7 +259,7 @@ module-bays:
   -
     name: 1/1/c4/1
     position: 1/1/c4/1
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/5
     position: 1/1/5

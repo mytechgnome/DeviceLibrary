@@ -144,8 +144,8 @@ module-bays:
   -
     name: port1.0.17
     position: port1.0.17
-    label: qsfp
+    label: qsfp+
   -
     name: port1.0.18
     position: port1.0.18
-    label: qsfp
+    label: qsfp+

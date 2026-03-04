@@ -405,24 +405,24 @@ module-bays:
   -
     name: port-49
     position: port-49
-    label: qsfp
+    label: qsfp+
   -
     name: port-50
     position: port-50
-    label: qsfp
+    label: qsfp+
   -
     name: port-51
     position: port-51
-    label: qsfp
+    label: qsfp+
   -
     name: port-52
     position: port-52
-    label: qsfp
+    label: qsfp+
   -
     name: port-53
     position: port-53
-    label: qsfp
+    label: qsfp+
   -
     name: port-54
     position: port-54
-    label: qsfp
+    label: qsfp+

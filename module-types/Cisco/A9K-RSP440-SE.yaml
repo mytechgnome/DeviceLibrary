@@ -37,10 +37,10 @@ module-bays:
   -
     name: RSP{module}/SFP+_00_10GE
     position: RSP{module}/SFP+_00_10GE
-    label: RSP{module}/SFP+_00_10GE
+    label: sfp+
     description: Virtualization Cluster Port
   -
     name: RSP{module}/SFP+_01_10GE
     position: RSP{module}/SFP+_01_10GE
-    label: RSP{module}/SFP+_01_10GE
+    label: sfp+
     description: Virtualization Cluster Port

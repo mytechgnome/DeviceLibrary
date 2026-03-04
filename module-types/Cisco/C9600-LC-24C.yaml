@@ -176,96 +176,96 @@ module-bays:
   -
     name: HundredGigE{module}/0/25
     position: HundredGigE{module}/0/25
-    label: HundredGigE{module}/0/25
+    label: qsfp28
   -
     name: HundredGigE{module}/0/26
     position: HundredGigE{module}/0/26
-    label: HundredGigE{module}/0/26
+    label: qsfp28
   -
     name: HundredGigE{module}/0/27
     position: HundredGigE{module}/0/27
-    label: HundredGigE{module}/0/27
+    label: qsfp28
   -
     name: HundredGigE{module}/0/28
     position: HundredGigE{module}/0/28
-    label: HundredGigE{module}/0/28
+    label: qsfp28
   -
     name: HundredGigE{module}/0/29
     position: HundredGigE{module}/0/29
-    label: HundredGigE{module}/0/29
+    label: qsfp28
   -
     name: HundredGigE{module}/0/30
     position: HundredGigE{module}/0/30
-    label: HundredGigE{module}/0/30
+    label: qsfp28
   -
     name: HundredGigE{module}/0/31
     position: HundredGigE{module}/0/31
-    label: HundredGigE{module}/0/31
+    label: qsfp28
   -
     name: HundredGigE{module}/0/32
     position: HundredGigE{module}/0/32
-    label: HundredGigE{module}/0/32
+    label: qsfp28
   -
     name: HundredGigE{module}/0/33
     position: HundredGigE{module}/0/33
-    label: HundredGigE{module}/0/33
+    label: qsfp28
   -
     name: HundredGigE{module}/0/34
     position: HundredGigE{module}/0/34
-    label: HundredGigE{module}/0/34
+    label: qsfp28
   -
     name: HundredGigE{module}/0/35
     position: HundredGigE{module}/0/35
-    label: HundredGigE{module}/0/35
+    label: qsfp28
   -
     name: HundredGigE{module}/0/36
     position: HundredGigE{module}/0/36
-    label: HundredGigE{module}/0/36
+    label: qsfp28
   -
     name: HundredGigE{module}/0/37
     position: HundredGigE{module}/0/37
-    label: HundredGigE{module}/0/37
+    label: qsfp28
   -
     name: HundredGigE{module}/0/38
     position: HundredGigE{module}/0/38
-    label: HundredGigE{module}/0/38
+    label: qsfp28
   -
     name: HundredGigE{module}/0/39
     position: HundredGigE{module}/0/39
-    label: HundredGigE{module}/0/39
+    label: qsfp28
   -
     name: HundredGigE{module}/0/40
     position: HundredGigE{module}/0/40
-    label: HundredGigE{module}/0/40
+    label: qsfp28
   -
     name: HundredGigE{module}/0/41
     position: HundredGigE{module}/0/41
-    label: HundredGigE{module}/0/41
+    label: qsfp28
   -
     name: HundredGigE{module}/0/42
     position: HundredGigE{module}/0/42
-    label: HundredGigE{module}/0/42
+    label: qsfp28
   -
     name: HundredGigE{module}/0/43
     position: HundredGigE{module}/0/43
-    label: HundredGigE{module}/0/43
+    label: qsfp28
   -
     name: HundredGigE{module}/0/44
     position: HundredGigE{module}/0/44
-    label: HundredGigE{module}/0/44
+    label: qsfp28
   -
     name: HundredGigE{module}/0/45
     position: HundredGigE{module}/0/45
-    label: HundredGigE{module}/0/45
+    label: qsfp28
   -
     name: HundredGigE{module}/0/46
     position: HundredGigE{module}/0/46
-    label: HundredGigE{module}/0/46
+    label: qsfp28
   -
     name: HundredGigE{module}/0/47
     position: HundredGigE{module}/0/47
-    label: HundredGigE{module}/0/47
+    label: qsfp28
   -
     name: HundredGigE{module}/0/48
     position: HundredGigE{module}/0/48
-    label: HundredGigE{module}/0/48
+    label: qsfp28

@@ -27,8 +27,7 @@ power-ports:
 interfaces:
   # IRIG port(s)
   -
-    name: IRIG-B
-    label: NTP, SNTP Time Synchronation
+    name: IRIG-B label: NTP, SNTP Time Synchronation
     type: other
   # Fast Ethernet ports
   -

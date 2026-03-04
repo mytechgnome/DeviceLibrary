@@ -167,16 +167,16 @@ module-bays:
   -
     name: Ethernet{module}/49
     position: Ethernet{module}/49
-    label: Ethernet{module}/49
+    label: sfp+
   -
     name: Ethernet{module}/50
     position: Ethernet{module}/50
-    label: Ethernet{module}/50
+    label: sfp+
   -
     name: Ethernet{module}/51
     position: Ethernet{module}/51
-    label: Ethernet{module}/51
+    label: sfp+
   -
     name: Ethernet{module}/52
     position: Ethernet{module}/52
-    label: Ethernet{module}/52
+    label: sfp+

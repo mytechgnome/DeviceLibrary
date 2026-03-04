@@ -20,19 +20,19 @@ module-bays:
   -
     name: qx-ethernet 0/1
     position: qx-ethernet 0/1
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/2
     position: qx-ethernet 0/2
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/3
     position: qx-ethernet 0/3
-    label: qsfp
+    label: qsfp+
   -
     name: qx-ethernet 0/4
     position: qx-ethernet 0/4
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: extreme-ethernet 0/1

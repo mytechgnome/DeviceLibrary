@@ -249,16 +249,16 @@ module-bays:
   -
     name: port37
     position: port37
-    label: qsfp
+    label: qsfp+
   -
     name: port38
     position: port38
-    label: qsfp
+    label: qsfp+
   -
     name: port39
     position: port39
-    label: qsfp
+    label: qsfp+
   -
     name: port40
     position: port40
-    label: qsfp
+    label: qsfp+

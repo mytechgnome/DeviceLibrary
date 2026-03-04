@@ -18,8 +18,7 @@ rear_image: true
 interfaces:
   # Gigabit Ethernet ports (1-16)
   -
-    name: Port 1
-    type: 1000base-t
+    name: Port 1 type: 1000base-t
   -
     name: Port 2
     type: 1000base-t
@@ -91,6 +90,12 @@ interfaces:
     name: Port 24
     type: 2.5gbase-t
   # SFP+ uplink ports (25-26)
+  -
+    name: SFP+ 25
+    type: 10gbase-x-sfpp
+  -
+    name: SFP+ 26
+    type: 10gbase-x-sfpp
 power-ports:
   -
     name: AC Input

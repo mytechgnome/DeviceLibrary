@@ -217,35 +217,35 @@ module-bays:
   -
     name: et-0/0/48
     position: et-0/0/48
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/49
     position: et-0/0/49
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/50
     position: et-0/0/50
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/51
     position: et-0/0/51
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/52
     position: et-0/0/52
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/53
     position: et-0/0/53
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/54
     position: et-0/0/54
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/55
     position: et-0/0/55
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: c0

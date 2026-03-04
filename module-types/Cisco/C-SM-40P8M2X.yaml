@@ -158,8 +158,8 @@ module-bays:
   -
     name: TenGigabitEthernet1/0/48
     position: TenGigabitEthernet1/0/48
-    label: TenGigabitEthernet1/0/48
+    label: sfp+
   -
     name: TenGigabitEthernet1/0/49
     position: TenGigabitEthernet1/0/49
-    label: TenGigabitEthernet1/0/49
+    label: sfp+

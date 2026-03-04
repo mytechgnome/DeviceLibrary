@@ -156,8 +156,8 @@ module-bays:
   -
     name: 1/1/17
     position: 1/1/17
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/18
     position: 1/1/18
-    label: qsfp
+    label: qsfp+

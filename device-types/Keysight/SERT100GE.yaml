@@ -24,51 +24,51 @@ module-bays:
   -
     name: '1'
     position: '1'
-    label: qsfp
+    label: qsfp+
   -
     name: '2'
     position: '2'
-    label: qsfp
+    label: qsfp+
   -
     name: '3'
     position: '3'
-    label: qsfp
+    label: qsfp+
   -
     name: '4'
     position: '4'
-    label: qsfp
+    label: qsfp+
   -
     name: '5'
     position: '5'
-    label: qsfp
+    label: qsfp+
   -
     name: '6'
     position: '6'
-    label: qsfp
+    label: qsfp+
   -
     name: '7'
     position: '7'
-    label: qsfp
+    label: qsfp+
   -
     name: '8'
     position: '8'
-    label: qsfp
+    label: qsfp+
   -
     name: '9'
     position: '9'
-    label: qsfp
+    label: qsfp+
   -
     name: '10'
     position: '10'
-    label: qsfp
+    label: qsfp+
   -
     name: '11'
     position: '11'
-    label: qsfp
+    label: qsfp+
   -
     name: '12'
     position: '12'
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: MGMT

@@ -183,27 +183,27 @@ module-bays:
   -
     name: Ethernet41/1
     position: Ethernet41/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet42/1
     position: Ethernet42/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet43/1
     position: Ethernet43/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet44/1
     position: Ethernet44/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet45/1
     position: Ethernet45/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet46/1
     position: Ethernet46/1
-    label: qsfp
+    label: qsfp+
 front_image: true
 rear_image: true
 interfaces:

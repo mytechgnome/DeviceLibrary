@@ -103,7 +103,7 @@ module-bays:
   -
     name: TN/IDL A
     position: TN/IDL A
-    label: qsfp
+    label: qsfp+
   -
     name: TN/IDL B
     position: TN/IDL B

@@ -14,8 +14,8 @@ module-bays:
   -
     name: TwentyFiveGigE1/{module}/1
     position: TwentyFiveGigE1/{module}/1
-    label: TwentyFiveGigE1/{module}/1
+    label: sfp28
   -
     name: TwentyFiveGigE1/{module}/2
     position: TwentyFiveGigE1/{module}/2
-    label: TwentyFiveGigE1/{module}/2
+    label: sfp28

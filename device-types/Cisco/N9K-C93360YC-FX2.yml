@@ -753,51 +753,51 @@ module-bays:
   -
     name: Ethernet1/97
     position: Ethernet1/97
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/98
     position: Ethernet1/98
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/99
     position: Ethernet1/99
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/100
     position: Ethernet1/100
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/101
     position: Ethernet1/101
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/102
     position: Ethernet1/102
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/103
     position: Ethernet1/103
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/104
     position: Ethernet1/104
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/105
     position: Ethernet1/105
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/106
     position: Ethernet1/106
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/107
     position: Ethernet1/107
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet1/108
     position: Ethernet1/108
-    label: qsfp
+    label: qsfp+
   -
     name: mgmt1
     position: mgmt1

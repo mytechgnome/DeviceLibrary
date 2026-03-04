@@ -164,11 +164,11 @@ module-bays:
   -
     name: qsfp28-1-1
     position: qsfp28-1-1
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp28-2-1
     position: qsfp28-2-1
-    label: qsfp
+    label: qsfp+
   -
     name: sfp-sfpplus1
     position: sfp-sfpplus1

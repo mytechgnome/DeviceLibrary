@@ -273,8 +273,8 @@ module-bays:
   -
     name: 1/1/33
     position: 1/1/33
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/34
     position: 1/1/34
-    label: qsfp
+    label: qsfp+

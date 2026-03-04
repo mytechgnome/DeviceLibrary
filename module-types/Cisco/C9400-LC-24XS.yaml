@@ -83,96 +83,96 @@ module-bays:
   -
     name: TenGigabitEthernet{module}/0/1
     position: TenGigabitEthernet{module}/0/1
-    label: TenGigabitEthernet{module}/0/1
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/2
     position: TenGigabitEthernet{module}/0/2
-    label: TenGigabitEthernet{module}/0/2
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/3
     position: TenGigabitEthernet{module}/0/3
-    label: TenGigabitEthernet{module}/0/3
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/4
     position: TenGigabitEthernet{module}/0/4
-    label: TenGigabitEthernet{module}/0/4
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/5
     position: TenGigabitEthernet{module}/0/5
-    label: TenGigabitEthernet{module}/0/5
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/6
     position: TenGigabitEthernet{module}/0/6
-    label: TenGigabitEthernet{module}/0/6
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/7
     position: TenGigabitEthernet{module}/0/7
-    label: TenGigabitEthernet{module}/0/7
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/8
     position: TenGigabitEthernet{module}/0/8
-    label: TenGigabitEthernet{module}/0/8
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/9
     position: TenGigabitEthernet{module}/0/9
-    label: TenGigabitEthernet{module}/0/9
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/10
     position: TenGigabitEthernet{module}/0/10
-    label: TenGigabitEthernet{module}/0/10
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/11
     position: TenGigabitEthernet{module}/0/11
-    label: TenGigabitEthernet{module}/0/11
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/12
     position: TenGigabitEthernet{module}/0/12
-    label: TenGigabitEthernet{module}/0/12
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/13
     position: TenGigabitEthernet{module}/0/13
-    label: TenGigabitEthernet{module}/0/13
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/14
     position: TenGigabitEthernet{module}/0/14
-    label: TenGigabitEthernet{module}/0/14
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/15
     position: TenGigabitEthernet{module}/0/15
-    label: TenGigabitEthernet{module}/0/15
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/16
     position: TenGigabitEthernet{module}/0/16
-    label: TenGigabitEthernet{module}/0/16
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/17
     position: TenGigabitEthernet{module}/0/17
-    label: TenGigabitEthernet{module}/0/17
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/18
     position: TenGigabitEthernet{module}/0/18
-    label: TenGigabitEthernet{module}/0/18
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/19
     position: TenGigabitEthernet{module}/0/19
-    label: TenGigabitEthernet{module}/0/19
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/20
     position: TenGigabitEthernet{module}/0/20
-    label: TenGigabitEthernet{module}/0/20
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/21
     position: TenGigabitEthernet{module}/0/21
-    label: TenGigabitEthernet{module}/0/21
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/22
     position: TenGigabitEthernet{module}/0/22
-    label: TenGigabitEthernet{module}/0/22
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/23
     position: TenGigabitEthernet{module}/0/23
-    label: TenGigabitEthernet{module}/0/23
+    label: sfp+
   -
     name: TenGigabitEthernet{module}/0/24
     position: TenGigabitEthernet{module}/0/24
-    label: TenGigabitEthernet{module}/0/24
+    label: sfp+

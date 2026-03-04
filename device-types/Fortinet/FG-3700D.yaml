@@ -28,19 +28,19 @@ module-bays:
   -
     name: port1
     position: port1
-    label: qsfp
+    label: qsfp+
   -
     name: port2
     position: port2
-    label: qsfp
+    label: qsfp+
   -
     name: port3
     position: port3
-    label: qsfp
+    label: qsfp+
   -
     name: port4
     position: port4
-    label: qsfp
+    label: qsfp+
   -
     name: port5
     position: port5

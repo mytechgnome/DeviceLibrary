@@ -13,8 +13,8 @@ module-bays:
   -
     name: eth{module}a
     position: eth{module}a
-    label: eth{module}a
+    label: sfp+
   -
     name: eth{module}b
     position: eth{module}b
-    label: eth{module}b
+    label: sfp+

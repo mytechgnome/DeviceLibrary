@@ -458,8 +458,8 @@ module-bays:
   -
     name: '61'
     position: '61'
-    label: qsfp
+    label: qsfp+
   -
     name: '65'
     position: '65'
-    label: qsfp
+    label: qsfp+

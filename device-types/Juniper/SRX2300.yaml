@@ -154,11 +154,11 @@ module-bays:
   -
     name: et-0/3/0
     position: et-0/3/0
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/3/1
     position: et-0/3/1
-    label: qsfp
+    label: qsfp+
 console-ports:
   -
     name: Console

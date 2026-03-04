@@ -135,128 +135,128 @@ module-bays:
   -
     name: Ethernet0
     position: Ethernet0
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet4
     position: Ethernet4
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet8
     position: Ethernet8
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet12
     position: Ethernet12
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet16
     position: Ethernet16
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet20
     position: Ethernet20
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet24
     position: Ethernet24
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet28
     position: Ethernet28
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet32
     position: Ethernet32
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet36
     position: Ethernet36
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet40
     position: Ethernet40
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet44
     position: Ethernet44
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet48
     position: Ethernet48
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet52
     position: Ethernet52
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet56
     position: Ethernet56
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet60
     position: Ethernet60
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet64
     position: Ethernet64
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet68
     position: Ethernet68
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet72
     position: Ethernet72
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet76
     position: Ethernet76
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet80
     position: Ethernet80
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet84
     position: Ethernet84
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet88
     position: Ethernet88
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet92
     position: Ethernet92
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet96
     position: Ethernet96
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet100
     position: Ethernet100
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet104
     position: Ethernet104
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet108
     position: Ethernet108
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet112
     position: Ethernet112
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet116
     position: Ethernet116
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet120
     position: Ethernet120
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet124
     position: Ethernet124
-    label: qsfp
+    label: qsfp+

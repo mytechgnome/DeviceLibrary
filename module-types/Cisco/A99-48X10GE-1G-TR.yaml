@@ -153,192 +153,192 @@ module-bays:
   -
     name: TenGigE0/{module}/0/0
     position: TenGigE0/{module}/0/0
-    label: TenGigE0/{module}/0/0
+    label: sfp+
   -
     name: TenGigE0/{module}/0/1
     position: TenGigE0/{module}/0/1
-    label: TenGigE0/{module}/0/1
+    label: sfp+
   -
     name: TenGigE0/{module}/0/2
     position: TenGigE0/{module}/0/2
-    label: TenGigE0/{module}/0/2
+    label: sfp+
   -
     name: TenGigE0/{module}/0/3
     position: TenGigE0/{module}/0/3
-    label: TenGigE0/{module}/0/3
+    label: sfp+
   -
     name: TenGigE0/{module}/0/4
     position: TenGigE0/{module}/0/4
-    label: TenGigE0/{module}/0/4
+    label: sfp+
   -
     name: TenGigE0/{module}/0/5
     position: TenGigE0/{module}/0/5
-    label: TenGigE0/{module}/0/5
+    label: sfp+
   -
     name: TenGigE0/{module}/0/6
     position: TenGigE0/{module}/0/6
-    label: TenGigE0/{module}/0/6
+    label: sfp+
   -
     name: TenGigE0/{module}/0/7
     position: TenGigE0/{module}/0/7
-    label: TenGigE0/{module}/0/7
+    label: sfp+
   -
     name: TenGigE0/{module}/0/8
     position: TenGigE0/{module}/0/8
-    label: TenGigE0/{module}/0/8
+    label: sfp+
   -
     name: TenGigE0/{module}/0/9
     position: TenGigE0/{module}/0/9
-    label: TenGigE0/{module}/0/9
+    label: sfp+
   -
     name: TenGigE0/{module}/0/10
     position: TenGigE0/{module}/0/10
-    label: TenGigE0/{module}/0/10
+    label: sfp+
   -
     name: TenGigE0/{module}/0/11
     position: TenGigE0/{module}/0/11
-    label: TenGigE0/{module}/0/11
+    label: sfp+
   -
     name: TenGigE0/{module}/0/12
     position: TenGigE0/{module}/0/12
-    label: TenGigE0/{module}/0/12
+    label: sfp+
   -
     name: TenGigE0/{module}/0/13
     position: TenGigE0/{module}/0/13
-    label: TenGigE0/{module}/0/13
+    label: sfp+
   -
     name: TenGigE0/{module}/0/14
     position: TenGigE0/{module}/0/14
-    label: TenGigE0/{module}/0/14
+    label: sfp+
   -
     name: TenGigE0/{module}/0/15
     position: TenGigE0/{module}/0/15
-    label: TenGigE0/{module}/0/15
+    label: sfp+
   -
     name: TenGigE0/{module}/0/16
     position: TenGigE0/{module}/0/16
-    label: TenGigE0/{module}/0/16
+    label: sfp+
   -
     name: TenGigE0/{module}/0/17
     position: TenGigE0/{module}/0/17
-    label: TenGigE0/{module}/0/17
+    label: sfp+
   -
     name: TenGigE0/{module}/0/18
     position: TenGigE0/{module}/0/18
-    label: TenGigE0/{module}/0/18
+    label: sfp+
   -
     name: TenGigE0/{module}/0/19
     position: TenGigE0/{module}/0/19
-    label: TenGigE0/{module}/0/19
+    label: sfp+
   -
     name: TenGigE0/{module}/0/20
     position: TenGigE0/{module}/0/20
-    label: TenGigE0/{module}/0/20
+    label: sfp+
   -
     name: TenGigE0/{module}/0/21
     position: TenGigE0/{module}/0/21
-    label: TenGigE0/{module}/0/21
+    label: sfp+
   -
     name: TenGigE0/{module}/0/22
     position: TenGigE0/{module}/0/22
-    label: TenGigE0/{module}/0/22
+    label: sfp+
   -
     name: TenGigE0/{module}/0/23
     position: TenGigE0/{module}/0/23
-    label: TenGigE0/{module}/0/23
+    label: sfp+
   -
     name: TenGigE0/{module}/0/24
     position: TenGigE0/{module}/0/24
-    label: TenGigE0/{module}/0/24
+    label: sfp+
   -
     name: TenGigE0/{module}/0/25
     position: TenGigE0/{module}/0/25
-    label: TenGigE0/{module}/0/25
+    label: sfp+
   -
     name: TenGigE0/{module}/0/26
     position: TenGigE0/{module}/0/26
-    label: TenGigE0/{module}/0/26
+    label: sfp+
   -
     name: TenGigE0/{module}/0/27
     position: TenGigE0/{module}/0/27
-    label: TenGigE0/{module}/0/27
+    label: sfp+
   -
     name: TenGigE0/{module}/0/28
     position: TenGigE0/{module}/0/28
-    label: TenGigE0/{module}/0/28
+    label: sfp+
   -
     name: TenGigE0/{module}/0/29
     position: TenGigE0/{module}/0/29
-    label: TenGigE0/{module}/0/29
+    label: sfp+
   -
     name: TenGigE0/{module}/0/30
     position: TenGigE0/{module}/0/30
-    label: TenGigE0/{module}/0/30
+    label: sfp+
   -
     name: TenGigE0/{module}/0/31
     position: TenGigE0/{module}/0/31
-    label: TenGigE0/{module}/0/31
+    label: sfp+
   -
     name: TenGigE0/{module}/0/32
     position: TenGigE0/{module}/0/32
-    label: TenGigE0/{module}/0/32
+    label: sfp+
   -
     name: TenGigE0/{module}/0/33
     position: TenGigE0/{module}/0/33
-    label: TenGigE0/{module}/0/33
+    label: sfp+
   -
     name: TenGigE0/{module}/0/34
     position: TenGigE0/{module}/0/34
-    label: TenGigE0/{module}/0/34
+    label: sfp+
   -
     name: TenGigE0/{module}/0/35
     position: TenGigE0/{module}/0/35
-    label: TenGigE0/{module}/0/35
+    label: sfp+
   -
     name: TenGigE0/{module}/0/36
     position: TenGigE0/{module}/0/36
-    label: TenGigE0/{module}/0/36
+    label: sfp+
   -
     name: TenGigE0/{module}/0/37
     position: TenGigE0/{module}/0/37
-    label: TenGigE0/{module}/0/37
+    label: sfp+
   -
     name: TenGigE0/{module}/0/38
     position: TenGigE0/{module}/0/38
-    label: TenGigE0/{module}/0/38
+    label: sfp+
   -
     name: TenGigE0/{module}/0/39
     position: TenGigE0/{module}/0/39
-    label: TenGigE0/{module}/0/39
+    label: sfp+
   -
     name: TenGigE0/{module}/0/40
     position: TenGigE0/{module}/0/40
-    label: TenGigE0/{module}/0/40
+    label: sfp+
   -
     name: TenGigE0/{module}/0/41
     position: TenGigE0/{module}/0/41
-    label: TenGigE0/{module}/0/41
+    label: sfp+
   -
     name: TenGigE0/{module}/0/42
     position: TenGigE0/{module}/0/42
-    label: TenGigE0/{module}/0/42
+    label: sfp+
   -
     name: TenGigE0/{module}/0/43
     position: TenGigE0/{module}/0/43
-    label: TenGigE0/{module}/0/43
+    label: sfp+
   -
     name: TenGigE0/{module}/0/44
     position: TenGigE0/{module}/0/44
-    label: TenGigE0/{module}/0/44
+    label: sfp+
   -
     name: TenGigE0/{module}/0/45
     position: TenGigE0/{module}/0/45
-    label: TenGigE0/{module}/0/45
+    label: sfp+
   -
     name: TenGigE0/{module}/0/46
     position: TenGigE0/{module}/0/46
-    label: TenGigE0/{module}/0/46
+    label: sfp+
   -
     name: TenGigE0/{module}/0/47
     position: TenGigE0/{module}/0/47
-    label: TenGigE0/{module}/0/47
+    label: sfp+

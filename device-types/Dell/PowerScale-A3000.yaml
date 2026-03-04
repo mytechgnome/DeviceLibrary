@@ -31,11 +31,11 @@ module-bays:
   -
     name: Gig-E 3
     position: Gig-E 3
-    label: qsfp
+    label: qsfp+
   -
     name: Gig-E 4
     position: Gig-E 4
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Gig-E 1

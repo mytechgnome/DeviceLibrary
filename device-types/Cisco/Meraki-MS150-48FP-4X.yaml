@@ -297,8 +297,8 @@ module-bays:
   -
     name: Dedicated Stack Port 1
     position: Dedicated Stack Port 1
-    label: qsfp
+    label: qsfp+
   -
     name: Dedicated Stack Port 2
     position: Dedicated Stack Port 2
-    label: qsfp
+    label: qsfp+

@@ -408,8 +408,8 @@ module-bays:
   -
     name: '53'
     position: '53'
-    label: qsfp
+    label: qsfp+
   -
     name: '57'
     position: '57'
-    label: qsfp
+    label: qsfp+

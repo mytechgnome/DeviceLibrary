@@ -38,11 +38,11 @@ module-bays:
   -
     name: port53
     position: port53
-    label: qsfp
+    label: qsfp+
   -
     name: port54
     position: port54
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: port1

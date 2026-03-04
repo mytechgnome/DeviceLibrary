@@ -161,16 +161,16 @@ module-bays:
   -
     name: swp19
     position: swp19
-    label: qsfp
+    label: qsfp+
   -
     name: swp20
     position: swp20
-    label: qsfp
+    label: qsfp+
   -
     name: swp21
     position: swp21
-    label: qsfp
+    label: qsfp+
   -
     name: swp22
     position: swp22
-    label: qsfp
+    label: qsfp+

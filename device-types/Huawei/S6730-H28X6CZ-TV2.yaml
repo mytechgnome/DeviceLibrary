@@ -141,27 +141,27 @@ module-bays:
   -
     name: 100GE0/0/1
     position: 100GE0/0/1
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/0/2
     position: 100GE0/0/2
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/0/3
     position: 100GE0/0/3
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/0/4
     position: 100GE0/0/4
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/0/5
     position: 100GE0/0/5
-    label: qsfp
+    label: qsfp+
   -
     name: 100GE0/0/6
     position: 100GE0/0/6
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: MEth0/0/0

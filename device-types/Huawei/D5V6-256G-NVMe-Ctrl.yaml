@@ -31,11 +31,11 @@ module-bays:
   -
     name: RDMA_Expand_1
     position: RDMA_Expand_1
-    label: qsfp
+    label: qsfp+
   -
     name: RDMA_Expand_2
     position: RDMA_Expand_2
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Mgmt

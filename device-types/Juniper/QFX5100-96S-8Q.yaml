@@ -1404,35 +1404,35 @@ module-bays:
   -
     name: et-0/0/96
     position: et-0/0/96
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/97
     position: et-0/0/97
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/98
     position: et-0/0/98
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/99
     position: et-0/0/99
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/100
     position: et-0/0/100
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/101
     position: et-0/0/101
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/102
     position: et-0/0/102
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/103
     position: et-0/0/103
-    label: qsfp
+    label: qsfp+
   -
     name: em1
     position: em1

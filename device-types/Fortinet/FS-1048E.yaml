@@ -217,27 +217,27 @@ module-bays:
   -
     name: port49
     position: port49
-    label: qsfp
+    label: qsfp+
   -
     name: port50
     position: port50
-    label: qsfp
+    label: qsfp+
   -
     name: port51
     position: port51
-    label: qsfp
+    label: qsfp+
   -
     name: port52
     position: port52
-    label: qsfp
+    label: qsfp+
   -
     name: port53
     position: port53
-    label: qsfp
+    label: qsfp+
   -
     name: port54
     position: port54
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: mgmt

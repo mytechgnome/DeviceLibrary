@@ -123,12 +123,12 @@ module-bays:
   -
     name: FortyGigabitEthernet0/2/0
     position: FortyGigabitEthernet0/2/0
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet0/2/4
     position: FortyGigabitEthernet0/2/4
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigabitEthernet0/2/8
     position: FortyGigabitEthernet0/2/8
-    label: qsfp
+    label: qsfp+

@@ -18,8 +18,7 @@ power-ports:
 console-server-ports:
   # Serial Ports
   -
-    name: Port F
-    label: Modbus RTU-Slave, ASCII terminals, HMI, SCADA, or DCS systems
+    name: Port F label: Modbus RTU-Slave, ASCII terminals, HMI, SCADA, or DCS systems
     type: de-9
 module-bays: []
 interfaces: []

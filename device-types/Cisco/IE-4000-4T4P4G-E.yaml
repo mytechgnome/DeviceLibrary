@@ -61,4 +61,11 @@ interfaces:
   -
     name: FastEthernet1/12
     type: 100base-tx
-module-bays: []
+module-bays:
+  -
+    name: GigabitEthernet1/1
+    position: GigabitEthernet1/1
+    label: sfp
+    tags:
+      - combo-port
+    description: 'Combo port: RJ45 or SFP'

@@ -43,27 +43,27 @@ module-bays:
   -
     name: FortyGigE1/0/25
     position: FortyGigE1/0/25
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigE1/0/26
     position: FortyGigE1/0/26
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigE1/0/27
     position: FortyGigE1/0/27
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigE1/0/28
     position: FortyGigE1/0/28
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigE1/0/29
     position: FortyGigE1/0/29
-    label: qsfp
+    label: qsfp+
   -
     name: FortyGigE1/0/30
     position: FortyGigE1/0/30
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: M-GigabitEthernet0/0/0

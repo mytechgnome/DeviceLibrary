@@ -151,192 +151,192 @@ module-bays:
   -
     name: GigabitEthernet{module}/1
     position: GigabitEthernet{module}/1
-    label: GigabitEthernet{module}/1
+    label: sfp
   -
     name: GigabitEthernet{module}/2
     position: GigabitEthernet{module}/2
-    label: GigabitEthernet{module}/2
+    label: sfp
   -
     name: GigabitEthernet{module}/3
     position: GigabitEthernet{module}/3
-    label: GigabitEthernet{module}/3
+    label: sfp
   -
     name: GigabitEthernet{module}/4
     position: GigabitEthernet{module}/4
-    label: GigabitEthernet{module}/4
+    label: sfp
   -
     name: GigabitEthernet{module}/5
     position: GigabitEthernet{module}/5
-    label: GigabitEthernet{module}/5
+    label: sfp
   -
     name: GigabitEthernet{module}/6
     position: GigabitEthernet{module}/6
-    label: GigabitEthernet{module}/6
+    label: sfp
   -
     name: GigabitEthernet{module}/7
     position: GigabitEthernet{module}/7
-    label: GigabitEthernet{module}/7
+    label: sfp
   -
     name: GigabitEthernet{module}/8
     position: GigabitEthernet{module}/8
-    label: GigabitEthernet{module}/8
+    label: sfp
   -
     name: GigabitEthernet{module}/9
     position: GigabitEthernet{module}/9
-    label: GigabitEthernet{module}/9
+    label: sfp
   -
     name: GigabitEthernet{module}/10
     position: GigabitEthernet{module}/10
-    label: GigabitEthernet{module}/10
+    label: sfp
   -
     name: GigabitEthernet{module}/11
     position: GigabitEthernet{module}/11
-    label: GigabitEthernet{module}/11
+    label: sfp
   -
     name: GigabitEthernet{module}/12
     position: GigabitEthernet{module}/12
-    label: GigabitEthernet{module}/12
+    label: sfp
   -
     name: GigabitEthernet{module}/13
     position: GigabitEthernet{module}/13
-    label: GigabitEthernet{module}/13
+    label: sfp
   -
     name: GigabitEthernet{module}/14
     position: GigabitEthernet{module}/14
-    label: GigabitEthernet{module}/14
+    label: sfp
   -
     name: GigabitEthernet{module}/15
     position: GigabitEthernet{module}/15
-    label: GigabitEthernet{module}/15
+    label: sfp
   -
     name: GigabitEthernet{module}/16
     position: GigabitEthernet{module}/16
-    label: GigabitEthernet{module}/16
+    label: sfp
   -
     name: GigabitEthernet{module}/17
     position: GigabitEthernet{module}/17
-    label: GigabitEthernet{module}/17
+    label: sfp
   -
     name: GigabitEthernet{module}/18
     position: GigabitEthernet{module}/18
-    label: GigabitEthernet{module}/18
+    label: sfp
   -
     name: GigabitEthernet{module}/19
     position: GigabitEthernet{module}/19
-    label: GigabitEthernet{module}/19
+    label: sfp
   -
     name: GigabitEthernet{module}/20
     position: GigabitEthernet{module}/20
-    label: GigabitEthernet{module}/20
+    label: sfp
   -
     name: GigabitEthernet{module}/21
     position: GigabitEthernet{module}/21
-    label: GigabitEthernet{module}/21
+    label: sfp
   -
     name: GigabitEthernet{module}/22
     position: GigabitEthernet{module}/22
-    label: GigabitEthernet{module}/22
+    label: sfp
   -
     name: GigabitEthernet{module}/23
     position: GigabitEthernet{module}/23
-    label: GigabitEthernet{module}/23
+    label: sfp
   -
     name: GigabitEthernet{module}/24
     position: GigabitEthernet{module}/24
-    label: GigabitEthernet{module}/24
+    label: sfp
   -
     name: GigabitEthernet{module}/25
     position: GigabitEthernet{module}/25
-    label: GigabitEthernet{module}/25
+    label: sfp
   -
     name: GigabitEthernet{module}/26
     position: GigabitEthernet{module}/26
-    label: GigabitEthernet{module}/26
+    label: sfp
   -
     name: GigabitEthernet{module}/27
     position: GigabitEthernet{module}/27
-    label: GigabitEthernet{module}/27
+    label: sfp
   -
     name: GigabitEthernet{module}/28
     position: GigabitEthernet{module}/28
-    label: GigabitEthernet{module}/28
+    label: sfp
   -
     name: GigabitEthernet{module}/29
     position: GigabitEthernet{module}/29
-    label: GigabitEthernet{module}/29
+    label: sfp
   -
     name: GigabitEthernet{module}/30
     position: GigabitEthernet{module}/30
-    label: GigabitEthernet{module}/30
+    label: sfp
   -
     name: GigabitEthernet{module}/31
     position: GigabitEthernet{module}/31
-    label: GigabitEthernet{module}/31
+    label: sfp
   -
     name: GigabitEthernet{module}/32
     position: GigabitEthernet{module}/32
-    label: GigabitEthernet{module}/32
+    label: sfp
   -
     name: GigabitEthernet{module}/33
     position: GigabitEthernet{module}/33
-    label: GigabitEthernet{module}/33
+    label: sfp
   -
     name: GigabitEthernet{module}/34
     position: GigabitEthernet{module}/34
-    label: GigabitEthernet{module}/34
+    label: sfp
   -
     name: GigabitEthernet{module}/35
     position: GigabitEthernet{module}/35
-    label: GigabitEthernet{module}/35
+    label: sfp
   -
     name: GigabitEthernet{module}/36
     position: GigabitEthernet{module}/36
-    label: GigabitEthernet{module}/36
+    label: sfp
   -
     name: GigabitEthernet{module}/37
     position: GigabitEthernet{module}/37
-    label: GigabitEthernet{module}/37
+    label: sfp
   -
     name: GigabitEthernet{module}/38
     position: GigabitEthernet{module}/38
-    label: GigabitEthernet{module}/38
+    label: sfp
   -
     name: GigabitEthernet{module}/39
     position: GigabitEthernet{module}/39
-    label: GigabitEthernet{module}/39
+    label: sfp
   -
     name: GigabitEthernet{module}/40
     position: GigabitEthernet{module}/40
-    label: GigabitEthernet{module}/40
+    label: sfp
   -
     name: GigabitEthernet{module}/41
     position: GigabitEthernet{module}/41
-    label: GigabitEthernet{module}/41
+    label: sfp
   -
     name: GigabitEthernet{module}/42
     position: GigabitEthernet{module}/42
-    label: GigabitEthernet{module}/42
+    label: sfp
   -
     name: GigabitEthernet{module}/43
     position: GigabitEthernet{module}/43
-    label: GigabitEthernet{module}/43
+    label: sfp
   -
     name: GigabitEthernet{module}/44
     position: GigabitEthernet{module}/44
-    label: GigabitEthernet{module}/44
+    label: sfp
   -
     name: GigabitEthernet{module}/45
     position: GigabitEthernet{module}/45
-    label: GigabitEthernet{module}/45
+    label: sfp
   -
     name: GigabitEthernet{module}/46
     position: GigabitEthernet{module}/46
-    label: GigabitEthernet{module}/46
+    label: sfp
   -
     name: GigabitEthernet{module}/47
     position: GigabitEthernet{module}/47
-    label: GigabitEthernet{module}/47
+    label: sfp
   -
     name: GigabitEthernet{module}/48
     position: GigabitEthernet{module}/48
-    label: GigabitEthernet{module}/48
+    label: sfp

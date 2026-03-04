@@ -19,16 +19,16 @@ module-bays:
   -
     name: eth{module}a
     position: eth{module}a
-    label: eth{module}a
+    label: sfp+
   -
     name: eth{module}b
     position: eth{module}b
-    label: eth{module}b
+    label: sfp+
   -
     name: eth{module}c
     position: eth{module}c
-    label: eth{module}c
+    label: sfp+
   -
     name: eth{module}d
     position: eth{module}d
-    label: eth{module}d
+    label: sfp+

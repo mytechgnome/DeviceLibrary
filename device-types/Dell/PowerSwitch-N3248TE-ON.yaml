@@ -207,8 +207,8 @@ module-bays:
   -
     name: Ethernet 1/1/53
     position: Ethernet 1/1/53
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 1/1/54
     position: Ethernet 1/1/54
-    label: qsfp
+    label: qsfp+

@@ -169,8 +169,7 @@ power-ports:
 interfaces:
 # physical interface labels seem different than config labels
   -
-    name: lan
-    type: 1000base-t
+    name: lan type: 1000base-t
     mgmt_only: true
   -
     name: wan

@@ -119,19 +119,19 @@ module-bays:
   -
     name: et-0/0/0
     position: et-0/0/0
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/1
     position: et-0/0/1
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/2
     position: et-0/0/2
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/3
     position: et-0/0/3
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/4
     position: et-0/0/4

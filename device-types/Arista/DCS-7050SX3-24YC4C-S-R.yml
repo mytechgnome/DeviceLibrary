@@ -119,19 +119,19 @@ module-bays:
   -
     name: Ethernet25/1
     position: Ethernet25/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet26/1
     position: Ethernet26/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet27/1
     position: Ethernet27/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet28/1
     position: Ethernet28/1
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Management1

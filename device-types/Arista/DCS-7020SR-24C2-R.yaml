@@ -119,11 +119,11 @@ module-bays:
   -
     name: Ethernet25/1
     position: Ethernet25/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet26/1
     position: Ethernet26/1
-    label: qsfp
+    label: qsfp+
 front_image: true
 rear_image: false
 interfaces:

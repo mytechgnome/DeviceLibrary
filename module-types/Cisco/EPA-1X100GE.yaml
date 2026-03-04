@@ -10,4 +10,4 @@ module-bays:
   -
     name: HundredGigE{module}/0
     position: HundredGigE{module}/0
-    label: HundredGigE{module}/0
+    label: qsfp28

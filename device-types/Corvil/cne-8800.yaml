@@ -53,11 +53,11 @@ module-bays:
   -
     name: PortA
     position: PortA
-    label: qsfp
+    label: qsfp+
   -
     name: PortB
     position: PortB
-    label: qsfp
+    label: qsfp+
   -
     name: mgmt-sfp-1
     position: mgmt-sfp-1

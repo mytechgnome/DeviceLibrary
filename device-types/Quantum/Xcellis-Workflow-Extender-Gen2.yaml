@@ -38,11 +38,11 @@ module-bays:
   -
     name: p1p1
     position: p1p1
-    label: qsfp
+    label: qsfp+
   -
     name: p1p2
     position: p1p2
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: em1

@@ -22,19 +22,19 @@ module-bays:
   -
     name: swp49
     position: swp49
-    label: qsfp
+    label: qsfp+
   -
     name: swp50
     position: swp50
-    label: qsfp
+    label: qsfp+
   -
     name: swp51
     position: swp51
-    label: qsfp
+    label: qsfp+
   -
     name: swp52
     position: swp52
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: eth0

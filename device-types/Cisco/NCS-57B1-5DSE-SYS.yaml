@@ -139,99 +139,99 @@ module-bays:
   -
     name: HundredGigE0/0/0/0
     position: HundredGigE0/0/0/0
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/1
     position: HundredGigE0/0/0/1
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/2
     position: HundredGigE0/0/0/2
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/3
     position: HundredGigE0/0/0/3
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/4
     position: HundredGigE0/0/0/4
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/5
     position: HundredGigE0/0/0/5
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/6
     position: HundredGigE0/0/0/6
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/7
     position: HundredGigE0/0/0/7
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/8
     position: HundredGigE0/0/0/8
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/9
     position: HundredGigE0/0/0/9
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/10
     position: HundredGigE0/0/0/10
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/11
     position: HundredGigE0/0/0/11
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/12
     position: HundredGigE0/0/0/12
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/13
     position: HundredGigE0/0/0/13
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/14
     position: HundredGigE0/0/0/14
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/15
     position: HundredGigE0/0/0/15
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/16
     position: HundredGigE0/0/0/16
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/17
     position: HundredGigE0/0/0/17
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/18
     position: HundredGigE0/0/0/18
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/19
     position: HundredGigE0/0/0/19
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/20
     position: HundredGigE0/0/0/20
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/21
     position: HundredGigE0/0/0/21
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/22
     position: HundredGigE0/0/0/22
-    label: qsfp
+    label: qsfp+
   -
     name: HundredGigE0/0/0/23
     position: HundredGigE0/0/0/23
-    label: qsfp
+    label: qsfp+
   -
     name: FourHundredGigE0/0/0/24
     position: FourHundredGigE0/0/0/24

@@ -77,4 +77,32 @@ interfaces:
   -
     name: GigabitEthernet1/20
     type: 1000base-t
-module-bays: []
+module-bays:
+  -
+    name: GigabitEthernet1/1
+    position: GigabitEthernet1/1
+    label: sfp
+    tags:
+      - combo-port
+    description: 'Combo port: RJ45 or SFP'
+  -
+    name: GigabitEthernet1/2
+    position: GigabitEthernet1/2
+    label: sfp
+    tags:
+      - combo-port
+    description: 'Combo port: RJ45 or SFP'
+  -
+    name: GigabitEthernet1/3
+    position: GigabitEthernet1/3
+    label: sfp
+    tags:
+      - combo-port
+    description: 'Combo port: RJ45 or SFP'
+  -
+    name: GigabitEthernet1/4
+    position: GigabitEthernet1/4
+    label: sfp
+    tags:
+      - combo-port
+    description: 'Combo port: RJ45 or SFP'

@@ -375,16 +375,16 @@ module-bays:
   -
     name: '49'
     position: '49'
-    label: qsfp
+    label: qsfp+
   -
     name: '50'
     position: '50'
-    label: qsfp
+    label: qsfp+
   -
     name: '51'
     position: '51'
-    label: qsfp
+    label: qsfp+
   -
     name: '52'
     position: '52'
-    label: qsfp
+    label: qsfp+

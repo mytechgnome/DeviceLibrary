@@ -68,80 +68,80 @@ module-bays:
   -
     name: GigabitEthernet0/{module}/{module}/0
     position: GigabitEthernet0/{module}/{module}/0
-    label: GigabitEthernet0/{module}/{module}/0
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/1
     position: GigabitEthernet0/{module}/{module}/1
-    label: GigabitEthernet0/{module}/{module}/1
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/2
     position: GigabitEthernet0/{module}/{module}/2
-    label: GigabitEthernet0/{module}/{module}/2
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/3
     position: GigabitEthernet0/{module}/{module}/3
-    label: GigabitEthernet0/{module}/{module}/3
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/4
     position: GigabitEthernet0/{module}/{module}/4
-    label: GigabitEthernet0/{module}/{module}/4
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/5
     position: GigabitEthernet0/{module}/{module}/5
-    label: GigabitEthernet0/{module}/{module}/5
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/6
     position: GigabitEthernet0/{module}/{module}/6
-    label: GigabitEthernet0/{module}/{module}/6
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/7
     position: GigabitEthernet0/{module}/{module}/7
-    label: GigabitEthernet0/{module}/{module}/7
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/8
     position: GigabitEthernet0/{module}/{module}/8
-    label: GigabitEthernet0/{module}/{module}/8
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/9
     position: GigabitEthernet0/{module}/{module}/9
-    label: GigabitEthernet0/{module}/{module}/9
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/10
     position: GigabitEthernet0/{module}/{module}/10
-    label: GigabitEthernet0/{module}/{module}/10
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/11
     position: GigabitEthernet0/{module}/{module}/11
-    label: GigabitEthernet0/{module}/{module}/11
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/12
     position: GigabitEthernet0/{module}/{module}/12
-    label: GigabitEthernet0/{module}/{module}/12
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/13
     position: GigabitEthernet0/{module}/{module}/13
-    label: GigabitEthernet0/{module}/{module}/13
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/14
     position: GigabitEthernet0/{module}/{module}/14
-    label: GigabitEthernet0/{module}/{module}/14
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/15
     position: GigabitEthernet0/{module}/{module}/15
-    label: GigabitEthernet0/{module}/{module}/15
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/16
     position: GigabitEthernet0/{module}/{module}/16
-    label: GigabitEthernet0/{module}/{module}/16
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/17
     position: GigabitEthernet0/{module}/{module}/17
-    label: GigabitEthernet0/{module}/{module}/17
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/18
     position: GigabitEthernet0/{module}/{module}/18
-    label: GigabitEthernet0/{module}/{module}/18
+    label: sfp
   -
     name: GigabitEthernet0/{module}/{module}/19
     position: GigabitEthernet0/{module}/{module}/19
-    label: GigabitEthernet0/{module}/{module}/19
+    label: sfp

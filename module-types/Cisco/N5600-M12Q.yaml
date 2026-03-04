@@ -7,195 +7,195 @@ module-bays:
   -
     name: Et{module}/1/1
     position: Et{module}/1/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/1/2
     position: Et{module}/1/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/1/3
     position: Et{module}/1/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/1/4
     position: Et{module}/1/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/2/1
     position: Et{module}/2/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/2/2
     position: Et{module}/2/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/2/3
     position: Et{module}/2/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/2/4
     position: Et{module}/2/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/3/1
     position: Et{module}/3/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/3/2
     position: Et{module}/3/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/3/3
     position: Et{module}/3/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/3/4
     position: Et{module}/3/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/4/1
     position: Et{module}/4/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/4/2
     position: Et{module}/4/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/4/3
     position: Et{module}/4/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/4/4
     position: Et{module}/4/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/5/1
     position: Et{module}/5/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/5/2
     position: Et{module}/5/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/5/3
     position: Et{module}/5/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/5/4
     position: Et{module}/5/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/6/1
     position: Et{module}/6/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/6/2
     position: Et{module}/6/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/6/3
     position: Et{module}/6/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/6/4
     position: Et{module}/6/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/7/1
     position: Et{module}/7/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/7/2
     position: Et{module}/7/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/7/3
     position: Et{module}/7/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/7/4
     position: Et{module}/7/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/8/1
     position: Et{module}/8/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/8/2
     position: Et{module}/8/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/8/3
     position: Et{module}/8/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/8/4
     position: Et{module}/8/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/9/1
     position: Et{module}/9/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/9/2
     position: Et{module}/9/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/9/3
     position: Et{module}/9/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/9/4
     position: Et{module}/9/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/10/1
     position: Et{module}/10/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/10/2
     position: Et{module}/10/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/10/3
     position: Et{module}/10/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/10/4
     position: Et{module}/10/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/11/1
     position: Et{module}/11/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/11/2
     position: Et{module}/11/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/11/3
     position: Et{module}/11/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/11/4
     position: Et{module}/11/4
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/12/1
     position: Et{module}/12/1
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/12/2
     position: Et{module}/12/2
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/12/3
     position: Et{module}/12/3
-    label: qsfp
+    label: qsfp+
   -
     name: Et{module}/12/4
     position: Et{module}/12/4
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Et{module}/1/1

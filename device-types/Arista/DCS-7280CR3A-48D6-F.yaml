@@ -23,195 +23,195 @@ module-bays:
   -
     name: Ethernet1
     position: Ethernet1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet2
     position: Ethernet2
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet3
     position: Ethernet3
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet4
     position: Ethernet4
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet5
     position: Ethernet5
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet6
     position: Ethernet6
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet7
     position: Ethernet7
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet8
     position: Ethernet8
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet9
     position: Ethernet9
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet10
     position: Ethernet10
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet11
     position: Ethernet11
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet12
     position: Ethernet12
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet13
     position: Ethernet13
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet14
     position: Ethernet14
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet15
     position: Ethernet15
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet16
     position: Ethernet16
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet17
     position: Ethernet17
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet18
     position: Ethernet18
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet19
     position: Ethernet19
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet20
     position: Ethernet20
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet21
     position: Ethernet21
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet22
     position: Ethernet22
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet23
     position: Ethernet23
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet24
     position: Ethernet24
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet25
     position: Ethernet25
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet26
     position: Ethernet26
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet27
     position: Ethernet27
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet28
     position: Ethernet28
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet29
     position: Ethernet29
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet30
     position: Ethernet30
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet31
     position: Ethernet31
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet32
     position: Ethernet32
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet33
     position: Ethernet33
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet34
     position: Ethernet34
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet35
     position: Ethernet35
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet36
     position: Ethernet36
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet37
     position: Ethernet37
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet38
     position: Ethernet38
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet39
     position: Ethernet39
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet40
     position: Ethernet40
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet41
     position: Ethernet41
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet42
     position: Ethernet42
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet43
     position: Ethernet43
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet44
     position: Ethernet44
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet45
     position: Ethernet45
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet46
     position: Ethernet46
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet47
     position: Ethernet47
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet48
     position: Ethernet48
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet49/1
     position: Ethernet49/1

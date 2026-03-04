@@ -231,48 +231,48 @@ module-bays:
   -
     name: Ethernet 0/25
     position: Ethernet 0/25
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/26
     position: Ethernet 0/26
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/27
     position: Ethernet 0/27
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/28
     position: Ethernet 0/28
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/29
     position: Ethernet 0/29
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/30
     position: Ethernet 0/30
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/31
     position: Ethernet 0/31
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/32
     position: Ethernet 0/32
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/33
     position: Ethernet 0/33
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/34
     position: Ethernet 0/34
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/35
     position: Ethernet 0/35
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet 0/36
     position: Ethernet 0/36
-    label: qsfp
+    label: qsfp+

@@ -44,48 +44,48 @@ module-bays:
   -
     name: TenGigE{module}/0
     position: TenGigE{module}/0
-    label: TenGigE{module}/0
+    label: sfp+
   -
     name: TenGigE{module}/1
     position: TenGigE{module}/1
-    label: TenGigE{module}/1
+    label: sfp+
   -
     name: TenGigE{module}/2
     position: TenGigE{module}/2
-    label: TenGigE{module}/2
+    label: sfp+
   -
     name: TenGigE{module}/3
     position: TenGigE{module}/3
-    label: TenGigE{module}/3
+    label: sfp+
   -
     name: TenGigE{module}/4
     position: TenGigE{module}/4
-    label: TenGigE{module}/4
+    label: sfp+
   -
     name: TenGigE{module}/5
     position: TenGigE{module}/5
-    label: TenGigE{module}/5
+    label: sfp+
   -
     name: TenGigE{module}/6
     position: TenGigE{module}/6
-    label: TenGigE{module}/6
+    label: sfp+
   -
     name: TenGigE{module}/7
     position: TenGigE{module}/7
-    label: TenGigE{module}/7
+    label: sfp+
   -
     name: TenGigE{module}/8
     position: TenGigE{module}/8
-    label: TenGigE{module}/8
+    label: sfp+
   -
     name: TenGigE{module}/9
     position: TenGigE{module}/9
-    label: TenGigE{module}/9
+    label: sfp+
   -
     name: TenGigE{module}/10
     position: TenGigE{module}/10
-    label: TenGigE{module}/10
+    label: sfp+
   -
     name: TenGigE{module}/11
     position: TenGigE{module}/11
-    label: TenGigE{module}/11
+    label: sfp+

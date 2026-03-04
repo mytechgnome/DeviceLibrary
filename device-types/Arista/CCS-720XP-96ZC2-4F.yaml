@@ -45,11 +45,11 @@ module-bays:
   -
     name: Ethernet101/1
     position: Ethernet101/1
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet102/1
     position: Ethernet102/1
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: Management1

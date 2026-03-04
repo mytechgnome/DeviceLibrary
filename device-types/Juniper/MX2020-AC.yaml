@@ -16,8 +16,7 @@ module-bays:
 # Front
   # Modular Port Concentrators/FPC Slots:
   -
-    name: FPC10
-    label: FPC Slot 10
+    name: FPC10 label: FPC Slot 10
     position: '10'
     description: Modular Port Concentrators/Flexible PIC Concentrator Slot 10
   -

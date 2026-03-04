@@ -100,30 +100,30 @@ interfaces:
     mgmt_only: true
   -
     name: 1/1/25
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: 1/1/26
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: 1/1/27
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
   -
     name: 1/1/28
-    type: 50gbase-x-sfp28
+    type: 25gbase-x-sfp28
 module-bays:
   -
     name: 1/1/25
     position: 1/1/25
-    label: sfp56
+    label: sfp28
   -
     name: 1/1/26
     position: 1/1/26
-    label: sfp56
+    label: sfp28
   -
     name: 1/1/27
     position: 1/1/27
-    label: sfp56
+    label: sfp28
   -
     name: 1/1/28
     position: 1/1/28
-    label: sfp56
+    label: sfp28

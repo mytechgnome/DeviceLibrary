@@ -34,16 +34,16 @@ module-bays:
   -
     name: a-e0a
     position: a-e0a
-    label: qsfp
+    label: qsfp+
   -
     name: a-e0b
     position: a-e0b
-    label: qsfp
+    label: qsfp+
   -
     name: b-e0a
     position: b-e0a
-    label: qsfp
+    label: qsfp+
   -
     name: b-e0b
     position: b-e0b
-    label: qsfp
+    label: qsfp+

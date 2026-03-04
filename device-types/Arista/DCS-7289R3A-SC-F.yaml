@@ -12,8 +12,7 @@ comments: '[Arista 7280R3A Modular Series / 7289R3A-SC 100/200/400G Data Center 
 module-bays:
 # supports Power Supplies PWR-1900-AC/DC
   -
-    name: PSU 1
-    position: '1'
+    name: PSU 1 position: '1'
   -
     name: PSU 2
     position: '2'

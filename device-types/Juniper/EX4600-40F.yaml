@@ -399,19 +399,19 @@ module-bays:
   -
     name: et-0/0/24
     position: et-0/0/24
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/25
     position: et-0/0/25
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/26
     position: et-0/0/26
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/27
     position: et-0/0/27
-    label: qsfp
+    label: qsfp+
 console-ports:
   -
     name: Console

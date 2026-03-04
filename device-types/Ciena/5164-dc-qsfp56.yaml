@@ -282,16 +282,16 @@ module-bays:
   -
     name: '33'
     position: '33'
-    label: qsfp
+    label: qsfp+
   -
     name: '34'
     position: '34'
-    label: qsfp
+    label: qsfp+
   -
     name: '35'
     position: '35'
-    label: qsfp
+    label: qsfp+
   -
     name: '36'
     position: '36'
-    label: qsfp
+    label: qsfp+

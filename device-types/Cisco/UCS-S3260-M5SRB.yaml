@@ -43,16 +43,16 @@ module-bays:
   -
     name: sioc1
     position: sioc1
-    label: qsfp
+    label: qsfp+
   -
     name: sioc2
     position: sioc2
-    label: qsfp
+    label: qsfp+
   -
     name: sioc3
     position: sioc3
-    label: qsfp
+    label: qsfp+
   -
     name: sioc4
     position: sioc4
-    label: qsfp
+    label: qsfp+

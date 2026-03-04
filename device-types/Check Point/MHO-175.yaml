@@ -22,131 +22,131 @@ module-bays:
   -
     name: qsfp1
     position: qsfp1
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp2
     position: qsfp2
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp3
     position: qsfp3
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp4
     position: qsfp4
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp5
     position: qsfp5
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp6
     position: qsfp6
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp7
     position: qsfp7
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp8
     position: qsfp8
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp9
     position: qsfp9
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp10
     position: qsfp10
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp11
     position: qsfp11
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp12
     position: qsfp12
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp13
     position: qsfp13
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp14
     position: qsfp14
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp15
     position: qsfp15
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp16
     position: qsfp16
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp17
     position: qsfp17
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp18
     position: qsfp18
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp19
     position: qsfp19
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp20
     position: qsfp20
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp21
     position: qsfp21
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp22
     position: qsfp22
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp23
     position: qsfp23
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp24
     position: qsfp24
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp25
     position: qsfp25
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp26
     position: qsfp26
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp27
     position: qsfp27
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp28
     position: qsfp28
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp29
     position: qsfp29
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp30
     position: qsfp30
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp31
     position: qsfp31
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp32
     position: qsfp32
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: '0'

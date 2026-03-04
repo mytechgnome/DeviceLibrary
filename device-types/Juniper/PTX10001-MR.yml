@@ -40,19 +40,19 @@ module-bays:
   -
     name: et-0/0/4
     position: et-0/0/4
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/5
     position: et-0/0/5
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/6
     position: et-0/0/6
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/7
     position: et-0/0/7
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/0/8
     position: et-0/0/8
@@ -88,19 +88,19 @@ module-bays:
   -
     name: et-0/1/4
     position: et-0/1/4
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/1/5
     position: et-0/1/5
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/1/6
     position: et-0/1/6
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/1/7
     position: et-0/1/7
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/1/8
     position: et-0/1/8
@@ -136,19 +136,19 @@ module-bays:
   -
     name: et-0/2/4
     position: et-0/2/4
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/2/5
     position: et-0/2/5
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/2/6
     position: et-0/2/6
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/2/7
     position: et-0/2/7
-    label: qsfp
+    label: qsfp+
   -
     name: et-0/2/8
     position: et-0/2/8

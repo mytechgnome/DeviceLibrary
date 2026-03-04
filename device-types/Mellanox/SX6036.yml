@@ -138,144 +138,144 @@ module-bays:
   -
     name: IB1/1
     position: IB1/1
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/2
     position: IB1/2
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/3
     position: IB1/3
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/4
     position: IB1/4
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/5
     position: IB1/5
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/6
     position: IB1/6
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/7
     position: IB1/7
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/8
     position: IB1/8
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/9
     position: IB1/9
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/10
     position: IB1/10
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/11
     position: IB1/11
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/12
     position: IB1/12
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/13
     position: IB1/13
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/14
     position: IB1/14
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/15
     position: IB1/15
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/16
     position: IB1/16
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/17
     position: IB1/17
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/18
     position: IB1/18
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/19
     position: IB1/19
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/20
     position: IB1/20
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/21
     position: IB1/21
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/22
     position: IB1/22
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/23
     position: IB1/23
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/24
     position: IB1/24
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/25
     position: IB1/25
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/26
     position: IB1/26
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/27
     position: IB1/27
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/28
     position: IB1/28
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/29
     position: IB1/29
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/30
     position: IB1/30
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/31
     position: IB1/31
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/32
     position: IB1/32
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/33
     position: IB1/33
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/34
     position: IB1/34
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/35
     position: IB1/35
-    label: qsfp
+    label: qsfp+
   -
     name: IB1/36
     position: IB1/36
-    label: qsfp
+    label: qsfp+

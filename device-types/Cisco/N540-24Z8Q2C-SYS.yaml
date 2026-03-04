@@ -259,8 +259,8 @@ module-bays:
   -
     name: Hu 0/0/1/32
     position: Hu 0/0/1/32
-    label: qsfp
+    label: qsfp+
   -
     name: Hu 0/0/1/33
     position: Hu 0/0/1/33
-    label: qsfp
+    label: qsfp+

@@ -20,8 +20,8 @@ module-bays:
   -
     name: GigabitEthernet{module}/1
     position: GigabitEthernet{module}/1
-    label: GigabitEthernet{module}/1
+    label: sfp
   -
     name: GigabitEthernet{module}/2
     position: GigabitEthernet{module}/2
-    label: GigabitEthernet{module}/2
+    label: sfp

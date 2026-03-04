@@ -266,16 +266,16 @@ module-bays:
   -
     name: Ethernet33
     position: Ethernet33
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet34
     position: Ethernet34
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet35
     position: Ethernet35
-    label: qsfp
+    label: qsfp+
   -
     name: Ethernet36
     position: Ethernet36
-    label: qsfp
+    label: qsfp+

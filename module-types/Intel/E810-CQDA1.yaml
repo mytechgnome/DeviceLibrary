@@ -11,4 +11,4 @@ module-bays:
   -
     name: Ethernet/{module}/1
     position: Ethernet/{module}/1
-    label: Ethernet/{module}/1
+    label: sfp+

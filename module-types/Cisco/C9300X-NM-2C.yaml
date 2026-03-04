@@ -14,8 +14,8 @@ module-bays:
   -
     name: HundredGigE1/{module}/1
     position: HundredGigE1/{module}/1
-    label: HundredGigE1/{module}/1
+    label: qsfp28
   -
     name: HundredGigE1/{module}/2
     position: HundredGigE1/{module}/2
-    label: HundredGigE1/{module}/2
+    label: qsfp28

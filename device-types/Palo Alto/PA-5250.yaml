@@ -182,19 +182,19 @@ module-bays:
   -
     name: ethernet1/21
     position: ethernet1/21
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet1/22
     position: ethernet1/22
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet1/23
     position: ethernet1/23
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet1/24
     position: ethernet1/24
-    label: qsfp
+    label: qsfp+
   -
     name: aux-1
     position: aux-1
@@ -206,4 +206,4 @@ module-bays:
   -
     name: hsci
     position: hsci
-    label: qsfp
+    label: qsfp+

@@ -69,80 +69,80 @@ module-bays:
   -
     name: Ethernet{module}/1
     position: Ethernet{module}/1
-    label: Ethernet{module}/1
+    label: sfp+
   -
     name: Ethernet{module}/2
     position: Ethernet{module}/2
-    label: Ethernet{module}/2
+    label: sfp+
   -
     name: Ethernet{module}/3
     position: Ethernet{module}/3
-    label: Ethernet{module}/3
+    label: sfp+
   -
     name: Ethernet{module}/4
     position: Ethernet{module}/4
-    label: Ethernet{module}/4
+    label: sfp+
   -
     name: Ethernet{module}/5
     position: Ethernet{module}/5
-    label: Ethernet{module}/5
+    label: sfp+
   -
     name: Ethernet{module}/6
     position: Ethernet{module}/6
-    label: Ethernet{module}/6
+    label: sfp+
   -
     name: Ethernet{module}/7
     position: Ethernet{module}/7
-    label: Ethernet{module}/7
+    label: sfp+
   -
     name: Ethernet{module}/8
     position: Ethernet{module}/8
-    label: Ethernet{module}/8
+    label: sfp+
   -
     name: Ethernet{module}/9
     position: Ethernet{module}/9
-    label: Ethernet{module}/9
+    label: sfp+
   -
     name: Ethernet{module}/10
     position: Ethernet{module}/10
-    label: Ethernet{module}/10
+    label: sfp+
   -
     name: Ethernet{module}/11
     position: Ethernet{module}/11
-    label: Ethernet{module}/11
+    label: sfp+
   -
     name: Ethernet{module}/12
     position: Ethernet{module}/12
-    label: Ethernet{module}/12
+    label: sfp+
   -
     name: Ethernet{module}/13
     position: Ethernet{module}/13
-    label: Ethernet{module}/13
+    label: sfp+
   -
     name: Ethernet{module}/14
     position: Ethernet{module}/14
-    label: Ethernet{module}/14
+    label: sfp+
   -
     name: Ethernet{module}/15
     position: Ethernet{module}/15
-    label: Ethernet{module}/15
+    label: sfp+
   -
     name: Ethernet{module}/16
     position: Ethernet{module}/16
-    label: Ethernet{module}/16
+    label: sfp+
   -
     name: Ethernet{module}/17
     position: Ethernet{module}/17
-    label: Ethernet{module}/17
+    label: sfp+
   -
     name: Ethernet{module}/18
     position: Ethernet{module}/18
-    label: Ethernet{module}/18
+    label: sfp+
   -
     name: Ethernet{module}/19
     position: Ethernet{module}/19
-    label: Ethernet{module}/19
+    label: sfp+
   -
     name: Ethernet{module}/20
     position: Ethernet{module}/20
-    label: Ethernet{module}/20
+    label: sfp+

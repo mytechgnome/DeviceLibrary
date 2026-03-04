@@ -368,8 +368,8 @@ module-bays:
   -
     name: Fo1/0/1
     position: Fo1/0/1
-    label: qsfp
+    label: qsfp+
   -
     name: Fo1/0/2
     position: Fo1/0/2
-    label: qsfp
+    label: qsfp+

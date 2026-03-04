@@ -165,11 +165,11 @@ module-bays:
   -
     name: Hu0/0/1/0
     position: Hu0/0/1/0
-    label: qsfp
+    label: qsfp+
   -
     name: Hu0/0/1/1
     position: Hu0/0/1/1
-    label: qsfp
+    label: qsfp+
 console-ports:
   -
     name: con0

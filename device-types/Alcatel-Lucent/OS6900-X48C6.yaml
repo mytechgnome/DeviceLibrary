@@ -214,27 +214,27 @@ module-bays:
   -
     name: 1/1/49A
     position: 1/1/49A
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/50A
     position: 1/1/50A
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/51A
     position: 1/1/51A
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/52A
     position: 1/1/52A
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/53A
     position: 1/1/53A
-    label: qsfp
+    label: qsfp+
   -
     name: 1/1/54A
     position: 1/1/54A
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: EMP

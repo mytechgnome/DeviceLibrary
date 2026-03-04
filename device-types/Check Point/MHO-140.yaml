@@ -214,35 +214,35 @@ module-bays:
   -
     name: qsfp49
     position: qsfp49
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp50
     position: qsfp50
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp51
     position: qsfp51
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp52
     position: qsfp52
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp53
     position: qsfp53
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp54
     position: qsfp54
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp55
     position: qsfp55
-    label: qsfp
+    label: qsfp+
   -
     name: qsfp56
     position: qsfp56
-    label: qsfp
+    label: qsfp+
 interfaces:
   -
     name: '0'

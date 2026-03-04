@@ -378,16 +378,16 @@ module-bays:
   -
     name: FC port 0/48
     position: FC port 0/48
-    label: qsfp
+    label: qsfp+
   -
     name: FC port 0/49
     position: FC port 0/49
-    label: qsfp
+    label: qsfp+
   -
     name: FC port 0/50
     position: FC port 0/50
-    label: qsfp
+    label: qsfp+
   -
     name: FC port 0/51
     position: FC port 0/51
-    label: qsfp
+    label: qsfp+

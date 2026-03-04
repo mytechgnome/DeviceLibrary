@@ -67,11 +67,11 @@ module-bays:
   -
     name: '1.0'
     position: '1.0'
-    label: qsfp
+    label: qsfp+
   -
     name: '2.0'
     position: '2.0'
-    label: qsfp
+    label: qsfp+
   -
     name: '3.0'
     position: '3.0'

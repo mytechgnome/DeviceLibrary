@@ -419,35 +419,35 @@ module-bays:
   -
     name: ethernet-1/49
     position: ethernet-1/49
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/50
     position: ethernet-1/50
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/51
     position: ethernet-1/51
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/52
     position: ethernet-1/52
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/53
     position: ethernet-1/53
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/54
     position: ethernet-1/54
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/55
     position: ethernet-1/55
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/56
     position: ethernet-1/56
-    label: qsfp
+    label: qsfp+
   -
     name: ethernet-1/57
     position: ethernet-1/57
